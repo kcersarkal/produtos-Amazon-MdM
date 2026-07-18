@@ -1,5 +1,474 @@
 const PRODUCTS = [
   {
+    "asin": "B0B61WJRY5",
+    "title": "Samsung Lava e Seca WD11M com Digital Inverter WD11M4473PX Inox Look 11/7kg - 220V",
+    "image": "https://m.media-amazon.com/images/I/41F+xukODBL._AC_SL1500_.jpg?aicid=discounts-widgets-horizonte",
+    "canonical": null,
+    "category": "Ofertas do dia",
+    "price_current": 3599.0,
+    "price_original": null,
+    "parcelamento": null,
+    "tem_selo_prime": false,
+    "tem_oferta": false,
+    "avaliacao": null,
+    "qtd_avaliacoes": null,
+    "coupon_code": null,
+    "description": "",
+    "informacoes_produto": {},
+    "affiliate_url": "https://www.amazon.com.br/Lava-Seca-Samsung-Programas-Lavagem/dp/B0B61WJRY5?ref=dlx_deals_dg_dcl_B0B61WJRY5_dt_sl14_88_pi&pf_rd_r=2MVQMGMQZXHE0GEQ6KKX&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&tag=mixdm22-20",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0GM1LSHQF",
+    "title": "JBL, Fone de Ouvido Bluetooth Over-Ear, Tune 530BT, Sem Fio, Até 76 Horas de Bateria - Preto",
+    "image": "https://m.media-amazon.com/images/I/61q9MOnS+2L._AC_SL1500_.jpg",
+    "canonical": null,
+    "category": "Ofertas do dia",
+    "price_current": 199.0,
+    "price_original": 299.0,
+    "parcelamento": null,
+    "tem_selo_prime": true,
+    "tem_oferta": false,
+    "avaliacao": 4.6,
+    "qtd_avaliacoes": 205,
+    "coupon_code": null,
+    "description": "<ul><li>SOM JBL PURE BASS POTENTE. O fone de ouvido JBL Tune 530BT entrega graves profundos e impactantes com drivers de 33 mm, proporcionando áudio dinâmico para músicas, vídeos e chamadas ao longo do dia.</li><li>ATÉ 76 HORAS DE BATERIA. O fone de ouvido Bluetooth JBL oferece longa duração para uso contínuo, com carga rápida que garante até 5 horas de reprodução em apenas 5 minutos, ideal para rotinas intensas.</li><li>CHAMADAS CLARAS COM 2 MICROFONES. Dois microfones beamforming captam sua voz com precisão e reduzem ruídos externos, proporcionando conversas nítidas mesmo em ambientes movimentados.</li><li>CONEXÃO MULTIPONTO BLUETOOTH 6.0. Alterne facilmente entre dois dispositivos conectados. O fone de ouvido Bluetooth JBL mantém áudio estável, sincronizado e com menor consumo de energia.</li><li>CONFORTO LEVE E DESIGN DOBRÁVEL. O fone de ouvido JBL conta com almofadas macias e estrutura leve para uso prolongado. Dobrável e prático, acompanha sua rotina com conforto e facilidade de transporte.</li><li>SOM JBL PURE BASS POTENTE. O fone de ouvido JBL Tune 530BT entrega graves profundos e impactantes com drivers de 33 mm, proporcionando áudio dinâmico para músicas, vídeos e chamadas ao longo do dia.</li><li>ATÉ 76 HORAS DE BATERIA. O fone de ouvido Bluetooth JBL oferece longa duração para uso contínuo, com carga rápida que garante até 5 horas de reprodução em apenas 5 minutos, ideal para rotinas intensas.</li><li>CHAMADAS CLARAS COM 2 MICROFONES. Dois microfones beamforming captam sua voz com precisão e reduzem ruídos externos, proporcionando conversas nítidas mesmo em ambientes movimentados.</li><li>CONEXÃO MULTIPONTO BLUETOOTH 6.0. Alterne facilmente entre dois dispositivos conectados. O fone de ouvido Bluetooth JBL mantém áudio estável, sincronizado e com menor consumo de energia.</li><li>CONFORTO LEVE E DESIGN DOBRÁVEL. O fone de ouvido JBL conta com almofadas macias e estrutura leve para uso prolongado. Dobrável e prático, acompanha sua rotina com conforto e facilidade de transporte.</li></ul>",
+    "informacoes_produto": {
+      "Nome da marca": "JBL",
+      "Número do modelo": "28914075",
+      "Nome do modelo": "JBLT530BTBLKBR",
+      "Componentes incluídos": "1x fone de ouvido JBL Tune 530BT; 1x cabo de carregamento USB-C\"; 1x garantia/advertência (W/!); 1x guia de início rápido/ficha de segurança (S/i",
+      "Descrição da faixa etária": "Adulto",
+      "Descrição da garantia": "1 ano com o fabricante",
+      "Quantidade de itens": "1",
+      "UPC": "050036417440",
+      "Fabricante": "JBL",
+      "Certificação de teste externa": "05952-25-07120 / 04158-25-07120",
+      "ASIN": "B0GM1LSHQF",
+      "Cor": "Preto",
+      "Estilo": "Moderno",
+      "Tipo de controle": "Controle de chamada",
+      "Método de controle": "Remoto",
+      "Impedância": "20 Ohms",
+      "Controle de ruído": "Isolamento de som",
+      "Tipo de controlador de áudio": "Controlador dinâmico",
+      "Usos específicos do produto": "Entretenimento",
+      "Dispositivos compatíveis": "Celulares, Celulares Android, Iphone, Notebooks",
+      "Característica do cabo": "Sem cabo",
+      "Nível de resistência à água": "Não resistente à água",
+      "Características especiais": "2 mics para chamadas perfeitas, Bateria com até 76 horas de duração, Bluetooth® 6.0, Conexão multipontos, Som JBL Pure Bass",
+      "Entrada de fone de ouvido": "Sem Jack",
+      "Tecnologia de conectividade": "Sem fio",
+      "Tecnologia de comunicação sem fio": "Bluetooth",
+      "Versão do Bluetooth": "6",
+      "Colocação de auscultadores na orelha": "Extra-auriculares",
+      "Formato dos fones de ouvido": "Extra-auriculares",
+      "Forma do auricular": "Círculo",
+      "Duração da bateria": "76 Horas"
+    },
+    "affiliate_url": "https://www.amazon.com.br/JBL-Ouvido-Bluetooth-Over-Ear-Bateria/dp/B0GM1LSHQF?tag=mixdm22-20",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0GSH6DCCJ",
+    "title": "Kit 10 Potes de Vidro Herméticos 640ml com 4 Travas Ideal para Marmitas e Conservação de Alimentos, Vedação Total, Refratário",
+    "image": "https://m.media-amazon.com/images/I/71sfm0MbB8L._AC_SL1000_.jpg",
+    "canonical": null,
+    "category": "Cozinha",
+    "price_current": 96.11,
+    "price_original": 106.79,
+    "parcelamento": null,
+    "tem_selo_prime": true,
+    "tem_oferta": false,
+    "avaliacao": 5.0,
+    "qtd_avaliacoes": 552,
+    "coupon_code": null,
+    "description": "<ul><li>🥗 Ideal para Marmitas e Conservação de Alimentos</li><li>🔒 Vedação Hermética com 4 Travas</li><li>🔥 Vidro Refratário Resistente</li><li>🍲 Pode Ir ao Forno e Micro-ondas</li><li>❄️ Pode Ir ao Freezer e Geladeira</li><li>👀 Design Transparente e Prático</li><li>🧼 Fácil de Limpar e Higienizar</li><li>📦 Kit com 10 Potes de 640ml</li><li>🌱 Tampa Livre de BPA</li><li>🥗 Ideal para Marmitas e Conservação de Alimentos</li><li>🔒 Vedação Hermética com 4 Travas</li><li>🔥 Vidro Refratário Resistente</li><li>🍲 Pode Ir ao Forno e Micro-ondas</li><li>❄️ Pode Ir ao Freezer e Geladeira</li><li>👀 Design Transparente e Prático</li><li>🧼 Fácil de Limpar e Higienizar</li><li>📦 Kit com 10 Potes de 640ml</li><li>🌱 Tampa Livre de BPA</li><li>10</li></ul>",
+    "informacoes_produto": {
+      "Capacidade": "640 ml",
+      "Dimensões do item C x L x A": "12C x 7L x 17A centímetros",
+      "Quantidade de pacotes do item": "1",
+      "Peso do item": "4,73 Quilogramas",
+      "Volume do item": "640 Mililitros",
+      "Contagem de unidades": "10 unidade",
+      "Tamanho": "640 ml",
+      "Características especiais": "Empilhável, Hermético, Leve, Transparente",
+      "Tipo de fechamento": "Travas com vedação hermética",
+      "Cor": "Transparente",
+      "Forma do recipiente": "Retangular",
+      "Material": "Vidro",
+      "O item pode ser lavado na máquina de lavar louça?": "Sim",
+      "Livre de tipo de material": "Sem BPA",
+      "Instruções de cuidados com o produto": "Lavar antes do primeiro uso",
+      "O item pode ir no micro-ondas?": "Sim",
+      "Material da tampa": "Plástico com anel de silicone",
+      "Nome da marca": "Genérico",
+      "Usos recomendados do produto": "Armazenar alimentos,, Fruta, marmitas, organização da geladeira, refeições",
+      "Formato do item": "retangular",
+      "Fabricante": "Importado",
+      "Usos específicos do produto": "Armazenamento de alimentos, marmitas, organização da cozinha",
+      "País de origem": "China",
+      "Componentes incluídos": "10 potes de vidro herméticos 640ml com tampa e anel de silicone",
+      "ASIN": "B0GSH6DCCJ"
+    },
+    "affiliate_url": "https://www.amazon.com.br/Herm%C3%A9ticos-Marmitas-Conserva%C3%A7%C3%A3o-Alimentos-Refrat%C3%A1rio/dp/B0GSH6DCCJ/ref=zg_bs_g_kitchen_d_sccl_12/130-5471262-3406342?tag=mixdm22-20",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0C9RVFRZD",
+    "title": "Duracell Pilhas Alcalinas AA Pequena Pack 24 Unidades – Dura até 10x Mais – Ideal para Controle de Videogame e Brinquedos",
+    "image": "https://m.media-amazon.com/images/I/81k5RxCXI5L._AC_SL1500_.jpg",
+    "canonical": null,
+    "category": "Eletrônicos",
+    "price_current": 99.65,
+    "price_original": 124.9,
+    "parcelamento": null,
+    "tem_selo_prime": true,
+    "tem_oferta": false,
+    "avaliacao": 4.9,
+    "qtd_avaliacoes": 33275,
+    "coupon_code": null,
+    "description": "<ul><li>Pilha Duracell Alcalina AA que fornece mais duração e potência para os aparelhos</li><li>Dura mais, muito mais</li><li>Longa duração: As pilhas alcalinas AA Duracell duram mais que as pilhas comuns de zinco-carbono, oferecendo energia confiável e de alto desempenho</li><li>As pilhas Duracell podem manter sua capacidade energética por até 10 anos, mesmo sem uso, garantindo energia disponível quando você precisar</li><li>Projetadas para oferecer o melhor desempenho em dispositivos de uso diário, como brinquedos, lanternas, controles remotos e teclados</li><li>Pilha Duracell Alcalina AA que fornece mais duração e potência para os aparelhos</li><li>Dura mais, muito mais</li><li>Longa duração: As pilhas alcalinas AA Duracell duram mais que as pilhas comuns de zinco-carbono, oferecendo energia confiável e de alto desempenho</li><li>As pilhas Duracell podem manter sua capacidade energética por até 10 anos, mesmo sem uso, garantindo energia disponível quando você precisar</li><li>Projetadas para oferecer o melhor desempenho em dispositivos de uso diário, como brinquedos, lanternas, controles remotos e teclados</li><li>2 Pilhas</li><li>4 Pilhas</li><li>4 Contagem (Pacote de 1)</li><li>8 Pilhas</li><li>16 Pilhas</li><li>24 Pilhas</li></ul>",
+    "informacoes_produto": {
+      "Tipo de bateria": "24 AA baterias necessárias. (inclusas)",
+      "Nome da marca": "Duracell",
+      "Número do modelo": "C&amp;B AA 24",
+      "Nome do modelo": "Pilha Alcalina AA24",
+      "UPC": "041333050409",
+      "Fabricante": "Duracell",
+      "Certificação de teste externa": "Não aplicável",
+      "Descrição da garantia": "12 meses com o fabricante",
+      "País de origem": "China",
+      "ASIN": "B0C9RVFRZD",
+      "Capacidade da bateria": "200",
+      "Voltagem": "1,5 Volts",
+      "Reutilização": "Não recarregável",
+      "Modelos de telefone compatíveis": "xbox one, xbox serie s, xbox série x",
+      "Contagem de unidades": "24 unidade",
+      "Peso da bateria": "280 Gramas",
+      "Dimensões do artigo": "48 x 52 x 117 milímetros",
+      "Usos recomendados do produto": "Brinquedos, Controle de videogame, Controle remoto",
+      "Composição da célula da pilha": "Alcalina"
+    },
+    "affiliate_url": "https://www.amazon.com.br/Pilha-AA-Pequena-24-Unidades/dp/B0C9RVFRZD/ref=zg_bs_g_electronics_d_sccl_3/146-7722380-2508757?tag=mixdm22-20",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B08ZFKB8ZK",
+    "title": "Azzaro, The Most Wanted Intense, Perfume Masculino, Fragrância Ambarada Amadeirada com Cardamomo e Toffee, Eau de Parfum com Longa Fixação, Ideal para noites frias",
+    "image": "https://m.media-amazon.com/images/I/61g0mT0sLWL._AC_SL1500_.jpg",
+    "canonical": null,
+    "category": "Ofertas do dia",
+    "price_current": 453.89,
+    "price_original": 879.0,
+    "parcelamento": null,
+    "tem_selo_prime": false,
+    "tem_oferta": false,
+    "avaliacao": 4.6,
+    "qtd_avaliacoes": 13009,
+    "coupon_code": null,
+    "description": "<ul><li>The Most Wanted Eau de Parfum Intense é a fragrância para o homem que ousa viver intensamente e ser desejado.</li><li>Sua combinação de cardamomo vibrante, caramelo fondant e madeira âmbar cria uma assinatura inesquecível.</li><li>Com alta intensidade e longa fixação, este perfume masculino garante uma presença marcante em noites e ocasiões especiais.</li><li>Uma fragrância fougère ambarina sofisticada, perfeita para o homem que joga para ganhar e desafia os limites.</li><li>Ouse ser o mais procurado com este perfume intenso que combina sensualidade, poder e um rastro irresistível.</li><li>The Most Wanted Eau de Parfum Intense é a fragrância para o homem que ousa viver intensamente e ser desejado.</li><li>Sua combinação de cardamomo vibrante, caramelo fondant e madeira âmbar cria uma assinatura inesquecível.</li><li>Com alta intensidade e longa fixação, este perfume masculino garante uma presença marcante em noites e ocasiões especiais.</li><li>Uma fragrância fougère ambarina sofisticada, perfeita para o homem que joga para ganhar e desafia os limites.</li><li>Ouse ser o mais procurado com este perfume intenso que combina sensualidade, poder e um rastro irresistível.</li><li>50ml</li><li>100ml</li></ul>",
+    "informacoes_produto": {
+      "Formato do item": "Líquido",
+      "Aroma": "Madeira",
+      "É autografado": "Não",
+      "Nome da marca": "Azzaro",
+      "Descrição da faixa etária": "Adulto",
+      "País de origem": "França",
+      "Número de identificação de comércio internacional": "03614273521307",
+      "Número do modelo": "LD116000",
+      "Número da peça": "LD116000",
+      "Fabricante": "Loreal",
+      "ASIN": "B08ZFKB8ZK",
+      "Volume do item": "100 Mililitros",
+      "Peso do item": "3,3 Onças",
+      "Quantidade de itens": "1",
+      "Contagem de unidades": "100.0 Mililitros"
+    },
+    "affiliate_url": "https://www.amazon.com.br/Azzaro-Masculino-Fragr%C3%A2ncia-Amadeirada-Cardamomo/dp/B08ZFKB8ZK?tag=mixdm22-20",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B07X4JG2G4",
+    "title": "Duracell Carregador de Pilhas Recarregáveis AA e AAA Com 4 Pilhas AA Inclusas – Bivolt",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/819KK4qPMeL._AC_UL900_SR900,600_.jpg",
+    "canonical": null,
+    "category": "Eletrônicos",
+    "price_current": 142.5,
+    "price_original": null,
+    "parcelamento": null,
+    "tem_selo_prime": true,
+    "tem_oferta": false,
+    "avaliacao": 4.8,
+    "qtd_avaliacoes": 62250,
+    "coupon_code": null,
+    "description": "<ul><li>Auto desligamento quando as pilhas carregam 100%</li><li>Proteção que garante o carregamento seguro</li><li>Auto desligamento quando as pilhas carregam 100%</li><li>Proteção que garante o carregamento seguro</li></ul>",
+    "informacoes_produto": {
+      "Tipo de bateria": "4 AA baterias necessárias. (inclusas)",
+      "Nome da marca": "Duracell",
+      "Número do modelo": "CEF14 4",
+      "Nome do modelo": "Carregador de Pilhas Recarregáveis AA e AAA",
+      "UPC": "041333031217",
+      "Fabricante": "Duracell",
+      "Certificação de teste externa": "Não Aplicável",
+      "Descrição da garantia": "60 meses com o fabricante",
+      "Nome do Tipo de Produto": "Carregador de Pilhas com 4 pilhas AA",
+      "País de origem": "China",
+      "ASIN": "B07X4JG2G4",
+      "Capacidade da bateria": "2500",
+      "Voltagem": "12 Volts",
+      "Reutilização": "Recarregável",
+      "Modelos de telefone compatíveis": "Não Compatível",
+      "Contagem de unidades": "4 Unidade",
+      "Peso da bateria": "1,2 Gramas",
+      "Dimensões do artigo": "30,5 x 40,6 x 12,7 centímetros",
+      "Peso do item": "260 Miligramas",
+      "Usos recomendados do produto": "Aparelho auditivo, Controle remoto da TV, Câmera, Drone, Relógio",
+      "Composição da célula da pilha": "Alcalina"
+    },
+    "affiliate_url": "https://www.amazon.com.br/Carregador-Pilhas-com-pilhas-Duracell/dp/B07X4JG2G4/ref=zg_bs_g_electronics_d_sccl_14/130-5471262-3406342?tag=mixdm22-20",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0816YJYQB",
+    "title": "SUGGAR DEPURADOR DE AR SLIM DE EMBUTIR 60CM INOX 220V DE62IX",
+    "image": "https://m.media-amazon.com/images/I/51ciFDrjQLL._AC_SL1200_.jpg",
+    "canonical": null,
+    "category": "Eletrodomésticos",
+    "price_current": 675.0,
+    "price_original": 879.0,
+    "parcelamento": null,
+    "tem_selo_prime": true,
+    "tem_oferta": false,
+    "avaliacao": 4.5,
+    "qtd_avaliacoes": 976,
+    "coupon_code": null,
+    "description": "<ul><li>Grande capacidade de sucção: 390m³/h</li><li>Dupla filtragem</li><li>Tela deslizante</li><li>Dupla função: coifa e depurador</li><li>Baixo consumo: 0,12kWh</li></ul>",
+    "informacoes_produto": {
+      "Características especiais": "Telas em alumínio lavável, eliminam gordura e fumaça, filtro de carvão ativado, elimina odores indesejados",
+      "Capacidade do fluxo de ar": "390 Metros cúbicos por hora",
+      "Nível de ruído": "65 Decibéis",
+      "Tipo de montagem": "Montagem na parede",
+      "Tipo de controles": "Toque",
+      "Voltagem": "220 Volts",
+      "Número de velocidades": "2",
+      "Tipo de filtro": "HEPA",
+      "Tipo de ventilação": "Ducted/Vented",
+      "Cor": "inox",
+      "Tipo de acabamento": "Aço inoxidável",
+      "Formato do item": "Embutido",
+      "Design da Coifa": "Coifa sob Armário de Fogão",
+      "Material": "Aço inoxidável",
+      "Nome da marca": "Suggar",
+      "Componentes incluídos": "Manual de instruções",
+      "Número do modelo": "DE62IX",
+      "Fabricante": "Suggar",
+      "Número da peça": "DE62IX",
+      "Nome do Tipo de Produto": "depurador de ar",
+      "Descrição da garantia": "1 ano com o fabricante",
+      "ASIN": "B0816YJYQB",
+      "Dimensões do item P x L x A": "16P x 16L x 40A centímetros",
+      "Peso do item": "6 Quilogramas"
+    },
+    "affiliate_url": "https://www.amazon.com.br/SUGGAR-DEPURADOR-SLIM-EMBUTIR-DE62IX/dp/B0816YJYQB/ref=zg_bs_g_appliances_d_sccl_21/146-7722380-2508757?tag=mixdm22-20",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B085JFRRSW",
+    "title": "MONDIAL Cooktop a Gás, 4 Bocas, Preto/Inox, Bivolt - CTG-01",
+    "image": "https://m.media-amazon.com/images/I/517E2Ia2cWL._AC_SL1000_.jpg",
+    "canonical": null,
+    "category": "Eletrodomésticos",
+    "price_current": 349.0,
+    "price_original": 499.9,
+    "parcelamento": null,
+    "tem_selo_prime": true,
+    "tem_oferta": false,
+    "avaliacao": 4.8,
+    "qtd_avaliacoes": 5565,
+    "coupon_code": null,
+    "description": "<ul><li>DISTRIBUIÇÃO INTELIGENTE DAS BOCAS: Mesa maior, com melhor disposição e aproveitamento entre as bocas. (todas podem ser usadas ao mesmo tempo).</li><li>POTÊNCIA TOTAL DE 8.400W: 1 queimador ultrarrápido (2650W), 1 queimador rápido (2350W) e 2 queimadores semirrápidos (2x 1700W).</li><li>ACENDIMENTO AUTOMÁTICO: Agilidade e segurança para o dia a dia. Basta girar o botão que a chama acende.</li><li>MESA DE VIDRO TEMPERADO: Garante elegância ao ambiente, alta durabilidade e praticidade na limpeza.</li><li>DESIGN MODERNO: Botões com detalhes em aço inox.</li><li>BOTÕES REMOVÍVEIS: Os botões saem com facilidade, evitando o acúmulo de gordura e possibilitando uma limpeza mais eficaz.</li></ul>",
+    "informacoes_produto": {
+      "Número de elementos de aquecimento": "4",
+      "Fonte de energia": "Alimentado a gás",
+      "Tipo de combustível": "Gás natural",
+      "Características especiais": "Acendimento automático",
+      "Elemento de aquecimento": "Gás",
+      "Tipo de sistema de ignição": "Eletrônico",
+      "Tipo de controle": "Botão de pressão",
+      "Tipo de instalação": "Independente",
+      "Voltagem": "110,22 Volts",
+      "Potência": "8400 watts",
+      "Dimensões do item P x L x A": "46P x 60L x 17A centímetros",
+      "Peso do item": "7,5 Quilogramas",
+      "Tamanho": "4 Bocas",
+      "Material da superfície do aquecedor": "Vidro temperado",
+      "Material": "Aço inoxidável, Vidro temperado",
+      "Nome da marca": "MONDIAL",
+      "Componentes incluídos": "Cooktop; Manual de Instruções",
+      "Fabricante": "Mondial",
+      "Número de identificação de comércio internacional": "07899882310078",
+      "Número da peça": "1",
+      "Número do modelo": "CTG-01",
+      "Contagem de unidades": "1.0 Peça",
+      "Nome do Tipo de Produto": "CTG-01",
+      "Descrição da garantia": "12 Meses",
+      "ASIN": "B085JFRRSW",
+      "Cor": "Preto/Inox"
+    },
+    "affiliate_url": "https://www.amazon.com.br/MONDIAL-Cooktop-Bocas-Preto-Bivolt/dp/B085JFRRSW/ref=zg_bs_g_appliances_d_sccl_18/146-7722380-2508757?tag=mixdm22-20",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0BCXBC2W4",
+    "title": "Cadeira de Escritório Oficial Begonia Tela Mesh Ergonômica Giratória",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/51f+wTyzYRL._AC_UL900_SR900,600_.jpg",
+    "canonical": null,
+    "category": "Móveis",
+    "price_current": 142.78,
+    "price_original": null,
+    "parcelamento": null,
+    "tem_selo_prime": true,
+    "tem_oferta": false,
+    "avaliacao": 3.9,
+    "qtd_avaliacoes": 607,
+    "coupon_code": null,
+    "description": "<ul><li>Cadeira ergonômica com ajuste de altura e apoio de braços para maior conforto e postura adequada durante o trabalho</li><li>Design moder em preto com estrutura de nylon e aço cromado, revestimento em tela mesh e assento em madeira multi laminada</li><li>Giratória 36°, com rodas para fácil movimentação, suporta até 11 kg e possui dimensões ajustáveis para adaptação ao usuário</li><li>Cadeira ergonômica com ajuste de altura e apoio de braços para maior conforto e postura adequada durante o trabalho</li><li>Design moder em preto com estrutura de nylon e aço cromado, revestimento em tela mesh e assento em madeira multi laminada</li><li>Giratória 36°, com rodas para fácil movimentação, suporta até 11 kg e possui dimensões ajustáveis para adaptação ao usuário</li><li>Branco</li><li>Cinza</li><li>Preto</li><li>Rosa</li><li>1</li><li>2</li><li>3</li><li>4</li><li>5</li></ul>",
+    "informacoes_produto": {
+      "Nome da marca": "Oficial Webshop",
+      "Características especiais": "Ergonômico",
+      "Contagem de unidades": "1 Unidade",
+      "Usos recomendados do produto": "Escritório",
+      "Tipo de sala": "Escritório",
+      "Descrição da faixa etária": "Adulto",
+      "Componentes incluídos": "no components included",
+      "Utilização interior, exterior": "Área interna",
+      "Nome do Conjunto": "Begonia",
+      "Extensível": "Não",
+      "ASIN": "B0BCXBC2W4",
+      "Material": "Nylon",
+      "Frame Material Type": "Nylon",
+      "Instruções de cuidados com o produto": "Local limpo",
+      "Material do assento": "Madeira multi laminada",
+      "Tipo de tecido do estofo": "Tela Mesh",
+      "Recomendação de peso máximo": "110 Quilogramas",
+      "Descrição das Instruções de Montagem": "Sim, o produto vem com instruções de montagem.",
+      "Exige montagem": "Sim",
+      "Cor": "Preto",
+      "Estilo de fundo": "Tela Mesh",
+      "Estilo": "Moderno",
+      "Estampa": "Liso",
+      "Tema": "Moderno",
+      "Formato do item": "retangular",
+      "Estilo de braço": "Com braços (estilo não especificado)",
+      "Estilo do pé": "rodas",
+      "Fator de forma": "giratória com Tela Mesh e rodízios",
+      "Dimensões do item P x L x A": "47P x 50L x 100A centímetros",
+      "Tamanho": "1",
+      "Peso do item": "7 Quilogramas",
+      "Profundidade do assento": "45 centímetros",
+      "Largura do Encosto da Cadeira": "40,5 Centímetros",
+      "Dimensões do artigo": "47 x 50 x 100 centímetros",
+      "Profundidade do item": "2 cm",
+      "Movimento da base do móvel": "Giratória",
+      "Total de Posições Reclináveis": "1",
+      "Inclinada": "Não",
+      "É dobrável": "Não"
+    },
+    "affiliate_url": "https://www.amazon.com.br/Cadeira-Escritorio-Begonia-Ergonomica-Giratoria/dp/B0BCXBC2W4/ref=zg_bs_g_furniture_d_sccl_28/143-4480001-1888442?tag=mixdm22-20",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B076HYZQMW",
+    "title": "ELG, PWC-R5, PowerCube, Multiplicador 5 Tomadas, Disjuntor Integrado de 10A, Filtro de Linha com Protetor de Surto, Bivolt, B",
+    "image": "https://m.media-amazon.com/images/I/51CsZOBHOoL._AC_SL1500_.jpg",
+    "canonical": null,
+    "category": "Eletrônicos",
+    "price_current": 50.0,
+    "price_original": 91.0,
+    "parcelamento": null,
+    "tem_selo_prime": true,
+    "tem_oferta": false,
+    "avaliacao": 4.7,
+    "qtd_avaliacoes": 5348,
+    "coupon_code": null,
+    "description": "<ul><li>MULTIPLICADOR DE TOMADAS: Compacto, e em formato de cubo, o PowerCube transforma uma única tomada em 5 pontos de energia, que podem ser utilizadas simultaneamente para carregamento rápido de dispositivos eletrônicos.</li><li>TRAVA PARA CRIANÇAS: O sistema Child Lock garante proteção extra ao impedir a inserção acidental de objetos nas tomadas, liberando a entrada apenas quando os pinos são inseridos simultaneamente.</li><li>DESIGN PREMIADO: Com design premiado internacionalmente, sua estrutura única permite conectar todos os plugues ao mesmo tempo, sem bloqueios entre si. É ideal para uso em residências, escritórios e hotéis.</li><li>QUALIDADE PREMIUM: Fabricado em policarbonato antichamas, com conectores em cobre de alta pureza e certificação pelo Inmetro, obtenha segurança e eficiência em um produto bivolt de alto padrão.</li><li>SOBRE A ELG: A ELG é uma empresa brasileira que preza pela alta qualidade. Nossa política é aplicada em toda linha de produtos e garante que os consumidores possam adquirir itens que foram amplamente testados.</li><li>MULTIPLICADOR DE TOMADAS: Compacto, e em formato de cubo, o PowerCube transforma uma única tomada em 5 pontos de energia, que podem ser utilizadas simultaneamente para carregamento rápido de dispositivos eletrônicos.</li><li>TRAVA PARA CRIANÇAS: O sistema Child Lock garante proteção extra ao impedir a inserção acidental de objetos nas tomadas, liberando a entrada apenas quando os pinos são inseridos simultaneamente.</li><li>DESIGN PREMIADO: Com design premiado internacionalmente, sua estrutura única permite conectar todos os plugues ao mesmo tempo, sem bloqueios entre si. É ideal para uso em residências, escritórios e hotéis.</li><li>QUALIDADE PREMIUM: Fabricado em policarbonato antichamas, com conectores em cobre de alta pureza e certificação pelo Inmetro, obtenha segurança e eficiência em um produto bivolt de alto padrão.</li><li>SOBRE A ELG: A ELG é uma empresa brasileira que preza pela alta qualidade. Nossa política é aplicada em toda linha de produtos e garante que os consumidores possam adquirir itens que foram amplamente testados.</li><li>4 Tomadas + Controle Remoto + Cabo 1,5m</li><li>4 Tomadas + 2 USBs</li><li>4 Tomadas + 2 USBs + Cabo 1,5m</li><li>4 Tomadas + 2 USBs + Cabo 3m</li><li>5 Tomadas</li><li>5 Tomadas + Cabo 1,5m</li><li>5 Tomadas + Cabo 3m</li></ul>",
+    "informacoes_produto": {
+      "Número total de tomadas": "5",
+      "Voltagem": "110 Volts, 220 Volts",
+      "Características especiais": "Proteção de sobretensão",
+      "Corrente máxima": "10 Amperes",
+      "Conector": "Type B - 3 pin (North American)",
+      "Tipo de plugue": "Tipo B",
+      "Número de portas": "5",
+      "Dispositivos compatíveis": "Qualquer dispositivo com cabo de energia de três pinos padrão norte-americano",
+      "Amperagem": "10 Amperes",
+      "Cor": "Verde e Branco",
+      "Usos recomendados do produto": "home office, uso doméstico, áreas de trabalho",
+      "Material": "Plástico",
+      "Nome da marca": "ELG",
+      "País de origem": "Brasil",
+      "Número do modelo": "PWC-R5",
+      "Número da peça": "PWC-R5",
+      "Nome do Tipo de Produto": "Adaptador Múltiplo Bivolt 5 Tomadas",
+      "Componentes incluídos": "1 powercube",
+      "Certificação de teste externa": "Não aplicável, Não aplicável",
+      "Descrição da garantia": "12 meses",
+      "Fabricante": "ELG PEDESTAIS",
+      "Contagem de unidades": "5 Count",
+      "ASIN": "B076HYZQMW"
+    },
+    "affiliate_url": "https://www.amazon.com.br/Multiplicador-Tomadas-PowerCube-Elg-PWC-R5/dp/B076HYZQMW/ref=zg_bs_g_electronics_d_sccl_22/146-7722380-2508757?tag=mixdm22-20",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B088WCR8M3",
+    "title": "Azzaro, Azzaro Sport, Perfume Masculino, Fragrância Fougère Fresca com Notas de Grapefruit e Sândalo, Eau de Toilette com Fixação Equilibrada, Ideal para Pré-treino e Pós-treino, 100ml",
+    "image": "https://m.media-amazon.com/images/I/61hLsRGbFXL._AC_SL1500_.jpg",
+    "canonical": null,
+    "category": "Ofertas do dia",
+    "price_current": 186.99,
+    "price_original": 379.0,
+    "parcelamento": null,
+    "tem_selo_prime": true,
+    "tem_oferta": false,
+    "avaliacao": 4.5,
+    "qtd_avaliacoes": 3946,
+    "coupon_code": null,
+    "description": "<ul><li>Perfume masculino de fragrância cítrica aromática que captura a essência da masculinidade com um toque esportivo.</li><li>Combina o frescor da bergamota e toranja com a energia picante do gengibre, criando um aroma único e dinâmico.</li><li>Ideal para o homem moderno que busca uma fragrância versátil para o dia a dia, equilibrando frescor e presença.</li><li>Sua base amadeirada com cedro, âmbar e almíscar branco confere uma assinatura sofisticada, sensual e duradoura.</li><li>O frasco de design minimalista e moderno reflete a elegância e o dinamismo do homem que escolhe Azzaro Sport.</li><li>Perfume masculino de fragrância cítrica aromática que captura a essência da masculinidade com um toque esportivo.</li><li>Combina o frescor da bergamota e toranja com a energia picante do gengibre, criando um aroma único e dinâmico.</li><li>Ideal para o homem moderno que busca uma fragrância versátil para o dia a dia, equilibrando frescor e presença.</li><li>Sua base amadeirada com cedro, âmbar e almíscar branco confere uma assinatura sofisticada, sensual e duradoura.</li><li>O frasco de design minimalista e moderno reflete a elegância e o dinamismo do homem que escolhe Azzaro Sport.</li></ul>",
+    "informacoes_produto": {
+      "Formato do item": "Líquido",
+      "Aroma": "Sândalo",
+      "Additional Features": "Esfregue na pele horas depois para reativar instantaneamente e liberar toda a fragrância!",
+      "É autografado": "Não",
+      "Nome da marca": "Azzaro",
+      "Descrição da faixa etária": "Adulto",
+      "País de origem": "França",
+      "Número de identificação de comércio internacional": "03351500017997, 03614273667418",
+      "Número do modelo": "LC389400",
+      "Número da peça": "LC389400",
+      "Fabricante": "L'Oréal",
+      "ASIN": "B088WCR8M3",
+      "Volume do item": "3,4 Onças líquidas",
+      "Peso do item": "100 Gramas",
+      "Quantidade de itens": "1",
+      "Contagem de unidades": "100.0 Mililitros"
+    },
+    "affiliate_url": "https://www.amazon.com.br/Azzaro-Fragr%C3%A2ncia-Grapefruit-Equilibrada-Pr%C3%A9-treino/dp/B088WCR8M3?tag=mixdm22-20",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
+    "spotlight": false
+  },
+  {
     "asin": "B0DCLXRD5X",
     "title": "Fogão Elétrico Portátil Cooktop Elgin Double Cook 2 Bocas - 220V",
     "image": "https://m.media-amazon.com/images/I/41z7d-LlVEL._AC_SL1000_.jpg",
@@ -9,6 +478,7 @@ const PRODUCTS = [
     "price_original": 159.9,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.5,
     "qtd_avaliacoes": 1276,
     "coupon_code": null,
@@ -36,7 +506,7 @@ const PRODUCTS = [
       "ASIN": "B0DCLXRD5X"
     },
     "affiliate_url": "https://www.amazon.com.br/El%C3%A9trico-Port%C3%A1til-Cooktop-Elgin-Double/dp/B0DCLXRD5X/ref=zg_bs_g_appliances_d_sccl_1/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -49,6 +519,7 @@ const PRODUCTS = [
     "price_original": 449.0,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.6,
     "qtd_avaliacoes": 5336,
     "coupon_code": null,
@@ -79,7 +550,7 @@ const PRODUCTS = [
       "Material": "Liga de aço"
     },
     "affiliate_url": "https://www.amazon.com.br/SUGGAR-DEPURADOR-SLIM-PRETO-DPS161PT/dp/B0B3SJ345V/ref=zg_bs_g_appliances_d_sccl_2/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -92,6 +563,7 @@ const PRODUCTS = [
     "price_original": 32.9,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.3,
     "qtd_avaliacoes": 672,
     "coupon_code": null,
@@ -115,7 +587,7 @@ const PRODUCTS = [
       "Disponível para compra desde": "28 agosto 2025"
     },
     "affiliate_url": "https://www.amazon.com.br/Ajust%C3%A1vel-Telesc%C3%B3pico-Antiderrapante-Deslizante-Silencioso/dp/B0FP1251TD/ref=zg_bs_g_appliances_d_sccl_3/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -128,6 +600,7 @@ const PRODUCTS = [
     "price_original": 21.22,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.8,
     "qtd_avaliacoes": 9595,
     "coupon_code": null,
@@ -150,7 +623,7 @@ const PRODUCTS = [
       "ASIN": "B0876YDWVC"
     },
     "affiliate_url": "https://www.amazon.com.br/Dover-Roll-Defense-Banheiro-Lil%C3%A1s-510022028/dp/B0876YDWVC/ref=zg_bs_g_appliances_d_sccl_4/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -163,6 +636,7 @@ const PRODUCTS = [
     "price_original": 378.0,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.6,
     "qtd_avaliacoes": 2755,
     "coupon_code": null,
@@ -195,7 +669,7 @@ const PRODUCTS = [
       "Material": "Liga de aço"
     },
     "affiliate_url": "https://www.amazon.com.br/SUGGAR-DEPURADOR-SLIM-PRETO-DPS182PT/dp/B0B3SJ8YLP/ref=zg_bs_g_appliances_d_sccl_5/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -208,6 +682,7 @@ const PRODUCTS = [
     "price_original": null,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 5.0,
     "qtd_avaliacoes": 218,
     "coupon_code": null,
@@ -234,7 +709,7 @@ const PRODUCTS = [
       "ASIN": "B00DCTI47M"
     },
     "affiliate_url": "https://www.amazon.com.br/Panasonic-M%C3%A1quina-Lavar-Tit%C3%A2nio-NA-F150B1T/dp/B00DCTI47M/ref=zg_bs_g_appliances_d_sccl_8/147-9195032-1732734?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -247,6 +722,7 @@ const PRODUCTS = [
     "price_original": 25.0,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.6,
     "qtd_avaliacoes": 4323,
     "coupon_code": null,
@@ -274,7 +750,7 @@ const PRODUCTS = [
       "ASIN": "B086WWQX1S"
     },
     "affiliate_url": "https://www.amazon.com.br/Oikos-conjunto-m%C3%A1quina-roupas-delicadas/dp/B086WWQX1S/ref=zg_bs_g_appliances_d_sccl_7/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -287,6 +763,7 @@ const PRODUCTS = [
     "price_original": 4913.82,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.6,
     "qtd_avaliacoes": 409,
     "coupon_code": null,
@@ -323,7 +800,7 @@ const PRODUCTS = [
       "Material do tambor do aparelho de lavagem de roupa": "aço inoxidável"
     },
     "affiliate_url": "https://www.amazon.com.br/M%C3%A1quina-Lavar-Electrolux-Essential-Filter/dp/B09B8VWZRG/ref=zg_bs_g_appliances_d_sccl_6/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": true
   },
   {
@@ -336,13 +813,14 @@ const PRODUCTS = [
     "price_original": 2368.41,
     "parcelamento": null,
     "tem_selo_prime": false,
+    "tem_oferta": false,
     "avaliacao": 4.8,
     "qtd_avaliacoes": 656,
     "coupon_code": null,
     "description": "<ul><li>EXCLUSIVO SISTEMA EASY</li><li>CICLO RÁPIDO</li><li>REUSO DE ÁGUA</li><li>FILTRO PEGA FIAPOS</li></ul>",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/Lavadora-Roupas-Electrolux-LES11-Essencial/dp/B084R94R4S/ref=zg_bs_g_appliances_d_sccl_9/130-5471262-3406342?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -355,6 +833,7 @@ const PRODUCTS = [
     "price_original": 850.0,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.4,
     "qtd_avaliacoes": 1075,
     "coupon_code": null,
@@ -371,7 +850,7 @@ const PRODUCTS = [
       "Peso do item": "600 Gramas"
     },
     "affiliate_url": "https://www.amazon.com.br/Refil-Filtro-Purificador-Everest-Original/dp/B07CZ3R2P8/ref=zg_bs_g_appliances_d_sccl_11/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -384,6 +863,7 @@ const PRODUCTS = [
     "price_original": 42.9,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.3,
     "qtd_avaliacoes": 5721,
     "coupon_code": null,
@@ -421,7 +901,7 @@ const PRODUCTS = [
       "Descontinuado pelo fabricante": "Não"
     },
     "affiliate_url": "https://www.amazon.com.br/Protetor-Contra-Energia-Freezer-Geladeira/dp/B0798XT2VK/ref=zg_bs_g_appliances_d_sccl_13/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -434,6 +914,7 @@ const PRODUCTS = [
     "price_original": null,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.8,
     "qtd_avaliacoes": 1316,
     "coupon_code": null,
@@ -464,7 +945,7 @@ const PRODUCTS = [
       "Material": "Vidro Temperado 6mm"
     },
     "affiliate_url": "https://www.amazon.com.br/Itatiaia-Essencial-Temperado-Acendimento-Autom%C3%A1tico/dp/B0B7C9HXGL/ref=zg_bs_g_appliances_d_sccl_12/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -477,6 +958,7 @@ const PRODUCTS = [
     "price_original": 23.99,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.0,
     "qtd_avaliacoes": 3236,
     "coupon_code": null,
@@ -500,7 +982,7 @@ const PRODUCTS = [
       "Material do cabo": "Borracha"
     },
     "affiliate_url": "https://www.amazon.com.br/Artist-Estabilizar-Eletrodom%C3%A9sticos-Antivibra%C3%A7%C3%A3o-Anti-Deslocamento/dp/B08NWQHGR4/ref=zg_bs_g_appliances_d_sccl_14/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -513,6 +995,7 @@ const PRODUCTS = [
     "price_original": 49.9,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.4,
     "qtd_avaliacoes": 1473,
     "coupon_code": null,
@@ -534,53 +1017,7 @@ const PRODUCTS = [
       "Cor": "Cinza"
     },
     "affiliate_url": "https://www.amazon.com.br/Capa-Brastemp-Eletrolux-Imperme%C3%A1vel-Resistente/dp/B0D7NPF9Z2/ref=zg_bs_g_appliances_d_sccl_15/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B085JFRRSW",
-    "title": "MONDIAL Cooktop a Gás, 4 Bocas, Preto/Inox, Bivolt - CTG-01",
-    "image": "https://m.media-amazon.com/images/I/517E2Ia2cWL._AC_SL1000_.jpg",
-    "canonical": null,
-    "category": "Eletrodomésticos",
-    "price_current": 349.0,
-    "price_original": 499.9,
-    "parcelamento": null,
-    "tem_selo_prime": true,
-    "avaliacao": 4.8,
-    "qtd_avaliacoes": 5565,
-    "coupon_code": null,
-    "description": "<ul><li>DISTRIBUIÇÃO INTELIGENTE DAS BOCAS: Mesa maior, com melhor disposição e aproveitamento entre as bocas. (todas podem ser usadas ao mesmo tempo).</li><li>POTÊNCIA TOTAL DE 8.400W: 1 queimador ultrarrápido (2650W), 1 queimador rápido (2350W) e 2 queimadores semirrápidos (2x 1700W).</li><li>ACENDIMENTO AUTOMÁTICO: Agilidade e segurança para o dia a dia. Basta girar o botão que a chama acende.</li><li>MESA DE VIDRO TEMPERADO: Garante elegância ao ambiente, alta durabilidade e praticidade na limpeza.</li><li>DESIGN MODERNO: Botões com detalhes em aço inox.</li><li>BOTÕES REMOVÍVEIS: Os botões saem com facilidade, evitando o acúmulo de gordura e possibilitando uma limpeza mais eficaz.</li></ul>",
-    "informacoes_produto": {
-      "Número de elementos de aquecimento": "4",
-      "Fonte de energia": "Alimentado a gás",
-      "Tipo de combustível": "Gás natural",
-      "Características especiais": "Acendimento automático",
-      "Elemento de aquecimento": "Gás",
-      "Tipo de sistema de ignição": "Eletrônico",
-      "Tipo de controle": "Botão de pressão",
-      "Tipo de instalação": "Independente",
-      "Voltagem": "110,22 Volts",
-      "Potência": "8400 watts",
-      "Dimensões do item P x L x A": "46P x 60L x 17A centímetros",
-      "Peso do item": "7,5 Quilogramas",
-      "Tamanho": "4 Bocas",
-      "Material da superfície do aquecedor": "Vidro temperado",
-      "Material": "Aço inoxidável, Vidro temperado",
-      "Nome da marca": "MONDIAL",
-      "Componentes incluídos": "Cooktop; Manual de Instruções",
-      "Fabricante": "Mondial",
-      "Número de identificação de comércio internacional": "07899882310078",
-      "Número da peça": "1",
-      "Número do modelo": "CTG-01",
-      "Contagem de unidades": "1.0 Peça",
-      "Nome do Tipo de Produto": "CTG-01",
-      "Descrição da garantia": "12 Meses",
-      "ASIN": "B085JFRRSW",
-      "Cor": "Preto/Inox"
-    },
-    "affiliate_url": "https://www.amazon.com.br/MONDIAL-Cooktop-Bocas-Preto-Bivolt/dp/B085JFRRSW/ref=zg_bs_g_appliances_d_sccl_18/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -593,6 +1030,7 @@ const PRODUCTS = [
     "price_original": 549.9,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.6,
     "qtd_avaliacoes": 284,
     "coupon_code": null,
@@ -615,7 +1053,7 @@ const PRODUCTS = [
       "Material": "Plástico"
     },
     "affiliate_url": "https://www.amazon.com.br/Secadora-Roupa-Mueller-Solaris-220V/dp/B07Q6LVF9J/ref=zg_bs_g_appliances_d_sccl_17/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -628,6 +1066,7 @@ const PRODUCTS = [
     "price_original": 1199.0,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.6,
     "qtd_avaliacoes": 2015,
     "coupon_code": null,
@@ -663,7 +1102,7 @@ const PRODUCTS = [
       "Material": "Aço inoxidável"
     },
     "affiliate_url": "https://www.amazon.com.br/Fog%C3%A3o-Cooktop-Fischer-INFINITY-BIVOLT/dp/B07GWXBGYS/ref=zg_bs_g_appliances_d_sccl_20/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -676,6 +1115,7 @@ const PRODUCTS = [
     "price_original": 2199.0,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.3,
     "qtd_avaliacoes": 9,
     "coupon_code": null,
@@ -710,7 +1150,7 @@ const PRODUCTS = [
       "Material do tambor do aparelho de lavagem de roupa": "Aço Inoxidável"
     },
     "affiliate_url": "https://www.amazon.com.br/M%C3%A1quina-Lavar-14kg-Branca-Consul/dp/B0GWFNV422/ref=zg_bs_g_appliances_d_sccl_19/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -723,6 +1163,7 @@ const PRODUCTS = [
     "price_original": 559.0,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.6,
     "qtd_avaliacoes": 1321,
     "coupon_code": null,
@@ -755,51 +1196,7 @@ const PRODUCTS = [
       "Peso do item": "5,1 Quilogramas"
     },
     "affiliate_url": "https://www.amazon.com.br/SUGGAR-DEPURADOR-SLIM-80CM-DPS181IX/dp/B0B3SHRP7S/ref=zg_bs_g_appliances_d_sccl_22/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B0816YJYQB",
-    "title": "SUGGAR DEPURADOR DE AR SLIM DE EMBUTIR 60CM INOX 220V DE62IX",
-    "image": "https://m.media-amazon.com/images/I/51ciFDrjQLL._AC_SL1200_.jpg",
-    "canonical": null,
-    "category": "Eletrodomésticos",
-    "price_current": 675.0,
-    "price_original": 879.0,
-    "parcelamento": null,
-    "tem_selo_prime": true,
-    "avaliacao": 4.5,
-    "qtd_avaliacoes": 976,
-    "coupon_code": null,
-    "description": "<ul><li>Grande capacidade de sucção: 390m³/h</li><li>Dupla filtragem</li><li>Tela deslizante</li><li>Dupla função: coifa e depurador</li><li>Baixo consumo: 0,12kWh</li></ul>",
-    "informacoes_produto": {
-      "Características especiais": "Telas em alumínio lavável, eliminam gordura e fumaça, filtro de carvão ativado, elimina odores indesejados",
-      "Capacidade do fluxo de ar": "390 Metros cúbicos por hora",
-      "Nível de ruído": "65 Decibéis",
-      "Tipo de montagem": "Montagem na parede",
-      "Tipo de controles": "Toque",
-      "Voltagem": "220 Volts",
-      "Número de velocidades": "2",
-      "Tipo de filtro": "HEPA",
-      "Tipo de ventilação": "Ducted/Vented",
-      "Cor": "inox",
-      "Tipo de acabamento": "Aço inoxidável",
-      "Formato do item": "Embutido",
-      "Design da Coifa": "Coifa sob Armário de Fogão",
-      "Material": "Aço inoxidável",
-      "Nome da marca": "Suggar",
-      "Componentes incluídos": "Manual de instruções",
-      "Número do modelo": "DE62IX",
-      "Fabricante": "Suggar",
-      "Número da peça": "DE62IX",
-      "Nome do Tipo de Produto": "depurador de ar",
-      "Descrição da garantia": "1 ano com o fabricante",
-      "ASIN": "B0816YJYQB",
-      "Dimensões do item P x L x A": "16P x 16L x 40A centímetros",
-      "Peso do item": "6 Quilogramas"
-    },
-    "affiliate_url": "https://www.amazon.com.br/SUGGAR-DEPURADOR-SLIM-EMBUTIR-DE62IX/dp/B0816YJYQB/ref=zg_bs_g_appliances_d_sccl_21/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -812,6 +1209,7 @@ const PRODUCTS = [
     "price_original": 899.0,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.7,
     "qtd_avaliacoes": 21,
     "coupon_code": null,
@@ -841,7 +1239,7 @@ const PRODUCTS = [
       "Cor": "branco"
     },
     "affiliate_url": "https://www.amazon.com.br/Frigobar-Litros-Inverter-Bivolt-Branco/dp/B0GJG36MCZ/ref=zg_bs_g_appliances_d_sccl_23/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -854,6 +1252,7 @@ const PRODUCTS = [
     "price_original": 3499.0,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.8,
     "qtd_avaliacoes": 53,
     "coupon_code": null,
@@ -881,26 +1280,7 @@ const PRODUCTS = [
       "Avaliação por estrelas do BEE": "Não"
     },
     "affiliate_url": "https://www.amazon.com.br/Electrolux-Lava-Lou%C3%A7a-Servi%C3%A7os-Programa-LS14E/dp/B0FLQJJ47J/ref=zg_bs_g_appliances_d_sccl_24/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B0B61WJRY5",
-    "title": "Samsung Lava e Seca WD11M com Digital Inverter WD11M4473PX Inox Look 11/7kg - 220V",
-    "image": "https://m.media-amazon.com/images/I/41F+xukODBL._AC_SL1500_.jpg?aicid=discounts-widgets-horizonte",
-    "canonical": null,
-    "category": "Ofertas do dia",
-    "price_current": 3599.0,
-    "price_original": null,
-    "parcelamento": null,
-    "tem_selo_prime": false,
-    "avaliacao": null,
-    "qtd_avaliacoes": null,
-    "coupon_code": null,
-    "description": "",
-    "informacoes_produto": {},
-    "affiliate_url": "https://www.amazon.com.br/Lava-Seca-Samsung-Programas-Lavagem/dp/B0B61WJRY5?ref=dlx_deals_dg_dcl_B0B61WJRY5_dt_sl14_88_pi&pf_rd_r=2MVQMGMQZXHE0GEQ6KKX&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -913,6 +1293,7 @@ const PRODUCTS = [
     "price_original": 1839.0,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.4,
     "qtd_avaliacoes": 109,
     "coupon_code": null,
@@ -945,7 +1326,7 @@ const PRODUCTS = [
       "Tipo de instalação": "Slide-In"
     },
     "affiliate_url": "https://www.amazon.com.br/Electrolux-Efficient-PerfectCook-Grades-FE5GB/dp/B0DY7YLQX5/ref=zg_bs_g_appliances_d_sccl_26/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -958,6 +1339,7 @@ const PRODUCTS = [
     "price_original": 750.0,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.6,
     "qtd_avaliacoes": 437,
     "coupon_code": null,
@@ -992,7 +1374,7 @@ const PRODUCTS = [
       "Cor": "preta"
     },
     "affiliate_url": "https://www.amazon.com.br/SUGGAR-LAVADORA-ROUPAS-LAVAMAX-LE2002PT/dp/B0BSR4TZK2/ref=zg_bs_g_appliances_d_sccl_27/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -1005,6 +1387,7 @@ const PRODUCTS = [
     "price_original": 759.0,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.5,
     "qtd_avaliacoes": 2,
     "coupon_code": null,
@@ -1045,7 +1428,7 @@ const PRODUCTS = [
       "ASIN": "B0GQC5GM8M"
     },
     "affiliate_url": "https://www.amazon.com.br/Frigobar-Litros-Compact-Branco-Efb80/dp/B0GQC5GM8M/ref=zg_bs_g_appliances_d_sccl_28/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -1058,6 +1441,7 @@ const PRODUCTS = [
     "price_original": null,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.6,
     "qtd_avaliacoes": 1202,
     "coupon_code": null,
@@ -1089,7 +1473,7 @@ const PRODUCTS = [
       "Peso do item": "5,1 Quilogramas"
     },
     "affiliate_url": "https://www.amazon.com.br/SUGGAR-DEPURADOR-SLIM-PRATA-DPS181PR/dp/B0B3SJBVK6/ref=zg_bs_g_appliances_d_sccl_29/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -1102,6 +1486,7 @@ const PRODUCTS = [
     "price_original": 510.23,
     "parcelamento": null,
     "tem_selo_prime": false,
+    "tem_oferta": false,
     "avaliacao": 4.5,
     "qtd_avaliacoes": 1848,
     "coupon_code": null,
@@ -1126,7 +1511,7 @@ const PRODUCTS = [
       "Material": "Plástico"
     },
     "affiliate_url": "https://www.amazon.com.br/SUGGAR-CENTRIFUGA-ROUPAS-GIROMAX-CT1501BR/dp/B08L9RHPCF/ref=zg_bs_g_appliances_d_sccl_1/130-5471262-3406342?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -1139,6 +1524,7 @@ const PRODUCTS = [
     "price_original": 1299.0,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.6,
     "qtd_avaliacoes": 280,
     "coupon_code": null,
@@ -1179,7 +1565,7 @@ const PRODUCTS = [
       "ASIN": "B0FJJ3YY9B"
     },
     "affiliate_url": "https://www.amazon.com.br/Frigobar-Litros-Inverter-Bivolt-Midea/dp/B0FJJ3YY9B/ref=zg_bs_g_appliances_d_sccl_4/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -1192,6 +1578,7 @@ const PRODUCTS = [
     "price_original": 287.0,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.9,
     "qtd_avaliacoes": 130,
     "coupon_code": null,
@@ -1222,7 +1609,7 @@ const PRODUCTS = [
       "Cor do Acabamento": "Preto"
     },
     "affiliate_url": "https://www.amazon.com.br/Cooktop-PCT10A-Diferentes-Pot%C3%AAncia-Temperaturas/dp/B0F2JMT8MN/ref=zg_bs_g_appliances_d_sccl_3/130-5471262-3406342?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -1235,6 +1622,7 @@ const PRODUCTS = [
     "price_original": 899.0,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.8,
     "qtd_avaliacoes": 2397,
     "coupon_code": null,
@@ -1271,7 +1659,7 @@ const PRODUCTS = [
       "Material do tambor do aparelho de lavagem de roupa": "Plástico"
     },
     "affiliate_url": "https://www.amazon.com.br/Colormaq-Maquina-Automatica-Tanquinho-Branco/dp/B09KYJBZHS/ref=zg_bs_g_appliances_d_sccl_6/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -1284,6 +1672,7 @@ const PRODUCTS = [
     "price_original": 2899.0,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.6,
     "qtd_avaliacoes": 181,
     "coupon_code": null,
@@ -1306,7 +1695,7 @@ const PRODUCTS = [
       "ASIN": "B093XZ9TLW"
     },
     "affiliate_url": "https://www.amazon.com.br/Lava-Lou%C3%A7as-Midea-Servi%C3%A7os-Preta/dp/B093XZ9TLW/ref=zg_bs_g_appliances_d_sccl_18/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -1319,6 +1708,7 @@ const PRODUCTS = [
     "price_original": 3579.0,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.8,
     "qtd_avaliacoes": 160,
     "coupon_code": null,
@@ -1353,7 +1743,7 @@ const PRODUCTS = [
       "Estilo": "Lava Louças"
     },
     "affiliate_url": "https://www.amazon.com.br/Lou%C3%A7as-Electrolux-Servi%C3%A7os-Higienizar-Compras/dp/B09B8MGCTT/ref=zg_bs_g_appliances_d_sccl_1/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -1366,6 +1756,7 @@ const PRODUCTS = [
     "price_original": 519.0,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.3,
     "qtd_avaliacoes": 830,
     "coupon_code": null,
@@ -1401,7 +1792,7 @@ const PRODUCTS = [
       "Material": "Aço inoxidável"
     },
     "affiliate_url": "https://www.amazon.com.br/SUGGAR-DEPURADOR-SLIM-60CM-DPS161IX/dp/B0B3SJY9QN/ref=zg_bs_g_appliances_d_sccl_8/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -1414,6 +1805,7 @@ const PRODUCTS = [
     "price_original": null,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.8,
     "qtd_avaliacoes": 185,
     "coupon_code": null,
@@ -1444,7 +1836,7 @@ const PRODUCTS = [
       "Material": "Vidro temperado"
     },
     "affiliate_url": "https://www.amazon.com.br/FISCHER-COOKTOP-TREMPE-ARAMADO-36350-102675/dp/B0DJ3CLH7M/ref=zg_bs_g_appliances_d_sccl_5/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -1457,6 +1849,7 @@ const PRODUCTS = [
     "price_original": 1029.0,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.6,
     "qtd_avaliacoes": 347,
     "coupon_code": null,
@@ -1488,7 +1881,7 @@ const PRODUCTS = [
       "Peso do item": "8 Quilogramas"
     },
     "affiliate_url": "https://www.amazon.com.br/SUGGAR-DEPURADOR-EMBUTIR-FRONTAL-DE82IX/dp/B0CMJRVJ4V/ref=zg_bs_g_appliances_d_sccl_9/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -1501,6 +1894,7 @@ const PRODUCTS = [
     "price_original": 49.9,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.3,
     "qtd_avaliacoes": 905,
     "coupon_code": null,
@@ -1522,7 +1916,7 @@ const PRODUCTS = [
       "Cor": "Cinza"
     },
     "affiliate_url": "https://www.amazon.com.br/Eletrolux-Imperme%C3%A1vel-Flanelada-Resistente-Perolizado/dp/B0D279PP52/ref=zg_bs_g_appliances_d_sccl_13/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -1535,6 +1929,7 @@ const PRODUCTS = [
     "price_original": 2399.0,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.6,
     "qtd_avaliacoes": 176,
     "coupon_code": null,
@@ -1551,7 +1946,7 @@ const PRODUCTS = [
       "Material": "Liga de aço"
     },
     "affiliate_url": "https://www.amazon.com.br/Secadora-Electrolux-SFP12-Front-Premium/dp/B084RX82RT/ref=zg_bs_g_appliances_d_sccl_12/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -1564,6 +1959,7 @@ const PRODUCTS = [
     "price_original": 2099.0,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.4,
     "qtd_avaliacoes": 45,
     "coupon_code": null,
@@ -1595,7 +1991,7 @@ const PRODUCTS = [
       "Material do tambor do aparelho de lavagem de roupa": "Aço inoxidável"
     },
     "affiliate_url": "https://www.amazon.com.br/M%C3%A1quina-Platinum-Brastemp-Sensor-Reduzir/dp/B0G4WLCTDW/ref=zg_bs_g_appliances_d_sccl_11/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -1608,6 +2004,7 @@ const PRODUCTS = [
     "price_original": 287.0,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.9,
     "qtd_avaliacoes": 139,
     "coupon_code": null,
@@ -1638,7 +2035,7 @@ const PRODUCTS = [
       "Cor do Acabamento": "Preto"
     },
     "affiliate_url": "https://www.amazon.com.br/Cooktop-PCT10A-Diferentes-Pot%C3%AAncia-Temperaturas/dp/B0F2JM9ZTK/ref=zg_bs_g_appliances_d_sccl_10/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -1651,6 +2048,7 @@ const PRODUCTS = [
     "price_original": 414.0,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.6,
     "qtd_avaliacoes": 299,
     "coupon_code": null,
@@ -1674,7 +2072,7 @@ const PRODUCTS = [
       "Design da Coifa": "Coifa de Exaustor Montado na Parede"
     },
     "affiliate_url": "https://www.amazon.com.br/SUGGAR-DEPURADOR-PRETO-MANTA-DI801PT/dp/B0886H2HQ4/ref=zg_bs_g_appliances_d_sccl_7/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -1687,6 +2085,7 @@ const PRODUCTS = [
     "price_original": 2165.56,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.4,
     "qtd_avaliacoes": 402,
     "coupon_code": null,
@@ -1726,7 +2125,7 @@ const PRODUCTS = [
       "ASIN": "B07K29F3SB"
     },
     "affiliate_url": "https://www.amazon.com.br/Refrigerador-Portas-Classe-Branco-Electrolux/dp/B07K29F3SB/ref=zg_bs_g_appliances_d_sccl_14/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -1739,6 +2138,7 @@ const PRODUCTS = [
     "price_original": 2349.0,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.5,
     "qtd_avaliacoes": 14,
     "coupon_code": null,
@@ -1770,7 +2170,7 @@ const PRODUCTS = [
       "Material do tambor do aparelho de lavagem de roupa": "Aço inoxidável"
     },
     "affiliate_url": "https://www.amazon.com.br/M%C3%A1quina-Branca-Brastemp-Sensor-Lavagem/dp/B0G3Y61JMT/ref=zg_bs_g_appliances_d_sccl_15/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -1783,6 +2183,7 @@ const PRODUCTS = [
     "price_original": 2299.0,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.6,
     "qtd_avaliacoes": 275,
     "coupon_code": null,
@@ -1806,7 +2207,7 @@ const PRODUCTS = [
       "Cor": "Cinza"
     },
     "affiliate_url": "https://www.amazon.com.br/Lava-Lou-Servi-Brastemp-BLF08BS/dp/B0BTFM3PW9/ref=zg_bs_g_appliances_d_sccl_16/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -1819,6 +2220,7 @@ const PRODUCTS = [
     "price_original": 519.21,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.6,
     "qtd_avaliacoes": 1058,
     "coupon_code": null,
@@ -1850,7 +2252,7 @@ const PRODUCTS = [
       "Cor": "Branco"
     },
     "affiliate_url": "https://www.amazon.com.br/Centrifuga-Roupas-BCR15B-Grande-Brit%C3%A2nia/dp/B0B42ZS41N/ref=zg_bs_g_appliances_d_sccl_19/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -1863,6 +2265,7 @@ const PRODUCTS = [
     "price_original": 1776.67,
     "parcelamento": null,
     "tem_selo_prime": false,
+    "tem_oferta": false,
     "avaliacao": 4.4,
     "qtd_avaliacoes": 528,
     "coupon_code": null,
@@ -1905,7 +2308,7 @@ const PRODUCTS = [
       "ASIN": "B076BDR1P7"
     },
     "affiliate_url": "https://www.amazon.com.br/Refrigerador-Degelo-Pr%C3%A1tico-Defrost-Electrolux/dp/B076BDR1P7/ref=zg_bs_g_appliances_d_sccl_21/130-5471262-3406342?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -1918,6 +2321,7 @@ const PRODUCTS = [
     "price_original": null,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.3,
     "qtd_avaliacoes": 73,
     "coupon_code": null,
@@ -1946,7 +2350,7 @@ const PRODUCTS = [
       "Cor": "branco"
     },
     "affiliate_url": "https://www.amazon.com.br/Geladeira-Defrost-Prateleiras-Remov%C3%ADveis-Consul/dp/B0GHYX6PHF/ref=zg_bs_g_appliances_d_sccl_22/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -1959,6 +2363,7 @@ const PRODUCTS = [
     "price_original": 29.99,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.5,
     "qtd_avaliacoes": 2753,
     "coupon_code": null,
@@ -1977,7 +2382,7 @@ const PRODUCTS = [
       "ASIN": "B0899MPT63"
     },
     "affiliate_url": "https://www.amazon.com.br/Porta-Geladeira-Herm%C3%A9tico-Gaveta-Acrilico/dp/B0899MPT63/ref=zg_bs_g_appliances_d_sccl_17/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -1990,6 +2395,7 @@ const PRODUCTS = [
     "price_original": 129.99,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 5.0,
     "qtd_avaliacoes": 1419,
     "coupon_code": null,
@@ -2012,7 +2418,7 @@ const PRODUCTS = [
       "Exige montagem": "Não"
     },
     "affiliate_url": "https://www.amazon.com.br/Universal-Adequado-Geladeira-Eletrodom%C3%A9sticos-Dom%C3%A9sticos/dp/B0CL6SV3NM/ref=zg_bs_g_appliances_d_sccl_25/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -2025,6 +2431,7 @@ const PRODUCTS = [
     "price_original": 750.0,
     "parcelamento": null,
     "tem_selo_prime": false,
+    "tem_oferta": false,
     "avaliacao": 4.5,
     "qtd_avaliacoes": 806,
     "coupon_code": null,
@@ -2059,7 +2466,7 @@ const PRODUCTS = [
       "Cor": "branca"
     },
     "affiliate_url": "https://www.amazon.com.br/SUGGAR-LAVADORA-ROUPAS-LAVAMAX-LE2002BR/dp/B0BSR4QKZL/ref=zg_bs_g_appliances_d_sccl_25/130-5471262-3406342?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -2072,6 +2479,7 @@ const PRODUCTS = [
     "price_original": 639.0,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.5,
     "qtd_avaliacoes": 528,
     "coupon_code": null,
@@ -2104,7 +2512,7 @@ const PRODUCTS = [
       "Peso do item": "5,4 Quilogramas"
     },
     "affiliate_url": "https://www.amazon.com.br/SUGGAR-DEPURADOR-TOUCH-PRETO-DTH81PT/dp/B0BSP3R2HR/ref=zg_bs_g_appliances_d_sccl_26/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -2117,6 +2525,7 @@ const PRODUCTS = [
     "price_original": 599.0,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 5.0,
     "qtd_avaliacoes": 307,
     "coupon_code": null,
@@ -2153,7 +2562,7 @@ const PRODUCTS = [
       "Material do tambor do aparelho de lavagem de roupa": "Plástico"
     },
     "affiliate_url": "https://www.amazon.com.br/SUGGAR-LAVADORA-ROUPAS-LAVAMAX-LE1521BR/dp/B0D15331MK/ref=zg_bs_g_appliances_d_sccl_29/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -2166,6 +2575,7 @@ const PRODUCTS = [
     "price_original": 487.0,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.6,
     "qtd_avaliacoes": 298,
     "coupon_code": null,
@@ -2199,7 +2609,7 @@ const PRODUCTS = [
       "Cor": "Preto"
     },
     "affiliate_url": "https://www.amazon.com.br/MONDIAL-Cooktop-Bocas-Tripla-Bivolt/dp/B085JG3T6S/ref=zg_bs_g_appliances_d_sccl_21/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -2212,6 +2622,7 @@ const PRODUCTS = [
     "price_original": 42.9,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.5,
     "qtd_avaliacoes": 1209,
     "coupon_code": null,
@@ -2249,7 +2660,7 @@ const PRODUCTS = [
       "ASIN": "B0798XX4DG"
     },
     "affiliate_url": "https://www.amazon.com.br/Prote-Raio-Geladeira-Freezer-220V/dp/B0798XX4DG/ref=zg_bs_g_appliances_d_sccl_23/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -2262,6 +2673,7 @@ const PRODUCTS = [
     "price_original": 639.0,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.8,
     "qtd_avaliacoes": 558,
     "coupon_code": null,
@@ -2294,7 +2706,7 @@ const PRODUCTS = [
       "Especificação atendida": "INMETRO"
     },
     "affiliate_url": "https://www.amazon.com.br/FISCHER-COOKTOP-BOCAS-BIVOLT-1519-5713/dp/B076JLW8D5/ref=zg_bs_g_appliances_d_sccl_20/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -2307,6 +2719,7 @@ const PRODUCTS = [
     "price_original": 11.9,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.7,
     "qtd_avaliacoes": 31677,
     "coupon_code": null,
@@ -2334,7 +2747,7 @@ const PRODUCTS = [
       "Composição da célula da pilha": "Alcalina"
     },
     "affiliate_url": "https://www.amazon.com.br/Pilhas-Alcalinas-Palito-Elgin-Baterias/dp/B0754J12RW/ref=zg_bs_g_electronics_d_sccl_1/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -2347,52 +2760,14 @@ const PRODUCTS = [
     "price_original": null,
     "parcelamento": null,
     "tem_selo_prime": false,
+    "tem_oferta": false,
     "avaliacao": 4.8,
     "qtd_avaliacoes": 91034,
     "coupon_code": null,
     "description": "<ul><li>SOM VIBRANTE E POTENTE - Experimente um áudio aprimorado — vocais mais nítidos, graves mais potentes — para uma experiência Echo Dot ainda mais imersiva.</li><li>SUAS MÚSICAS E CONTEÚDOS FAVORITOS - Reproduza músicas e podcasts do Amazon Music, Apple Music, Spotify, entre outros, ou por Bluetooth em todos os ambientes da sua casa.</li><li>SEMPRE DISPONÍVEL PARA AJUDAR - Pergunte a previsão do tempo para Alexa, defina timers com sua voz, obtenha respostas e ouça piadas. Precisa de mais uns minutinhos de sono pela manhã? É só tocar no seu Echo Dot para adiar o alarme.</li><li>MAIS CONFORTO EM CASA - Controle dispositivos de casa inteligente compatíveis por voz ou com rotinas ativadas por sensores de temperatura internos. Crie rotinas para ligar o ar condicionado se a temperatura interna estiver mais quente que o ideal.</li><li>DESENVOLVIDO PARA PROTEGER A SUA PRIVACIDADE - A Amazon não vende informações pessoais de clientes. O Echo Dot foi construído com várias camadas de controles de privacidade, incluindo o botão de desligar o microfone.</li><li>APROVEITE AO MÁXIMO O PAREAMENTO DE DISPOSITIVOS - Escute música na casa toda usando os dispositivos Echo compatíveis em cômodos diferentes ou crie um sistema de home theater com o Fire TV.</li></ul>",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/Echo-Dot-5%C2%AA-gera%C3%A7%C3%A3o-Cor-Preta/dp/B09B8VGCR8/ref=zg_bs_g_electronics_d_sccl_2/130-5471262-3406342?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B0C9RVFRZD",
-    "title": "Duracell Pilhas Alcalinas AA Pequena Pack 24 Unidades – Dura até 10x Mais – Ideal para Controle de Videogame e Brinquedos",
-    "image": "https://m.media-amazon.com/images/I/81k5RxCXI5L._AC_SL1500_.jpg",
-    "canonical": null,
-    "category": "Eletrônicos",
-    "price_current": 99.65,
-    "price_original": 124.9,
-    "parcelamento": null,
-    "tem_selo_prime": true,
-    "avaliacao": 4.9,
-    "qtd_avaliacoes": 33275,
-    "coupon_code": null,
-    "description": "<ul><li>Pilha Duracell Alcalina AA que fornece mais duração e potência para os aparelhos</li><li>Dura mais, muito mais</li><li>Longa duração: As pilhas alcalinas AA Duracell duram mais que as pilhas comuns de zinco-carbono, oferecendo energia confiável e de alto desempenho</li><li>As pilhas Duracell podem manter sua capacidade energética por até 10 anos, mesmo sem uso, garantindo energia disponível quando você precisar</li><li>Projetadas para oferecer o melhor desempenho em dispositivos de uso diário, como brinquedos, lanternas, controles remotos e teclados</li><li>Pilha Duracell Alcalina AA que fornece mais duração e potência para os aparelhos</li><li>Dura mais, muito mais</li><li>Longa duração: As pilhas alcalinas AA Duracell duram mais que as pilhas comuns de zinco-carbono, oferecendo energia confiável e de alto desempenho</li><li>As pilhas Duracell podem manter sua capacidade energética por até 10 anos, mesmo sem uso, garantindo energia disponível quando você precisar</li><li>Projetadas para oferecer o melhor desempenho em dispositivos de uso diário, como brinquedos, lanternas, controles remotos e teclados</li><li>2 Pilhas</li><li>4 Pilhas</li><li>4 Contagem (Pacote de 1)</li><li>8 Pilhas</li><li>16 Pilhas</li><li>24 Pilhas</li></ul>",
-    "informacoes_produto": {
-      "Tipo de bateria": "24 AA baterias necessárias. (inclusas)",
-      "Nome da marca": "Duracell",
-      "Número do modelo": "C&amp;B AA 24",
-      "Nome do modelo": "Pilha Alcalina AA24",
-      "UPC": "041333050409",
-      "Fabricante": "Duracell",
-      "Certificação de teste externa": "Não aplicável",
-      "Descrição da garantia": "12 meses com o fabricante",
-      "País de origem": "China",
-      "ASIN": "B0C9RVFRZD",
-      "Capacidade da bateria": "200",
-      "Voltagem": "1,5 Volts",
-      "Reutilização": "Não recarregável",
-      "Modelos de telefone compatíveis": "xbox one, xbox serie s, xbox série x",
-      "Contagem de unidades": "24 unidade",
-      "Peso da bateria": "280 Gramas",
-      "Dimensões do artigo": "48 x 52 x 117 milímetros",
-      "Usos recomendados do produto": "Brinquedos, Controle de videogame, Controle remoto",
-      "Composição da célula da pilha": "Alcalina"
-    },
-    "affiliate_url": "https://www.amazon.com.br/Pilha-AA-Pequena-24-Unidades/dp/B0C9RVFRZD/ref=zg_bs_g_electronics_d_sccl_3/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -2405,6 +2780,7 @@ const PRODUCTS = [
     "price_original": 1599.0,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.7,
     "qtd_avaliacoes": 2088,
     "coupon_code": null,
@@ -2461,7 +2837,7 @@ const PRODUCTS = [
       "Resolução de captura de vídeo": "30fps"
     },
     "affiliate_url": "https://www.amazon.com.br/Celular-Samsung-Galaxy-128GB-50MP/dp/B0FPYV6K68/ref=zg_bs_g_electronics_d_sccl_4/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -2474,6 +2850,7 @@ const PRODUCTS = [
     "price_original": 599.0,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.6,
     "qtd_avaliacoes": 11999,
     "coupon_code": null,
@@ -2521,7 +2898,7 @@ const PRODUCTS = [
       "Tipo de garantia": "Ilimitada"
     },
     "affiliate_url": "https://www.amazon.com.br/Smartwatch-Samsung-Galaxy-Display-Grafite/dp/B0CVCLGV1W/ref=zg_bs_g_electronics_d_sccl_5/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -2534,6 +2911,7 @@ const PRODUCTS = [
     "price_original": 43.02,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.6,
     "qtd_avaliacoes": 23254,
     "coupon_code": null,
@@ -2562,7 +2940,7 @@ const PRODUCTS = [
       "Composição da célula da pilha": "NiMH"
     },
     "affiliate_url": "https://www.amazon.com.br/Pilha-recarreg%C3%A1vel-1000mAh-unidades-Palito/dp/B0754KMGFN/ref=zg_bs_g_electronics_d_sccl_6/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -2575,6 +2953,7 @@ const PRODUCTS = [
     "price_original": 41.9,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.6,
     "qtd_avaliacoes": 35829,
     "coupon_code": null,
@@ -2617,7 +2996,7 @@ const PRODUCTS = [
       "Método de controle": "Remoto"
     },
     "affiliate_url": "https://www.amazon.com.br/PHILIPS-Microfone-TAUE101BK-00-intra-auricular/dp/B084S6BCJN/ref=zg_bs_g_electronics_d_sccl_7/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -2630,6 +3009,7 @@ const PRODUCTS = [
     "price_original": 89.9,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.8,
     "qtd_avaliacoes": 11745,
     "coupon_code": null,
@@ -2662,7 +3042,7 @@ const PRODUCTS = [
       "Formato do item": "Retangular"
     },
     "affiliate_url": "https://www.amazon.com.br/iCLAMPER-Prote%C3%A7%C3%A3o-El%C3%A9tricos-Notebook-Impressora/dp/B0D8V3QLDD/ref=zg_bs_g_electronics_d_sccl_8/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -2675,6 +3055,7 @@ const PRODUCTS = [
     "price_original": 369.0,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.7,
     "qtd_avaliacoes": 37527,
     "coupon_code": null,
@@ -2735,7 +3116,7 @@ const PRODUCTS = [
       "Tempo de carregamento da bateria no estojo de transporte": "2,5 Horas"
     },
     "affiliate_url": "https://www.amazon.com.br/soundcore-Cancelamento-Poderosos-Reprodu%C3%A7%C3%A3o-Bluetooth/dp/B0CRTYZG5C/ref=zg_bs_g_electronics_d_sccl_9/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -2748,6 +3129,7 @@ const PRODUCTS = [
     "price_original": null,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.7,
     "qtd_avaliacoes": 3533,
     "coupon_code": null,
@@ -2780,7 +3162,7 @@ const PRODUCTS = [
       "ASIN": "B0FH7LY3R4"
     },
     "affiliate_url": "https://www.amazon.com.br/Roku-Streaming-Dispositivo-streaming-compat%C3%ADvel/dp/B0FH7LY3R4/ref=zg_bs_g_electronics_d_sccl_10/130-5471262-3406342?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -2793,13 +3175,14 @@ const PRODUCTS = [
     "price_original": null,
     "parcelamento": null,
     "tem_selo_prime": false,
+    "tem_oferta": false,
     "avaliacao": 4.2,
     "qtd_avaliacoes": 574,
     "coupon_code": null,
     "description": "<ul><li>Evolua sua TV instantaneamente – O Fire TV Stick HD é nosso streaming stick HD mais rápido até agora, com uma navegação simplificada que leva você direto ao seu entretenimento. Leve seus filmes, séries e TV ao vivo para onde você for com o novo perfil ultraportátil. E veja tudo ganhar vida com Full HD nítido e suporte a Wi-Fi 6.</li><li>Jogue jogos Xbox – Jogue Call of Duty: Black Ops 7, Outer Worlds 2, Ninja Gaiden 4 e centenas de jogos no seu Fire TV Stick HD com Xbox Game Pass via nuvem. Assinatura do Xbox Game Pass e controle compatível necessários. Cada um deles é vendido separadamente.</li><li>A nova experiência Fire TV (lançamento 2026) – Nossa maior atualização do Fire TV tem um design novo e moderno que leva você ao seu entretenimento rapidamente. Navegue por categorias de conteúdo dedicadas e fixe mais dos seus aplicativos favoritos. Passe menos tempo procurando e mais tempo assistindo.</li><li>Todos os seus aplicativos em um só lugar – Prime Video, Netflix, YouTube, Disney+, Apple TV, HBO Max, Globoplay e outros. É fácil encontrar o que assistir entre mais de 250 mil filmes e episódios de séries, incluindo episódios de conteúdo gratuito com anúncios. Taxas de assinatura podem ser necessárias.</li><li>Nosso stick mais portátil – Fino e leve, sem bagunça. Conecta diretamente na porta HDMI da sua TV sem bloquear outras portas. Agora alimentado pela sua TV com o cabo USB-C incluso e elimina a necessidade de um adaptador de energia.</li><li>Escolhas mais inteligentes com Alexa – Encontrar o que você ama nunca foi tão fácil. Pressione o botão de voz do controle remoto e fale naturalmente para encontrar o que assistir em seus aplicativos, gerenciar sua casa inteligente ou mergulhar em praticamente qualquer tópico.</li><li>Controle remoto por voz com Alexa – Controle sua TV, soundbar e receptor compatíveis com botões dedicados para ligar/desligar e de volume. Use os botões predefinidos para abrir os principais aplicativos. Durante a configuração do dispositivo você receberá, no e-mail da sua conta Amazon, o convite para Alexa+. Caso prefira, você pode ativar Alexa+ por voz usando o controle do seu Fire TV Stick: pressione e segure o botão Alexa e fale: \"Alexa, vamos começar\" e ative Alexa+ na tela da sua TV.</li><li>Controle sua casa inteligente – Peça para Alexa dizer a previsão do tempo, diminuir as luzes, mostrar câmeras ao vivo, tocar música e muito mais com dispositivos compatíveis.</li><li>Escute por Bluetooth – Conecte seus fones de ouvido Bluetooth para escutar de forma privada e assistir TV sem incomodar quem está ao seu redor.</li></ul>",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/Fire-TV-Stick-HD/dp/B0DVK166SV/ref=zg_bs_g_electronics_d_sccl_11/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -2812,6 +3195,7 @@ const PRODUCTS = [
     "price_original": 1379.0,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.7,
     "qtd_avaliacoes": 30239,
     "coupon_code": null,
@@ -2872,99 +3256,7 @@ const PRODUCTS = [
       "Resolução máxima de cópia a preto e branco": "600 x 1200 dpi"
     },
     "affiliate_url": "https://www.amazon.com.br/Multifuncional-Epson-EcoTank-L3250-Colorida/dp/B098YHFT9S/ref=zg_bs_g_electronics_d_sccl_12/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B0GM1LSHQF",
-    "title": "JBL, Fone de Ouvido Bluetooth Over-Ear, Tune 530BT, Sem Fio, Até 76 Horas de Bateria - Preto",
-    "image": "https://m.media-amazon.com/images/I/61q9MOnS+2L._AC_SL1500_.jpg",
-    "canonical": null,
-    "category": "Ofertas do dia",
-    "price_current": 199.0,
-    "price_original": 299.0,
-    "parcelamento": null,
-    "tem_selo_prime": true,
-    "avaliacao": 4.6,
-    "qtd_avaliacoes": 205,
-    "coupon_code": null,
-    "description": "<ul><li>SOM JBL PURE BASS POTENTE. O fone de ouvido JBL Tune 530BT entrega graves profundos e impactantes com drivers de 33 mm, proporcionando áudio dinâmico para músicas, vídeos e chamadas ao longo do dia.</li><li>ATÉ 76 HORAS DE BATERIA. O fone de ouvido Bluetooth JBL oferece longa duração para uso contínuo, com carga rápida que garante até 5 horas de reprodução em apenas 5 minutos, ideal para rotinas intensas.</li><li>CHAMADAS CLARAS COM 2 MICROFONES. Dois microfones beamforming captam sua voz com precisão e reduzem ruídos externos, proporcionando conversas nítidas mesmo em ambientes movimentados.</li><li>CONEXÃO MULTIPONTO BLUETOOTH 6.0. Alterne facilmente entre dois dispositivos conectados. O fone de ouvido Bluetooth JBL mantém áudio estável, sincronizado e com menor consumo de energia.</li><li>CONFORTO LEVE E DESIGN DOBRÁVEL. O fone de ouvido JBL conta com almofadas macias e estrutura leve para uso prolongado. Dobrável e prático, acompanha sua rotina com conforto e facilidade de transporte.</li><li>SOM JBL PURE BASS POTENTE. O fone de ouvido JBL Tune 530BT entrega graves profundos e impactantes com drivers de 33 mm, proporcionando áudio dinâmico para músicas, vídeos e chamadas ao longo do dia.</li><li>ATÉ 76 HORAS DE BATERIA. O fone de ouvido Bluetooth JBL oferece longa duração para uso contínuo, com carga rápida que garante até 5 horas de reprodução em apenas 5 minutos, ideal para rotinas intensas.</li><li>CHAMADAS CLARAS COM 2 MICROFONES. Dois microfones beamforming captam sua voz com precisão e reduzem ruídos externos, proporcionando conversas nítidas mesmo em ambientes movimentados.</li><li>CONEXÃO MULTIPONTO BLUETOOTH 6.0. Alterne facilmente entre dois dispositivos conectados. O fone de ouvido Bluetooth JBL mantém áudio estável, sincronizado e com menor consumo de energia.</li><li>CONFORTO LEVE E DESIGN DOBRÁVEL. O fone de ouvido JBL conta com almofadas macias e estrutura leve para uso prolongado. Dobrável e prático, acompanha sua rotina com conforto e facilidade de transporte.</li></ul>",
-    "informacoes_produto": {
-      "Nome da marca": "JBL",
-      "Número do modelo": "28914075",
-      "Nome do modelo": "JBLT530BTBLKBR",
-      "Componentes incluídos": "1x fone de ouvido JBL Tune 530BT; 1x cabo de carregamento USB-C\"; 1x garantia/advertência (W/!); 1x guia de início rápido/ficha de segurança (S/i",
-      "Descrição da faixa etária": "Adulto",
-      "Descrição da garantia": "1 ano com o fabricante",
-      "Quantidade de itens": "1",
-      "UPC": "050036417440",
-      "Fabricante": "JBL",
-      "Certificação de teste externa": "05952-25-07120 / 04158-25-07120",
-      "ASIN": "B0GM1LSHQF",
-      "Cor": "Preto",
-      "Estilo": "Moderno",
-      "Tipo de controle": "Controle de chamada",
-      "Método de controle": "Remoto",
-      "Impedância": "20 Ohms",
-      "Controle de ruído": "Isolamento de som",
-      "Tipo de controlador de áudio": "Controlador dinâmico",
-      "Usos específicos do produto": "Entretenimento",
-      "Dispositivos compatíveis": "Celulares, Celulares Android, Iphone, Notebooks",
-      "Característica do cabo": "Sem cabo",
-      "Nível de resistência à água": "Não resistente à água",
-      "Características especiais": "2 mics para chamadas perfeitas, Bateria com até 76 horas de duração, Bluetooth® 6.0, Conexão multipontos, Som JBL Pure Bass",
-      "Entrada de fone de ouvido": "Sem Jack",
-      "Tecnologia de conectividade": "Sem fio",
-      "Tecnologia de comunicação sem fio": "Bluetooth",
-      "Versão do Bluetooth": "6",
-      "Colocação de auscultadores na orelha": "Extra-auriculares",
-      "Formato dos fones de ouvido": "Extra-auriculares",
-      "Forma do auricular": "Círculo",
-      "Duração da bateria": "76 Horas"
-    },
-    "affiliate_url": "https://www.amazon.com.br/JBL-Ouvido-Bluetooth-Over-Ear-Bateria/dp/B0GM1LSHQF?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B07X4JG2G4",
-    "title": "Duracell Carregador de Pilhas Recarregáveis AA e AAA Com 4 Pilhas AA Inclusas – Bivolt",
-    "image": "https://images-na.ssl-images-amazon.com/images/I/819KK4qPMeL._AC_UL900_SR900,600_.jpg",
-    "canonical": null,
-    "category": "Eletrônicos",
-    "price_current": 142.5,
-    "price_original": null,
-    "parcelamento": null,
-    "tem_selo_prime": true,
-    "avaliacao": 4.8,
-    "qtd_avaliacoes": 62250,
-    "coupon_code": null,
-    "description": "<ul><li>Auto desligamento quando as pilhas carregam 100%</li><li>Proteção que garante o carregamento seguro</li><li>Auto desligamento quando as pilhas carregam 100%</li><li>Proteção que garante o carregamento seguro</li></ul>",
-    "informacoes_produto": {
-      "Tipo de bateria": "4 AA baterias necessárias. (inclusas)",
-      "Nome da marca": "Duracell",
-      "Número do modelo": "CEF14 4",
-      "Nome do modelo": "Carregador de Pilhas Recarregáveis AA e AAA",
-      "UPC": "041333031217",
-      "Fabricante": "Duracell",
-      "Certificação de teste externa": "Não Aplicável",
-      "Descrição da garantia": "60 meses com o fabricante",
-      "Nome do Tipo de Produto": "Carregador de Pilhas com 4 pilhas AA",
-      "País de origem": "China",
-      "ASIN": "B07X4JG2G4",
-      "Capacidade da bateria": "2500",
-      "Voltagem": "12 Volts",
-      "Reutilização": "Recarregável",
-      "Modelos de telefone compatíveis": "Não Compatível",
-      "Contagem de unidades": "4 Unidade",
-      "Peso da bateria": "1,2 Gramas",
-      "Dimensões do artigo": "30,5 x 40,6 x 12,7 centímetros",
-      "Peso do item": "260 Miligramas",
-      "Usos recomendados do produto": "Aparelho auditivo, Controle remoto da TV, Câmera, Drone, Relógio",
-      "Composição da célula da pilha": "Alcalina"
-    },
-    "affiliate_url": "https://www.amazon.com.br/Carregador-Pilhas-com-pilhas-Duracell/dp/B07X4JG2G4/ref=zg_bs_g_electronics_d_sccl_14/130-5471262-3406342?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -2977,6 +3269,7 @@ const PRODUCTS = [
     "price_original": 124.9,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.9,
     "qtd_avaliacoes": 2464,
     "coupon_code": null,
@@ -3002,7 +3295,7 @@ const PRODUCTS = [
       "Composição da célula da pilha": "Alcalina"
     },
     "affiliate_url": "https://www.amazon.com.br/Pilha-AAA-Pequena-24-Unidades/dp/B0C9R8RC1P?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -3015,6 +3308,7 @@ const PRODUCTS = [
     "price_original": 149.0,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.5,
     "qtd_avaliacoes": 1841,
     "coupon_code": null,
@@ -3056,7 +3350,7 @@ const PRODUCTS = [
       "Contagem de unidades": "1.0 Unidade"
     },
     "affiliate_url": "https://www.amazon.com.br/Headphone-Bluetooth-TAH2300BK-00-Microfone/dp/B0FJMHMCBZ/ref=zg_bs_g_electronics_d_sccl_19/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -3069,13 +3363,14 @@ const PRODUCTS = [
     "price_original": 2199.0,
     "parcelamento": null,
     "tem_selo_prime": false,
+    "tem_oferta": false,
     "avaliacao": 4.8,
     "qtd_avaliacoes": 9642,
     "coupon_code": null,
     "description": "<ul><li>CONHEÇA O ECHO SPOT - Um despertador inteligente com som vibrante e Alexa. Sempre pronto para te ajudar a acordar, relaxar e muito mais.</li><li>DESPERTADOR INTELIGENTE PERSONALIZÁVEL - Veja facilmente a hora, a previsão do tempo e nomes de música, controle dispositivos de casa inteligente e muito mais. Personalize o display com seu design preferido de relógio e cores divertidas.</li><li>SOM POTENTE E VIBRANTE - Curta sons com vocais nítidos e graves profundos. É só pedir para Alexa reproduzir música, podcasts e audiolivros. Veja o título do que está tocando e controle sua música também por toque.</li><li>SUA VIDA MAIS FÁCIL - Crie uma rotina de Alexa para acordar aos poucos ao som de música e com iluminação gradual. Veja rapidamente a hora, confira os lembretes ou peça para Alexa dizer a previsão do tempo.</li><li>SUA CASA MAIS CONFORTÁVEL - Controle dispositivos de casa inteligente compatíveis. É só pedir para Alexa ou tocar no display para ligar ou desligar luzes inteligentes. Crie rotinas para desligar o ar-condicionado quando você sair de casa ou acender as luzes ao pôr do sol.</li><li>DESENVOLVIDO PARA PROTEGER A SUA PRIVACIDADE - A Amazon não vende informações pessoais de clientes. O Echo Spot foi construído com várias camadas de controles de privacidade, incluindo o botão de desligar o microfone e controles no aplicativo.</li><li>DESENVOLVIDO PENSANDO NA SUSTENTABILIDADE - Esse dispositivo foi feito com 36% de materiais reciclados.</li></ul>",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/echo-spot-despertador-inteligente-com-alexa-cor-preta/dp/B0C2RS4ZG6/ref=zg_bs_g_electronics_d_sccl_23/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -3088,6 +3383,7 @@ const PRODUCTS = [
     "price_original": 87.9,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.9,
     "qtd_avaliacoes": 454,
     "coupon_code": null,
@@ -3112,7 +3408,7 @@ const PRODUCTS = [
       "Composição da célula da pilha": "NiMH"
     },
     "affiliate_url": "https://www.amazon.com.br/Duracell-Optimum-AA-Pequena-Unidades/dp/B0BXYD49TV/ref=zg_bs_g_electronics_d_sccl_16/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -3125,6 +3421,7 @@ const PRODUCTS = [
     "price_original": 24.9,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.4,
     "qtd_avaliacoes": 9135,
     "coupon_code": null,
@@ -3147,7 +3444,7 @@ const PRODUCTS = [
       "Dimensões do item C x L x A": "6,7C x 6,7L x 15A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/intelbras-Antena-Interna-2025-Preto/dp/B0999NKXF9/ref=zg_bs_g_electronics_d_sccl_17/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -3160,6 +3457,7 @@ const PRODUCTS = [
     "price_original": 1499.0,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.3,
     "qtd_avaliacoes": 120,
     "coupon_code": null,
@@ -3211,7 +3509,7 @@ const PRODUCTS = [
       "Método de controle": "Aplicação, Remoto"
     },
     "affiliate_url": "https://www.amazon.com.br/Smart-Philco-HDR10-Dolby-P40CRA/dp/B0GJTCF75W/ref=zg_bs_g_electronics_d_sccl_18/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -3224,6 +3522,7 @@ const PRODUCTS = [
     "price_original": 299.0,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.8,
     "qtd_avaliacoes": 28536,
     "coupon_code": null,
@@ -3268,7 +3567,7 @@ const PRODUCTS = [
       "Duração da bateria": "57 Horas"
     },
     "affiliate_url": "https://www.amazon.com.br/JBL-Fone-Ouvido-Tune-520BT/dp/B0C4CCMNQT/ref=zg_bs_g_electronics_d_sccl_20/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -3281,6 +3580,7 @@ const PRODUCTS = [
     "price_original": 144.0,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.6,
     "qtd_avaliacoes": 7194,
     "coupon_code": null,
@@ -3330,7 +3630,7 @@ const PRODUCTS = [
       "Tempo de carregamento da bateria no estojo de transporte": "2 Horas"
     },
     "affiliate_url": "https://www.amazon.com.br/PHILIPS-TAT1109BK-00-Bluetooth-Microfone/dp/B0DVMQVVDY/ref=zg_bs_g_electronics_d_sccl_28/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -3343,6 +3643,7 @@ const PRODUCTS = [
     "price_original": 39.9,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.8,
     "qtd_avaliacoes": 38817,
     "coupon_code": null,
@@ -3369,7 +3670,7 @@ const PRODUCTS = [
       "ASIN": "B0765P3DB8"
     },
     "affiliate_url": "https://www.amazon.com.br/Suporte-Universal-Parede-Elg-GENIUS/dp/B0765P3DB8/ref=zg_bs_g_electronics_d_sccl_21/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -3382,6 +3683,7 @@ const PRODUCTS = [
     "price_original": 1799.0,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.4,
     "qtd_avaliacoes": 357,
     "coupon_code": null,
@@ -3435,7 +3737,7 @@ const PRODUCTS = [
       "Resolução do sensor fotográfico traseiro da câmara": "8 MP"
     },
     "affiliate_url": "https://www.amazon.com.br/Tablet-Samsung-Galaxy-128GB-WiFi/dp/B0G4SLJNFF/ref=zg_bs_g_electronics_d_sccl_24/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -3448,6 +3750,7 @@ const PRODUCTS = [
     "price_original": null,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.7,
     "qtd_avaliacoes": 3190,
     "coupon_code": null,
@@ -3473,7 +3776,7 @@ const PRODUCTS = [
       "Composição da célula da pilha": "Zinco"
     },
     "affiliate_url": "https://www.amazon.com.br/Pilha-Zinco-comum-AA-ELE000000082341/dp/B0B2YJK7KF/ref=zg_bs_g_electronics_d_sccl_26/147-9195032-1732734?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -3486,6 +3789,7 @@ const PRODUCTS = [
     "price_original": 12.5,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.8,
     "qtd_avaliacoes": 1251,
     "coupon_code": null,
@@ -3510,50 +3814,7 @@ const PRODUCTS = [
       "ASIN": "B0CM27NSBG"
     },
     "affiliate_url": "https://www.amazon.com.br/PIX-Suporte-Universal-Polegadas-Compacto/dp/B0CM27NSBG/ref=zg_bs_g_electronics_d_sccl_25/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B076HYZQMW",
-    "title": "ELG, PWC-R5, PowerCube, Multiplicador 5 Tomadas, Disjuntor Integrado de 10A, Filtro de Linha com Protetor de Surto, Bivolt, B",
-    "image": "https://m.media-amazon.com/images/I/51CsZOBHOoL._AC_SL1500_.jpg",
-    "canonical": null,
-    "category": "Eletrônicos",
-    "price_current": 50.0,
-    "price_original": 91.0,
-    "parcelamento": null,
-    "tem_selo_prime": true,
-    "avaliacao": 4.7,
-    "qtd_avaliacoes": 5348,
-    "coupon_code": null,
-    "description": "<ul><li>MULTIPLICADOR DE TOMADAS: Compacto, e em formato de cubo, o PowerCube transforma uma única tomada em 5 pontos de energia, que podem ser utilizadas simultaneamente para carregamento rápido de dispositivos eletrônicos.</li><li>TRAVA PARA CRIANÇAS: O sistema Child Lock garante proteção extra ao impedir a inserção acidental de objetos nas tomadas, liberando a entrada apenas quando os pinos são inseridos simultaneamente.</li><li>DESIGN PREMIADO: Com design premiado internacionalmente, sua estrutura única permite conectar todos os plugues ao mesmo tempo, sem bloqueios entre si. É ideal para uso em residências, escritórios e hotéis.</li><li>QUALIDADE PREMIUM: Fabricado em policarbonato antichamas, com conectores em cobre de alta pureza e certificação pelo Inmetro, obtenha segurança e eficiência em um produto bivolt de alto padrão.</li><li>SOBRE A ELG: A ELG é uma empresa brasileira que preza pela alta qualidade. Nossa política é aplicada em toda linha de produtos e garante que os consumidores possam adquirir itens que foram amplamente testados.</li><li>MULTIPLICADOR DE TOMADAS: Compacto, e em formato de cubo, o PowerCube transforma uma única tomada em 5 pontos de energia, que podem ser utilizadas simultaneamente para carregamento rápido de dispositivos eletrônicos.</li><li>TRAVA PARA CRIANÇAS: O sistema Child Lock garante proteção extra ao impedir a inserção acidental de objetos nas tomadas, liberando a entrada apenas quando os pinos são inseridos simultaneamente.</li><li>DESIGN PREMIADO: Com design premiado internacionalmente, sua estrutura única permite conectar todos os plugues ao mesmo tempo, sem bloqueios entre si. É ideal para uso em residências, escritórios e hotéis.</li><li>QUALIDADE PREMIUM: Fabricado em policarbonato antichamas, com conectores em cobre de alta pureza e certificação pelo Inmetro, obtenha segurança e eficiência em um produto bivolt de alto padrão.</li><li>SOBRE A ELG: A ELG é uma empresa brasileira que preza pela alta qualidade. Nossa política é aplicada em toda linha de produtos e garante que os consumidores possam adquirir itens que foram amplamente testados.</li><li>4 Tomadas + Controle Remoto + Cabo 1,5m</li><li>4 Tomadas + 2 USBs</li><li>4 Tomadas + 2 USBs + Cabo 1,5m</li><li>4 Tomadas + 2 USBs + Cabo 3m</li><li>5 Tomadas</li><li>5 Tomadas + Cabo 1,5m</li><li>5 Tomadas + Cabo 3m</li></ul>",
-    "informacoes_produto": {
-      "Número total de tomadas": "5",
-      "Voltagem": "110 Volts, 220 Volts",
-      "Características especiais": "Proteção de sobretensão",
-      "Corrente máxima": "10 Amperes",
-      "Conector": "Type B - 3 pin (North American)",
-      "Tipo de plugue": "Tipo B",
-      "Número de portas": "5",
-      "Dispositivos compatíveis": "Qualquer dispositivo com cabo de energia de três pinos padrão norte-americano",
-      "Amperagem": "10 Amperes",
-      "Cor": "Verde e Branco",
-      "Usos recomendados do produto": "home office, uso doméstico, áreas de trabalho",
-      "Material": "Plástico",
-      "Nome da marca": "ELG",
-      "País de origem": "Brasil",
-      "Número do modelo": "PWC-R5",
-      "Número da peça": "PWC-R5",
-      "Nome do Tipo de Produto": "Adaptador Múltiplo Bivolt 5 Tomadas",
-      "Componentes incluídos": "1 powercube",
-      "Certificação de teste externa": "Não aplicável, Não aplicável",
-      "Descrição da garantia": "12 meses",
-      "Fabricante": "ELG PEDESTAIS",
-      "Contagem de unidades": "5 Count",
-      "ASIN": "B076HYZQMW"
-    },
-    "affiliate_url": "https://www.amazon.com.br/Multiplicador-Tomadas-PowerCube-Elg-PWC-R5/dp/B076HYZQMW/ref=zg_bs_g_electronics_d_sccl_22/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -3566,13 +3827,14 @@ const PRODUCTS = [
     "price_original": 7999.0,
     "parcelamento": null,
     "tem_selo_prime": false,
+    "tem_oferta": false,
     "avaliacao": 4.6,
     "qtd_avaliacoes": 304,
     "coupon_code": null,
     "description": "<ul><li>Para consultar a homologação do produto, acesse: sistemas.anatel.gov.br/sch.</li><li>PROJETADO PARA ENCANTAR. FEITO PARA DURAR: O iPhone 17 vem em cinco cores lindas, com tela de 6,3 polegadas mais brilhante e parte da frente em Ceramic Shield 2, 3x mais resistente a arranhões</li><li>TELA DE 6,3 POLEGADAS COM PROMOTION. MUITO MAIS BRILHANTE: Mais leveza ao navegar com ProMotion de até 120 Hz, melhor contraste em ambientes externos com 3.000 nits de pico de brilho e 33% menos reflexos</li><li>FOTOS SURPREENDENTES: Tire fotos em altíssima resolução por padrão com o avançado sistema de câmera dupla Fusion de 48 MP, zoom de 2x com qualidade óptica e câmera Fusion ultra-angular de 48 MP</li><li>CÂMERA FRONTAL CENTER STAGE DE 18 MP: Flexibilidade para enquadrar. Selfies em grupo mais inteligentes. Vídeo com Captura Dupla para gravação simultânea das câmeras frontal e traseira. E muito mais</li><li>CHIP A19. POTÊNCIA DE SOBRA. EFICIÊNCIA NA MEDIDA: Com GPU de 5 núcleos, o Neural Engine aprimorado dá conta de tudo o que você faz no iPhone, incluindo a Apple Intelligence e jogos AAA</li><li>DEMORA PARA GASTAR. RÁPIDA PARA RECARREGAR: Bateria para o dia todo com até 30 horas de reprodução de vídeo. E até 50% de recarga em 20 minutos</li><li>iOS 26. NOVO VISUAL. AINDA MAIS MÁGICO: Novo design com Liquid Glass. Lindo, cativante e instantaneamente familiar. Com uma Tela Bloqueada mais viva, fundos personalizáveis e recursos como enquetes no Mensagens, Filtragem de Ligações e muito mais</li><li>FEITO PARA APPLE INTELLIGENCE: Pessoal, privada, poderosa. Escreva, se expresse e faça de tudo sem esforço</li><li>RECURSO ESSENCIAL DE SEGURANÇA: Com a Detecção de Acidente, o iPhone é capaz de identificar um acidente grave de carro e ligar para a emergência se você não puder</li><li>MAIOR CONECTIVIDADE. VELOCIDADES ALUCINANTES: Tenha velocidades mais altas com conexões seguras Wi-Fi 7, rede celular 5G, Bluetooth 6 e eSIM</li></ul>",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/Apple-iPhone-17-256-GB/dp/B0GQW2J4SK/ref=zg_bs_g_16243890011_d_sccl_3/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -3585,6 +3847,7 @@ const PRODUCTS = [
     "price_original": 2999.0,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.8,
     "qtd_avaliacoes": 2479,
     "coupon_code": null,
@@ -3637,7 +3900,7 @@ const PRODUCTS = [
       "Taxa de quadros": "60 fps"
     },
     "affiliate_url": "https://www.amazon.com.br/Celular-Samsung-Galaxy-C%C3%A2mera-Recursos/dp/B0DYVMS335/ref=zg_bs_g_16243890011_d_sccl_4/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -3650,6 +3913,7 @@ const PRODUCTS = [
     "price_original": null,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.8,
     "qtd_avaliacoes": 2831,
     "coupon_code": null,
@@ -3701,7 +3965,7 @@ const PRODUCTS = [
       "GPS": "Verdadeiro"
     },
     "affiliate_url": "https://www.amazon.com.br/Celular-Samsung-Galaxy-128GB-Preto/dp/B0FPJ52LSR/ref=zg_bs_g_electronics_d_sccl_30/147-9195032-1732734?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -3714,6 +3978,7 @@ const PRODUCTS = [
     "price_original": 4999.0,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.1,
     "qtd_avaliacoes": 1413,
     "coupon_code": null,
@@ -3755,7 +4020,7 @@ const PRODUCTS = [
       "ASIN": "B0FTC96JJ5"
     },
     "affiliate_url": "https://www.amazon.com.br/Celular-Samsung-Galaxy-C%C3%A2mera-Tripla/dp/B0FTC96JJ5/ref=zg_bs_g_electronics_d_sccl_5/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": true
   },
   {
@@ -3768,6 +4033,7 @@ const PRODUCTS = [
     "price_original": null,
     "parcelamento": null,
     "tem_selo_prime": false,
+    "tem_oferta": false,
     "avaliacao": 4.2,
     "qtd_avaliacoes": 177,
     "coupon_code": null,
@@ -3787,7 +4053,7 @@ const PRODUCTS = [
       "Cor": "Branco"
     },
     "affiliate_url": "https://www.amazon.com.br/Adaptadores-Tomada-Plug-250V-Eletrodom%C3%A9sticos/dp/B0GKCHNJFL/ref=zg_bs_g_electronics_d_sccl_2/130-5471262-3406342?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -3800,6 +4066,7 @@ const PRODUCTS = [
     "price_original": 119.9,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.6,
     "qtd_avaliacoes": 1873,
     "coupon_code": null,
@@ -3833,7 +4100,7 @@ const PRODUCTS = [
       "Método de controle": "Aplicação"
     },
     "affiliate_url": "https://www.amazon.com.br/Xiaomi-Redmi-Buds-6-Play/dp/B0DB52X2ZW/ref=zg_bs_g_electronics_d_sccl_1/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -3846,6 +4113,7 @@ const PRODUCTS = [
     "price_original": null,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.4,
     "qtd_avaliacoes": 5604,
     "coupon_code": null,
@@ -3867,7 +4135,7 @@ const PRODUCTS = [
       "ASIN": "B08B4DJNX8"
     },
     "affiliate_url": "https://www.amazon.com.br/Controle-Remoto-Tv-Samsung-Smart/dp/B08B4DJNX8/ref=zg_bs_g_electronics_d_sccl_4/143-4480001-1888442?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -3880,6 +4148,7 @@ const PRODUCTS = [
     "price_original": 1199.0,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.8,
     "qtd_avaliacoes": 4483,
     "coupon_code": null,
@@ -3927,7 +4196,7 @@ const PRODUCTS = [
       "Sincronização adaptável": "FreeSync, G-Sync"
     },
     "affiliate_url": "https://www.amazon.com.br/Monitor-LG-UltraGear-DisplayPort-FreeSyncTM/dp/B0D8DPT7ZY/ref=zg_bs_g_electronics_d_sccl_3/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -3940,6 +4209,7 @@ const PRODUCTS = [
     "price_original": 10099.0,
     "parcelamento": null,
     "tem_selo_prime": false,
+    "tem_oferta": false,
     "avaliacao": 4.8,
     "qtd_avaliacoes": 313,
     "coupon_code": null,
@@ -3967,7 +4237,7 @@ const PRODUCTS = [
       "ASIN": "B0DJFS7GXV"
     },
     "affiliate_url": "https://www.amazon.com.br/Apple-iPhone-16-512-GB/dp/B0DJFS7GXV/ref=zg_bs_g_electronics_d_sccl_22/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": true
   },
   {
@@ -3980,6 +4250,7 @@ const PRODUCTS = [
     "price_original": 1487.0,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.4,
     "qtd_avaliacoes": 1785,
     "coupon_code": null,
@@ -4042,7 +4313,7 @@ const PRODUCTS = [
       "GPS": "Falso"
     },
     "affiliate_url": "https://www.amazon.com.br/chamadas-alto-falantes-9000mAh-Bluetooth-25040RP0AL/dp/B0F9B9QDNK/ref=zg_bs_g_electronics_d_sccl_2/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -4055,6 +4326,7 @@ const PRODUCTS = [
     "price_original": null,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.6,
     "qtd_avaliacoes": 7755,
     "coupon_code": null,
@@ -4104,7 +4376,7 @@ const PRODUCTS = [
       "Duração da bateria": "12 Horas"
     },
     "affiliate_url": "https://www.amazon.com.br/TAT1209BK-00-bluetooth-tecnologia-reprodu%C3%A7%C3%A3o/dp/B0CS3RHBZQ/ref=zg_bs_g_electronics_d_sccl_17/140-2029926-4219235?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -4117,6 +4389,7 @@ const PRODUCTS = [
     "price_original": 109.9,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.2,
     "qtd_avaliacoes": 1696,
     "coupon_code": null,
@@ -4170,7 +4443,7 @@ const PRODUCTS = [
       "Tempo de carregamento da bateria no estojo de transporte": "2 Horas"
     },
     "affiliate_url": "https://www.amazon.com.br/Bluetooth-Microfone-Embutido-Ergon%C3%B4mico-Atividades/dp/B0FDB9Z96L/ref=zg_bs_g_electronics_d_sccl_11/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -4183,6 +4456,7 @@ const PRODUCTS = [
     "price_original": 89.9,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.0,
     "qtd_avaliacoes": 969,
     "coupon_code": null,
@@ -4208,7 +4482,7 @@ const PRODUCTS = [
       "Contagem de unidades": "1 Metro quadrado"
     },
     "affiliate_url": "https://www.amazon.com.br/C%C3%A2mera-Seguran%C3%A7a-Wi-Fi-Externa-Infravermelha/dp/B0FTT42SDP/ref=zg_bs_g_electronics_d_sccl_6/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -4221,13 +4495,14 @@ const PRODUCTS = [
     "price_original": 6799.0,
     "parcelamento": null,
     "tem_selo_prime": false,
+    "tem_oferta": false,
     "avaliacao": 4.8,
     "qtd_avaliacoes": 5431,
     "coupon_code": null,
     "description": "<ul><li>Para consultar a homologação do produto, acesse: sistemas.anatel.gov.br/sch.</li><li>O CONTROLE DA CÂMERA É SEU — O Controle da Câmera dá acesso mais fácil e rápido às ferramentas, como zoom ou profundidade de campo, para suas fotos e vídeos arrasarem também no quesito agilidade.</li><li>FOTOS QUE VÃO ALÉM E CHEGAM MAIS PERTO — A câmera ultra-angular com foco automático foi aprimorada para você fazer fotos e vídeos macro com detalhes nítidos e surpreendentes. Use a câmera Fusion de 48 MP e capture imagens em alta resolução de tirar o fôlego ou abuse do zoom com a qualidade óptica da teleobjetiva de 2x.</li><li>ESTILOS FOTOGRÁFICOS — A nova geração de Estilos Fotográficos dá mais flexibilidade do que nunca para criar e deixar cada foto ainda mais autoral. E você sempre tem a opção de reverter os estilos quando quiser.</li><li>CHIP A18 SUPERINTELIGENTE — O A18 está duas gerações à frente do chip A16 Bionic do iPhone 15. Ele é o grande responsável por recursos avançados para fotos e vídeos e faz seu aparelho praticamente virar um videogame. Tudo com eficiência excepcional no consumo de energia.</li><li>MAIOR DURAÇÃO DA BATERIA — O iPhone 16 trabalha em conjunto com o chip A18 e dá um grande salto na bateria, com até 22 horas de reprodução de vídeo. As recargas podem ser via USB-C ou com um carregador MagSafe, para recargas sem fio ainda mais rápidas.</li><li>FEITO PARA DURAR — O iPhone 16 tem design resistente em alumínio aeroespacial com tela Super Retina XDR de 6,1 polegadas. A parte frontal é em Ceramic Shield de última geração, duas vezes mais resistente que qualquer vidro de smartphone.</li><li>EXPERIMENTE O BOTÃO DE AÇÃO — Ele leva você direto ao seu recurso favorito. Mantenha pressionado para acender a lanterna, gravar um lembrete, ativar o modo Silencioso ou o que quiser.</li><li>PERSONALIZE SEU IPHONE — Com o iOS 18, você escolhe a cor dos ícones da Tela de Início e encontra seus cliques favoritos no novo app Fotos com mais rapidez. Também dá para aplicar efeitos animados e divertidos a qualquer palavra, frase ou emoji no iMessage.</li><li>RECURSO ESSENCIAL DE SEGURANÇA — Com a Detecção de Acidente, o iPhone é capaz de identificar um acidente grave de carro e ligar para a emergência se você não puder.</li><li>Este iPhone é compatível com eSIM. Entre em contato com a sua operadora para saber como ativar.</li></ul>",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/Apple-iPhone-16-128-GB/dp/B0DJFTJ6LX/ref=zg_bs_g_electronics_d_sccl_12/130-5471262-3406342?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -4240,6 +4515,7 @@ const PRODUCTS = [
     "price_original": 119.9,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.8,
     "qtd_avaliacoes": 7319,
     "coupon_code": null,
@@ -4271,7 +4547,7 @@ const PRODUCTS = [
       "Composição da célula da pilha": "NiMH"
     },
     "affiliate_url": "https://www.amazon.com.br/Duracell-Recarreg%C3%A1vel-Longa-Vida-Pacote/dp/B00007ISWA/ref=zg_bs_g_electronics_d_sccl_12/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -4284,6 +4560,7 @@ const PRODUCTS = [
     "price_original": 3399.0,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.6,
     "qtd_avaliacoes": 391,
     "coupon_code": null,
@@ -4357,7 +4634,7 @@ const PRODUCTS = [
       "Tipo de montagem": "Suporte De Mesa Ou Montagem Na Parede"
     },
     "affiliate_url": "https://www.amazon.com.br/LG-Processador-Upscaling-Integrado-Controle/dp/B0GL9BNY9W/ref=zg_bs_g_electronics_d_sccl_15/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -4370,6 +4647,7 @@ const PRODUCTS = [
     "price_original": 109.9,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.8,
     "qtd_avaliacoes": 26545,
     "coupon_code": null,
@@ -4397,7 +4675,7 @@ const PRODUCTS = [
       "Composição da célula da pilha": "NiMH"
     },
     "affiliate_url": "https://www.amazon.com.br/Pilha-Duracell-Recarreg%C3%A1vel-Aaa-unidades/dp/B000XSG300/ref=zg_bs_g_electronics_d_sccl_7/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -4410,6 +4688,7 @@ const PRODUCTS = [
     "price_original": 44.9,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.9,
     "qtd_avaliacoes": 4466,
     "coupon_code": null,
@@ -4436,7 +4715,7 @@ const PRODUCTS = [
       "Composição da célula da pilha": "Alcalina"
     },
     "affiliate_url": "https://www.amazon.com.br/Duracell-Pilha-Alcalina-Aaa/dp/B07LCTKD4D/ref=zg_bs_g_electronics_d_sccl_16/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -4449,6 +4728,7 @@ const PRODUCTS = [
     "price_original": 1099.0,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.4,
     "qtd_avaliacoes": 301,
     "coupon_code": null,
@@ -4493,7 +4773,7 @@ const PRODUCTS = [
       "Método de controle": "Aplicação, Remoto"
     },
     "affiliate_url": "https://www.amazon.com.br/Smart-Philco-Dolby-%C3%81udio-P32CRB/dp/B0GH34KFLR/ref=zg_bs_g_electronics_d_sccl_17/130-5471262-3406342?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -4506,6 +4786,7 @@ const PRODUCTS = [
     "price_original": 649.0,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.8,
     "qtd_avaliacoes": 7110,
     "coupon_code": null,
@@ -4533,7 +4814,7 @@ const PRODUCTS = [
       "ASIN": "B0BX8WSXFG"
     },
     "affiliate_url": "https://www.amazon.com.br/instax-85364-CAMERA-INSTAX-MINI-ROSA-GLOSS/dp/B0BX8WSXFG/ref=zg_bs_g_electronics_d_sccl_24/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -4546,6 +4827,7 @@ const PRODUCTS = [
     "price_original": null,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.8,
     "qtd_avaliacoes": 1537,
     "coupon_code": null,
@@ -4570,7 +4852,7 @@ const PRODUCTS = [
       "Composição da célula da pilha": "Lítio"
     },
     "affiliate_url": "https://www.amazon.com.br/Bateria-Philips-tipo-moeda-CR2032/dp/B0977CLHW5/ref=zg_bs_g_electronics_d_sccl_9/140-2029926-4219235?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -4583,6 +4865,7 @@ const PRODUCTS = [
     "price_original": 1400.0,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.7,
     "qtd_avaliacoes": 10494,
     "coupon_code": null,
@@ -4618,7 +4901,7 @@ const PRODUCTS = [
       "Tipo de instalação": "Disco rígido interno"
     },
     "affiliate_url": "https://www.amazon.com.br/Kingston-2280-NVMe-SNV3S-1000G/dp/B0DBR3DZWG/ref=zg_bs_g_electronics_d_sccl_20/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -4631,6 +4914,7 @@ const PRODUCTS = [
     "price_original": null,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.8,
     "qtd_avaliacoes": 233,
     "coupon_code": null,
@@ -4690,7 +4974,7 @@ const PRODUCTS = [
       "Resolução de captura de vídeo": "30fps"
     },
     "affiliate_url": "https://www.amazon.com.br/Celular-Samsung-Galaxy-128GB-50MP/dp/B0FPPQ5T37/ref=zg_bs_g_electronics_d_sccl_10/143-4480001-1888442?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -4703,6 +4987,7 @@ const PRODUCTS = [
     "price_original": 1499.0,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.4,
     "qtd_avaliacoes": 719,
     "coupon_code": null,
@@ -4754,7 +5039,7 @@ const PRODUCTS = [
       "Padrão de montagem VESA": "200 x 200 mm"
     },
     "affiliate_url": "https://www.amazon.com.br/Samsung-Smart-TV-H5000F-2025/dp/B0F38JYBZB/ref=zg_bs_g_electronics_d_sccl_13/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -4767,6 +5052,7 @@ const PRODUCTS = [
     "price_original": 9999.0,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.6,
     "qtd_avaliacoes": 1531,
     "coupon_code": null,
@@ -4810,7 +5096,7 @@ const PRODUCTS = [
       "Tipo de montagem": "Montagem na parede"
     },
     "affiliate_url": "https://www.amazon.com.br/LG-Processador-Upscaling-Integrado-Controle/dp/B0F5X1GYX8/ref=zg_bs_g_electronics_d_sccl_28/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": true
   },
   {
@@ -4823,6 +5109,7 @@ const PRODUCTS = [
     "price_original": 19.9,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.5,
     "qtd_avaliacoes": 1121,
     "coupon_code": null,
@@ -4841,7 +5128,7 @@ const PRODUCTS = [
       "Quantidade de itens": "1"
     },
     "affiliate_url": "https://www.amazon.com.br/Universal-Funcionais-Aplicativo-Compat%C3%ADvel-AKB75095315/dp/B0C71VM2ZS/ref=zg_bs_g_electronics_d_sccl_21/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -4854,6 +5141,7 @@ const PRODUCTS = [
     "price_original": 1499.0,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.8,
     "qtd_avaliacoes": 345,
     "coupon_code": null,
@@ -4900,7 +5188,7 @@ const PRODUCTS = [
       "ASIN": "B0GL9QPQYL"
     },
     "affiliate_url": "https://www.amazon.com.br/Smartphone-Xiaomi-Redmi-Preto-2510DRA23L/dp/B0GL9QPQYL/ref=zg_bs_g_electronics_d_sccl_19/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -4913,6 +5201,7 @@ const PRODUCTS = [
     "price_original": 19.9,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.9,
     "qtd_avaliacoes": 105,
     "coupon_code": null,
@@ -4933,7 +5222,7 @@ const PRODUCTS = [
       "ASIN": "B0H161WG23"
     },
     "affiliate_url": "https://www.amazon.com.br/Controle-Premium-Compat%C3%ADvel-Samsung-Crystal/dp/B0H161WG23/ref=zg_bs_g_electronics_d_sccl_23/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -4946,6 +5235,7 @@ const PRODUCTS = [
     "price_original": 499.0,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.6,
     "qtd_avaliacoes": 425,
     "coupon_code": null,
@@ -4979,7 +5269,7 @@ const PRODUCTS = [
       "Tecnologia de conectividade": "USB"
     },
     "affiliate_url": "https://www.amazon.com.br/Impressora-multifuncional-HP-Advantage-2975/dp/B0G491Z8QR/ref=zg_bs_g_electronics_d_sccl_25/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -4992,6 +5282,7 @@ const PRODUCTS = [
     "price_original": 14.98,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.7,
     "qtd_avaliacoes": 564,
     "coupon_code": null,
@@ -5017,7 +5308,7 @@ const PRODUCTS = [
       "Composição da célula da pilha": "Íon-lítio"
     },
     "affiliate_url": "https://www.amazon.com.br/Bateria-Lithium-Maxprint-3V-unidades/dp/B088CLY66K/ref=zg_bs_g_electronics_d_sccl_18/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -5030,6 +5321,7 @@ const PRODUCTS = [
     "price_original": null,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.9,
     "qtd_avaliacoes": 2565,
     "coupon_code": null,
@@ -5087,7 +5379,7 @@ const PRODUCTS = [
       "Características especiais": "Conectividade Celular"
     },
     "affiliate_url": "https://www.amazon.com.br/Samsung-Imersiva-Traseira-Frontal-Android/dp/B0F3LTWYS5/ref=zg_bs_g_electronics_d_sccl_30/130-5471262-3406342?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -5100,6 +5392,7 @@ const PRODUCTS = [
     "price_original": null,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.1,
     "qtd_avaliacoes": 3724,
     "coupon_code": null,
@@ -5123,7 +5416,7 @@ const PRODUCTS = [
       "Certificação de teste externa": "Não Aplicável"
     },
     "affiliate_url": "https://www.amazon.com.br/Filtro-Refil-Original-Purificador-Electrolux/dp/B0F256HPZJ/ref=zg_bs_g_kitchen_d_sccl_1/143-4480001-1888442?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -5136,6 +5429,7 @@ const PRODUCTS = [
     "price_original": 159.9,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.7,
     "qtd_avaliacoes": 19746,
     "coupon_code": null,
@@ -5159,7 +5453,7 @@ const PRODUCTS = [
       "Tipo de garantia": "Limitada"
     },
     "affiliate_url": "https://www.amazon.com.br/Sanduicheira-El%C3%A9trica-Cadence-Click-127V/dp/B0CDJ4L7CZ/ref=zg_bs_g_kitchen_d_sccl_2/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -5172,6 +5466,7 @@ const PRODUCTS = [
     "price_original": 159.9,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.6,
     "qtd_avaliacoes": 19667,
     "coupon_code": null,
@@ -5206,7 +5501,7 @@ const PRODUCTS = [
       "Tipo de garantia": "Garantia limitada de 1 ano"
     },
     "affiliate_url": "https://www.amazon.com.br/MONDIAL-Liquidificador-Turbo-Power-Preto/dp/B07QK91PTZ/ref=zg_bs_g_kitchen_d_sccl_3/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -5219,6 +5514,7 @@ const PRODUCTS = [
     "price_original": 129.9,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.8,
     "qtd_avaliacoes": 52918,
     "coupon_code": null,
@@ -5251,7 +5547,7 @@ const PRODUCTS = [
       "Forma do recipiente": "Retangular"
     },
     "affiliate_url": "https://www.amazon.com.br/Kit-Potes-Herm%C3%A9ticos-Pl%C3%A1stico-Electrolux/dp/B09XJL4B9H/ref=zg_bs_g_kitchen_d_sccl_4/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -5264,6 +5560,7 @@ const PRODUCTS = [
     "price_original": 199.9,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.6,
     "qtd_avaliacoes": 9210,
     "coupon_code": null,
@@ -5293,7 +5590,7 @@ const PRODUCTS = [
       "Material da Lâmina": "aço inoxidável"
     },
     "affiliate_url": "https://www.amazon.com.br/Mixer-Turbo-Elgin-42MIX2001000-Preto/dp/B09VQ39F41/ref=zg_bs_g_kitchen_d_sccl_5/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -5306,6 +5603,7 @@ const PRODUCTS = [
     "price_original": 319.9,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.4,
     "qtd_avaliacoes": 17567,
     "coupon_code": null,
@@ -5337,7 +5635,7 @@ const PRODUCTS = [
       "Tipo de garantia": "Garantia limitada"
     },
     "affiliate_url": "https://www.amazon.com.br/Liquidificador-1400-Full-Preto-Oster/dp/B08DFJRCJB/ref=zg_bs_g_kitchen_d_sccl_6/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -5350,6 +5648,7 @@ const PRODUCTS = [
     "price_original": 599.0,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.7,
     "qtd_avaliacoes": 9368,
     "coupon_code": null,
@@ -5388,7 +5687,7 @@ const PRODUCTS = [
       "Cor": "Black"
     },
     "affiliate_url": "https://www.amazon.com.br/Fritadeira-Fryer-Forno-Litros-Mondial/dp/B0BZJDLT6Z/ref=zg_bs_g_kitchen_d_sccl_8/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -5401,6 +5700,7 @@ const PRODUCTS = [
     "price_original": 549.9,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.8,
     "qtd_avaliacoes": 1904,
     "coupon_code": null,
@@ -5440,7 +5740,7 @@ const PRODUCTS = [
       "Cor": "Preta"
     },
     "affiliate_url": "https://www.amazon.com.br/Fritadeira-Airfryer-Walita-Tecnologia-RapidAir/dp/B0D98VXWXB/ref=zg_bs_g_kitchen_d_sccl_7/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -5453,6 +5753,7 @@ const PRODUCTS = [
     "price_original": 594.5,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.7,
     "qtd_avaliacoes": 3145,
     "coupon_code": null,
@@ -5493,7 +5794,7 @@ const PRODUCTS = [
       "Material interno": "esmaltado cerâmico"
     },
     "affiliate_url": "https://www.amazon.com.br/Micro-ondas-Philco-Branco-Pmo23bb-110v/dp/B097CJVNWS/ref=zg_bs_g_kitchen_d_sccl_9/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -5506,6 +5807,7 @@ const PRODUCTS = [
     "price_original": 49.9,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.3,
     "qtd_avaliacoes": 107,
     "coupon_code": null,
@@ -5525,7 +5827,7 @@ const PRODUCTS = [
       "Cor": "Inox"
     },
     "affiliate_url": "https://www.amazon.com.br/Chaleira-El%C3%A9trica-Desligamento-Automatico-Aquecimento/dp/B0H4ZXQ8QK/ref=zg_bs_g_kitchen_d_sccl_11/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -5538,6 +5840,7 @@ const PRODUCTS = [
     "price_original": 99.9,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.7,
     "qtd_avaliacoes": 16601,
     "coupon_code": null,
@@ -5566,52 +5869,7 @@ const PRODUCTS = [
       "Cor": "Preto"
     },
     "affiliate_url": "https://www.amazon.com.br/Espremedor-Premium-220V-Mondial-Preto/dp/B076FGHHNG/ref=zg_bs_g_kitchen_d_sccl_12/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B0GSH6DCCJ",
-    "title": "Kit 10 Potes de Vidro Herméticos 640ml com 4 Travas Ideal para Marmitas e Conservação de Alimentos, Vedação Total, Refratário",
-    "image": "https://m.media-amazon.com/images/I/71sfm0MbB8L._AC_SL1000_.jpg",
-    "canonical": null,
-    "category": "Cozinha",
-    "price_current": 96.11,
-    "price_original": 106.79,
-    "parcelamento": null,
-    "tem_selo_prime": true,
-    "avaliacao": 5.0,
-    "qtd_avaliacoes": 552,
-    "coupon_code": null,
-    "description": "<ul><li>🥗 Ideal para Marmitas e Conservação de Alimentos</li><li>🔒 Vedação Hermética com 4 Travas</li><li>🔥 Vidro Refratário Resistente</li><li>🍲 Pode Ir ao Forno e Micro-ondas</li><li>❄️ Pode Ir ao Freezer e Geladeira</li><li>👀 Design Transparente e Prático</li><li>🧼 Fácil de Limpar e Higienizar</li><li>📦 Kit com 10 Potes de 640ml</li><li>🌱 Tampa Livre de BPA</li><li>🥗 Ideal para Marmitas e Conservação de Alimentos</li><li>🔒 Vedação Hermética com 4 Travas</li><li>🔥 Vidro Refratário Resistente</li><li>🍲 Pode Ir ao Forno e Micro-ondas</li><li>❄️ Pode Ir ao Freezer e Geladeira</li><li>👀 Design Transparente e Prático</li><li>🧼 Fácil de Limpar e Higienizar</li><li>📦 Kit com 10 Potes de 640ml</li><li>🌱 Tampa Livre de BPA</li><li>10</li></ul>",
-    "informacoes_produto": {
-      "Capacidade": "640 ml",
-      "Dimensões do item C x L x A": "12C x 7L x 17A centímetros",
-      "Quantidade de pacotes do item": "1",
-      "Peso do item": "4,73 Quilogramas",
-      "Volume do item": "640 Mililitros",
-      "Contagem de unidades": "10 unidade",
-      "Tamanho": "640 ml",
-      "Características especiais": "Empilhável, Hermético, Leve, Transparente",
-      "Tipo de fechamento": "Travas com vedação hermética",
-      "Cor": "Transparente",
-      "Forma do recipiente": "Retangular",
-      "Material": "Vidro",
-      "O item pode ser lavado na máquina de lavar louça?": "Sim",
-      "Livre de tipo de material": "Sem BPA",
-      "Instruções de cuidados com o produto": "Lavar antes do primeiro uso",
-      "O item pode ir no micro-ondas?": "Sim",
-      "Material da tampa": "Plástico com anel de silicone",
-      "Nome da marca": "Genérico",
-      "Usos recomendados do produto": "Armazenar alimentos,, Fruta, marmitas, organização da geladeira, refeições",
-      "Formato do item": "retangular",
-      "Fabricante": "Importado",
-      "Usos específicos do produto": "Armazenamento de alimentos, marmitas, organização da cozinha",
-      "País de origem": "China",
-      "Componentes incluídos": "10 potes de vidro herméticos 640ml com tampa e anel de silicone",
-      "ASIN": "B0GSH6DCCJ"
-    },
-    "affiliate_url": "https://www.amazon.com.br/Herm%C3%A9ticos-Marmitas-Conserva%C3%A7%C3%A3o-Alimentos-Refrat%C3%A1rio/dp/B0GSH6DCCJ/ref=zg_bs_g_kitchen_d_sccl_12/130-5471262-3406342?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -5624,6 +5882,7 @@ const PRODUCTS = [
     "price_original": 241.06,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.8,
     "qtd_avaliacoes": 9705,
     "coupon_code": null,
@@ -5650,7 +5909,7 @@ const PRODUCTS = [
       "Disponível para compra desde": "29 julho 2023"
     },
     "affiliate_url": "https://www.amazon.com.br/Tramontina-Vancouver-Alum%C3%ADnio-Revestimento-Antiaderente/dp/B0CD4SCM33/ref=zg_bs_g_kitchen_d_sccl_17/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -5663,6 +5922,7 @@ const PRODUCTS = [
     "price_original": 29.99,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.1,
     "qtd_avaliacoes": 2663,
     "coupon_code": null,
@@ -5680,7 +5940,7 @@ const PRODUCTS = [
       "Formato do item": "Quadrado"
     },
     "affiliate_url": "https://www.amazon.com.br/Unidades-Flexivel-Forminha-Silicone-Alimentos/dp/B0CCB3HLGK/ref=zg_bs_g_kitchen_d_sccl_13/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -5693,6 +5953,7 @@ const PRODUCTS = [
     "price_original": null,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.5,
     "qtd_avaliacoes": 27093,
     "coupon_code": null,
@@ -5719,7 +5980,7 @@ const PRODUCTS = [
       "ASIN": "B08X66RQ48"
     },
     "affiliate_url": "https://www.amazon.com.br/Purificador-Electrolux-Compacto-Cinza-Bivolt/dp/B08X66RQ48/ref=zg_bs_g_kitchen_d_sccl_16/143-4480001-1888442?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -5732,6 +5993,7 @@ const PRODUCTS = [
     "price_original": 39.9,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.6,
     "qtd_avaliacoes": 6088,
     "coupon_code": null,
@@ -5758,7 +6020,7 @@ const PRODUCTS = [
       "Disponível para compra desde": "13 dezembro 2022"
     },
     "affiliate_url": "https://www.amazon.com.br/Forma-Quadrada-Silicone-Fryer-Cinza/dp/B0BPYT6NL2/ref=zg_bs_g_kitchen_d_sccl_14/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -5771,6 +6033,7 @@ const PRODUCTS = [
     "price_original": 0.13,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.8,
     "qtd_avaliacoes": 5821,
     "coupon_code": null,
@@ -5799,7 +6062,7 @@ const PRODUCTS = [
       "Dimensões do artigo": "11 x 11 x 11 centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/Dolce-Mochaccino-C%C3%A1psula-Nescaf%C3%A9-Unidades/dp/B0CN1L7B18/ref=zg_bs_g_kitchen_d_sccl_19/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -5812,6 +6075,7 @@ const PRODUCTS = [
     "price_original": 36.89,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.7,
     "qtd_avaliacoes": 3685,
     "coupon_code": null,
@@ -5840,7 +6104,7 @@ const PRODUCTS = [
       "Quantidade de itens": "1"
     },
     "affiliate_url": "https://www.amazon.com.br/Termica-Marmita-Lancheira-Trabalho-Academia/dp/B0CYVDJDC1/ref=zg_bs_g_kitchen_d_sccl_15/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -5853,6 +6117,7 @@ const PRODUCTS = [
     "price_original": 49.99,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.8,
     "qtd_avaliacoes": 3665,
     "coupon_code": null,
@@ -5885,7 +6150,7 @@ const PRODUCTS = [
       "O item pode ir no micro-ondas?": "Não"
     },
     "affiliate_url": "https://www.amazon.com.br/Romantic-T%C3%A9rmico-Smoothie-Presente-inoxid%C3%A1vel/dp/B0D9GDGHJY/ref=zg_bs_g_kitchen_d_sccl_18/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -5898,6 +6163,7 @@ const PRODUCTS = [
     "price_original": 99.0,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.8,
     "qtd_avaliacoes": 3957,
     "coupon_code": null,
@@ -5930,7 +6196,7 @@ const PRODUCTS = [
       "Forma do recipiente": "Retangular"
     },
     "affiliate_url": "https://www.amazon.com.br/Potes-Vidro-Retangular-Tampa-Herm%C3%A9tica/dp/B08CPW5BR2/ref=zg_bs_g_kitchen_d_sccl_22/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -5943,6 +6209,7 @@ const PRODUCTS = [
     "price_original": 34.9,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.1,
     "qtd_avaliacoes": 249,
     "coupon_code": null,
@@ -5971,7 +6238,7 @@ const PRODUCTS = [
       "Tipo de acabamento": "Aço Inoxidável Escovado"
     },
     "affiliate_url": "https://www.amazon.com.br/Chaleira-El%C3%A9trica-Inox-Litro-110v/dp/B0GYSBW68G/ref=zg_bs_g_kitchen_d_sccl_20/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -5984,6 +6251,7 @@ const PRODUCTS = [
     "price_original": 125.26,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.8,
     "qtd_avaliacoes": 11373,
     "coupon_code": null,
@@ -6008,7 +6276,7 @@ const PRODUCTS = [
       "Tipo de garantia": "Garantia de 1 Ano"
     },
     "affiliate_url": "https://www.amazon.com.br/Brit%C3%A2nia-SANDUICHEIRA-GRILL-PRESS-BGR27I/dp/B09WWY48B7/ref=zg_bs_g_kitchen_d_sccl_24/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -6021,6 +6289,7 @@ const PRODUCTS = [
     "price_original": 547.0,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.7,
     "qtd_avaliacoes": 2945,
     "coupon_code": null,
@@ -6051,7 +6320,7 @@ const PRODUCTS = [
       "Cor": "Preto"
     },
     "affiliate_url": "https://www.amazon.com.br/Multiprocessador-Pmp1600p-1400w-101201001-Philco/dp/B07QN1RW8K/ref=zg_bs_g_kitchen_d_sccl_21/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -6064,6 +6333,7 @@ const PRODUCTS = [
     "price_original": 42.9,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.2,
     "qtd_avaliacoes": 3300,
     "coupon_code": null,
@@ -6084,7 +6354,7 @@ const PRODUCTS = [
       "Formato do item": "Redondo"
     },
     "affiliate_url": "https://www.amazon.com.br/Utens%C3%ADlios-Cozinha-Silicone-Resistente-Antiaderente/dp/B0CKWDY274/ref=zg_bs_g_kitchen_d_sccl_23/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -6097,6 +6367,7 @@ const PRODUCTS = [
     "price_original": 259.0,
     "parcelamento": null,
     "tem_selo_prime": false,
+    "tem_oferta": false,
     "avaliacao": 4.6,
     "qtd_avaliacoes": 2149,
     "coupon_code": null,
@@ -6122,7 +6393,7 @@ const PRODUCTS = [
       "Cor": "Black"
     },
     "affiliate_url": "https://www.amazon.com.br/Stanley-Garrafa-T%C3%A9rmica-Aerolight-Transit/dp/B0FR5D4ZYY/ref=zg_bs_g_kitchen_d_sccl_25/130-5471262-3406342?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -6135,6 +6406,7 @@ const PRODUCTS = [
     "price_original": 196.79,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.7,
     "qtd_avaliacoes": 13074,
     "coupon_code": null,
@@ -6161,7 +6433,7 @@ const PRODUCTS = [
       "Tensão de entrada": "127 Volts"
     },
     "affiliate_url": "https://www.amazon.com.br/Pipoqueira-Brit%C3%A2nia-Pop-Time-IMPORTADOS/dp/B076BB2NCN/ref=zg_bs_g_kitchen_d_sccl_26/130-5471262-3406342?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -6174,6 +6446,7 @@ const PRODUCTS = [
     "price_original": 739.9,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.7,
     "qtd_avaliacoes": 11308,
     "coupon_code": null,
@@ -6205,7 +6478,7 @@ const PRODUCTS = [
       "Cor": "Preto"
     },
     "affiliate_url": "https://www.amazon.com.br/Electrolux-capacidade-silenciosa-seguran%C3%A7a-pr%C3%A9-programadas/dp/B076HYKFL7/ref=zg_bs_g_kitchen_d_sccl_27/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -6218,6 +6491,7 @@ const PRODUCTS = [
     "price_original": 22.11,
     "parcelamento": null,
     "tem_selo_prime": false,
+    "tem_oferta": false,
     "avaliacao": 1.7,
     "qtd_avaliacoes": 17876,
     "coupon_code": null,
@@ -6243,7 +6517,7 @@ const PRODUCTS = [
       "Características especiais": "Grooves for liquid collection"
     },
     "affiliate_url": "https://www.amazon.com.br/T%C3%A1bua-Retangular-Bamboo-Mor-35/dp/B076X5ZLZQ/ref=zg_bs_g_kitchen_d_sccl_28/130-5471262-3406342?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -6256,6 +6530,7 @@ const PRODUCTS = [
     "price_original": 154.9,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 5.0,
     "qtd_avaliacoes": 3894,
     "coupon_code": null,
@@ -6284,7 +6559,7 @@ const PRODUCTS = [
       "Cor": "Preto/Inox"
     },
     "affiliate_url": "https://www.amazon.com.br/Chaleira-El%C3%A9trica-Pratic-Mondial-CE-06/dp/B076MCNZX6/ref=zg_bs_g_kitchen_d_sccl_30/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -6297,6 +6572,7 @@ const PRODUCTS = [
     "price_original": null,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 5.0,
     "qtd_avaliacoes": 741,
     "coupon_code": null,
@@ -6320,7 +6596,7 @@ const PRODUCTS = [
       "Certificação de teste externa": "Não Aplicável"
     },
     "affiliate_url": "https://www.amazon.com.br/Filtro-Refil-Original-Purificador-Electrolux/dp/B0F256PXM8/ref=zg_bs_g_kitchen_d_sccl_29/147-9195032-1732734?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -6333,6 +6609,7 @@ const PRODUCTS = [
     "price_original": null,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.5,
     "qtd_avaliacoes": 509,
     "coupon_code": null,
@@ -6359,7 +6636,7 @@ const PRODUCTS = [
       "ASIN": "B0FNYHYV8V"
     },
     "affiliate_url": "https://www.amazon.com.br/Alimentos-Port%C3%A1til-Resistente-Antiderrapante-Defini%C3%A7%C3%A3o/dp/B0FNYHYV8V/ref=zg_bs_g_kitchen_d_sccl_1/130-5471262-3406342?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -6372,6 +6649,7 @@ const PRODUCTS = [
     "price_original": 489.0,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.8,
     "qtd_avaliacoes": 2632,
     "coupon_code": null,
@@ -6407,7 +6685,7 @@ const PRODUCTS = [
       "Material": "Plástico"
     },
     "affiliate_url": "https://www.amazon.com.br/Nespresso-Cafeteira-Espresso-compacta-autom%C3%A1tica/dp/B099ZJQXMF/ref=zg_bs_g_kitchen_d_sccl_2/130-5471262-3406342?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -6420,6 +6698,7 @@ const PRODUCTS = [
     "price_original": 754.0,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.8,
     "qtd_avaliacoes": 8485,
     "coupon_code": null,
@@ -6446,7 +6725,7 @@ const PRODUCTS = [
       "O forno é seguro": "Sim"
     },
     "affiliate_url": "https://www.amazon.com.br/Jogo-Panelas-pe%C3%A7as-Solar-Tramontina/dp/B09XBNTHCC/ref=zg_bs_g_kitchen_d_sccl_11/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -6459,6 +6738,7 @@ const PRODUCTS = [
     "price_original": 699.9,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.6,
     "qtd_avaliacoes": 1892,
     "coupon_code": null,
@@ -6489,7 +6769,7 @@ const PRODUCTS = [
       "Material da Lâmina": "aço inoxidável"
     },
     "affiliate_url": "https://www.amazon.com.br/Batedeira-Planet%C3%A1ria-Oster-Bowl-OBAT641/dp/B0C4CF2F67/ref=zg_bs_g_kitchen_d_sccl_9/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -6502,6 +6782,7 @@ const PRODUCTS = [
     "price_original": 0.15,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.8,
     "qtd_avaliacoes": 652,
     "coupon_code": null,
@@ -6524,7 +6805,7 @@ const PRODUCTS = [
       "Formato do item": "Cone"
     },
     "affiliate_url": "https://www.amazon.com.br/Filtro-para-Caf%C3%A9-102-Melitta/dp/B078XNNYG6/ref=zg_bs_g_kitchen_d_sccl_4/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -6537,6 +6818,7 @@ const PRODUCTS = [
     "price_original": 499.9,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.7,
     "qtd_avaliacoes": 2245,
     "coupon_code": null,
@@ -6570,7 +6852,7 @@ const PRODUCTS = [
       "Estilo": "Moderna"
     },
     "affiliate_url": "https://www.amazon.com.br/Cafeteira-Espresso-Passione-Preta-Cora%C3%A7%C3%B5es/dp/B08S1ZS6R1/ref=zg_bs_g_kitchen_d_sccl_13/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -6583,6 +6865,7 @@ const PRODUCTS = [
     "price_original": 144.9,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.8,
     "qtd_avaliacoes": 5338,
     "coupon_code": null,
@@ -6609,7 +6892,7 @@ const PRODUCTS = [
       "Material": "PP"
     },
     "affiliate_url": "https://www.amazon.com.br/Sanduicheira-Grill-Sandwich-Mondial-S-12/dp/B076FGX8GR/ref=zg_bs_g_kitchen_d_sccl_3/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -6622,6 +6905,7 @@ const PRODUCTS = [
     "price_original": 169.9,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.9,
     "qtd_avaliacoes": 2369,
     "coupon_code": null,
@@ -6647,7 +6931,7 @@ const PRODUCTS = [
       "Tipo de acabamento": "Escovado"
     },
     "affiliate_url": "https://www.amazon.com.br/Chaleira-El%C3%A9trica-Electrolux-Efficient-EEK10/dp/B09CBXQFYY/ref=zg_bs_g_kitchen_d_sccl_1/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -6660,6 +6944,7 @@ const PRODUCTS = [
     "price_original": null,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.7,
     "qtd_avaliacoes": 29185,
     "coupon_code": null,
@@ -6682,7 +6967,7 @@ const PRODUCTS = [
       "Formato do item": "Retangular"
     },
     "affiliate_url": "https://www.amazon.com.br/Esp%C3%A1tula-Pr%C3%A1tica-Mimo-Style-ASA1619/dp/B076JLCYFR/ref=zg_bs_g_kitchen_d_sccl_9/130-5471262-3406342?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -6695,6 +6980,7 @@ const PRODUCTS = [
     "price_original": null,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.1,
     "qtd_avaliacoes": 7301,
     "coupon_code": null,
@@ -6721,7 +7007,7 @@ const PRODUCTS = [
       "Disponível para compra desde": "8 novembro 2017"
     },
     "affiliate_url": "https://www.amazon.com.br/Garrafa-T%C3%A9rmica-Firenze-101800030107-Invicta/dp/B07793T84W/ref=zg_bs_g_kitchen_d_sccl_17/147-9195032-1732734?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -6734,6 +7020,7 @@ const PRODUCTS = [
     "price_original": null,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.7,
     "qtd_avaliacoes": 3881,
     "coupon_code": null,
@@ -6761,7 +7048,7 @@ const PRODUCTS = [
       "Cor": "Branco"
     },
     "affiliate_url": "https://www.amazon.com.br/Panela-Arroz-Bianca-Mondial-NPE-05-5X/dp/B07QCVJHN5/ref=zg_bs_g_kitchen_d_sccl_7/143-4480001-1888442?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -6774,6 +7061,7 @@ const PRODUCTS = [
     "price_original": 23.9,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.7,
     "qtd_avaliacoes": 3362,
     "coupon_code": null,
@@ -6802,7 +7090,7 @@ const PRODUCTS = [
       "Quantidade de itens": "1"
     },
     "affiliate_url": "https://www.amazon.com.br/LYOR-Bandeja-Bambu-Marrom-Natural/dp/B08X1B72TP/ref=zg_bs_g_kitchen_d_sccl_8/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -6815,6 +7103,7 @@ const PRODUCTS = [
     "price_original": 809.83,
     "parcelamento": null,
     "tem_selo_prime": false,
+    "tem_oferta": false,
     "avaliacao": 4.6,
     "qtd_avaliacoes": 377,
     "coupon_code": null,
@@ -6854,7 +7143,7 @@ const PRODUCTS = [
       "Material interno": "metal, plástico"
     },
     "affiliate_url": "https://www.amazon.com.br/Micro-ondas-Mondial-MO-02-34-MICRO-ONDAS-220V/dp/B09NHW7XN3/ref=zg_bs_g_kitchen_d_sccl_13/130-5471262-3406342?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -6867,6 +7156,7 @@ const PRODUCTS = [
     "price_original": 219.9,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.7,
     "qtd_avaliacoes": 7639,
     "coupon_code": null,
@@ -6891,7 +7181,7 @@ const PRODUCTS = [
       "Tensão de entrada": "110 Volts"
     },
     "affiliate_url": "https://www.amazon.com.br/Pipoqueira-Popflix-Mondial-Pp-03-Vermelho/dp/B07G1HWM9D/ref=zg_bs_g_kitchen_d_sccl_21/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -6904,6 +7194,7 @@ const PRODUCTS = [
     "price_original": 959.0,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.7,
     "qtd_avaliacoes": 879,
     "coupon_code": null,
@@ -6938,7 +7229,7 @@ const PRODUCTS = [
       "ASIN": "B0921VRK8Q"
     },
     "affiliate_url": "https://www.amazon.com.br/Panasonic-Micro-ondas-Inox-Antibact%C3%A9ria-NN-ST67LSRU/dp/B0921VRK8Q/ref=zg_bs_g_kitchen_d_sccl_19/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -6951,6 +7242,7 @@ const PRODUCTS = [
     "price_original": 106.32,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.7,
     "qtd_avaliacoes": 1397,
     "coupon_code": null,
@@ -6974,7 +7266,7 @@ const PRODUCTS = [
       "Material": "Metal, Plástico"
     },
     "affiliate_url": "https://www.amazon.com.br/Sanduicheira-Grill-Brit%C3%A2nia-BGR16-Redstone/dp/B0CJ3R1537/ref=zg_bs_g_kitchen_d_sccl_16/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -6987,6 +7279,7 @@ const PRODUCTS = [
     "price_original": null,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.8,
     "qtd_avaliacoes": 14271,
     "coupon_code": null,
@@ -7009,7 +7302,7 @@ const PRODUCTS = [
       "Formato do item": "Cone"
     },
     "affiliate_url": "https://www.amazon.com.br/Filtro-Branco-unidades-Tamanho-Coador/dp/B001U7EOYA/ref=zg_bs_g_kitchen_d_sccl_17/145-8883565-9460303?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -7022,6 +7315,7 @@ const PRODUCTS = [
     "price_original": 199.9,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.7,
     "qtd_avaliacoes": 2685,
     "coupon_code": null,
@@ -7043,7 +7337,7 @@ const PRODUCTS = [
       "Tensão de entrada": "220 Volts (CA)"
     },
     "affiliate_url": "https://www.amazon.com.br/Pipoqueira-Poplite-Vermelha-Direcionador-Brit%C3%A2nia/dp/B076HZCFMY/ref=zg_bs_g_kitchen_d_sccl_15/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -7056,6 +7350,7 @@ const PRODUCTS = [
     "price_original": 0.01,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.6,
     "qtd_avaliacoes": 829,
     "coupon_code": null,
@@ -7077,7 +7372,7 @@ const PRODUCTS = [
       "Cor": "Branca"
     },
     "affiliate_url": "https://www.amazon.com.br/Farinha-Trigo-Tipo-Globo-Superiore/dp/B0BLP86QT3/ref=zg_bs_g_kitchen_d_sccl_14/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -7090,6 +7385,7 @@ const PRODUCTS = [
     "price_original": 449.9,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.8,
     "qtd_avaliacoes": 6974,
     "coupon_code": null,
@@ -7127,7 +7423,7 @@ const PRODUCTS = [
       "Cor": "PRETO"
     },
     "affiliate_url": "https://www.amazon.com.br/Fritadeira-Sem-%C3%93leo-Oster-127V/dp/B0B72QZXCC/ref=zg_bs_g_kitchen_d_sccl_27/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -7140,6 +7436,7 @@ const PRODUCTS = [
     "price_original": null,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 5.0,
     "qtd_avaliacoes": 1729,
     "coupon_code": null,
@@ -7159,7 +7456,7 @@ const PRODUCTS = [
       "É alimentado por energia elétrica?": "Não"
     },
     "affiliate_url": "https://www.amazon.com.br/Pipoqueira-Pipoca-Microondas-Silicone-Cozinha/dp/B07XVNB4JH/ref=zg_bs_g_kitchen_d_sccl_21/130-5471262-3406342?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -7172,6 +7469,7 @@ const PRODUCTS = [
     "price_original": 119.99,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.8,
     "qtd_avaliacoes": 1210,
     "coupon_code": null,
@@ -7199,7 +7497,7 @@ const PRODUCTS = [
       "Informações sobre alérgenos": "Contém: Cevada"
     },
     "affiliate_url": "https://www.amazon.com.br/Heineken-Cerveja-Keg-5L/dp/B07BB8NL42/ref=zg_bs_g_kitchen_d_sccl_22/130-5471262-3406342?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -7212,6 +7510,7 @@ const PRODUCTS = [
     "price_original": 299.99,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.0,
     "qtd_avaliacoes": 1612,
     "coupon_code": null,
@@ -7237,7 +7536,7 @@ const PRODUCTS = [
       "O forno é seguro": "Sim"
     },
     "affiliate_url": "https://www.amazon.com.br/Panelas-Pe%C3%A7as-Bianco-Antiaderente-Tampa/dp/B0CZMK9X9B/ref=zg_bs_g_kitchen_d_sccl_25/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -7250,6 +7549,7 @@ const PRODUCTS = [
     "price_original": 75.28,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 5.0,
     "qtd_avaliacoes": 6033,
     "coupon_code": null,
@@ -7276,7 +7576,7 @@ const PRODUCTS = [
       "Descontinuado pelo fabricante": "Não"
     },
     "affiliate_url": "https://www.amazon.com.br/OU-OF350NT-Organizador-Geladeira-Escorredor/dp/B08Y5LKM6W/ref=zg_bs_g_kitchen_d_sccl_24/130-5471262-3406342?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -7289,6 +7589,7 @@ const PRODUCTS = [
     "price_original": 189.99,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.8,
     "qtd_avaliacoes": 3874,
     "coupon_code": null,
@@ -7314,7 +7615,7 @@ const PRODUCTS = [
       "Forma do recipiente": "CILINDRO"
     },
     "affiliate_url": "https://www.amazon.com.br/Herm%C3%A9tico-Alimentos-Mantimentos-Kit-24/dp/B0G5YRSFP1/ref=zg_bs_g_kitchen_d_sccl_23/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -7327,6 +7628,7 @@ const PRODUCTS = [
     "price_original": 11.2,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.1,
     "qtd_avaliacoes": 3274,
     "coupon_code": null,
@@ -7350,7 +7652,7 @@ const PRODUCTS = [
       "Estilo": "Wand-style"
     },
     "affiliate_url": "https://www.amazon.com.br/Mixer-El%C3%A9trico-Bebidas-Pl%C3%A1stico-Branco/dp/B0C7DLXV6Q/ref=zg_bs_g_kitchen_d_sccl_28/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -7363,6 +7665,7 @@ const PRODUCTS = [
     "price_original": 459.9,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.6,
     "qtd_avaliacoes": 4040,
     "coupon_code": null,
@@ -7401,7 +7704,7 @@ const PRODUCTS = [
       "Tipo de garantia": "Garantia Do Fabricante"
     },
     "affiliate_url": "https://www.amazon.com.br/Liquidificador-S%C3%A9rie-RI2244-Philips-Walita/dp/B08TLH52PQ/ref=zg_bs_g_kitchen_d_sccl_26/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -7414,6 +7717,7 @@ const PRODUCTS = [
     "price_original": 160.68,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.6,
     "qtd_avaliacoes": 4608,
     "coupon_code": null,
@@ -7447,7 +7751,7 @@ const PRODUCTS = [
       "Tipo de garantia": "Garantia Limitada"
     },
     "affiliate_url": "https://www.amazon.com.br/Mixer-velocidades-Bmx400-Preto-Brit%C3%A2nia/dp/B08YHR9C4S/ref=zg_bs_g_kitchen_d_sccl_29/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -7460,6 +7764,7 @@ const PRODUCTS = [
     "price_original": 11.9,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.6,
     "qtd_avaliacoes": 89,
     "coupon_code": null,
@@ -7488,7 +7793,7 @@ const PRODUCTS = [
       "Instruções de cuidados com o produto": "Lavagem à máquina e à mão"
     },
     "affiliate_url": "https://www.amazon.com.br/Garrafa-Squeeze-TIBA-Atenas-Decorada/dp/B0FJBG6Y2R/ref=zg_bs_g_kitchen_d_sccl_20/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -7501,6 +7806,7 @@ const PRODUCTS = [
     "price_original": 27.9,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.8,
     "qtd_avaliacoes": 1922,
     "coupon_code": null,
@@ -7526,7 +7832,7 @@ const PRODUCTS = [
       "Cor": "Azul"
     },
     "affiliate_url": "https://www.amazon.com.br/Bolsa-Termica-Instantanea-Gel-Buba/dp/B0BBJTNTKH/ref=zg_bs_g_kitchen_d_sccl_24/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -7539,6 +7845,7 @@ const PRODUCTS = [
     "price_original": 499.0,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.3,
     "qtd_avaliacoes": 5545,
     "coupon_code": null,
@@ -7585,7 +7892,7 @@ const PRODUCTS = [
       "Exige montagem": "Sim"
     },
     "affiliate_url": "https://www.amazon.com.br/escrit%C3%B3rio-ergon%C3%B4mico-independente-respir%C3%A1vel-ajust%C3%A1vel%EF%BC%88Preto/dp/B0CG8J3N2H/ref=zg_bs_g_furniture_d_sccl_2/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -7598,6 +7905,7 @@ const PRODUCTS = [
     "price_original": 24.99,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.6,
     "qtd_avaliacoes": 4730,
     "coupon_code": null,
@@ -7627,7 +7935,7 @@ const PRODUCTS = [
       "Material": "Alumínio, Silicone"
     },
     "affiliate_url": "https://www.amazon.com.br/Suporte-Notebook-MacBook-Alum%C3%ADnio-Ajust%C3%A1vel/dp/B086CB6BXW/ref=zg_bs_g_furniture_d_sccl_1/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -7640,6 +7948,7 @@ const PRODUCTS = [
     "price_original": 68.99,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.4,
     "qtd_avaliacoes": 2843,
     "coupon_code": null,
@@ -7656,7 +7965,7 @@ const PRODUCTS = [
       "Características especiais": "Portátil e moderno"
     },
     "affiliate_url": "https://www.amazon.com.br/Mesa-Port%C3%A1til-Para-Notebook-Suporte/dp/B09963FWYX/ref=zg_bs_g_furniture_d_sccl_3/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -7669,6 +7978,7 @@ const PRODUCTS = [
     "price_original": 124.04,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.7,
     "qtd_avaliacoes": 7171,
     "coupon_code": null,
@@ -7711,7 +8021,7 @@ const PRODUCTS = [
       "Material de preenchimento": "Ar"
     },
     "affiliate_url": "https://www.amazon.com.br/Colch%C3%A3o-Infl%C3%A1vel-Solteiro-Com-Fole/dp/B075XMH39C/ref=zg_bs_g_furniture_d_sccl_4/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -7724,6 +8034,7 @@ const PRODUCTS = [
     "price_original": 18.49,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.5,
     "qtd_avaliacoes": 1701,
     "coupon_code": null,
@@ -7748,7 +8059,7 @@ const PRODUCTS = [
       "ASIN": "B0F1C2GCK4"
     },
     "affiliate_url": "https://www.amazon.com.br/Notebook-Ergon%C3%B4mico-Ajust%C3%A1vel-Regul%C3%A1vel-Universal/dp/B0F1C2GCK4/ref=zg_bs_g_furniture_d_sccl_6/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -7761,6 +8072,7 @@ const PRODUCTS = [
     "price_original": 353.0,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 3.8,
     "qtd_avaliacoes": 19702,
     "coupon_code": null,
@@ -7812,7 +8124,7 @@ const PRODUCTS = [
       "Inclui Todas as Ferramentas de Montagem": "Não"
     },
     "affiliate_url": "https://www.amazon.com.br/Escrit%C3%B3rio-Diretor-Estilo-Industrial-Kuadra/dp/B089Y3S71L/ref=zg_bs_g_furniture_d_sccl_7/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -7825,6 +8137,7 @@ const PRODUCTS = [
     "price_original": 379.99,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.2,
     "qtd_avaliacoes": 527,
     "coupon_code": null,
@@ -7859,7 +8172,7 @@ const PRODUCTS = [
       "Profundidade do item": "34 centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/Estrutura-Precisa-Spring-Espa%C3%A7o-Armazenamen/dp/B0FZ98XMN9/ref=zg_bs_g_furniture_d_sccl_5/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -7872,6 +8185,7 @@ const PRODUCTS = [
     "price_original": 483.69,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.0,
     "qtd_avaliacoes": 2185,
     "coupon_code": null,
@@ -7916,7 +8230,7 @@ const PRODUCTS = [
       "É dobrável": "Não"
     },
     "affiliate_url": "https://www.amazon.com.br/Cadeira-Ergonomica-Gamer-Apoio-Branco/dp/B0CJV2WKQF/ref=zg_bs_g_furniture_d_sccl_8/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -7929,6 +8243,7 @@ const PRODUCTS = [
     "price_original": 359.9,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.3,
     "qtd_avaliacoes": 44,
     "coupon_code": null,
@@ -7988,7 +8303,7 @@ const PRODUCTS = [
       "Número de posições de altura": "2"
     },
     "affiliate_url": "https://www.amazon.com.br/Laruno-Escrit%C3%B3rio-Ergon%C3%B4mica-Reclin%C3%A1vel-Respir%C3%A1vel/dp/B0GYQBPDG6/ref=zg_bs_g_furniture_d_sccl_9/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -8001,6 +8316,7 @@ const PRODUCTS = [
     "price_original": 132.24,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.7,
     "qtd_avaliacoes": 2237,
     "coupon_code": null,
@@ -8048,7 +8364,7 @@ const PRODUCTS = [
       "Exige montagem": "Não"
     },
     "affiliate_url": "https://www.amazon.com.br/Cadeira-Praia-ALTA-ACO-2002/dp/B075XM6DKH/ref=zg_bs_g_furniture_d_sccl_19/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -8061,6 +8377,7 @@ const PRODUCTS = [
     "price_original": 245.0,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 3.7,
     "qtd_avaliacoes": 1702,
     "coupon_code": null,
@@ -8121,7 +8438,7 @@ const PRODUCTS = [
       "É alimentado por energia elétrica?": "Não"
     },
     "affiliate_url": "https://www.amazon.com.br/Cadeira-Escrit%C3%B3rio-Girat%C3%B3ria-Office-Preta/dp/B0BXV6YGZQ/ref=zg_bs_g_furniture_d_sccl_10/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -8134,6 +8451,7 @@ const PRODUCTS = [
     "price_original": 108.74,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.8,
     "qtd_avaliacoes": 14071,
     "coupon_code": null,
@@ -8166,7 +8484,7 @@ const PRODUCTS = [
       "Exige montagem": "Sim"
     },
     "affiliate_url": "https://www.amazon.com.br/Banqueta-Pl%C3%A1stica-Dobr%C3%A1vel-Altura-VDO2556/dp/B078HFQHKX/ref=zg_bs_g_furniture_d_sccl_15/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -8179,6 +8497,7 @@ const PRODUCTS = [
     "price_original": 239.0,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.4,
     "qtd_avaliacoes": 72,
     "coupon_code": null,
@@ -8248,7 +8567,7 @@ const PRODUCTS = [
       "Material para Pernas de Móveis": "Aço, Metal"
     },
     "affiliate_url": "https://www.amazon.com.br/Mesa-Dobr%C3%A1vel-Port%C3%A1til-Branca-Maleta/dp/B0GYQ9DGJC/ref=zg_bs_g_furniture_d_sccl_12/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -8261,6 +8580,7 @@ const PRODUCTS = [
     "price_original": 33.4,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.6,
     "qtd_avaliacoes": 2237,
     "coupon_code": null,
@@ -8295,7 +8615,7 @@ const PRODUCTS = [
       "ASIN": "B0788PY5PP"
     },
     "affiliate_url": "https://www.amazon.com.br/Sanremo-955-Organizador-Transparente/dp/B0788PY5PP/ref=zg_bs_g_furniture_d_sccl_11/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -8308,6 +8628,7 @@ const PRODUCTS = [
     "price_original": 39.9,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.4,
     "qtd_avaliacoes": 461,
     "coupon_code": null,
@@ -8331,7 +8652,7 @@ const PRODUCTS = [
       "Características especiais": "Articulada, Compatível Com Home Office, Dobrável, Portátil, Suporte Para Tablet"
     },
     "affiliate_url": "https://www.amazon.com.br/Notebook-Port%C3%A1til-Articulada-Grafite-Dobr%C3%A1vel/dp/B0FNNHKML3/ref=zg_bs_g_furniture_d_sccl_13/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -8344,6 +8665,7 @@ const PRODUCTS = [
     "price_original": 64.7,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.4,
     "qtd_avaliacoes": 2636,
     "coupon_code": null,
@@ -8377,7 +8699,7 @@ const PRODUCTS = [
       "ASIN": "B07C844DL9"
     },
     "affiliate_url": "https://www.amazon.com.br/Sanremo-SR941-Organizador-Transparente/dp/B07C844DL9/ref=zg_bs_g_furniture_d_sccl_16/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -8390,6 +8712,7 @@ const PRODUCTS = [
     "price_original": 369.9,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.8,
     "qtd_avaliacoes": 1397,
     "coupon_code": null,
@@ -8417,7 +8740,7 @@ const PRODUCTS = [
       "Material": "Poliéster"
     },
     "affiliate_url": "https://www.amazon.com.br/Burigotto-Ber%C3%A7o-Sonata-Bege/dp/B0C5N6ST9L/ref=zg_bs_g_furniture_d_sccl_18/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -8430,6 +8753,7 @@ const PRODUCTS = [
     "price_original": 75.99,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 2.6,
     "qtd_avaliacoes": 28,
     "coupon_code": null,
@@ -8471,7 +8795,7 @@ const PRODUCTS = [
       "Profundidade do item": "37 centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/Multiuso-Organizador-Armazenamento-Divisoria-Empilh%C3%A1vel/dp/B0FLXX2XXY/ref=zg_bs_g_furniture_d_sccl_14/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -8484,6 +8808,7 @@ const PRODUCTS = [
     "price_original": 548.0,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 3.8,
     "qtd_avaliacoes": 713,
     "coupon_code": null,
@@ -8521,7 +8846,7 @@ const PRODUCTS = [
       "Exige montagem": "Sim"
     },
     "affiliate_url": "https://www.amazon.com.br/CADEIRA-REDRAGON-OFFICE-PRETO-C214-B/dp/B0DJCDRXJ4/ref=zg_bs_g_furniture_d_sccl_17/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -8534,6 +8859,7 @@ const PRODUCTS = [
     "price_original": 445.0,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.4,
     "qtd_avaliacoes": 797,
     "coupon_code": null,
@@ -8583,7 +8909,7 @@ const PRODUCTS = [
       "Exige montagem": "Sim"
     },
     "affiliate_url": "https://www.amazon.com.br/Cadeira-Escrit%C3%B3rio-Apoio-Encosto-Ajust%C3%A1vel%EF%BC%88Preto%EF%BC%89/dp/B0CSD46QVZ/ref=zg_bs_g_furniture_d_sccl_21/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -8596,6 +8922,7 @@ const PRODUCTS = [
     "price_original": 1089.0,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.6,
     "qtd_avaliacoes": 1526,
     "coupon_code": null,
@@ -8632,7 +8959,7 @@ const PRODUCTS = [
       "Estilo": "Colchão Casal Emma Basics 17 cm"
     },
     "affiliate_url": "https://www.amazon.com.br/Colchao-Casal-Emma-Basics-ortop%C3%A9dico/dp/B0B8ZF9DR3/ref=zg_bs_g_furniture_d_sccl_22/143-4480001-1888442?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -8645,6 +8972,7 @@ const PRODUCTS = [
     "price_original": 5909.0,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.7,
     "qtd_avaliacoes": 1912,
     "coupon_code": "Aplicar Cupom de 7%",
@@ -8674,7 +9002,7 @@ const PRODUCTS = [
       "Estilo": "Colchão Original"
     },
     "affiliate_url": "https://www.amazon.com.br/Colch%C3%A3o-Emma-Original-Brasil-158x198/dp/B081NL17WS/ref=zg_bs_g_furniture_d_sccl_29/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": true
   },
   {
@@ -8687,6 +9015,7 @@ const PRODUCTS = [
     "price_original": 29.9,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.6,
     "qtd_avaliacoes": null,
     "coupon_code": null,
@@ -8710,7 +9039,7 @@ const PRODUCTS = [
       "ASIN": "B0H2RLZN4M"
     },
     "affiliate_url": "https://www.amazon.com.br/Notebook-Ergon%C3%B4mico-Ajust%C3%A1vel-Antiderrapante-Universal/dp/B0H2RLZN4M/ref=zg_bs_g_furniture_d_sccl_20/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -8723,6 +9052,7 @@ const PRODUCTS = [
     "price_original": 150.0,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 3.9,
     "qtd_avaliacoes": 632,
     "coupon_code": null,
@@ -8778,7 +9108,7 @@ const PRODUCTS = [
       "O tamanho do item pode ser ajustado?": "Sim"
     },
     "affiliate_url": "https://www.amazon.com.br/ajust%C3%A1vel-dobr%C3%A1vel-cabeceira-multifunctional-notebook/dp/B0CSSN9M6V/ref=zg_bs_g_furniture_d_sccl_24/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -8791,6 +9121,7 @@ const PRODUCTS = [
     "price_original": null,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.6,
     "qtd_avaliacoes": 874,
     "coupon_code": null,
@@ -8814,7 +9145,7 @@ const PRODUCTS = [
       "Exige montagem": "Não"
     },
     "affiliate_url": "https://www.amazon.com.br/Gaveteiro-Pl%C3%A1stico-Gavetas-S%C3%A3o-Bernardo/dp/B076X7T36F/ref=zg_bs_g_furniture_d_sccl_25/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -8827,6 +9158,7 @@ const PRODUCTS = [
     "price_original": 444.43,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.4,
     "qtd_avaliacoes": 3,
     "coupon_code": null,
@@ -8857,7 +9189,7 @@ const PRODUCTS = [
       "Tipo de tecido do estofo": "PU"
     },
     "affiliate_url": "https://www.amazon.com.br/Cadeira-Gamer-Husky-Almofadas-Reclin%C3%A1vel/dp/B0H37C1TWT/ref=zg_bs_g_furniture_d_sccl_23/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -8870,6 +9202,7 @@ const PRODUCTS = [
     "price_original": null,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.8,
     "qtd_avaliacoes": 740,
     "coupon_code": null,
@@ -8890,7 +9223,7 @@ const PRODUCTS = [
       "ASIN": "B0D1S8ZFHT"
     },
     "affiliate_url": "https://www.amazon.com.br/Organizador-Multiuso-Bege-Linha-Flow/dp/B0D1S8ZFHT/ref=zg_bs_g_furniture_d_sccl_27/145-8883565-9460303?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -8903,6 +9236,7 @@ const PRODUCTS = [
     "price_original": 315.76,
     "parcelamento": null,
     "tem_selo_prime": false,
+    "tem_oferta": false,
     "avaliacao": 3.5,
     "qtd_avaliacoes": 1146,
     "coupon_code": null,
@@ -8951,7 +9285,7 @@ const PRODUCTS = [
       "Exige montagem": "Sim"
     },
     "affiliate_url": "https://www.amazon.com.br/Healer-Cadeira-Escrit%C3%B3rio-Diretor-Girat%C3%B3ria/dp/B0D9MSVSSP/ref=zg_bs_g_furniture_d_sccl_28/130-5471262-3406342?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -8964,6 +9298,7 @@ const PRODUCTS = [
     "price_original": 67.36,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.6,
     "qtd_avaliacoes": 3936,
     "coupon_code": null,
@@ -8996,7 +9331,7 @@ const PRODUCTS = [
       "Tipo de instalação": "free-standing"
     },
     "affiliate_url": "https://www.amazon.com.br/Apoio-P%C3%A9-Multivis%C3%A3o-APOIO-PR-Preto/dp/B075SKB5DH/ref=zg_bs_g_furniture_d_sccl_27/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -9009,6 +9344,7 @@ const PRODUCTS = [
     "price_original": 45.25,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.1,
     "qtd_avaliacoes": 7372,
     "coupon_code": null,
@@ -9040,7 +9376,7 @@ const PRODUCTS = [
       "Tipo de instalação": "free-standing"
     },
     "affiliate_url": "https://www.amazon.com.br/Apoio-Para-AP25-Preto-Masticmol/dp/B075BJLBX9/ref=zg_bs_g_furniture_d_sccl_28/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -9053,6 +9389,7 @@ const PRODUCTS = [
     "price_original": 55.07,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.6,
     "qtd_avaliacoes": 2248,
     "coupon_code": null,
@@ -9096,7 +9433,7 @@ const PRODUCTS = [
       "Descrição das Instruções de Montagem": "Montagem feita pelo próprio usuário"
     },
     "affiliate_url": "https://www.amazon.com.br/Agraplast-851-Estante-Modular-Preto/dp/B076X58FPZ/ref=zg_bs_g_furniture_d_sccl_1/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -9109,6 +9446,7 @@ const PRODUCTS = [
     "price_original": 73.8,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.2,
     "qtd_avaliacoes": 1953,
     "coupon_code": null,
@@ -9133,7 +9471,7 @@ const PRODUCTS = [
       "Usos recomendados do produto": "Não Aplicável"
     },
     "affiliate_url": "https://www.amazon.com.br/Sanremo-SR283-20-Lixeira-Basculante/dp/B07BYGC56C/ref=zg_bs_g_furniture_d_sccl_6/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -9146,6 +9484,7 @@ const PRODUCTS = [
     "price_original": 799.9,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.2,
     "qtd_avaliacoes": 225,
     "coupon_code": null,
@@ -9208,7 +9547,7 @@ const PRODUCTS = [
       "Número de posições de altura": "5"
     },
     "affiliate_url": "https://www.amazon.com.br/BlidShop-Cadeira-Escrit%C3%B3rio-Ergon%C3%B4mica-Girat%C3%B3ria/dp/B0FKPKCS47/ref=zg_bs_g_furniture_d_sccl_4/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -9221,6 +9560,7 @@ const PRODUCTS = [
     "price_original": 78.9,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.1,
     "qtd_avaliacoes": 488,
     "coupon_code": null,
@@ -9265,7 +9605,7 @@ const PRODUCTS = [
       "Descrição das Instruções de Montagem": "Instruções de montagem fáceis e práticas, com uso de ferramentas de instalação incluídas."
     },
     "affiliate_url": "https://www.amazon.com.br/Cabeceira-Charme-Retro-Nicho-Quarto/dp/B0CL7RFJNK/ref=zg_bs_g_furniture_d_sccl_5/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -9278,6 +9618,7 @@ const PRODUCTS = [
     "price_original": 69.9,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.8,
     "qtd_avaliacoes": 153,
     "coupon_code": null,
@@ -9307,7 +9648,7 @@ const PRODUCTS = [
       "Tipo de base": "Madeira"
     },
     "affiliate_url": "https://www.amazon.com.br/Banqueta-Quadrado-Decora%C3%A7%C3%A3o-Conforto-Comodidade/dp/B0DK3YPBL8/ref=zg_bs_g_furniture_d_sccl_7/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -9320,6 +9661,7 @@ const PRODUCTS = [
     "price_original": 279.99,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.3,
     "qtd_avaliacoes": 979,
     "coupon_code": null,
@@ -9365,66 +9707,7 @@ const PRODUCTS = [
       "Descrição das Instruções de Montagem": "As instruções de montagem fornecem orientações passo a passo para montar o balcão Multimóveis para Forno e Microondas. O kit de montagem inclui todas as ferramentas e peças necessárias para a montagem segura e estável do móvel. Siga as instruções cuidadosamente para garantir que o produto seja montado corretamente e de maneira segura."
     },
     "affiliate_url": "https://www.amazon.com.br/Fruteira-Multim%C3%B3veis-Micro-ondas-Cozinha-Lavanderia/dp/B07J6BXSNN/ref=zg_bs_g_furniture_d_sccl_3/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B0BCXBC2W4",
-    "title": "Cadeira de Escritório Oficial Begonia Tela Mesh Ergonômica Giratória",
-    "image": "https://images-na.ssl-images-amazon.com/images/I/51f+wTyzYRL._AC_UL900_SR900,600_.jpg",
-    "canonical": null,
-    "category": "Móveis",
-    "price_current": 142.78,
-    "price_original": null,
-    "parcelamento": null,
-    "tem_selo_prime": true,
-    "avaliacao": 3.9,
-    "qtd_avaliacoes": 607,
-    "coupon_code": null,
-    "description": "<ul><li>Cadeira ergonômica com ajuste de altura e apoio de braços para maior conforto e postura adequada durante o trabalho</li><li>Design moder em preto com estrutura de nylon e aço cromado, revestimento em tela mesh e assento em madeira multi laminada</li><li>Giratória 36°, com rodas para fácil movimentação, suporta até 11 kg e possui dimensões ajustáveis para adaptação ao usuário</li><li>Cadeira ergonômica com ajuste de altura e apoio de braços para maior conforto e postura adequada durante o trabalho</li><li>Design moder em preto com estrutura de nylon e aço cromado, revestimento em tela mesh e assento em madeira multi laminada</li><li>Giratória 36°, com rodas para fácil movimentação, suporta até 11 kg e possui dimensões ajustáveis para adaptação ao usuário</li><li>Branco</li><li>Cinza</li><li>Preto</li><li>Rosa</li><li>1</li><li>2</li><li>3</li><li>4</li><li>5</li></ul>",
-    "informacoes_produto": {
-      "Nome da marca": "Oficial Webshop",
-      "Características especiais": "Ergonômico",
-      "Contagem de unidades": "1 Unidade",
-      "Usos recomendados do produto": "Escritório",
-      "Tipo de sala": "Escritório",
-      "Descrição da faixa etária": "Adulto",
-      "Componentes incluídos": "no components included",
-      "Utilização interior, exterior": "Área interna",
-      "Nome do Conjunto": "Begonia",
-      "Extensível": "Não",
-      "ASIN": "B0BCXBC2W4",
-      "Material": "Nylon",
-      "Frame Material Type": "Nylon",
-      "Instruções de cuidados com o produto": "Local limpo",
-      "Material do assento": "Madeira multi laminada",
-      "Tipo de tecido do estofo": "Tela Mesh",
-      "Recomendação de peso máximo": "110 Quilogramas",
-      "Descrição das Instruções de Montagem": "Sim, o produto vem com instruções de montagem.",
-      "Exige montagem": "Sim",
-      "Cor": "Preto",
-      "Estilo de fundo": "Tela Mesh",
-      "Estilo": "Moderno",
-      "Estampa": "Liso",
-      "Tema": "Moderno",
-      "Formato do item": "retangular",
-      "Estilo de braço": "Com braços (estilo não especificado)",
-      "Estilo do pé": "rodas",
-      "Fator de forma": "giratória com Tela Mesh e rodízios",
-      "Dimensões do item P x L x A": "47P x 50L x 100A centímetros",
-      "Tamanho": "1",
-      "Peso do item": "7 Quilogramas",
-      "Profundidade do assento": "45 centímetros",
-      "Largura do Encosto da Cadeira": "40,5 Centímetros",
-      "Dimensões do artigo": "47 x 50 x 100 centímetros",
-      "Profundidade do item": "2 cm",
-      "Movimento da base do móvel": "Giratória",
-      "Total de Posições Reclináveis": "1",
-      "Inclinada": "Não",
-      "É dobrável": "Não"
-    },
-    "affiliate_url": "https://www.amazon.com.br/Cadeira-Escritorio-Begonia-Ergonomica-Giratoria/dp/B0BCXBC2W4/ref=zg_bs_g_furniture_d_sccl_28/143-4480001-1888442?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -9437,6 +9720,7 @@ const PRODUCTS = [
     "price_original": 423.08,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.5,
     "qtd_avaliacoes": 2867,
     "coupon_code": null,
@@ -9490,7 +9774,7 @@ const PRODUCTS = [
       "Descrição das Instruções de Montagem": "Instruções de montagem incluídas"
     },
     "affiliate_url": "https://www.amazon.com.br/Compace-Desing-DYME6180-EP-Dynamica-180X60X75cm/dp/B0BQ3NPN9R/ref=zg_bs_g_furniture_d_sccl_11/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -9503,6 +9787,7 @@ const PRODUCTS = [
     "price_original": 189.9,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.8,
     "qtd_avaliacoes": 98,
     "coupon_code": null,
@@ -9531,7 +9816,7 @@ const PRODUCTS = [
       "Tipo de prateleira": "Prateleira em camada"
     },
     "affiliate_url": "https://www.amazon.com.br/Carrinho-Organizador-Multiuso-Prateleiras-Rodinhas/dp/B0FPSDGJQ4/ref=zg_bs_g_furniture_d_sccl_8/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -9544,6 +9829,7 @@ const PRODUCTS = [
     "price_original": null,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.6,
     "qtd_avaliacoes": 6321,
     "coupon_code": null,
@@ -9575,7 +9861,7 @@ const PRODUCTS = [
       "Tipo de acabamento": "Polido, Escovado"
     },
     "affiliate_url": "https://www.amazon.com.br/Notebook-Ajust%C3%A1vel-Ergon%C3%B4mico-Compat%C3%ADvel-Polegadas/dp/B0BBVCPCYP/ref=zg_bs_g_furniture_d_sccl_12/145-8883565-9460303?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -9588,6 +9874,7 @@ const PRODUCTS = [
     "price_original": 609.0,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.6,
     "qtd_avaliacoes": 1311,
     "coupon_code": null,
@@ -9612,7 +9899,7 @@ const PRODUCTS = [
       "Exige montagem": "Sim"
     },
     "affiliate_url": "https://www.amazon.com.br/Rack-portas-CHARLOTTE-Cinamomo-White/dp/B0D1H85DGL/ref=zg_bs_g_furniture_d_sccl_17/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -9625,6 +9912,7 @@ const PRODUCTS = [
     "price_original": 79.9,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 3.7,
     "qtd_avaliacoes": 20,
     "coupon_code": null,
@@ -9641,7 +9929,7 @@ const PRODUCTS = [
       "Cor": "Branco"
     },
     "affiliate_url": "https://www.amazon.com.br/Seguran%C3%A7a-Universal-Anti-Quedas-Dobr%C3%A1vel-Prote%C3%A7%C3%A3o/dp/B0GWFL1L5Z/ref=zg_bs_g_furniture_d_sccl_9/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -9654,6 +9942,7 @@ const PRODUCTS = [
     "price_original": 1441.08,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.5,
     "qtd_avaliacoes": 2480,
     "coupon_code": null,
@@ -9708,7 +9997,7 @@ const PRODUCTS = [
       "É dobrável": "Não"
     },
     "affiliate_url": "https://www.amazon.com.br/Cadeira-Ergonomic-Thunderx3-Yama1-Preta/dp/B07XM8KGBB/ref=zg_bs_g_furniture_d_sccl_13/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -9721,6 +10010,7 @@ const PRODUCTS = [
     "price_original": 55.19,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.2,
     "qtd_avaliacoes": 528,
     "coupon_code": null,
@@ -9743,7 +10033,7 @@ const PRODUCTS = [
       "Cor": "Preto"
     },
     "affiliate_url": "https://www.amazon.com.br/Carrinho-Organizador-Multiuso-Prateleiras-Cabeleireiro/dp/B0DSCC344G/ref=zg_bs_g_furniture_d_sccl_12/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -9756,6 +10046,7 @@ const PRODUCTS = [
     "price_original": 2197.0,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.7,
     "qtd_avaliacoes": 567,
     "coupon_code": null,
@@ -9806,7 +10097,7 @@ const PRODUCTS = [
       "Exige montagem": "Sim"
     },
     "affiliate_url": "https://www.amazon.com.br/Cadeira-Escrit%C3%B3rio-Ergon%C3%B4mico-Elements-Vertta/dp/B0BQ3M1M7M/ref=zg_bs_g_furniture_d_sccl_21/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -9819,6 +10110,7 @@ const PRODUCTS = [
     "price_original": 78.9,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.6,
     "qtd_avaliacoes": 117,
     "coupon_code": null,
@@ -9839,7 +10131,7 @@ const PRODUCTS = [
       "Estilo": "Moderno"
     },
     "affiliate_url": "https://www.amazon.com.br/Conjunto-Banheiro-Dispenser-Sabonete-Sanit%C3%A1ria/dp/B0FXT573B1/ref=zg_bs_g_furniture_d_sccl_20/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -9852,6 +10144,7 @@ const PRODUCTS = [
     "price_original": 649.0,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.7,
     "qtd_avaliacoes": 2604,
     "coupon_code": null,
@@ -9880,7 +10173,7 @@ const PRODUCTS = [
       "Frame Material Type": "Aço e Plástico"
     },
     "affiliate_url": "https://www.amazon.com.br/Ber%C3%A7o-Mini-Play-Safety-1St/dp/B081T9WZHG/ref=zg_bs_g_furniture_d_sccl_24/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -9893,6 +10186,7 @@ const PRODUCTS = [
     "price_original": 179.0,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.1,
     "qtd_avaliacoes": 323,
     "coupon_code": null,
@@ -9917,7 +10211,7 @@ const PRODUCTS = [
       "Material": "MDF"
     },
     "affiliate_url": "https://www.amazon.com.br/Bancada-Polegadas-Prateleira-Nichos-Nature/dp/B0DRMW7F16/ref=zg_bs_g_furniture_d_sccl_19/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -9930,6 +10224,7 @@ const PRODUCTS = [
     "price_original": 139.99,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.7,
     "qtd_avaliacoes": 3,
     "coupon_code": null,
@@ -9962,7 +10257,7 @@ const PRODUCTS = [
       "Tipo de acabamento": "Liso"
     },
     "affiliate_url": "https://www.amazon.com.br/Notebook-60x40CM-Port%C3%A1til-Dobr%C3%A1vel-Escrit%C3%B3rio/dp/B0H3TQY8QS/ref=zg_bs_g_furniture_d_sccl_15/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -9975,6 +10270,7 @@ const PRODUCTS = [
     "price_original": 18.49,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.5,
     "qtd_avaliacoes": 11,
     "coupon_code": null,
@@ -9996,7 +10292,7 @@ const PRODUCTS = [
       "ASIN": "B0H3788T72"
     },
     "affiliate_url": "https://www.amazon.com.br/Regulagem-Ergon%C3%B4mica-Ventila%C3%A7%C3%A3o-Aprimorada-Transporte/dp/B0H3788T72/ref=zg_bs_g_furniture_d_sccl_16/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -10009,6 +10305,7 @@ const PRODUCTS = [
     "price_original": 293.91,
     "parcelamento": null,
     "tem_selo_prime": false,
+    "tem_oferta": false,
     "avaliacao": 4.7,
     "qtd_avaliacoes": 4143,
     "coupon_code": null,
@@ -10060,7 +10357,7 @@ const PRODUCTS = [
       "Inclui Todas as Ferramentas de Montagem": "Não"
     },
     "affiliate_url": "https://www.amazon.com.br/Escrit%C3%B3rio-Office-Estilo-Industrial-Kuadra/dp/B089Y7F6GR/ref=zg_bs_g_furniture_d_sccl_24/130-5471262-3406342?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -10073,6 +10370,7 @@ const PRODUCTS = [
     "price_original": 29.9,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.6,
     "qtd_avaliacoes": 81,
     "coupon_code": null,
@@ -10100,7 +10398,7 @@ const PRODUCTS = [
       "ASIN": "B0FZMDTK5N"
     },
     "affiliate_url": "https://www.amazon.com.br/Suporte-Articulado-Dobr%C3%A1vel-Alum%C3%ADnio-Notebook/dp/B0FZMDTK5N/ref=zg_bs_g_furniture_d_sccl_26/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -10113,6 +10411,7 @@ const PRODUCTS = [
     "price_original": 85.9,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.6,
     "qtd_avaliacoes": 188,
     "coupon_code": null,
@@ -10135,7 +10434,7 @@ const PRODUCTS = [
       "ASIN": "B0FN6DFPFJ"
     },
     "affiliate_url": "https://www.amazon.com.br/Notebook-Ajust%C3%A1vel-Apoiador-Ergon%C3%B4mico-Ventilado/dp/B0FN6DFPFJ/ref=zg_bs_g_furniture_d_sccl_30/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -10148,6 +10447,7 @@ const PRODUCTS = [
     "price_original": 70.43,
     "parcelamento": null,
     "tem_selo_prime": false,
+    "tem_oferta": false,
     "avaliacao": 4.8,
     "qtd_avaliacoes": 1717,
     "coupon_code": null,
@@ -10176,7 +10476,7 @@ const PRODUCTS = [
       "ASIN": "B094BQD6PG"
     },
     "affiliate_url": "https://www.amazon.com.br/Banqueta-Pl%C3%A1stica-Dobr%C3%A1vel-150kg-Multiuso/dp/B094BQD6PG/ref=zg_bs_g_furniture_d_sccl_27/130-5471262-3406342?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -10189,6 +10489,7 @@ const PRODUCTS = [
     "price_original": 29.9,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.6,
     "qtd_avaliacoes": 6,
     "coupon_code": null,
@@ -10209,7 +10510,7 @@ const PRODUCTS = [
       "ASIN": "B0FX3V7R7Q"
     },
     "affiliate_url": "https://www.amazon.com.br/Suporte-Port%C3%A1Til-Dobr%C3%A1Vel-Alum%C3%ADNio-Telefone/dp/B0FX3V7R7Q/ref=zg_bs_g_furniture_d_sccl_14/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -10222,6 +10523,7 @@ const PRODUCTS = [
     "price_original": 513.36,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.5,
     "qtd_avaliacoes": 8266,
     "coupon_code": null,
@@ -10278,7 +10580,7 @@ const PRODUCTS = [
       "Tipo de montagem": "Montagem no chão"
     },
     "affiliate_url": "https://www.amazon.com.br/Mesa-Escrit%C3%B3rio-Estilo-Industrial-Kuadra/dp/B089Y4SNJZ/ref=zg_bs_g_furniture_d_sccl_29/130-5471262-3406342?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -10291,6 +10593,7 @@ const PRODUCTS = [
     "price_original": null,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.9,
     "qtd_avaliacoes": 140,
     "coupon_code": null,
@@ -10338,7 +10641,7 @@ const PRODUCTS = [
       "Descrição das Instruções de Montagem": "Instruções de montagem incluídas"
     },
     "affiliate_url": "https://www.amazon.com.br/Mesa-Home-Office-prateleiras-Metal/dp/B0FWVJ7YRY/ref=zg_bs_g_furniture_d_sccl_25/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -10351,6 +10654,7 @@ const PRODUCTS = [
     "price_original": 996.97,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.6,
     "qtd_avaliacoes": 1478,
     "coupon_code": null,
@@ -10398,7 +10702,7 @@ const PRODUCTS = [
       "GPS": "Verdadeiro"
     },
     "affiliate_url": "https://www.amazon.com.br/Smartphone-Motorola-g06-256GB-Camera-Bateria/dp/B0FR5J3JLM/ref=zg_bs_g_16243890011_d_sccl_5/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -10411,6 +10715,7 @@ const PRODUCTS = [
     "price_original": 3599.0,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.8,
     "qtd_avaliacoes": 144,
     "coupon_code": null,
@@ -10459,7 +10764,7 @@ const PRODUCTS = [
       "Dimensões do artigo": "16,1 x 7,7 x 0,7 centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/Celular-Samsung-Galaxy-C%C3%A2mera-Recursos/dp/B0GVSVS9WH/ref=zg_bs_g_16243890011_d_sccl_6/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -10472,6 +10777,7 @@ const PRODUCTS = [
     "price_original": null,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.6,
     "qtd_avaliacoes": 2338,
     "coupon_code": null,
@@ -10529,7 +10835,7 @@ const PRODUCTS = [
       "GPS": "Verdadeiro"
     },
     "affiliate_url": "https://www.amazon.com.br/Smartphone-Motorola-Moto-g35-Superbrilho/dp/B0DHWF5G76/ref=zg_bs_g_16243890011_d_sccl_7/143-4480001-1888442?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -10542,13 +10848,14 @@ const PRODUCTS = [
     "price_original": 5799.0,
     "parcelamento": null,
     "tem_selo_prime": false,
+    "tem_oferta": false,
     "avaliacao": 4.8,
     "qtd_avaliacoes": 3673,
     "coupon_code": null,
     "description": "<ul><li>Para consultar a homologação do produto, acesse: sistemas.anatel.gov.br/sch.</li><li>FEITO PARA APPLE INTELLIGENCE — Pessoal, privada, poderosa. Escreva, se expresse e faça de tudo sem esforço.</li><li>CHIP A18. NA VELOCIDADE DO FUTURO — O chip A18 oferece desempenho para a Apple Intelligence, jogos e para as atualizações do iOS, que mantêm seu iPhone funcionando por anos.</li><li>SUPERBATERIA — Envie mensagens, navegue ou curta filmes e séries com até 26 horas de reprodução de vídeo. É a melhor duração de bateria em um iPhone de 6,1 polegadas.</li><li>CÂMERAS —O sistema de câmera 2 em 1 tem uma câmera Fusion de 48 MP para fotos em altíssima resolução e uma teleobjetiva de 2x com qualidade óptica. Tire selfies incríveis com a câmera frontal de 12 MP.</li><li>DESIGN RESISTENTE. TELA BRILHANTE — A espetacular tela de 6,1 polegadas usa tecnologia OLED. E a parte frontal é protegida com Ceramic Shield, mais resistente que qualquer vidro de smartphone</li><li>BOTÃO DE AÇÃO — Tenha acesso rápido e personalizável a seus apps e recursos favoritos ou use a inteligência visual para saber mais sobre o mundo ao seu redor.</li><li>SEU E DO SEU JEITO — No iOS 18, você pode personalizar a Tela de Início e a Tela Bloqueada, enviar mensagens com efeitos de texto, mandar um Tapback com qualquer emoji e muito mais.</li><li>PRIVACIDADE — Use o Face ID para desbloquear seu aparelho e iniciar sessão com segurança.</li><li>Este iPhone é compatível com eSIM. Entre em contato com a sua operadora para saber como ativar.</li></ul>",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/Apple-iPhone-16e-128-GB/dp/B0DXR7GNWJ/ref=zg_bs_g_electronics_d_sccl_8/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": true
   },
   {
@@ -10561,6 +10868,7 @@ const PRODUCTS = [
     "price_original": null,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.8,
     "qtd_avaliacoes": 432,
     "coupon_code": null,
@@ -10606,7 +10914,7 @@ const PRODUCTS = [
       "ASIN": "B0GN2L3DZZ"
     },
     "affiliate_url": "https://www.amazon.com.br/Smartphone-Xiaomi-Poco-512GB-Preto/dp/B0GN2L3DZZ/ref=zg_bs_g_16243890011_d_sccl_8/143-4480001-1888442?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -10619,6 +10927,7 @@ const PRODUCTS = [
     "price_original": null,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.8,
     "qtd_avaliacoes": 1424,
     "coupon_code": null,
@@ -10662,7 +10971,7 @@ const PRODUCTS = [
       "Resolução de captura de vídeo": "4k"
     },
     "affiliate_url": "https://www.amazon.com.br/Smartphone-Motorola-Moto-g86-5G/dp/B0FCYP5FB2/ref=zg_bs_g_16243890011_d_sccl_16/140-2029926-4219235?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -10675,6 +10984,7 @@ const PRODUCTS = [
     "price_original": null,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.8,
     "qtd_avaliacoes": 119,
     "coupon_code": null,
@@ -10719,7 +11029,7 @@ const PRODUCTS = [
       "ASIN": "B0GN1N5C7M"
     },
     "affiliate_url": "https://www.amazon.com.br/Smartphone-Xiaomi-Poco-512GB-Branco/dp/B0GN1N5C7M/ref=zg_bs_g_electronics_d_sccl_29/140-2029926-4219235?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -10732,13 +11042,14 @@ const PRODUCTS = [
     "price_original": 5999.0,
     "parcelamento": null,
     "tem_selo_prime": false,
+    "tem_oferta": false,
     "avaliacao": 4.8,
     "qtd_avaliacoes": 9979,
     "coupon_code": null,
     "description": "<ul><li>Para consultar a homologação do produto, acesse: sistemas.anatel.gov.br/sch.</li><li>A DYNAMIC ISLAND CHEGA AO IPHONE 15 — A Dynamic Island mostra alertas e Atividades ao Vivo para você não perder nenhuma informação enquanto faz outras coisas. Você pode acompanhar sua próxima corrida, saber quem está ligando, confirmar as informações do seu voo e muito mais.</li><li>DESIGN INOVADOR — O iPhone 15 tem vidro resistente colorido por infusão e design em alumínio. Ele aguenta o tranco contra respingos, água e poeira. A parte da frente em Ceramic Shield é mais resistente que qualquer vidro de smartphone. E a tela Super Retina XDR de 6,1 pol. é até duas vezes mais visível sob o sol em comparação com o iPhone 14.</li><li>CÂMERA GRANDE-ANGULAR DE 48 MP COM TELEOBJETIVA DE 2X — A câmera grande-angular de 48 MP fotografa em altíssima resolução. Assim, fica ainda mais fácil fazer fotos com detalhes incríveis. A teleobjetiva de 2x com qualidade óptica ajuda no enquadramento do close perfeito.</li><li>O FUTURO CHEGOU AOS RETRATOS — Faça retratos com mais detalhes e intensidade de cores. É só tocar para mudar o foco de uma pessoa para outra, mesmo depois do clique.</li><li>PODEROSO CHIP A16 BIONIC — O chip ultrarrápido possibilita recursos avançados, como a fotografia computacional, as transições fluidas da Dynamic Island e o Isolamento de Voz para ligações. E o A16 Bionic tem eficiência de sobra para que a bateria dure o dia todo.</li><li>CONECTIVIDADE USB-C — Com a porta USB‑C, você recarrega o Mac ou o iPad com o mesmo cabo que recarrega o iPhone 15. Você pode até utilizar o iPhone 15 para recarregar o Apple Watch ou os AirPods.</li><li>RECURSO ESSENCIAL DE SEGURANÇA — Com a Detecção de Acidente, o iPhone é capaz de identificar um acidente grave de carro e ligar para a emergência se você não puder.</li><li>PROJETADO PARA FAZER A DIFERENÇA — O iPhone protege sua privacidade e dá a você o controle dos seus dados. Ele é feito com mais materiais reciclados para minimizar o impacto ambiental. E vem com recursos integrados para ser cada vez mais acessível a todas as pessoas.</li><li>iOS 18 — Agora com mais personalização, mais formas de manter contato e um jeito mais fácil de encontrar suas fotos.</li><li>Este iPhone é compatível com eSIM. Entre em contato com a sua operadora para saber como ativar.</li></ul>",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/Apple-iPhone-15-128-GB/dp/B0CP6CR795/ref=zg_bs_g_16243890011_d_sccl_19/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -10751,6 +11062,7 @@ const PRODUCTS = [
     "price_original": 1999.0,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.8,
     "qtd_avaliacoes": 1614,
     "coupon_code": null,
@@ -10785,7 +11097,7 @@ const PRODUCTS = [
       "ASIN": "B0F9MNPVKG"
     },
     "affiliate_url": "https://www.amazon.com.br/Smartphone-Motorola-Moto-g56-Ultrarresistencia/dp/B0F9MNPVKG/ref=zg_bs_g_16243890011_d_sccl_17/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -10798,6 +11110,7 @@ const PRODUCTS = [
     "price_original": 2999.0,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.7,
     "qtd_avaliacoes": 1332,
     "coupon_code": null,
@@ -10840,7 +11153,7 @@ const PRODUCTS = [
       "GPS": "Verdadeiro"
     },
     "affiliate_url": "https://www.amazon.com.br/Smartphone-Motorola-Edge-60-Fusion/dp/B0F1H78X95/ref=zg_bs_g_16243890011_d_sccl_18/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -10853,6 +11166,7 @@ const PRODUCTS = [
     "price_original": 887.67,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.8,
     "qtd_avaliacoes": 786,
     "coupon_code": null,
@@ -10893,7 +11207,7 @@ const PRODUCTS = [
       "Resolução de captura de vídeo": "30fps, 60fps"
     },
     "affiliate_url": "https://www.amazon.com.br/Celular-Samsung-Galaxy-128GB-Preto/dp/B0FPHYC9FQ/ref=zg_bs_g_16243890011_d_sccl_21/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -10906,6 +11220,7 @@ const PRODUCTS = [
     "price_original": null,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.8,
     "qtd_avaliacoes": 52,
     "coupon_code": null,
@@ -10953,7 +11268,7 @@ const PRODUCTS = [
       "Sistema de navegação por satélite suportado": "GPS"
     },
     "affiliate_url": "https://www.amazon.com.br/Celular-Samsung-Galaxy-C%C3%A2mera-Tripla/dp/B0GKQTCXL8/ref=zg_bs_g_16243890011_d_sccl_21/130-5471262-3406342?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -10966,6 +11281,7 @@ const PRODUCTS = [
     "price_original": 1499.0,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.6,
     "qtd_avaliacoes": 2001,
     "coupon_code": null,
@@ -11021,7 +11337,7 @@ const PRODUCTS = [
       "GPS": "Verdadeiro"
     },
     "affiliate_url": "https://www.amazon.com.br/Smartphone-Motorola-Moto-g35-Superbrilho/dp/B0DHWFBYVC/ref=zg_bs_g_16243890011_d_sccl_22/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -11034,6 +11350,7 @@ const PRODUCTS = [
     "price_original": null,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.8,
     "qtd_avaliacoes": 748,
     "coupon_code": null,
@@ -11086,7 +11403,7 @@ const PRODUCTS = [
       "Sistema de navegação por satélite suportado": "GPS"
     },
     "affiliate_url": "https://www.amazon.com.br/Celular-Samsung-Galaxy-Qu%C3%A1drupla-Tit%C3%A2nio/dp/B0DSYJCY45/ref=zg_bs_g_16243890011_d_sccl_23/130-5471262-3406342?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -11099,6 +11416,7 @@ const PRODUCTS = [
     "price_original": 1399.0,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.6,
     "qtd_avaliacoes": 2429,
     "coupon_code": null,
@@ -11151,7 +11469,7 @@ const PRODUCTS = [
       "GPS": "true"
     },
     "affiliate_url": "https://www.amazon.com.br/Smartphone-Motorola-g15-256GB-Bateria-Superbrilho/dp/B0DQQCGG3Q/ref=zg_bs_g_16243890011_d_sccl_23/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -11164,6 +11482,7 @@ const PRODUCTS = [
     "price_original": 5999.0,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.8,
     "qtd_avaliacoes": 64,
     "coupon_code": null,
@@ -11205,7 +11524,7 @@ const PRODUCTS = [
       "ASIN": "B0GMY41LM8"
     },
     "affiliate_url": "https://www.amazon.com.br/Smartphone-Motorola-Edge-Crystals-Swarovski/dp/B0GMY41LM8/ref=zg_bs_g_16243890011_d_sccl_25/130-5471262-3406342?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -11218,6 +11537,7 @@ const PRODUCTS = [
     "price_original": 2140.0,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.7,
     "qtd_avaliacoes": 233,
     "coupon_code": null,
@@ -11261,7 +11581,7 @@ const PRODUCTS = [
       "Resolução de captura de vídeo": "4k"
     },
     "affiliate_url": "https://www.amazon.com.br/Smartphone-Xiaomi-Redmi-Note-512GB/dp/B0GQD3W1R4/ref=zg_bs_g_16243890011_d_sccl_24/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -11274,6 +11594,7 @@ const PRODUCTS = [
     "price_original": 1093.19,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.5,
     "qtd_avaliacoes": 765,
     "coupon_code": null,
@@ -11307,7 +11628,7 @@ const PRODUCTS = [
       "Resolução de captura de vídeo": "1920x1080"
     },
     "affiliate_url": "https://www.amazon.com.br/Smartphone-Xiaomi-Poco-Preto-256GB/dp/B0FZDVS62S/ref=zg_bs_g_16243890011_d_sccl_25/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -11320,13 +11641,14 @@ const PRODUCTS = [
     "price_original": 5799.0,
     "parcelamento": null,
     "tem_selo_prime": false,
+    "tem_oferta": false,
     "avaliacao": 4.6,
     "qtd_avaliacoes": 43,
     "coupon_code": null,
     "description": "<ul><li>Para consultar a homologação do produto, acesse: sistemas.anatel.gov.br/sch.</li><li>UMA ÓTIMA RELAÇÃO TUDO-BENEFÍCIO — O iPhone 17e chega com vários recursos espetaculares do iPhone 17 e deixa muitas possibilidades ainda mais possíveis.</li><li>DESIGN RESISTENTE. TELA BRILHANTE – Tela Super Retina XDR de 6,1 polegadas impressionante. Parte da frente em Ceramic Shield 2, com 3x mais resistência a arranhões que o iPhone 16e. Porta USB-C para recarga e conexões com outros aparelhos Apple e uma grande variedade de acessórios.</li><li>BATERIA PARA O DIA TODO — Envie mensagens, navegue ou assista a filmes e séries sem ver as horas passarem.</li><li>RECARGA RÁPIDA SEM FIO COM MAGSAFE — O iPhone 17e tem recarga sem fio de até 15W, o dobro dos 7,5W no iPhone 16e. Quando precisar recarregar, você vai notar como ficou mais simples, rápido e prático.</li><li>CHIP A19. PODEROSO E PILHADO — O chip A19 deixa suas tarefas favoritas, como streaming 4K e jogos AAA, mais ágeis e responsivas. Agora e por anos e anos.</li><li>DUAS CÂMERAS AVANÇADAS EM UMA — A câmera Fusion de 48 MP tem teleobjetiva de 2x com qualidade óptica. E com uma nova geração de retratos, você clica em qualquer modo e depois decide se quer adicionar um fundo desfocado e transformar suas fotos em retratos lindos.</li><li>MAIS ESPAÇO PARA O QUE IMPORTA — Com armazenamento a partir de 256 GB, tem espaço de sobra para o que você curte e ainda vai curtir. De fotos em altíssima resolução e vídeos 4K até seus apps, jogos e o que quiser.</li><li>CONECTIVIDADE. TRANQUILIDADE PARA VIAGEM — Se você não tiver serviço de rede celular ou Wi-Fi, o iPhone pode se conectar a um satélite para você enviar e receber mensagens e Tapbacks. O iPhone pode identificar um acidente grave de carro e ligar para os serviços de resgate se você não puder.</li><li>IOS E APPLE INTELLIGENCE. SIMPLES E ÚTEIS NO SEU DIA A DIA — Pessoal, privada, poderosa. Escreva, se expresse e faça de tudo sem esforço com recursos avançados como Filtragem de Ligações, Limpeza, Tradução ao Vivo e Inteligência Visual.</li><li>AVISOS LEGAIS – Este é um resumo dos principais recursos do produto.</li></ul>",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/Apple-iPhone-17e-256-GB/dp/B0GTRWMZWZ/ref=zg_bs_g_16243890011_d_sccl_27/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -11339,6 +11661,7 @@ const PRODUCTS = [
     "price_original": 2720.0,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.8,
     "qtd_avaliacoes": 262,
     "coupon_code": null,
@@ -11385,7 +11708,7 @@ const PRODUCTS = [
       "ASIN": "B0GN1TCVYX"
     },
     "affiliate_url": "https://www.amazon.com.br/Smartphone-Xiaomi-Poco-512GB-Preto/dp/B0GN1TCVYX/ref=zg_bs_g_16243890011_d_sccl_29/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -11398,6 +11721,7 @@ const PRODUCTS = [
     "price_original": 1899.9,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.7,
     "qtd_avaliacoes": 204,
     "coupon_code": null,
@@ -11436,7 +11760,7 @@ const PRODUCTS = [
       "ASIN": "B0GN3WDS7B"
     },
     "affiliate_url": "https://www.amazon.com.br/Smartphone-Xiaomi-Redmi-256GB-Preto/dp/B0GN3WDS7B/ref=zg_bs_g_16243890011_d_sccl_28/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -11449,6 +11773,7 @@ const PRODUCTS = [
     "price_original": 2410.0,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.8,
     "qtd_avaliacoes": 21,
     "coupon_code": null,
@@ -11486,7 +11811,7 @@ const PRODUCTS = [
       "Duração da bateria": "2,5 Dias"
     },
     "affiliate_url": "https://www.amazon.com.br/Smartphone-Xiaomi-Preto-Black-2412DPC0AG/dp/B0FHS18Q1N/ref=zg_bsnr_g_16243890011_d_sccl_1/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -11499,6 +11824,7 @@ const PRODUCTS = [
     "price_original": 2590.0,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.8,
     "qtd_avaliacoes": 5,
     "coupon_code": null,
@@ -11544,7 +11870,7 @@ const PRODUCTS = [
       "GPS": "true"
     },
     "affiliate_url": "https://www.amazon.com.br/Xiaomi-Smartphone-256GB-GREEN-Global/dp/B0GN23K43X/ref=zg_bsnr_g_16243890011_d_sccl_2/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -11557,6 +11883,7 @@ const PRODUCTS = [
     "price_original": 2590.0,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.8,
     "qtd_avaliacoes": 2,
     "coupon_code": null,
@@ -11601,7 +11928,7 @@ const PRODUCTS = [
       "ASIN": "B0H1NS1XQD"
     },
     "affiliate_url": "https://www.amazon.com.br/Smartphone-Xiaomi-Poco-512GB-Verde/dp/B0H1NS1XQD/ref=zg_bsnr_g_16243890011_d_sccl_3/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -11614,6 +11941,7 @@ const PRODUCTS = [
     "price_original": 4499.0,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 5.0,
     "qtd_avaliacoes": 2,
     "coupon_code": null,
@@ -11652,7 +11980,7 @@ const PRODUCTS = [
       "Potência da bateria": "6500.0"
     },
     "affiliate_url": "https://www.amazon.com.br/Smartphone-Motorola-Edge-70-PRO/dp/B0GZLNBVSF/ref=zg_bsnr_g_16243890011_d_sccl_4/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -11665,6 +11993,7 @@ const PRODUCTS = [
     "price_original": 4499.0,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.6,
     "qtd_avaliacoes": 1,
     "coupon_code": null,
@@ -11706,7 +12035,7 @@ const PRODUCTS = [
       "Potência da bateria": "6500.0"
     },
     "affiliate_url": "https://www.amazon.com.br/Smartphone-Motorola-Edge-70-PRO/dp/B0GZLL5D74/ref=zg_bsnr_g_16243890011_d_sccl_5/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -11719,6 +12048,7 @@ const PRODUCTS = [
     "price_original": 2887.78,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.9,
     "qtd_avaliacoes": null,
     "coupon_code": null,
@@ -11752,7 +12082,7 @@ const PRODUCTS = [
       "Potência da bateria": "5000 Milliamp Hours"
     },
     "affiliate_url": "https://www.amazon.com.br/Samsung-Combo-Galaxy-A57-256GB/dp/B0H1YB1WCT/ref=zg_bsnr_g_16243890011_d_sccl_6/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -11765,6 +12095,7 @@ const PRODUCTS = [
     "price_original": 2161.96,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.7,
     "qtd_avaliacoes": 2,
     "coupon_code": null,
@@ -11800,7 +12131,7 @@ const PRODUCTS = [
       "ASIN": "B0H2WXYRQ5"
     },
     "affiliate_url": "https://www.amazon.com.br/Smartphone-Xiaomi-Redmi-Note-256GB/dp/B0H2WXYRQ5/ref=zg_bsnr_g_16243890011_d_sccl_7/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -11813,6 +12144,7 @@ const PRODUCTS = [
     "price_original": 3598.9,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.9,
     "qtd_avaliacoes": null,
     "coupon_code": null,
@@ -11844,7 +12176,7 @@ const PRODUCTS = [
       "Potência da bateria": "5000 Milliamp Hours"
     },
     "affiliate_url": "https://www.amazon.com.br/Samsung-Combo-Galaxy-A57-256GB/dp/B0H34TQ34J/ref=zg_bsnr_g_16243890011_d_sccl_8/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -11857,6 +12189,7 @@ const PRODUCTS = [
     "price_original": 1220.0,
     "parcelamento": null,
     "tem_selo_prime": false,
+    "tem_oferta": false,
     "avaliacao": 4.6,
     "qtd_avaliacoes": null,
     "coupon_code": null,
@@ -11889,7 +12222,7 @@ const PRODUCTS = [
       "Dimensões do artigo": "8 x 75 x 164 milímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/Smartphone-Motorola-Moto-C%C3%A2mera-Selfie/dp/B0H5X34DNR/ref=zg_bsnr_g_16243890011_d_sccl_10/130-5471262-3406342?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -11902,6 +12235,7 @@ const PRODUCTS = [
     "price_original": 2161.96,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.7,
     "qtd_avaliacoes": 7,
     "coupon_code": null,
@@ -11935,7 +12269,7 @@ const PRODUCTS = [
       "Resolução de captura de vídeo": "4k"
     },
     "affiliate_url": "https://www.amazon.com.br/Smartphone-Xiaomi-Redmi-Note-512GB/dp/B0H2WRYZYJ/ref=zg_bsnr_g_16243890011_d_sccl_12/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -11948,6 +12282,7 @@ const PRODUCTS = [
     "price_original": 5499.0,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.5,
     "qtd_avaliacoes": null,
     "coupon_code": null,
@@ -11983,7 +12318,7 @@ const PRODUCTS = [
       "Potência da bateria": "4800"
     },
     "affiliate_url": "https://www.amazon.com.br/Smartphone-Motorola-Razr-70-5G/dp/B0GYPY79H9/ref=zg_bsnr_g_16243890011_d_sccl_13/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -11996,6 +12331,7 @@ const PRODUCTS = [
     "price_original": 3059.0,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.9,
     "qtd_avaliacoes": null,
     "coupon_code": null,
@@ -12027,7 +12363,7 @@ const PRODUCTS = [
       "Potência da bateria": "5000 Milliamp Hours"
     },
     "affiliate_url": "https://www.amazon.com.br/Samsung-Combo-Galaxy-A57-256GB/dp/B0H34VM48S/ref=zg_bsnr_g_16243890011_d_sccl_14/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -12040,6 +12376,7 @@ const PRODUCTS = [
     "price_original": 1999.0,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.2,
     "qtd_avaliacoes": null,
     "coupon_code": null,
@@ -12077,7 +12414,7 @@ const PRODUCTS = [
       "Potência da bateria": "5200"
     },
     "affiliate_url": "https://www.amazon.com.br/Smartphones-Motorola-Moto-G47-5G/dp/B0GYPYM43X/ref=zg_bsnr_g_16243890011_d_sccl_16/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -12090,6 +12427,7 @@ const PRODUCTS = [
     "price_original": 2799.0,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.8,
     "qtd_avaliacoes": null,
     "coupon_code": null,
@@ -12126,7 +12464,7 @@ const PRODUCTS = [
       "Potência da bateria": "5200.0"
     },
     "affiliate_url": "https://www.amazon.com.br/Smartphone-Motorola-Moto-Max-5G/dp/B0GZQX7CBJ/ref=zg_bsnr_g_16243890011_d_sccl_18/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -12139,6 +12477,7 @@ const PRODUCTS = [
     "price_original": 4776.67,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.6,
     "qtd_avaliacoes": null,
     "coupon_code": null,
@@ -12172,7 +12511,7 @@ const PRODUCTS = [
       "Potência da bateria": "4300 Milliamp Hours"
     },
     "affiliate_url": "https://www.amazon.com.br/Samsung-Combo-Galaxy-S26-256GB/dp/B0H1YYX6VP/ref=zg_bsnr_g_16243890011_d_sccl_19/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -12185,6 +12524,7 @@ const PRODUCTS = [
     "price_original": 3999.0,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 5.0,
     "qtd_avaliacoes": null,
     "coupon_code": null,
@@ -12216,7 +12556,7 @@ const PRODUCTS = [
       "Potência da bateria": "5000 Milliamp Hours"
     },
     "affiliate_url": "https://www.amazon.com.br/Samsung-Combo-Galaxy-A37-256GB/dp/B0H34WKMJJ/ref=zg_bsnr_g_16243890011_d_sccl_21/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -12229,6 +12569,7 @@ const PRODUCTS = [
     "price_original": null,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.7,
     "qtd_avaliacoes": null,
     "coupon_code": null,
@@ -12260,7 +12601,7 @@ const PRODUCTS = [
       "Resolução de captura de vídeo": "4k"
     },
     "affiliate_url": "https://www.amazon.com.br/Smartphone-Xiaomi-15-Pro-5G/dp/B0G2BHH8SR/ref=zg_bsnr_g_16243890011_d_sccl_22/130-5471262-3406342?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -12273,6 +12614,7 @@ const PRODUCTS = [
     "price_original": 2887.78,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.9,
     "qtd_avaliacoes": null,
     "coupon_code": null,
@@ -12306,7 +12648,7 @@ const PRODUCTS = [
       "Potência da bateria": "5000 Milliamp Hours"
     },
     "affiliate_url": "https://www.amazon.com.br/Samsung-Combo-Galaxy-A57-256GB/dp/B0H1YY12R8/ref=zg_bsnr_g_16243890011_d_sccl_24/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -12319,6 +12661,7 @@ const PRODUCTS = [
     "price_original": 4099.0,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.7,
     "qtd_avaliacoes": null,
     "coupon_code": null,
@@ -12347,7 +12690,7 @@ const PRODUCTS = [
       "Dimensões do artigo": "50 x 80 x 170 milímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/Smartphone-Motorola-Edge-PRO-ultrarresistencia/dp/B0H37ZQQFP/ref=zg_bsnr_g_16243890011_d_sccl_25/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -12360,6 +12703,7 @@ const PRODUCTS = [
     "price_original": 10999.0,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.7,
     "qtd_avaliacoes": null,
     "coupon_code": null,
@@ -12382,7 +12726,7 @@ const PRODUCTS = [
       "ASIN": "B0H2N4QTVC"
     },
     "affiliate_url": "https://www.amazon.com.br/Apple-iPhone-Pro-Max-256/dp/B0H2N4QTVC/ref=zg_bsnr_g_16243890011_d_sccl_28/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -12395,6 +12739,7 @@ const PRODUCTS = [
     "price_original": 11599.0,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.3,
     "qtd_avaliacoes": null,
     "coupon_code": "Aplicar Cupom de R$3000",
@@ -12428,7 +12773,7 @@ const PRODUCTS = [
       "Potência da bateria": "6000.0"
     },
     "affiliate_url": "https://www.amazon.com.br/Smartphone-Motorola-Razr-Fold-Collection/dp/B0GZPRQ9JJ/ref=zg_bsnr_g_16243890011_d_sccl_29/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -12441,6 +12786,7 @@ const PRODUCTS = [
     "price_original": 71.9,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.8,
     "qtd_avaliacoes": 69752,
     "coupon_code": null,
@@ -12484,7 +12830,7 @@ const PRODUCTS = [
       "Tipo de acabamento": "Fosco"
     },
     "affiliate_url": "https://www.amazon.com.br/Mouse-Nanoreceptor-Inclusa-Logitech-Mouses/dp/B074L9L5KZ/ref=zg_bs_g_computers_d_sccl_1/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -12497,6 +12843,7 @@ const PRODUCTS = [
     "price_original": null,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.7,
     "qtd_avaliacoes": 15822,
     "coupon_code": null,
@@ -12530,7 +12877,7 @@ const PRODUCTS = [
       "ASIN": "B08WKPK952"
     },
     "affiliate_url": "https://www.amazon.com.br/Cartucho-HP-Preto-Original-3YM79AB/dp/B08WKPK952/ref=zg_bs_g_computers_d_sccl_3/130-5471262-3406342?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -12543,6 +12890,7 @@ const PRODUCTS = [
     "price_original": 119.99,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.8,
     "qtd_avaliacoes": 1901,
     "coupon_code": null,
@@ -12587,7 +12935,7 @@ const PRODUCTS = [
       "Tamanho": "Grande"
     },
     "affiliate_url": "https://www.amazon.com.br/Expansivel-Masculina-Executiva-Imperme%C3%A1vel-Refor%C3%A7ada/dp/B0F2N7L7HQ/ref=zg_bs_g_computers_d_sccl_4/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -12600,6 +12948,7 @@ const PRODUCTS = [
     "price_original": null,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.7,
     "qtd_avaliacoes": 20642,
     "coupon_code": null,
@@ -12635,7 +12984,7 @@ const PRODUCTS = [
       "Cor": "Preto"
     },
     "affiliate_url": "https://www.amazon.com.br/Externo-Toshiba-Canvio-Basics-HDTB520XK3AA/dp/B0BQX6NNVC/ref=zg_bs_g_computers_d_sccl_5/130-5471262-3406342?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -12648,6 +12997,7 @@ const PRODUCTS = [
     "price_original": 79.9,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.7,
     "qtd_avaliacoes": 16432,
     "coupon_code": null,
@@ -12680,7 +13030,7 @@ const PRODUCTS = [
       "ASIN": "B074HMBWQG"
     },
     "affiliate_url": "https://www.amazon.com.br/HP-F6V29AB-Cartucho-Tinta-Preto/dp/B074HMBWQG/ref=zg_bs_g_computers_d_sccl_6/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -12693,6 +13043,7 @@ const PRODUCTS = [
     "price_original": null,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.8,
     "qtd_avaliacoes": 38865,
     "coupon_code": null,
@@ -12720,7 +13071,7 @@ const PRODUCTS = [
       "ASIN": "B0765KZ264"
     },
     "affiliate_url": "https://www.amazon.com.br/Ergon%C3%B4mico-Articulado-Compacto-Retr%C3%A1til-Monitores/dp/B0765KZ264/ref=zg_bs_g_computers_d_sccl_7/145-8883565-9460303?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -12733,6 +13084,7 @@ const PRODUCTS = [
     "price_original": null,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 5.0,
     "qtd_avaliacoes": 2180,
     "coupon_code": null,
@@ -12758,7 +13110,7 @@ const PRODUCTS = [
       "Contagem de unidades": "1 Unidade"
     },
     "affiliate_url": "https://www.amazon.com.br/Recarreg%C3%A1vel-Wireless-Bluetooth-Ergon%C3%B4mico-Computador/dp/B0F1G2TL8P/ref=zg_bs_g_computers_d_sccl_9/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -12771,6 +13123,7 @@ const PRODUCTS = [
     "price_original": 19.89,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.6,
     "qtd_avaliacoes": 691,
     "coupon_code": null,
@@ -12805,7 +13158,7 @@ const PRODUCTS = [
       "Quantidade de itens": "1"
     },
     "affiliate_url": "https://www.amazon.com.br/Cabo-USB-C-Metros-Turbo-Transfer%C3%AAncia/dp/B0F5XBMGB5/ref=zg_bs_g_computers_d_sccl_10/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -12818,6 +13171,7 @@ const PRODUCTS = [
     "price_original": 265.45,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.7,
     "qtd_avaliacoes": 7594,
     "coupon_code": null,
@@ -12864,7 +13218,7 @@ const PRODUCTS = [
       "Contagem de unidades": "1.0 Cada"
     },
     "affiliate_url": "https://www.amazon.com.br/Ouvido-Headset-Fuxi-H3-Wireless-Bluetooth/dp/B0CHJXCJTW/ref=zg_bs_g_computers_d_sccl_20/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -12877,6 +13231,7 @@ const PRODUCTS = [
     "price_original": 194.03,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.6,
     "qtd_avaliacoes": 206632,
     "coupon_code": null,
@@ -12906,7 +13261,7 @@ const PRODUCTS = [
       "ASIN": "B00A0VCJPI"
     },
     "affiliate_url": "https://www.amazon.com.br/Repetidor-Tp-Link-Wireless-Tl-Wa850Re-Repetidores/dp/B00A0VCJPI/ref=zg_bs_g_computers_d_sccl_12/140-2029926-4219235?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -12919,6 +13274,7 @@ const PRODUCTS = [
     "price_original": 152.0,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.7,
     "qtd_avaliacoes": 11014,
     "coupon_code": null,
@@ -12942,7 +13298,7 @@ const PRODUCTS = [
       "ASIN": "B0BPTK4P38"
     },
     "affiliate_url": "https://www.amazon.com.br/Teclado-Mouse-sem-fio-Dell/dp/B0BPTK4P38/ref=zg_bs_g_computers_d_sccl_16/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -12955,6 +13311,7 @@ const PRODUCTS = [
     "price_original": 123.9,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.8,
     "qtd_avaliacoes": 6917,
     "coupon_code": null,
@@ -12995,7 +13352,7 @@ const PRODUCTS = [
       "Tipo de acabamento": "Fosco"
     },
     "affiliate_url": "https://www.amazon.com.br/Logitech-Silencioso-Ambidestro-Conex%C3%A3o-Bluetooth/dp/B0CJ3BDN7T/ref=zg_bs_g_computers_d_sccl_17/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -13008,6 +13365,7 @@ const PRODUCTS = [
     "price_original": 214.9,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.8,
     "qtd_avaliacoes": 6378,
     "coupon_code": null,
@@ -13044,7 +13402,7 @@ const PRODUCTS = [
       "ASIN": "B09JKXGSLG"
     },
     "affiliate_url": "https://www.amazon.com.br/EPSON-garrafas-originais-Compacto-T544520-BR/dp/B09JKXGSLG/ref=zg_bs_g_computers_d_sccl_14/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -13057,6 +13415,7 @@ const PRODUCTS = [
     "price_original": null,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.4,
     "qtd_avaliacoes": 1289,
     "coupon_code": null,
@@ -13099,7 +13458,7 @@ const PRODUCTS = [
       "Cor": "Branca"
     },
     "affiliate_url": "https://www.amazon.com.br/Antena-Internet-sat%C3%A9lite-Starlink-MINI/dp/B0DH3PLZ6N/ref=zg_bs_g_computers_d_sccl_15/140-2029926-4219235?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -13112,6 +13471,7 @@ const PRODUCTS = [
     "price_original": 6.5,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.0,
     "qtd_avaliacoes": 955,
     "coupon_code": null,
@@ -13140,7 +13500,7 @@ const PRODUCTS = [
       "Cor": "Branco"
     },
     "affiliate_url": "https://www.amazon.com.br/Cabo-Lightning-Refor%C3%A7ado-Compat%C3%ADvel-iPhone/dp/B0DT5383HM/ref=zg_bs_g_computers_d_sccl_19/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -13153,6 +13513,7 @@ const PRODUCTS = [
     "price_original": 16.8,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.7,
     "qtd_avaliacoes": 20743,
     "coupon_code": null,
@@ -13173,7 +13534,7 @@ const PRODUCTS = [
       "Cor": "Transparente"
     },
     "affiliate_url": "https://www.amazon.com.br/Case-transparente-original-transmiss%C3%A3o-6gbps/dp/B07K2F1B2S/ref=zg_bs_g_computers_d_sccl_18/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -13186,6 +13547,7 @@ const PRODUCTS = [
     "price_original": null,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.3,
     "qtd_avaliacoes": 3699,
     "coupon_code": null,
@@ -13211,7 +13573,7 @@ const PRODUCTS = [
       "Cor": "Branco"
     },
     "affiliate_url": "https://www.amazon.com.br/carregador-iPhone-Lightning-Certifica%C3%A7%C3%A3o-Carregamento/dp/B0BGJR1R3B/ref=zg_bs_g_computers_d_sccl_21/140-2029926-4219235?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -13224,6 +13586,7 @@ const PRODUCTS = [
     "price_original": 3149.0,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.9,
     "qtd_avaliacoes": 2316,
     "coupon_code": null,
@@ -13288,7 +13651,7 @@ const PRODUCTS = [
       "GPS": "GPS,Glonass,Beidou,Galileo,QZSS"
     },
     "affiliate_url": "https://www.amazon.com.br/Galaxy-Lite-128GB-Tela-Cinza/dp/B0FMFRFNWG/ref=zg_bs_g_computers_d_sccl_26/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -13301,6 +13664,7 @@ const PRODUCTS = [
     "price_original": 62.9,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.8,
     "qtd_avaliacoes": 2103,
     "coupon_code": null,
@@ -13333,7 +13697,7 @@ const PRODUCTS = [
       "ASIN": "B0DF8VTNHM"
     },
     "affiliate_url": "https://www.amazon.com.br/Garrafa-Tinta-Original-Epson-Ecotank/dp/B0DF8VTNHM/ref=zg_bs_g_computers_d_sccl_22/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -13346,6 +13710,7 @@ const PRODUCTS = [
     "price_original": 1879.0,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.8,
     "qtd_avaliacoes": 205,
     "coupon_code": null,
@@ -13395,7 +13760,7 @@ const PRODUCTS = [
       "Cor da resolução máxima de cópia": "4.800 x 1.200 dpi"
     },
     "affiliate_url": "https://www.amazon.com.br/Multifuncional-EcoTank-imprime-frente-autom%C3%A1tico/dp/B0GJ7H8WLW/ref=zg_bs_g_computers_d_sccl_23/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -13408,6 +13773,7 @@ const PRODUCTS = [
     "price_original": 749.0,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.8,
     "qtd_avaliacoes": 3596,
     "coupon_code": null,
@@ -13454,7 +13820,7 @@ const PRODUCTS = [
       "Total de portas de saída de vídeo": "2"
     },
     "affiliate_url": "https://www.amazon.com.br/Monitor-Gamer-LG-24MS500-100Hz/dp/B0DF2WSGF6/ref=zg_bs_g_computers_d_sccl_24/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -13467,6 +13833,7 @@ const PRODUCTS = [
     "price_original": 12.9,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.7,
     "qtd_avaliacoes": 14574,
     "coupon_code": null,
@@ -13505,7 +13872,7 @@ const PRODUCTS = [
       "Formato do item": "Redondo"
     },
     "affiliate_url": "https://www.amazon.com.br/Cat-6-Patch-Plus-Cable-Branco/dp/B07SR1F7LS/ref=zg_bs_g_computers_d_sccl_25/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -13518,6 +13885,7 @@ const PRODUCTS = [
     "price_original": 247.9,
     "parcelamento": null,
     "tem_selo_prime": false,
+    "tem_oferta": false,
     "avaliacao": 4.8,
     "qtd_avaliacoes": 5001,
     "coupon_code": null,
@@ -13561,7 +13929,7 @@ const PRODUCTS = [
       "ASIN": "B0CJ3WFW9H"
     },
     "affiliate_url": "https://www.amazon.com.br/Teclado-Logitech-Conex%C3%A3o-Bluetooth-Easy-Switch/dp/B0CJ3WFW9H/ref=zg_bs_g_computers_d_sccl_27/130-5471262-3406342?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -13574,6 +13942,7 @@ const PRODUCTS = [
     "price_original": 79.9,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.7,
     "qtd_avaliacoes": 804,
     "coupon_code": null,
@@ -13607,7 +13976,7 @@ const PRODUCTS = [
       "ASIN": "B0DF8ZSC9D"
     },
     "affiliate_url": "https://www.amazon.com.br/Garrafa-Tinta-Original-Epson-EcoTank/dp/B0DF8ZSC9D/ref=zg_bs_g_computers_d_sccl_27/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -13620,6 +13989,7 @@ const PRODUCTS = [
     "price_original": 59.9,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 5.0,
     "qtd_avaliacoes": 1302,
     "coupon_code": null,
@@ -13653,7 +14023,7 @@ const PRODUCTS = [
       "Resolução efetiva de vídeo": "2 MP"
     },
     "affiliate_url": "https://www.amazon.com.br/Webcam-Premium-1080p-Microfone-Autom%C3%A1tico/dp/B0FLZ2T78C/ref=zg_bs_g_computers_d_sccl_28/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -13666,6 +14036,7 @@ const PRODUCTS = [
     "price_original": 899.0,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.8,
     "qtd_avaliacoes": 210,
     "coupon_code": null,
@@ -13700,7 +14071,7 @@ const PRODUCTS = [
       "ASIN": "B0FLKL7DHZ"
     },
     "affiliate_url": "https://www.amazon.com.br/Monitor-Gamer-AOC-G-SYNC-27G50F/dp/B0FLKL7DHZ/ref=zg_bs_g_computers_d_sccl_3/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -13713,6 +14084,7 @@ const PRODUCTS = [
     "price_original": 27.91,
     "parcelamento": null,
     "tem_selo_prime": false,
+    "tem_oferta": false,
     "avaliacao": 4.6,
     "qtd_avaliacoes": 81,
     "coupon_code": null,
@@ -13740,7 +14112,7 @@ const PRODUCTS = [
       "ASIN": "B0GVQ5ZY7D"
     },
     "affiliate_url": "https://www.amazon.com.br/Carregador-Metros-Tran%C3%A7ado-Branco-Compativel/dp/B0GVQ5ZY7D/ref=zg_bs_g_computers_d_sccl_4/130-5471262-3406342?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -13753,6 +14125,7 @@ const PRODUCTS = [
     "price_original": 1952.93,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.6,
     "qtd_avaliacoes": 456,
     "coupon_code": null,
@@ -13782,7 +14155,7 @@ const PRODUCTS = [
       "ASIN": "B0C5DXJ165"
     },
     "affiliate_url": "https://www.amazon.com.br/Placa-Video-Gigabyte-Gaming-GDDR6/dp/B0C5DXJ165?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -13795,6 +14168,7 @@ const PRODUCTS = [
     "price_original": 499.0,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.8,
     "qtd_avaliacoes": 1493,
     "coupon_code": null,
@@ -13833,7 +14207,7 @@ const PRODUCTS = [
       "Total de portas de saída de vídeo": "2"
     },
     "affiliate_url": "https://www.amazon.com.br/AOC-Monitor-120Hz-22B35HM23-Gaming/dp/B0F4L1SBV3/ref=zg_bs_g_computers_d_sccl_6/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -13846,6 +14220,7 @@ const PRODUCTS = [
     "price_original": 9.99,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.7,
     "qtd_avaliacoes": 3643,
     "coupon_code": null,
@@ -13871,7 +14246,7 @@ const PRODUCTS = [
       "ASIN": "B01N35N6ZC"
     },
     "affiliate_url": "https://www.amazon.com.br/Padr%C3%A3o-Mouse-Vermelho-60356-4-Maxprint/dp/B01N35N6ZC/ref=zg_bs_g_computers_d_sccl_9/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -13884,6 +14259,7 @@ const PRODUCTS = [
     "price_original": 95.9,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.8,
     "qtd_avaliacoes": 11823,
     "coupon_code": null,
@@ -13925,7 +14301,7 @@ const PRODUCTS = [
       "Tipo de acabamento": "Fosco"
     },
     "affiliate_url": "https://www.amazon.com.br/Logitech-Bluetooth-Silencioso-Ambidestro-Compat%C3%ADvel/dp/B0BXNSTGGW/ref=zg_bs_g_computers_d_sccl_10/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -13938,6 +14314,7 @@ const PRODUCTS = [
     "price_original": 749.0,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.8,
     "qtd_avaliacoes": 169,
     "coupon_code": null,
@@ -13971,7 +14348,7 @@ const PRODUCTS = [
       "ASIN": "B0FLKGNYJ8"
     },
     "affiliate_url": "https://www.amazon.com.br/Monitor-Gamer-AOC-G-SYNC-24G50F/dp/B0FLKGNYJ8/ref=zg_bs_g_computers_d_sccl_5/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -13984,6 +14361,7 @@ const PRODUCTS = [
     "price_original": 219.0,
     "parcelamento": null,
     "tem_selo_prime": false,
+    "tem_oferta": false,
     "avaliacao": 4.9,
     "qtd_avaliacoes": 9544,
     "coupon_code": null,
@@ -14008,7 +14386,7 @@ const PRODUCTS = [
       "ASIN": "B0CX22JSR3"
     },
     "affiliate_url": "https://www.amazon.com.br/Cabo-Apple-USB-C-para-Lightning/dp/B0CX22JSR3/ref=zg_bs_g_computers_d_sccl_12/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -14021,6 +14399,7 @@ const PRODUCTS = [
     "price_original": 1279.0,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.8,
     "qtd_avaliacoes": 1668,
     "coupon_code": null,
@@ -14069,7 +14448,7 @@ const PRODUCTS = [
       "Cor da resolução máxima de cópia": "5760 x 1440 dpi"
     },
     "affiliate_url": "https://www.amazon.com.br/Impressora-Epson-EcoTank-L1250-Colorida/dp/B0DTTM47F9/ref=zg_bs_g_computers_d_sccl_17/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -14082,6 +14461,7 @@ const PRODUCTS = [
     "price_original": 229.0,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.4,
     "qtd_avaliacoes": 7699,
     "coupon_code": null,
@@ -14120,7 +14500,7 @@ const PRODUCTS = [
       "Método de controle": "Remoto"
     },
     "affiliate_url": "https://www.amazon.com.br/JBL-Fone-Ouvido-Com-JBLQTUM100M2BLK/dp/B0D6NLHV8N/ref=zg_bs_g_computers_d_sccl_11/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -14133,6 +14513,7 @@ const PRODUCTS = [
     "price_original": 83.0,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.5,
     "qtd_avaliacoes": 5067,
     "coupon_code": null,
@@ -14169,7 +14550,7 @@ const PRODUCTS = [
       "ASIN": "B00KO401T2"
     },
     "affiliate_url": "https://www.amazon.com.br/HP-CZ103AB-Cartucho-Tinta-Preto/dp/B00KO401T2/ref=zg_bs_g_computers_d_sccl_8/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -14182,6 +14563,7 @@ const PRODUCTS = [
     "price_original": 949.0,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.8,
     "qtd_avaliacoes": 570,
     "coupon_code": "Aplicar Cupom de 20%",
@@ -14211,7 +14593,7 @@ const PRODUCTS = [
       "ASIN": "B0DXDCCZBY"
     },
     "affiliate_url": "https://www.amazon.com.br/Pel%C3%ADcula-Kindle-Paperwhite-Gera%C3%A7%C3%A3o-Polegadas/dp/B0DXDCCZBY/ref=zg_bs_g_computers_d_sccl_13/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -14224,6 +14606,7 @@ const PRODUCTS = [
     "price_original": 34.0,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.8,
     "qtd_avaliacoes": 32356,
     "coupon_code": null,
@@ -14251,7 +14634,7 @@ const PRODUCTS = [
       "ASIN": "B0152HPXXE"
     },
     "affiliate_url": "https://www.amazon.com.br/Mouse-Pad-Gaming-Havit-HV-MP830/dp/B0152HPXXE/ref=zg_bs_g_computers_d_sccl_25/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -14264,6 +14647,7 @@ const PRODUCTS = [
     "price_original": 1166.64,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.6,
     "qtd_avaliacoes": 11099,
     "coupon_code": null,
@@ -14297,7 +14681,7 @@ const PRODUCTS = [
       "ASIN": "B09VCJ171S"
     },
     "affiliate_url": "https://www.amazon.com.br/Processador-AMD-Ryzen-5500-100100000457BOX/dp/B09VCJ171S/ref=zg_bs_g_computers_d_sccl_18/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -14310,6 +14694,7 @@ const PRODUCTS = [
     "price_original": 46.7,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.4,
     "qtd_avaliacoes": 38457,
     "coupon_code": null,
@@ -14340,7 +14725,7 @@ const PRODUCTS = [
       "ASIN": "B0754JVBGJ"
     },
     "affiliate_url": "https://www.amazon.com.br/Drive-Twist-Leitura-Grava%C3%A7%C3%A3o-Preto/dp/B0754JVBGJ/ref=zg_bs_g_computers_d_sccl_23/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -14353,6 +14738,7 @@ const PRODUCTS = [
     "price_original": 19.9,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.8,
     "qtd_avaliacoes": 14278,
     "coupon_code": null,
@@ -14390,7 +14776,7 @@ const PRODUCTS = [
       "ASIN": "B086J78G67"
     },
     "affiliate_url": "https://www.amazon.com.br/Mouse-Classic-%C3%93ptico-Full-Black/dp/B086J78G67/ref=zg_bs_g_computers_d_sccl_16/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -14403,6 +14789,7 @@ const PRODUCTS = [
     "price_original": 169.9,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.8,
     "qtd_avaliacoes": 42795,
     "coupon_code": null,
@@ -14442,7 +14829,7 @@ const PRODUCTS = [
       "Tipo de acabamento": "Fosco"
     },
     "affiliate_url": "https://www.amazon.com.br/Logitech-LIGHTSYNC-Efeito-Bot%C3%B5es-Program%C3%A1veis/dp/B087CT8PWY/ref=zg_bs_g_computers_d_sccl_21/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -14455,6 +14842,7 @@ const PRODUCTS = [
     "price_original": 33.9,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.7,
     "qtd_avaliacoes": 11510,
     "coupon_code": null,
@@ -14494,7 +14882,7 @@ const PRODUCTS = [
       "Quantidade de itens": "1"
     },
     "affiliate_url": "https://www.amazon.com.br/Samsung-Cabo-tipo-EP-DA705BBEGWW-preto/dp/B07T99CGDF/ref=zg_bs_g_computers_d_sccl_14/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -14507,6 +14895,7 @@ const PRODUCTS = [
     "price_original": 129.9,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.8,
     "qtd_avaliacoes": 1441,
     "coupon_code": null,
@@ -14550,7 +14939,7 @@ const PRODUCTS = [
       "Tamanho da Alça": "Média"
     },
     "affiliate_url": "https://www.amazon.com.br/Masculina-Refor%C3%A7ada-Executiva-Imperme%C3%A1vel-Antifurto/dp/B0DHBJ7KPF/ref=zg_bs_g_computers_d_sccl_15/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -14563,6 +14952,7 @@ const PRODUCTS = [
     "price_original": 3.85,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.7,
     "qtd_avaliacoes": 178,
     "coupon_code": null,
@@ -14594,7 +14984,7 @@ const PRODUCTS = [
       "Disponível para compra desde": "28 dezembro 2017"
     },
     "affiliate_url": "https://www.amazon.com.br/Base-Padr%C3%A3o-Mouse-60355-0-Maxprint/dp/B078NVW1XT/ref=zg_bs_g_computers_d_sccl_27/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -14607,6 +14997,7 @@ const PRODUCTS = [
     "price_original": 736.0,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.8,
     "qtd_avaliacoes": 210,
     "coupon_code": null,
@@ -14650,7 +15041,7 @@ const PRODUCTS = [
       "Sincronização adaptável": "FreeSync, G-Sync"
     },
     "affiliate_url": "https://www.amazon.com.br/Monitor-LG-UltraGearTM-27G411A-B-FreeSync/dp/B0G3144L7C/ref=zg_bs_g_computers_d_sccl_19/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -14663,6 +15054,7 @@ const PRODUCTS = [
     "price_original": 249.9,
     "parcelamento": null,
     "tem_selo_prime": false,
+    "tem_oferta": false,
     "avaliacao": 4.6,
     "qtd_avaliacoes": 1664,
     "coupon_code": null,
@@ -14693,7 +15085,7 @@ const PRODUCTS = [
       "Cor": "Preto"
     },
     "affiliate_url": "https://www.amazon.com.br/Headset-Gamer-Redragon-Preto-H510-LT/dp/B0F1C3MRMF/ref=zg_bs_g_computers_d_sccl_25/130-5471262-3406342?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -14706,6 +15098,7 @@ const PRODUCTS = [
     "price_original": 19.48,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.7,
     "qtd_avaliacoes": 472,
     "coupon_code": null,
@@ -14725,7 +15118,7 @@ const PRODUCTS = [
       "ASIN": "B0FVPG6XR9"
     },
     "affiliate_url": "https://www.amazon.com.br/TopGet-ProControl-Precis%C3%A3o-Antiderrapante-Poli%C3%A9ster/dp/B0FVPG6XR9/ref=zg_bs_g_computers_d_sccl_24/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -14738,6 +15131,7 @@ const PRODUCTS = [
     "price_original": 229.9,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.7,
     "qtd_avaliacoes": 53,
     "coupon_code": null,
@@ -14788,7 +15182,7 @@ const PRODUCTS = [
       "Contagem de unidades": "1 unidade"
     },
     "affiliate_url": "https://www.amazon.com.br/Logitech-Controles-Integrado-Confort%C3%A1veis-Sustent%C3%A1vel/dp/B0FX36FTBX/ref=zg_bs_g_computers_d_sccl_22/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -14801,6 +15195,7 @@ const PRODUCTS = [
     "price_original": 59.76,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.7,
     "qtd_avaliacoes": 334,
     "coupon_code": null,
@@ -14819,7 +15214,7 @@ const PRODUCTS = [
       "Material": "Couro"
     },
     "affiliate_url": "https://www.amazon.com.br/Mouse-Ecol%C3%B3gico-90x40cm-Porta-Copos-Premium/dp/B0FHY1632R/ref=zg_bs_g_computers_d_sccl_20/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -14832,6 +15227,7 @@ const PRODUCTS = [
     "price_original": 4500.0,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.8,
     "qtd_avaliacoes": 1161,
     "coupon_code": null,
@@ -14931,7 +15327,7 @@ const PRODUCTS = [
       "Recurso Touchpad": "Suporte A Gestos Multi-toque, Touchpad De Precisão"
     },
     "affiliate_url": "https://www.amazon.com.br/Notebook-Dell-Inspiron-I15-I1300-A30P-Carbono/dp/B0FHCHBRGF/ref=zg_bs_g_computers_d_sccl_29/130-5471262-3406342?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -14944,6 +15340,7 @@ const PRODUCTS = [
     "price_original": 64.0,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.7,
     "qtd_avaliacoes": 1953,
     "coupon_code": null,
@@ -14984,7 +15381,7 @@ const PRODUCTS = [
       "Quantidade de itens": "1"
     },
     "affiliate_url": "https://www.amazon.com.br/Anker-Carregamento-Tran%C3%A7ado-Sujeira-Conector/dp/B0DBTV5QF5/ref=zg_bs_g_computers_d_sccl_30/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -14997,6 +15394,7 @@ const PRODUCTS = [
     "price_original": 30.44,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.6,
     "qtd_avaliacoes": 21089,
     "coupon_code": null,
@@ -15027,7 +15425,7 @@ const PRODUCTS = [
       "Material Type": "Espuma"
     },
     "affiliate_url": "https://www.amazon.com.br/HB004492250-Forte-Espuma-Extrema-Multicolor/dp/B0779BRVVS/ref=zg_bs_g_hi_d_sccl_2/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -15040,6 +15438,7 @@ const PRODUCTS = [
     "price_original": 140.45,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.8,
     "qtd_avaliacoes": 20349,
     "coupon_code": null,
@@ -15064,7 +15463,7 @@ const PRODUCTS = [
       "Recomendação de peso máximo": "20 Quilogramas"
     },
     "affiliate_url": "https://www.amazon.com.br/Maleta-Ferramentas-Sparta-Kit-13564/dp/B076N2S8FV/ref=zg_bs_g_hi_d_sccl_3/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -15077,6 +15476,7 @@ const PRODUCTS = [
     "price_original": 849.9,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.6,
     "qtd_avaliacoes": 3474,
     "coupon_code": null,
@@ -15103,7 +15503,7 @@ const PRODUCTS = [
       "Estilo": "Moderna"
     },
     "affiliate_url": "https://www.amazon.com.br/WAP-Extratora-Port%C3%A1til-Cleaner-Pot%C3%AAncia/dp/B0CH3WBKN6/ref=zg_bs_g_hi_d_sccl_4/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -15116,6 +15516,7 @@ const PRODUCTS = [
     "price_original": 359.9,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.5,
     "qtd_avaliacoes": 22526,
     "coupon_code": null,
@@ -15152,7 +15553,7 @@ const PRODUCTS = [
       "Material": "Metal, Plástico"
     },
     "affiliate_url": "https://www.amazon.com.br/Parafusadeira-Furadeira-WAP-Carregador-Acess%C3%B3rios/dp/B09V1SM8QB/ref=zg_bs_g_hi_d_sccl_5/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -15165,6 +15566,7 @@ const PRODUCTS = [
     "price_original": 339.9,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.4,
     "qtd_avaliacoes": 3951,
     "coupon_code": null,
@@ -15205,7 +15607,7 @@ const PRODUCTS = [
       "Fator de forma": "Container"
     },
     "affiliate_url": "https://www.amazon.com.br/Aspirador-Agua-Electrolux-2214362-Preto/dp/B076BB1XPG/ref=zg_bs_g_hi_d_sccl_6/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -15218,6 +15620,7 @@ const PRODUCTS = [
     "price_original": null,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.6,
     "qtd_avaliacoes": 20183,
     "coupon_code": null,
@@ -15241,7 +15644,7 @@ const PRODUCTS = [
       "Peso do item": "200 Gramas"
     },
     "affiliate_url": "https://www.amazon.com.br/Wd-40-Spray-Produto-Multiusos-300/dp/B07CV2JXNH/ref=zg_bs_g_hi_d_sccl_7/130-5471262-3406342?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -15254,6 +15657,7 @@ const PRODUCTS = [
     "price_original": 28.21,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 3.9,
     "qtd_avaliacoes": 13101,
     "coupon_code": null,
@@ -15283,7 +15687,7 @@ const PRODUCTS = [
       "Material": "Polipropileno"
     },
     "affiliate_url": "https://www.amazon.com.br/Extens%C3%A3o-Tripolar-Slim-Metros-Branco/dp/B07JN19LDF/ref=zg_bs_g_hi_d_sccl_7/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -15296,6 +15700,7 @@ const PRODUCTS = [
     "price_original": 9.99,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.8,
     "qtd_avaliacoes": 4265,
     "coupon_code": null,
@@ -15321,7 +15726,7 @@ const PRODUCTS = [
       "ASIN": "B07SYBNBNF"
     },
     "affiliate_url": "https://www.amazon.com.br/Super-Bonder-Ultra-20g-Loctite/dp/B07SYBNBNF/ref=zg_bs_g_hi_d_sccl_9/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -15334,6 +15739,7 @@ const PRODUCTS = [
     "price_original": 85.49,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.4,
     "qtd_avaliacoes": 1283,
     "coupon_code": null,
@@ -15353,7 +15759,7 @@ const PRODUCTS = [
       "ASIN": "B0FP9FF295"
     },
     "affiliate_url": "https://www.amazon.com.br/Calibrador-Compressor-Port%C3%A1til-Lanterna-Bicicleta/dp/B0FP9FF295/ref=zg_bs_g_hi_d_sccl_12/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -15366,6 +15772,7 @@ const PRODUCTS = [
     "price_original": 38.9,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.6,
     "qtd_avaliacoes": 830,
     "coupon_code": null,
@@ -15395,7 +15802,7 @@ const PRODUCTS = [
       "Tipo de material": "borracha nitrílica"
     },
     "affiliate_url": "https://www.amazon.com.br/Nitrilica-Premium-Antiderrapante-Unidades-Descart%C3%A1vel/dp/B0F61QC5SR/ref=zg_bs_g_hi_d_sccl_11/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -15408,6 +15815,7 @@ const PRODUCTS = [
     "price_original": 162.88,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.6,
     "qtd_avaliacoes": 16711,
     "coupon_code": null,
@@ -15431,7 +15839,7 @@ const PRODUCTS = [
       "Número de degraus": "3"
     },
     "affiliate_url": "https://www.amazon.com.br/Mor-194068-Escada-Banqueta-Alum%C3%ADnio/dp/B0776VVM73/ref=zg_bs_g_hi_d_sccl_13/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -15444,6 +15852,7 @@ const PRODUCTS = [
     "price_original": 169.9,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.8,
     "qtd_avaliacoes": 21658,
     "coupon_code": null,
@@ -15466,7 +15875,7 @@ const PRODUCTS = [
       "Tipo de sulco da ferramenta": "Espiral"
     },
     "affiliate_url": "https://www.amazon.com.br/Jogo-X-Line-Pe%C3%A7as-Bosch-2607017398-000/dp/B07CTN7X2Y/ref=zg_bs_g_hi_d_sccl_17/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -15479,6 +15888,7 @@ const PRODUCTS = [
     "price_original": 8.12,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.8,
     "qtd_avaliacoes": 104,
     "coupon_code": null,
@@ -15502,7 +15912,7 @@ const PRODUCTS = [
       "Dimensões do item P x L x A": "70P x 18L x 81A milímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/Disjuntor-Monopolar-MCB-Curva-Elgin/dp/B0B2K38C8Y/ref=zg_bs_g_hi_d_sccl_15/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -15515,6 +15925,7 @@ const PRODUCTS = [
     "price_original": 59.9,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.0,
     "qtd_avaliacoes": 2178,
     "coupon_code": null,
@@ -15542,7 +15953,7 @@ const PRODUCTS = [
       "Formato de captura de vídeo": "MOV"
     },
     "affiliate_url": "https://www.amazon.com.br/Seguran%C3%A7a-Infravermelho-Movimento-Bidirecional-Girat%C3%B3ria/dp/B0DY3214JL/ref=zg_bs_g_hi_d_sccl_18/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -15555,6 +15966,7 @@ const PRODUCTS = [
     "price_original": 8.9,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.2,
     "qtd_avaliacoes": 3041,
     "coupon_code": null,
@@ -15580,7 +15992,7 @@ const PRODUCTS = [
       "Material Type": "Acrilonitrilo butadieno estireno"
     },
     "affiliate_url": "https://www.amazon.com.br/Adelbras-811000014-Empacotamento-Qualitape-Multicolor/dp/B077P84NBQ/ref=zg_bs_g_hi_d_sccl_16/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -15593,6 +16005,7 @@ const PRODUCTS = [
     "price_original": 59.9,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.6,
     "qtd_avaliacoes": 11,
     "coupon_code": null,
@@ -15654,7 +16067,7 @@ const PRODUCTS = [
       "Contagem de unidades": "1 Unidade"
     },
     "affiliate_url": "https://www.amazon.com.br/Seguran%C3%A7a-1080p-Infravermelho-Movimento-Bidirecional/dp/B0H3QJ9PX1/ref=zg_bs_g_hi_d_sccl_14/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -15667,6 +16080,7 @@ const PRODUCTS = [
     "price_original": null,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.8,
     "qtd_avaliacoes": 9017,
     "coupon_code": null,
@@ -15715,7 +16129,7 @@ const PRODUCTS = [
       "Contagem de unidades": "1 Unidade"
     },
     "affiliate_url": "https://www.amazon.com.br/intelbras-C%C3%A2mera-Inteligente-interna-Branco/dp/B09Q3JVDYS/ref=zg_bs_g_hi_d_sccl_19/147-9195032-1732734?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -15728,6 +16142,7 @@ const PRODUCTS = [
     "price_original": 25.77,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.5,
     "qtd_avaliacoes": 5271,
     "coupon_code": null,
@@ -15757,7 +16172,7 @@ const PRODUCTS = [
       "Material Type": "Cloreto de polivinilo"
     },
     "affiliate_url": "https://www.amazon.com.br/Empacotamento-Scotch-HB004031223-Transparente-Pacote/dp/B017KU45CG/ref=zg_bs_g_hi_d_sccl_22/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -15770,6 +16185,7 @@ const PRODUCTS = [
     "price_original": 17.95,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.8,
     "qtd_avaliacoes": 494,
     "coupon_code": null,
@@ -15794,7 +16210,7 @@ const PRODUCTS = [
       "ASIN": "B075X3NYJK"
     },
     "affiliate_url": "https://www.amazon.com.br/Tomada-Dupla-250V-Branca-Tramontina/dp/B075X3NYJK/ref=zg_bs_g_hi_d_sccl_20/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -15807,6 +16223,7 @@ const PRODUCTS = [
     "price_original": 22.79,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.6,
     "qtd_avaliacoes": 2782,
     "coupon_code": null,
@@ -15839,7 +16256,7 @@ const PRODUCTS = [
       "Material Type": "Acrílico"
     },
     "affiliate_url": "https://www.amazon.com.br/Fita-Dupla-12MMX5M-VHB4910-Transparente/dp/B0794JC71P/ref=zg_bs_g_hi_d_sccl_21/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -15852,6 +16269,7 @@ const PRODUCTS = [
     "price_original": 8.0,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.6,
     "qtd_avaliacoes": 1201,
     "coupon_code": null,
@@ -15895,7 +16313,7 @@ const PRODUCTS = [
       "País do Tamanho da Roupa": "Estados Unidos"
     },
     "affiliate_url": "https://www.amazon.com.br/Vers%C3%A1til-Tamanho-Brilhus-Bettanin-Amarelo/dp/B08Y55DZXT/ref=zg_bs_g_hi_d_sccl_23/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -15908,6 +16326,7 @@ const PRODUCTS = [
     "price_original": 9.11,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.6,
     "qtd_avaliacoes": 5069,
     "coupon_code": null,
@@ -15931,7 +16350,7 @@ const PRODUCTS = [
       "Cor": "Branco"
     },
     "affiliate_url": "https://www.amazon.com.br/Pino-Multiplicador-Tripolar-0180100004-Forceline/dp/B0777S9WRF/ref=zg_bs_g_hi_d_sccl_24/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -15944,6 +16363,7 @@ const PRODUCTS = [
     "price_original": 7.5,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.8,
     "qtd_avaliacoes": 2052,
     "coupon_code": null,
@@ -15968,7 +16388,7 @@ const PRODUCTS = [
       "Características especiais": "Anti-Entupimento"
     },
     "affiliate_url": "https://www.amazon.com.br/Tuut-Linha-Inox-Tanque-Refor%C3%A7ado/dp/B089KV37SZ/ref=zg_bs_g_hi_d_sccl_25/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -15981,6 +16401,7 @@ const PRODUCTS = [
     "price_original": 22.9,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.5,
     "qtd_avaliacoes": 539,
     "coupon_code": null,
@@ -16000,7 +16421,7 @@ const PRODUCTS = [
       "Cor": "Branco"
     },
     "affiliate_url": "https://www.amazon.com.br/Adaptador-Tomada-Articulado-Benjamin-Adaptador/dp/B0FW81NYQ9/ref=zg_bs_g_hi_d_sccl_26/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -16013,6 +16434,7 @@ const PRODUCTS = [
     "price_original": 18.75,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.8,
     "qtd_avaliacoes": 1113,
     "coupon_code": null,
@@ -16034,7 +16456,7 @@ const PRODUCTS = [
       "Cor": "not_applicable"
     },
     "affiliate_url": "https://www.amazon.com.br/Vonder-Trena-Curta-A%C3%A7o-Mm/dp/B0778XFVHN/ref=zg_bs_g_hi_d_sccl_27/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -16047,6 +16469,7 @@ const PRODUCTS = [
     "price_original": 45.86,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.7,
     "qtd_avaliacoes": 375,
     "coupon_code": null,
@@ -16069,7 +16492,7 @@ const PRODUCTS = [
       "ASIN": "B0GFP98GKF"
     },
     "affiliate_url": "https://www.amazon.com.br/Inteligente-Monitor-Compat%C3%ADvel-Automa%C3%A7%C3%A3o-Residencial/dp/B0GFP98GKF/ref=zg_bs_g_hi_d_sccl_29/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -16082,6 +16505,7 @@ const PRODUCTS = [
     "price_original": 69.9,
     "parcelamento": null,
     "tem_selo_prime": false,
+    "tem_oferta": false,
     "avaliacao": 4.7,
     "qtd_avaliacoes": 921,
     "coupon_code": null,
@@ -16105,7 +16529,7 @@ const PRODUCTS = [
       "Certificação de teste externa": "Não aplicável"
     },
     "affiliate_url": "https://www.amazon.com.br/FILTRO-%C3%81GUA-BALANCE-LACRADO-EQUILIBRIUM/dp/B0BZSTPW7X/ref=zg_bs_g_hi_d_sccl_30/130-5471262-3406342?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -16118,6 +16542,7 @@ const PRODUCTS = [
     "price_original": 499.9,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 5.0,
     "qtd_avaliacoes": 1150,
     "coupon_code": null,
@@ -16142,7 +16567,7 @@ const PRODUCTS = [
       "Peso do item": "1200 Gramas"
     },
     "affiliate_url": "https://www.amazon.com.br/Fechadura-Digital-Sobrepor-Intelbras-1000/dp/B08MV1F8VV/ref=zg_bs_g_hi_d_sccl_1/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -16155,6 +16580,7 @@ const PRODUCTS = [
     "price_original": 69.9,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.8,
     "qtd_avaliacoes": 3148,
     "coupon_code": null,
@@ -16184,7 +16610,7 @@ const PRODUCTS = [
       "ASIN": "B0779K66MG"
     },
     "affiliate_url": "https://www.amazon.com.br/Extens-Mltipla-57504031-Tramontina-Eletrik/dp/B0779K66MG/ref=zg_bs_g_hi_d_sccl_17/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -16197,6 +16623,7 @@ const PRODUCTS = [
     "price_original": 19.79,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.7,
     "qtd_avaliacoes": 460,
     "coupon_code": null,
@@ -16224,7 +16651,7 @@ const PRODUCTS = [
       "Material Type": "Papel crepom"
     },
     "affiliate_url": "https://www.amazon.com.br/Fita-crepe-24-50-Vonder/dp/B07GH8YBGB/ref=zg_bs_g_hi_d_sccl_2/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -16237,6 +16664,7 @@ const PRODUCTS = [
     "price_original": 58.03,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.2,
     "qtd_avaliacoes": 1534,
     "coupon_code": null,
@@ -16266,7 +16694,7 @@ const PRODUCTS = [
       "Material Type": "Cloreto de polivinilo"
     },
     "affiliate_url": "https://www.amazon.com.br/Empacotamento-Scotch-Transparente-Metros-Pacote/dp/B0971DYR7N/ref=zg_bs_g_hi_d_sccl_5/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -16279,6 +16707,7 @@ const PRODUCTS = [
     "price_original": 133.0,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.8,
     "qtd_avaliacoes": 851,
     "coupon_code": null,
@@ -16294,7 +16723,7 @@ const PRODUCTS = [
       "ASIN": "B0GMYQN74L"
     },
     "affiliate_url": "https://www.amazon.com.br/Furadeira-Parafusadeira-Recarreg%C3%A1veis-Acess%C3%B3rios-Profissional/dp/B0GMYQN74L/ref=zg_bs_g_hi_d_sccl_15/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -16307,6 +16736,7 @@ const PRODUCTS = [
     "price_original": 35.04,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.5,
     "qtd_avaliacoes": 1045,
     "coupon_code": null,
@@ -16335,7 +16765,7 @@ const PRODUCTS = [
       "Disponível para compra desde": "2 outubro 2020"
     },
     "affiliate_url": "https://www.amazon.com.br/Sif%C3%A3o-Universal-Extens%C3%ADvel-Docol-72/dp/B08KJN19FM/ref=zg_bs_g_hi_d_sccl_4/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -16348,6 +16778,7 @@ const PRODUCTS = [
     "price_original": 39.9,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.5,
     "qtd_avaliacoes": 301,
     "coupon_code": null,
@@ -16372,7 +16803,7 @@ const PRODUCTS = [
       "Disponível para compra desde": "2 novembro 2025"
     },
     "affiliate_url": "https://www.amazon.com.br/Campainha-Residencial-Comunica%C3%A7%C3%A3o-Resistente-Fixadores/dp/B0FZ6TLKS3/ref=zg_bs_g_hi_d_sccl_7/130-5471262-3406342?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -16385,6 +16816,7 @@ const PRODUCTS = [
     "price_original": 34.42,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.8,
     "qtd_avaliacoes": 1434,
     "coupon_code": null,
@@ -16415,7 +16847,7 @@ const PRODUCTS = [
       "Material Type": "Borracha"
     },
     "affiliate_url": "https://www.amazon.com.br/Forte-Dupla-Fixa%C3%A7%C3%A3o-Extrema-Cinza/dp/B0BPYN675Z/ref=zg_bs_g_hi_d_sccl_10/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -16428,6 +16860,7 @@ const PRODUCTS = [
     "price_original": 23.9,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.8,
     "qtd_avaliacoes": 1274,
     "coupon_code": null,
@@ -16459,7 +16892,7 @@ const PRODUCTS = [
       "Material Type": "Papel crepom"
     },
     "affiliate_url": "https://www.amazon.com.br/Fita-Crepe-Profissional-Scotch-H0002317784/dp/B078YDP9JM/ref=zg_bs_g_hi_d_sccl_7/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -16472,6 +16905,7 @@ const PRODUCTS = [
     "price_original": 279.0,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.8,
     "qtd_avaliacoes": 1566,
     "coupon_code": null,
@@ -16494,7 +16928,7 @@ const PRODUCTS = [
       "ASIN": "B09QRQQY4S"
     },
     "affiliate_url": "https://www.amazon.com.br/Esmerilhadeira-Bosch-GWS-710W-220V/dp/B09QRQQY4S/ref=zg_bs_g_hi_d_sccl_19/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -16507,6 +16941,7 @@ const PRODUCTS = [
     "price_original": 37.48,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.8,
     "qtd_avaliacoes": 6136,
     "coupon_code": null,
@@ -16532,7 +16967,7 @@ const PRODUCTS = [
       "Especificação atendida": "NBR 9699 e NR10 compliant"
     },
     "affiliate_url": "https://www.amazon.com.br/Tramontina-41001108-Alicate-Universal-Amarelo/dp/B076KP7X7F/ref=zg_bs_g_hi_d_sccl_20/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -16545,6 +16980,7 @@ const PRODUCTS = [
     "price_original": 139.99,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.8,
     "qtd_avaliacoes": 3449,
     "coupon_code": null,
@@ -16586,7 +17022,7 @@ const PRODUCTS = [
       "Visão noturna": "Cor noturna"
     },
     "affiliate_url": "https://www.amazon.com.br/Seguran%C3%A7a-Externa-Noturna-Infravermelha-Bidirecional/dp/B0CYPPS4VG/ref=zg_bs_g_hi_d_sccl_14/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -16599,6 +17035,7 @@ const PRODUCTS = [
     "price_original": 55.99,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.5,
     "qtd_avaliacoes": 71,
     "coupon_code": null,
@@ -16614,7 +17051,7 @@ const PRODUCTS = [
       "Dimensões do item P x L x A": "40P x 20L x 30A milímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/Torneira-Gourmet-Cozinha-Parede-Flex%C3%ADvel/dp/B0GWFFY9MS/ref=zg_bs_g_hi_d_sccl_6/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -16627,6 +17064,7 @@ const PRODUCTS = [
     "price_original": 399.9,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.6,
     "qtd_avaliacoes": 1022,
     "coupon_code": null,
@@ -16656,7 +17094,7 @@ const PRODUCTS = [
       "Peso do item": "1,7 Quilogramas"
     },
     "affiliate_url": "https://www.amazon.com.br/Fechadura-Digital-Primebras-Delta-Pro/dp/B0CHZGG25V/ref=zg_bs_g_hi_d_sccl_9/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -16669,6 +17107,7 @@ const PRODUCTS = [
     "price_original": 98.9,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.8,
     "qtd_avaliacoes": 16153,
     "coupon_code": null,
@@ -16691,7 +17130,7 @@ const PRODUCTS = [
       "ASIN": "B07CTN73L1"
     },
     "affiliate_url": "https://www.amazon.com.br/Jogo-V-Line-pe%C3%A7as-Bosch-2607017396-000/dp/B07CTN73L1/ref=zg_bs_g_hi_d_sccl_25/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -16704,6 +17143,7 @@ const PRODUCTS = [
     "price_original": null,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.4,
     "qtd_avaliacoes": 113,
     "coupon_code": null,
@@ -16723,7 +17163,7 @@ const PRODUCTS = [
       "ASIN": "B0G5BG3TTF"
     },
     "affiliate_url": "https://www.amazon.com.br/Eletronica-Monitoramento-Seguran%C3%A7a-bidirecional-movimento/dp/B0G5BG3TTF/ref=zg_bs_g_hi_d_sccl_12/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -16736,6 +17176,7 @@ const PRODUCTS = [
     "price_original": null,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.4,
     "qtd_avaliacoes": 340,
     "coupon_code": null,
@@ -16763,7 +17204,7 @@ const PRODUCTS = [
       "Material Type": "Cloreto de polivinilo"
     },
     "affiliate_url": "https://www.amazon.com.br/Fita-Isolante-Mts-Preta-Unidade/dp/B077VTMHXQ/ref=zg_bs_g_hi_d_sccl_11/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -16776,6 +17217,7 @@ const PRODUCTS = [
     "price_original": 79.9,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.5,
     "qtd_avaliacoes": 699,
     "coupon_code": null,
@@ -16803,7 +17245,7 @@ const PRODUCTS = [
       "Material": "ABS"
     },
     "affiliate_url": "https://www.amazon.com.br/Calibrador-Port%C3%A1til-Compressor-Lanterna-Bicicleta/dp/B0DXRY7HDS/ref=zg_bs_g_hi_d_sccl_13/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -16816,6 +17258,7 @@ const PRODUCTS = [
     "price_original": 7.1,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.8,
     "qtd_avaliacoes": 185,
     "coupon_code": null,
@@ -16843,7 +17286,7 @@ const PRODUCTS = [
       "ASIN": "B077QFH5WP"
     },
     "affiliate_url": "https://www.amazon.com.br/Cola-Liquida-Madeira-100g-Cascola/dp/B077QFH5WP/ref=zg_bs_g_hi_d_sccl_8/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -16856,6 +17299,7 @@ const PRODUCTS = [
     "price_original": 27.33,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.8,
     "qtd_avaliacoes": 941,
     "coupon_code": null,
@@ -16880,7 +17324,7 @@ const PRODUCTS = [
       "Cor": "Amarelo"
     },
     "affiliate_url": "https://www.amazon.com.br/Trena-curta-autotrava-VONDER-Plus/dp/B07BJDL3K1/ref=zg_bs_g_hi_d_sccl_22/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -16893,6 +17337,7 @@ const PRODUCTS = [
     "price_original": 37.78,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.4,
     "qtd_avaliacoes": 10028,
     "coupon_code": null,
@@ -16915,7 +17360,7 @@ const PRODUCTS = [
       "Recomendação de peso máximo": "12 Quilogramas"
     },
     "affiliate_url": "https://www.amazon.com.br/Caixa-Pl%C3%A1stica-6002-Vonder-VDO2668/dp/B076YK72YJ/ref=zg_bs_g_hi_d_sccl_21/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -16928,6 +17373,7 @@ const PRODUCTS = [
     "price_original": 375.24,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.7,
     "qtd_avaliacoes": 1205,
     "coupon_code": null,
@@ -16982,7 +17428,7 @@ const PRODUCTS = [
       "Contagem de unidades": "1 unidade"
     },
     "affiliate_url": "https://www.amazon.com.br/TakTark-Infravermelha-Bidirecional-Monitoramento-Temperatura/dp/B0975WWR2C/ref=zg_bs_g_hi_d_sccl_23/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -16995,6 +17441,7 @@ const PRODUCTS = [
     "price_original": 2.16,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.6,
     "qtd_avaliacoes": 2023,
     "coupon_code": null,
@@ -17018,7 +17465,7 @@ const PRODUCTS = [
       "Material": "Nylon"
     },
     "affiliate_url": "https://www.amazon.com.br/Abra%C3%A7adeira-Nylon-100-Pe%C3%A7as-Preta/dp/B07QVLZGMR/ref=zg_bs_g_hi_d_sccl_18/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -17031,6 +17478,7 @@ const PRODUCTS = [
     "price_original": 20.16,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.6,
     "qtd_avaliacoes": 785,
     "coupon_code": null,
@@ -17051,7 +17499,7 @@ const PRODUCTS = [
       "Modo de operação": "Manual"
     },
     "affiliate_url": "https://www.amazon.com.br/N%C3%ADvel-pl%C3%A1stico-com-base-magn%C3%A9tica/dp/B076ZRKZK1/ref=zg_bs_g_hi_d_sccl_26/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -17064,6 +17512,7 @@ const PRODUCTS = [
     "price_original": 8.9,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.7,
     "qtd_avaliacoes": 2369,
     "coupon_code": null,
@@ -17091,7 +17540,7 @@ const PRODUCTS = [
       "Material": "Flanela"
     },
     "affiliate_url": "https://www.amazon.com.br/Feltro-Anti-Risco-Scotch-Marrom-Quadrado/dp/B07DCWV2TQ/ref=zg_bs_g_hi_d_sccl_16/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -17104,6 +17553,7 @@ const PRODUCTS = [
     "price_original": 114.99,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.8,
     "qtd_avaliacoes": 50,
     "coupon_code": null,
@@ -17128,7 +17578,7 @@ const PRODUCTS = [
       "Cor": "Amarelo E Preto"
     },
     "affiliate_url": "https://www.amazon.com.br/Parafusadeira-Furadeira-Recarreg%C3%A1veis-Velocidade-Revers%C3%ADvel/dp/B0GWY89VFX/ref=zg_bs_g_hi_d_sccl_28/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -17141,6 +17591,7 @@ const PRODUCTS = [
     "price_original": 17.4,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.6,
     "qtd_avaliacoes": 2032,
     "coupon_code": null,
@@ -17161,7 +17612,7 @@ const PRODUCTS = [
       "Tipo de cabo": "Plástico"
     },
     "affiliate_url": "https://www.amazon.com.br/Bico-Revestimento-Durabilidade-Anticorros%C3%A3o-Profissional/dp/B0778YTF29/ref=zg_bs_g_hi_d_sccl_24/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -17174,6 +17625,7 @@ const PRODUCTS = [
     "price_original": 21.84,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.9,
     "qtd_avaliacoes": 781,
     "coupon_code": null,
@@ -17199,7 +17651,7 @@ const PRODUCTS = [
       "ASIN": "B078FGJ8XN"
     },
     "affiliate_url": "https://www.amazon.com.br/Sobrepor-Tomadas-Tramontina-LizFlex-Branca/dp/B078FGJ8XN/ref=zg_bs_g_hi_d_sccl_30/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -17212,6 +17664,7 @@ const PRODUCTS = [
     "price_original": 28.6,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.4,
     "qtd_avaliacoes": 478,
     "coupon_code": null,
@@ -17247,7 +17700,7 @@ const PRODUCTS = [
       "Tipo de material": "Policloreto de Vinila"
     },
     "affiliate_url": "https://www.amazon.com.br/Luva-Vinil-Industrial-unidades-Vabene/dp/B087B783SL/ref=zg_bs_g_hi_d_sccl_27/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -17260,6 +17713,7 @@ const PRODUCTS = [
     "price_original": 27.46,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.6,
     "qtd_avaliacoes": 584,
     "coupon_code": null,
@@ -17276,7 +17730,7 @@ const PRODUCTS = [
       "Tipo de cabo": "Ergonômico"
     },
     "affiliate_url": "https://www.amazon.com.br/Alicate-Press%C3%A3o-250Mm-Mordente-Curvo/dp/B08LP3JV5J/ref=zg_bs_g_hi_d_sccl_29/146-7722380-2508757?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -17289,6 +17743,7 @@ const PRODUCTS = [
     "price_original": 93.84,
     "parcelamento": null,
     "tem_selo_prime": false,
+    "tem_oferta": false,
     "avaliacao": 4.7,
     "qtd_avaliacoes": 2477,
     "coupon_code": null,
@@ -17314,7 +17769,7 @@ const PRODUCTS = [
       "ASIN": "B07SSMCZ7Z"
     },
     "affiliate_url": "https://www.amazon.com.br/Cardamomo-Gengibre-Granado-Eau-Cologne/dp/B07SSMCZ7Z/ref=zg_bs_g_16754347011_d_sccl_1/141-7751895-9608232?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -17327,6 +17782,7 @@ const PRODUCTS = [
     "price_original": 169.0,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.6,
     "qtd_avaliacoes": 7689,
     "coupon_code": null,
@@ -17355,7 +17811,7 @@ const PRODUCTS = [
       "ASIN": "B071VCX893"
     },
     "affiliate_url": "https://www.amazon.com.br/Gabriela-Sabatini-Eau-Toilette-60ml/dp/B071VCX893/ref=zg_bs_g_16754347011_d_sccl_2/141-7751895-9608232?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -17368,6 +17824,7 @@ const PRODUCTS = [
     "price_original": 70.33,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.6,
     "qtd_avaliacoes": 7575,
     "coupon_code": null,
@@ -17388,7 +17845,7 @@ const PRODUCTS = [
       "ASIN": "B00TEC00LE"
     },
     "affiliate_url": "https://www.amazon.com.br/Col%C3%B4nia-Lim%C3%A3o-Siciliano-PHEBO-Amarelo/dp/B00TEC00LE/ref=zg_bs_g_16754347011_d_sccl_3/141-7751895-9608232?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -17401,6 +17858,7 @@ const PRODUCTS = [
     "price_original": 1099.0,
     "parcelamento": null,
     "tem_selo_prime": false,
+    "tem_oferta": false,
     "avaliacao": 4.6,
     "qtd_avaliacoes": 24756,
     "coupon_code": null,
@@ -17429,7 +17887,7 @@ const PRODUCTS = [
       "Características do material": "Hipoalergênico"
     },
     "affiliate_url": "https://www.amazon.com.br/Perfume-Lanc%C3%B4me-Belle-Parfum-Feminino/dp/B00I7PK3GQ/ref=zg_bs_g_16754347011_d_sccl_4/141-7751895-9608232?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -17442,6 +17900,7 @@ const PRODUCTS = [
     "price_original": 99.99,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.5,
     "qtd_avaliacoes": 13156,
     "coupon_code": null,
@@ -17466,7 +17925,7 @@ const PRODUCTS = [
       "Livre de tipo de material": "Sem parabenos"
     },
     "affiliate_url": "https://www.amazon.com.br/Nautica-Toilette-Spray-Voyage-homens/dp/B01I54ITP0/ref=zg_bs_g_16754347011_d_sccl_5/141-7751895-9608232?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -17479,6 +17938,7 @@ const PRODUCTS = [
     "price_original": 51.97,
     "parcelamento": null,
     "tem_selo_prime": false,
+    "tem_oferta": false,
     "avaliacao": 4.3,
     "qtd_avaliacoes": 1257,
     "coupon_code": null,
@@ -17496,7 +17956,7 @@ const PRODUCTS = [
       "Disponível para compra desde": "6 março 2025"
     },
     "affiliate_url": "https://www.amazon.com.br/Barbours-Beauty-Delight-Splash-200ml/dp/B0DZH84BF8/ref=zg_bs_g_16754347011_d_sccl_6/141-7751895-9608232?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -17509,6 +17969,7 @@ const PRODUCTS = [
     "price_original": 99.68,
     "parcelamento": null,
     "tem_selo_prime": false,
+    "tem_oferta": false,
     "avaliacao": 4.8,
     "qtd_avaliacoes": 2684,
     "coupon_code": null,
@@ -17531,42 +17992,7 @@ const PRODUCTS = [
       "ASIN": "B07ZL1Q96P"
     },
     "affiliate_url": "https://www.amazon.com.br/COL%C3%94NIA-GRANADO-TRADICIONAL-100ML-Granado/dp/B07ZL1Q96P/ref=zg_bs_g_16754347011_d_sccl_7/141-7751895-9608232?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B08ZFKB8ZK",
-    "title": "Azzaro, The Most Wanted Intense, Perfume Masculino, Fragrância Ambarada Amadeirada com Cardamomo e Toffee, Eau de Parfum com Longa Fixação, Ideal para noites frias",
-    "image": "https://m.media-amazon.com/images/I/61g0mT0sLWL._AC_SL1500_.jpg",
-    "canonical": null,
-    "category": "Ofertas do dia",
-    "price_current": 453.89,
-    "price_original": 879.0,
-    "parcelamento": null,
-    "tem_selo_prime": false,
-    "avaliacao": 4.6,
-    "qtd_avaliacoes": 13009,
-    "coupon_code": null,
-    "description": "<ul><li>The Most Wanted Eau de Parfum Intense é a fragrância para o homem que ousa viver intensamente e ser desejado.</li><li>Sua combinação de cardamomo vibrante, caramelo fondant e madeira âmbar cria uma assinatura inesquecível.</li><li>Com alta intensidade e longa fixação, este perfume masculino garante uma presença marcante em noites e ocasiões especiais.</li><li>Uma fragrância fougère ambarina sofisticada, perfeita para o homem que joga para ganhar e desafia os limites.</li><li>Ouse ser o mais procurado com este perfume intenso que combina sensualidade, poder e um rastro irresistível.</li><li>The Most Wanted Eau de Parfum Intense é a fragrância para o homem que ousa viver intensamente e ser desejado.</li><li>Sua combinação de cardamomo vibrante, caramelo fondant e madeira âmbar cria uma assinatura inesquecível.</li><li>Com alta intensidade e longa fixação, este perfume masculino garante uma presença marcante em noites e ocasiões especiais.</li><li>Uma fragrância fougère ambarina sofisticada, perfeita para o homem que joga para ganhar e desafia os limites.</li><li>Ouse ser o mais procurado com este perfume intenso que combina sensualidade, poder e um rastro irresistível.</li><li>50ml</li><li>100ml</li></ul>",
-    "informacoes_produto": {
-      "Formato do item": "Líquido",
-      "Aroma": "Madeira",
-      "É autografado": "Não",
-      "Nome da marca": "Azzaro",
-      "Descrição da faixa etária": "Adulto",
-      "País de origem": "França",
-      "Número de identificação de comércio internacional": "03614273521307",
-      "Número do modelo": "LD116000",
-      "Número da peça": "LD116000",
-      "Fabricante": "Loreal",
-      "ASIN": "B08ZFKB8ZK",
-      "Volume do item": "100 Mililitros",
-      "Peso do item": "3,3 Onças",
-      "Quantidade de itens": "1",
-      "Contagem de unidades": "100.0 Mililitros"
-    },
-    "affiliate_url": "https://www.amazon.com.br/Azzaro-Masculino-Fragr%C3%A2ncia-Amadeirada-Cardamomo/dp/B08ZFKB8ZK?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -17579,6 +18005,7 @@ const PRODUCTS = [
     "price_original": 299.0,
     "parcelamento": null,
     "tem_selo_prime": false,
+    "tem_oferta": false,
     "avaliacao": 4.5,
     "qtd_avaliacoes": 8559,
     "coupon_code": null,
@@ -17602,7 +18029,7 @@ const PRODUCTS = [
       "Contagem de unidades": "50.0 Mililitros"
     },
     "affiliate_url": "https://www.amazon.com.br/Azzaro-115689-Edt-M%C3%A1scara-50Ml/dp/B000CNKITS?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -17615,6 +18042,7 @@ const PRODUCTS = [
     "price_original": 819.0,
     "parcelamento": null,
     "tem_selo_prime": false,
+    "tem_oferta": false,
     "avaliacao": 4.4,
     "qtd_avaliacoes": 20785,
     "coupon_code": null,
@@ -17638,7 +18066,7 @@ const PRODUCTS = [
       "Contagem de unidades": "3.4 fl oz"
     },
     "affiliate_url": "https://www.amazon.com.br/Acqua-Giorgio-Armani-Toilette-Packaging/dp/B000E7YK5K/ref=zg_bs_g_16754347011_d_sccl_10/141-7751895-9608232?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -17651,6 +18079,7 @@ const PRODUCTS = [
     "price_original": 59.9,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.7,
     "qtd_avaliacoes": 211,
     "coupon_code": null,
@@ -17675,7 +18104,7 @@ const PRODUCTS = [
       "Características do material": "Embalagem reciclável"
     },
     "affiliate_url": "https://www.amazon.com.br/Cebolinha-Desodorante-Col%C3%B4nia-Jequiti-50ml/dp/B0FNQHLHS5/ref=zg_bs_g_16754347011_d_sccl_12/141-7751895-9608232?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -17688,6 +18117,7 @@ const PRODUCTS = [
     "price_original": 1069.0,
     "parcelamento": null,
     "tem_selo_prime": false,
+    "tem_oferta": false,
     "avaliacao": 4.6,
     "qtd_avaliacoes": 2173,
     "coupon_code": null,
@@ -17712,7 +18142,7 @@ const PRODUCTS = [
       "Livre de tipo de material": "Sem glúten"
     },
     "affiliate_url": "https://www.amazon.com.br/Id%C3%B4le-Lanc%C3%B4me-Perfume-Feminino-Parfum/dp/B08F9ZQ52X/ref=zg_bs_g_16754347011_d_sccl_13/141-7751895-9608232?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -17725,6 +18155,7 @@ const PRODUCTS = [
     "price_original": 399.0,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.5,
     "qtd_avaliacoes": 180,
     "coupon_code": null,
@@ -17743,7 +18174,7 @@ const PRODUCTS = [
       "Contagem de unidades": "100 mililitro(s)"
     },
     "affiliate_url": "https://www.amazon.com.br/Masculino-Fragr%C3%A2ncia-Arom%C3%A1tica-Refrescante-Energizante/dp/B0F67HS3N7/ref=zg_bs_g_16754347011_d_sccl_14/141-7751895-9608232?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -17756,6 +18187,7 @@ const PRODUCTS = [
     "price_original": 569.0,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.7,
     "qtd_avaliacoes": 5818,
     "coupon_code": null,
@@ -17782,7 +18214,7 @@ const PRODUCTS = [
       "Livre de tipo de material": "Sem glúten"
     },
     "affiliate_url": "https://www.amazon.com.br/Refil%C3%A1vel-Amadeirado-Fragr%C3%A2ncia-Bergamota-Laranjeira/dp/B08DHW4CT9/ref=zg_bs_g_16754347011_d_sccl_16/141-7751895-9608232?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -17795,6 +18227,7 @@ const PRODUCTS = [
     "price_original": 17.35,
     "parcelamento": null,
     "tem_selo_prime": false,
+    "tem_oferta": false,
     "avaliacao": 4.6,
     "qtd_avaliacoes": 1664,
     "coupon_code": null,
@@ -17819,7 +18252,7 @@ const PRODUCTS = [
       "Livre de tipo de material": "Antialergico, Testado Dermatologicamente"
     },
     "affiliate_url": "https://www.amazon.com.br/Giby-Colonia-200Ml-Amarelo/dp/B07DTNP5GT/ref=zg_bs_g_16754347011_d_sccl_17/141-7751895-9608232?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -17832,6 +18265,7 @@ const PRODUCTS = [
     "price_original": 229.0,
     "parcelamento": null,
     "tem_selo_prime": false,
+    "tem_oferta": false,
     "avaliacao": 4.6,
     "qtd_avaliacoes": 13586,
     "coupon_code": null,
@@ -17855,43 +18289,7 @@ const PRODUCTS = [
       "Contagem de unidades": "30 Mililitro"
     },
     "affiliate_url": "https://www.amazon.com.br/Amor-Femme-Edt-30Ml-Cacharel/dp/B076X8YRLC/ref=zg_bs_g_16754347011_d_sccl_18/141-7751895-9608232?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B088WCR8M3",
-    "title": "Azzaro, Azzaro Sport, Perfume Masculino, Fragrância Fougère Fresca com Notas de Grapefruit e Sândalo, Eau de Toilette com Fixação Equilibrada, Ideal para Pré-treino e Pós-treino, 100ml",
-    "image": "https://m.media-amazon.com/images/I/61hLsRGbFXL._AC_SL1500_.jpg",
-    "canonical": null,
-    "category": "Ofertas do dia",
-    "price_current": 186.99,
-    "price_original": 379.0,
-    "parcelamento": null,
-    "tem_selo_prime": true,
-    "avaliacao": 4.5,
-    "qtd_avaliacoes": 3946,
-    "coupon_code": null,
-    "description": "<ul><li>Perfume masculino de fragrância cítrica aromática que captura a essência da masculinidade com um toque esportivo.</li><li>Combina o frescor da bergamota e toranja com a energia picante do gengibre, criando um aroma único e dinâmico.</li><li>Ideal para o homem moderno que busca uma fragrância versátil para o dia a dia, equilibrando frescor e presença.</li><li>Sua base amadeirada com cedro, âmbar e almíscar branco confere uma assinatura sofisticada, sensual e duradoura.</li><li>O frasco de design minimalista e moderno reflete a elegância e o dinamismo do homem que escolhe Azzaro Sport.</li><li>Perfume masculino de fragrância cítrica aromática que captura a essência da masculinidade com um toque esportivo.</li><li>Combina o frescor da bergamota e toranja com a energia picante do gengibre, criando um aroma único e dinâmico.</li><li>Ideal para o homem moderno que busca uma fragrância versátil para o dia a dia, equilibrando frescor e presença.</li><li>Sua base amadeirada com cedro, âmbar e almíscar branco confere uma assinatura sofisticada, sensual e duradoura.</li><li>O frasco de design minimalista e moderno reflete a elegância e o dinamismo do homem que escolhe Azzaro Sport.</li></ul>",
-    "informacoes_produto": {
-      "Formato do item": "Líquido",
-      "Aroma": "Sândalo",
-      "Additional Features": "Esfregue na pele horas depois para reativar instantaneamente e liberar toda a fragrância!",
-      "É autografado": "Não",
-      "Nome da marca": "Azzaro",
-      "Descrição da faixa etária": "Adulto",
-      "País de origem": "França",
-      "Número de identificação de comércio internacional": "03351500017997, 03614273667418",
-      "Número do modelo": "LC389400",
-      "Número da peça": "LC389400",
-      "Fabricante": "L'Oréal",
-      "ASIN": "B088WCR8M3",
-      "Volume do item": "3,4 Onças líquidas",
-      "Peso do item": "100 Gramas",
-      "Quantidade de itens": "1",
-      "Contagem de unidades": "100.0 Mililitros"
-    },
-    "affiliate_url": "https://www.amazon.com.br/Azzaro-Fragr%C3%A2ncia-Grapefruit-Equilibrada-Pr%C3%A9-treino/dp/B088WCR8M3?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -17904,6 +18302,7 @@ const PRODUCTS = [
     "price_original": 98.0,
     "parcelamento": null,
     "tem_selo_prime": false,
+    "tem_oferta": false,
     "avaliacao": 4.7,
     "qtd_avaliacoes": 60,
     "coupon_code": null,
@@ -17923,7 +18322,7 @@ const PRODUCTS = [
       "ASIN": "B0H12ZW13V"
     },
     "affiliate_url": "https://www.amazon.com.br/Granado-Col%C3%B4nia-Terrapeutics-Tonka-230ml/dp/B0H12ZW13V/ref=zg_bs_g_16754347011_d_sccl_20/141-7751895-9608232?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -17936,6 +18335,7 @@ const PRODUCTS = [
     "price_original": 70.33,
     "parcelamento": null,
     "tem_selo_prime": false,
+    "tem_oferta": false,
     "avaliacao": 4.7,
     "qtd_avaliacoes": 1955,
     "coupon_code": "Aplicar Cupom de R$&nbsp;2,70",
@@ -17959,7 +18359,7 @@ const PRODUCTS = [
       "ASIN": "B07ZJPG1CG"
     },
     "affiliate_url": "https://www.amazon.com.br/Phebo-Col%C3%B4nia-Ger%C3%A2nio-Bourbon-200ml/dp/B07ZJPG1CG/ref=zg_bs_g_16754347011_d_sccl_21/141-7751895-9608232?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -17972,6 +18372,7 @@ const PRODUCTS = [
     "price_original": 0.91,
     "parcelamento": null,
     "tem_selo_prime": false,
+    "tem_oferta": false,
     "avaliacao": 3.7,
     "qtd_avaliacoes": 12,
     "coupon_code": null,
@@ -17991,7 +18392,7 @@ const PRODUCTS = [
       "ASIN": "B0FFBM9QW3"
     },
     "affiliate_url": "https://www.amazon.com.br/Perfume-adidas-Vibes-Power-Parfum/dp/B0FFBM9QW3/ref=zg_bs_g_16754347011_d_sccl_22/141-7751895-9608232?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -18004,6 +18405,7 @@ const PRODUCTS = [
     "price_original": 109.9,
     "parcelamento": null,
     "tem_selo_prime": false,
+    "tem_oferta": false,
     "avaliacao": 4.7,
     "qtd_avaliacoes": 1855,
     "coupon_code": null,
@@ -18030,7 +18432,7 @@ const PRODUCTS = [
       "ASIN": "B085YVHZGW"
     },
     "affiliate_url": "https://www.amazon.com.br/Deo-Colonia-Hello-100Ml-Lata/dp/B085YVHZGW/ref=zg_bs_g_16754347011_d_sccl_23/141-7751895-9608232?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -18043,6 +18445,7 @@ const PRODUCTS = [
     "price_original": 0.2,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.3,
     "qtd_avaliacoes": 662,
     "coupon_code": null,
@@ -18064,7 +18467,7 @@ const PRODUCTS = [
       "ASIN": "B0DZGW4MH3"
     },
     "affiliate_url": "https://www.amazon.com.br/Barbours-Beauty-Very-Sexy-Splash/dp/B0DZGW4MH3/ref=zg_bs_g_16754347011_d_sccl_24/141-7751895-9608232?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -18077,6 +18480,7 @@ const PRODUCTS = [
     "price_original": 45.9,
     "parcelamento": null,
     "tem_selo_prime": false,
+    "tem_oferta": false,
     "avaliacao": 4.7,
     "qtd_avaliacoes": 1774,
     "coupon_code": null,
@@ -18099,7 +18503,7 @@ const PRODUCTS = [
       "ASIN": "B07S6S1LBS"
     },
     "affiliate_url": "https://www.amazon.com.br/CICLO-BODY-SPLASH-200ML-Ciclo/dp/B07S6S1LBS/ref=zg_bs_g_16754347011_d_sccl_25/141-7751895-9608232?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -18112,6 +18516,7 @@ const PRODUCTS = [
     "price_original": 77.5,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.6,
     "qtd_avaliacoes": 1168,
     "coupon_code": null,
@@ -18134,7 +18539,7 @@ const PRODUCTS = [
       "ASIN": "B00OWU2WQO"
     },
     "affiliate_url": "https://www.amazon.com.br/Cute-Feminino-Rive-Edp-100ml/dp/B00OWU2WQO/ref=zg_bs_g_16754347011_d_sccl_26/141-7751895-9608232?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -18147,6 +18552,7 @@ const PRODUCTS = [
     "price_original": 69.9,
     "parcelamento": null,
     "tem_selo_prime": true,
+    "tem_oferta": false,
     "avaliacao": 4.7,
     "qtd_avaliacoes": 444,
     "coupon_code": null,
@@ -18172,7 +18578,7 @@ const PRODUCTS = [
       "ASIN": "B07S57P35S"
     },
     "affiliate_url": "https://www.amazon.com.br/CICLO-LATA-PERSONALIZADA-100ML-Ciclo/dp/B07S57P35S/ref=zg_bs_g_16754347011_d_sccl_27/141-7751895-9608232?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -18185,6 +18591,7 @@ const PRODUCTS = [
     "price_original": 609.0,
     "parcelamento": null,
     "tem_selo_prime": false,
+    "tem_oferta": false,
     "avaliacao": 4.8,
     "qtd_avaliacoes": 1397,
     "coupon_code": null,
@@ -18208,7 +18615,7 @@ const PRODUCTS = [
       "ASIN": "B07X3XX438"
     },
     "affiliate_url": "https://www.amazon.com.br/Mam%C3%A3e-Beb%C3%AA-%C3%81gua-Col%C3%B4nia-Tradional/dp/B07X3XX438/ref=zg_bs_g_16754347011_d_sccl_28/141-7751895-9608232?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -18221,6 +18628,7 @@ const PRODUCTS = [
     "price_original": 345.0,
     "parcelamento": null,
     "tem_selo_prime": false,
+    "tem_oferta": false,
     "avaliacao": 4.7,
     "qtd_avaliacoes": 243,
     "coupon_code": null,
@@ -18239,7 +18647,7 @@ const PRODUCTS = [
       "ASIN": "B0G1N9KDNH"
     },
     "affiliate_url": "https://www.amazon.com.br/Granado-Perfume-Vintage-Apotec%C3%A1rio-75/dp/B0G1N9KDNH/ref=zg_bs_g_16754347011_d_sccl_29/141-7751895-9608232?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   },
   {
@@ -18252,6 +18660,7 @@ const PRODUCTS = [
     "price_original": 199.0,
     "parcelamento": null,
     "tem_selo_prime": false,
+    "tem_oferta": false,
     "avaliacao": 4.6,
     "qtd_avaliacoes": 139971,
     "coupon_code": null,
@@ -18277,7 +18686,2550 @@ const PRODUCTS = [
       "ASIN": "B000P22TIY"
     },
     "affiliate_url": "https://www.amazon.com.br/NAUTICA-VOYAGE-EDT-100ML-V2/dp/B000P22TIY/ref=zg_bs_g_16754347011_d_sccl_30/141-7751895-9608232?tag=mixdm22-20",
-    "last_checked_at": "2026-07-18T12:58:06.000Z",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0H4J13B2M",
+    "title": "Notebook Lenovo Gamer LOQ Essential Intel Core i5-12450HX 16GB 1TB SSD RTX 4050 144Hz Windows 11 15.6\" - 83ME0001BR",
+    "image": "https://m.media-amazon.com/images/I/81L8oOFpueL._AC_SF452,452_QL80_.jpg",
+    "canonical": null,
+    "category": "Ofertas do dia",
+    "price_current": null,
+    "price_original": null,
+    "parcelamento": null,
+    "tem_selo_prime": false,
+    "tem_oferta": false,
+    "avaliacao": null,
+    "qtd_avaliacoes": null,
+    "coupon_code": null,
+    "description": "",
+    "informacoes_produto": {},
+    "affiliate_url": "https://www.amazon.com.br/Notebook-Lenovo-Essential-i5-12450HX-Windows/dp/B0H4J13B2M?tag=mixdm22-20",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0918FHY6P",
+    "title": "L'Oréal Professionnel Óleo 10 em 1 Absolut Repair | Multi-benefícios para cabelos secos e danificados | Repara e Promove Brilho | Com Gold Quinoa e Proteínas",
+    "image": "https://m.media-amazon.com/images/I/61wfwHNv-NL._AC_SF452,452_QL80_.jpg",
+    "canonical": null,
+    "category": "Ofertas do dia",
+    "price_current": null,
+    "price_original": null,
+    "parcelamento": null,
+    "tem_selo_prime": false,
+    "tem_oferta": false,
+    "avaliacao": null,
+    "qtd_avaliacoes": null,
+    "coupon_code": null,
+    "description": "",
+    "informacoes_produto": {},
+    "affiliate_url": "https://www.amazon.com.br/LOr%C3%A9al-Professionnel-Multi-benef%C3%ADcios-danificados-Prote%C3%ADnas/dp/B0918FHY6P?tag=mixdm22-20",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B07VRYJWPB",
+    "title": "Finish Power Powder Advanced Detergente para Lava Louças em Pó 2,5kg",
+    "image": "https://m.media-amazon.com/images/I/61FuIlOh2GL._AC_SF452,452_QL80_.jpg",
+    "canonical": null,
+    "category": "Ofertas do dia",
+    "price_current": null,
+    "price_original": null,
+    "parcelamento": null,
+    "tem_selo_prime": false,
+    "tem_oferta": false,
+    "avaliacao": null,
+    "qtd_avaliacoes": null,
+    "coupon_code": null,
+    "description": "",
+    "informacoes_produto": {},
+    "affiliate_url": "https://www.amazon.com.br/Detergente-Para-Lou%C3%A7as-Finish-Advanced/dp/B07VRYJWPB?tag=mixdm22-20",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0GHP4NL1J",
+    "title": "Kit Rapunzel (Shampoo + Tônico + Milk Spray) - Lola From Rio",
+    "image": "https://m.media-amazon.com/images/I/41OcWO275YL._AC_SF452,452_QL80_.jpg",
+    "canonical": null,
+    "category": "Ofertas do dia",
+    "price_current": null,
+    "price_original": null,
+    "parcelamento": null,
+    "tem_selo_prime": false,
+    "tem_oferta": false,
+    "avaliacao": null,
+    "qtd_avaliacoes": null,
+    "coupon_code": null,
+    "description": "",
+    "informacoes_produto": {},
+    "affiliate_url": "https://www.amazon.com.br/Rapunzel-Shampoo-T%C3%B4nico-Milk-Spray/dp/B0GHP4NL1J?tag=mixdm22-20",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0D4NRBBMR",
+    "title": "Samsung Galaxy Book4 Intel® Core™ i5-1335U, Windows 11 Home, 8GB, 512GB SSD, Iris Xe, 15.6'' Full HD LED, 1.55kg*.",
+    "image": "https://m.media-amazon.com/images/I/71qOQOgOZUL._AC_SF452,452_QL80_.jpg",
+    "canonical": null,
+    "category": "Ofertas do dia",
+    "price_current": null,
+    "price_original": null,
+    "parcelamento": null,
+    "tem_selo_prime": false,
+    "tem_oferta": false,
+    "avaliacao": null,
+    "qtd_avaliacoes": null,
+    "coupon_code": null,
+    "description": "",
+    "informacoes_produto": {},
+    "affiliate_url": "https://www.amazon.com.br/Notebook-Samsung-Galaxy-Book4-NP750XGJ-KG3BR/dp/B0D4NRBBMR?tag=mixdm22-20",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B072MTS8VQ",
+    "title": "Hidratante e Calmante sem Fragrância para Pele Muito Sensível/Sensibilizada dos Bebês e Crianças, Mustela Bebê, Rosa, Médio/200 ml",
+    "image": "https://m.media-amazon.com/images/I/51OPWF9W34L._AC_SF452,452_QL80_.jpg",
+    "canonical": null,
+    "category": "Ofertas do dia",
+    "price_current": null,
+    "price_original": null,
+    "parcelamento": null,
+    "tem_selo_prime": false,
+    "tem_oferta": false,
+    "avaliacao": null,
+    "qtd_avaliacoes": null,
+    "coupon_code": null,
+    "description": "",
+    "informacoes_produto": {},
+    "affiliate_url": "https://www.amazon.com.br/Hidratante-Calmante-Fragrncia-Sens%C3%ADvel-Sensibilizada/dp/B072MTS8VQ?tag=mixdm22-20",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0DYVNRG3B",
+    "title": "Celular Samsung Galaxy A36 5G 128GB, 6GB RAM, Câmera 50MP, IP67, Super AMOLED 6.7\", Recursos AI, Branco",
+    "image": "https://m.media-amazon.com/images/I/613Vrz+GcaL._AC_SF452,452_QL80_.jpg",
+    "canonical": null,
+    "category": "Ofertas do dia",
+    "price_current": null,
+    "price_original": null,
+    "parcelamento": null,
+    "tem_selo_prime": false,
+    "tem_oferta": false,
+    "avaliacao": null,
+    "qtd_avaliacoes": null,
+    "coupon_code": null,
+    "description": "",
+    "informacoes_produto": {},
+    "affiliate_url": "https://www.amazon.com.br/Celular-Samsung-Galaxy-C%C3%A2mera-Recursos/dp/B0DYVNRG3B?tag=mixdm22-20",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0H4HYLQ71",
+    "title": "Notebook Gamer Lenovo Loq 15irx9, 15.6\" Full Hd 144hz, Intel Core I5-13450hx, 16gb, 512gb Ssd, Nvidia Rtx 4050, Linux - 83khs00300",
+    "image": "https://m.media-amazon.com/images/I/61+CippnCvL._AC_SF452,452_QL80_.jpg",
+    "canonical": null,
+    "category": "Ofertas do dia",
+    "price_current": null,
+    "price_original": null,
+    "parcelamento": null,
+    "tem_selo_prime": false,
+    "tem_oferta": false,
+    "avaliacao": null,
+    "qtd_avaliacoes": null,
+    "coupon_code": null,
+    "description": "",
+    "informacoes_produto": {},
+    "affiliate_url": "https://www.amazon.com.br/Notebook-Lenovo-15irx9-I5-13450hx-Nvidia/dp/B0H4HYLQ71?tag=mixdm22-20",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0DDDQL4KV",
+    "title": "Notebook ASUS Vivobook 16 Intel Core i7, 16 GB, 512 GB SSD, W 11 Home, 16'' FHD, Cool Silver - X1605VA-MB763W",
+    "image": "https://m.media-amazon.com/images/I/711d6UupE+L._AC_SF452,452_QL80_.jpg",
+    "canonical": null,
+    "category": "Ofertas do dia",
+    "price_current": null,
+    "price_original": null,
+    "parcelamento": null,
+    "tem_selo_prime": false,
+    "tem_oferta": false,
+    "avaliacao": null,
+    "qtd_avaliacoes": null,
+    "coupon_code": null,
+    "description": "",
+    "informacoes_produto": {},
+    "affiliate_url": "https://www.amazon.com.br/Notebook-ASUS-Vivobook-X1605VA-Windows/dp/B0DDDQL4KV?tag=mixdm22-20",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0D7NZ3N7P",
+    "title": "L'Oréal Professionnel Máscara Absolut Repair Molecular, Repara os Danos & Recupera a Força, Maciez & Desembaraço, Para cabelos danificados e muito danificados",
+    "image": "https://m.media-amazon.com/images/I/61i31s5HNkL._AC_SF452,452_QL80_.jpg",
+    "canonical": null,
+    "category": "Ofertas do dia",
+    "price_current": null,
+    "price_original": null,
+    "parcelamento": null,
+    "tem_selo_prime": false,
+    "tem_oferta": false,
+    "avaliacao": null,
+    "qtd_avaliacoes": null,
+    "coupon_code": null,
+    "description": "",
+    "informacoes_produto": {},
+    "affiliate_url": "https://www.amazon.com.br/Professionnel-Molecular-Recupera-Desembara%C3%A7o-danificados/dp/B0D7NZ3N7P?tag=mixdm22-20",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0GND7R7Z8",
+    "title": "Ar Condicionado Split Hi Wall LG Dual Voice AI Inverter 24.000 Btus Frio 220v R-32",
+    "image": "https://m.media-amazon.com/images/I/51XtHBetEOL._AC_SF452,452_QL80_.jpg",
+    "canonical": null,
+    "category": "Ofertas do dia",
+    "price_current": null,
+    "price_original": null,
+    "parcelamento": null,
+    "tem_selo_prime": false,
+    "tem_oferta": false,
+    "avaliacao": null,
+    "qtd_avaliacoes": null,
+    "coupon_code": null,
+    "description": "",
+    "informacoes_produto": {},
+    "affiliate_url": "https://www.amazon.com.br/Condicionado-Split-LG-Inverter-24-000/dp/B0GND7R7Z8?tag=mixdm22-20",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B09GSR58JF",
+    "title": "L'Oréal Professionnel Serie Expert Absolut Repair, Máscara de Reparação Intensiva para Cabelos Danificados e Finos com Quinoa Dourada, Reconstrução Instantânea e Brilho Intenso, 250g",
+    "image": "https://m.media-amazon.com/images/I/71OFq92+6rL._AC_SF452,452_QL80_.jpg",
+    "canonical": null,
+    "category": "Ofertas do dia",
+    "price_current": null,
+    "price_original": null,
+    "parcelamento": null,
+    "tem_selo_prime": false,
+    "tem_oferta": false,
+    "avaliacao": null,
+    "qtd_avaliacoes": null,
+    "coupon_code": null,
+    "description": "",
+    "informacoes_produto": {},
+    "affiliate_url": "https://www.amazon.com.br/M%C3%A1scara-Tratamento-Reparadora-Absolut-Professionnel/dp/B09GSR58JF?tag=mixdm22-20",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0DKVJ1HWB",
+    "title": "Lola Cosmetics Kit Cronograma Capilar Be(m) Dita Ghee - 3 Produtos",
+    "image": "https://m.media-amazon.com/images/I/71K-GAoX50L._AC_SF452,452_QL80_.jpg",
+    "canonical": null,
+    "category": "Ofertas do dia",
+    "price_current": null,
+    "price_original": null,
+    "parcelamento": null,
+    "tem_selo_prime": false,
+    "tem_oferta": false,
+    "avaliacao": null,
+    "qtd_avaliacoes": null,
+    "coupon_code": null,
+    "description": "",
+    "informacoes_produto": {},
+    "affiliate_url": "https://www.amazon.com.br/FEIRA-CRONOLOLA-Cronograma-Capilar-Produtos/dp/B0DKVJ1HWB?tag=mixdm22-20",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0DBN85QC1",
+    "title": "Samsung Lavadora Digital Inverter WW11T Inox 11kg 127V",
+    "image": "https://m.media-amazon.com/images/I/51KPNZgowTL._AC_SF452,452_QL80_.jpg",
+    "canonical": null,
+    "category": "Ofertas do dia",
+    "price_current": null,
+    "price_original": null,
+    "parcelamento": null,
+    "tem_selo_prime": false,
+    "tem_oferta": false,
+    "avaliacao": null,
+    "qtd_avaliacoes": null,
+    "coupon_code": null,
+    "description": "",
+    "informacoes_produto": {},
+    "affiliate_url": "https://www.amazon.com.br/Samsung-Lavadora-Digital-Inverter-WW11T/dp/B0DBN85QC1?tag=mixdm22-20",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0FXH6Y9G8",
+    "title": "Berço Portátil Bebê Acoplado Co-Bed Connect Maxi baby (Grafite)",
+    "image": "https://m.media-amazon.com/images/I/51ougekSbcL._AC_SF452,452_QL80_.jpg",
+    "canonical": null,
+    "category": "Ofertas do dia",
+    "price_current": null,
+    "price_original": null,
+    "parcelamento": null,
+    "tem_selo_prime": false,
+    "tem_oferta": false,
+    "avaliacao": null,
+    "qtd_avaliacoes": null,
+    "coupon_code": null,
+    "description": "",
+    "informacoes_produto": {},
+    "affiliate_url": "https://www.amazon.com.br/Port%C3%A1til-Acoplado-Connect-Maxi-Grafite/dp/B0FXH6Y9G8?tag=mixdm22-20",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0CSPRNRZC",
+    "title": "MSI GeForce RTX 3050 LP 6G OC (6GB GDDR6/PCI Express 4.0/1492MHz/14000MHz/Perfil baixo)",
+    "image": "https://m.media-amazon.com/images/I/71Z9DLS29FL._AC_SF452,452_QL80_.jpg",
+    "canonical": null,
+    "category": "Ofertas do dia",
+    "price_current": null,
+    "price_original": null,
+    "parcelamento": null,
+    "tem_selo_prime": false,
+    "tem_oferta": false,
+    "avaliacao": null,
+    "qtd_avaliacoes": null,
+    "coupon_code": null,
+    "description": "",
+    "informacoes_produto": {},
+    "affiliate_url": "https://www.amazon.com.br/MSI-GeForce-Express-1492MHz-14000MHz/dp/B0CSPRNRZC?tag=mixdm22-20",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0D4NR66ZL",
+    "title": "Samsung Galaxy Book4 Intel® Core™ i7-1355U, Windows 11 Home, 16GB, 512GB SSD, Iris Xe, 15.6'' Full HD LED, 1.55kg*.",
+    "image": "https://m.media-amazon.com/images/I/71jio1+XNVL._AC_SF452,452_QL80_.jpg",
+    "canonical": null,
+    "category": "Ofertas do dia",
+    "price_current": null,
+    "price_original": null,
+    "parcelamento": null,
+    "tem_selo_prime": false,
+    "tem_oferta": false,
+    "avaliacao": null,
+    "qtd_avaliacoes": null,
+    "coupon_code": null,
+    "description": "",
+    "informacoes_produto": {},
+    "affiliate_url": "https://www.amazon.com.br/Samsung-Galaxy-Intel%C2%AE-i7-1355U-Windows/dp/B0D4NR66ZL?tag=mixdm22-20",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B07S8BMFPD",
+    "title": "NexGard Antipulgas e Carrapatos para Cães de 10.1 a 25kg - 3 tabletes",
+    "image": "https://m.media-amazon.com/images/I/71ycX-Yb0PL._AC_SF452,452_QL80_.jpg",
+    "canonical": null,
+    "category": "Ofertas do dia",
+    "price_current": null,
+    "price_original": null,
+    "parcelamento": null,
+    "tem_selo_prime": false,
+    "tem_oferta": false,
+    "avaliacao": null,
+    "qtd_avaliacoes": null,
+    "coupon_code": null,
+    "description": "",
+    "informacoes_produto": {},
+    "affiliate_url": "https://www.amazon.com.br/Antipulgas-Carrapatos-Nexgard-para-C%C3%A3es/dp/B07S8BMFPD?tag=mixdm22-20",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0H4VFZYNG",
+    "title": "Xixaomiro Tablet Android 15 Pad 10.1\", Câmera 13MP + 5MP, Bateria 8000mAh – Kit Completo com Caneta, Mouse, Teclado e Capa, Adequado para Estudo, Trabalho e Lazer (Verde)",
+    "image": "https://m.media-amazon.com/images/I/71WYTPS9uQL._AC_SF452,452_QL80_.jpg",
+    "canonical": null,
+    "category": "Ofertas do dia",
+    "price_current": null,
+    "price_original": null,
+    "parcelamento": null,
+    "tem_selo_prime": false,
+    "tem_oferta": false,
+    "avaliacao": null,
+    "qtd_avaliacoes": null,
+    "coupon_code": null,
+    "description": "",
+    "informacoes_produto": {},
+    "affiliate_url": "https://www.amazon.com.br/Xixaomiro-Android-Pad-Bateria-8000mAh/dp/B0H4VFZYNG?tag=mixdm22-20",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B000WLN7AM",
+    "title": "Whisky Bourbon Maker's Mark 750ml",
+    "image": "https://m.media-amazon.com/images/I/7199P9zzMGL._AC_SF452,452_QL80_.jpg",
+    "canonical": null,
+    "category": "Ofertas do dia",
+    "price_current": null,
+    "price_original": null,
+    "parcelamento": null,
+    "tem_selo_prime": false,
+    "tem_oferta": false,
+    "avaliacao": null,
+    "qtd_avaliacoes": null,
+    "coupon_code": null,
+    "description": "",
+    "informacoes_produto": {},
+    "affiliate_url": "https://www.amazon.com.br/Whiskey-MakerS-Mark-Makers-Sabor/dp/B000WLN7AM?tag=mixdm22-20",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0DGVS763S",
+    "title": "Balança Digital Bioimpedância Premium Bluetooth com App Saúde iOS Android para IMC Gordura Corporal Massa Muscular Massa Óssea Água Corporal Taxa Metabólica BMR Alta Precisão Vidro Temperado LED Luxo",
+    "image": "https://m.media-amazon.com/images/I/619muB-y20L._SL1024_.jpg",
+    "canonical": null,
+    "category": "Ofertas do dia",
+    "price_current": null,
+    "price_original": 29.9,
+    "parcelamento": null,
+    "tem_selo_prime": false,
+    "tem_oferta": true,
+    "avaliacao": 4.6,
+    "qtd_avaliacoes": 6066,
+    "coupon_code": null,
+    "description": "<ul><li>✅ Monitore até 13 indicadores corporais em segundos – gordura visceral, IMC, massa muscular, água corporal e muito mais!</li><li>📱 Conectividade Bluetooth com app gratuito – visualize sua evolução em tempo real no celular (Android e iOS).</li><li>🎯 Ideal para quem quer emagrecer, ganhar massa ou manter a saúde em dia – resultados visíveis com dados precisos.</li><li>⚖️ Suporta até 140kg com sensores de alta precisão – medições confiáveis, mesmo com pequenas variações.</li><li>🧠 Tecnologia de bioimpedância profissional – usada por nutricionistas e academias para avaliações completas.</li><li>💎 Design premium com vidro temperado e visor LED – elegante, seguro e combina com qualquer ambiente.</li><li>🔋 Economia de energia com desligamento automático – funciona com 2 pilhas AAA (não inclusas).</li><li>🛡️ Sistema inteligente com alertas de sobrepeso e bateria fraca – segurança total para o uso diário.</li><li>👨‍👩‍👧‍👦 Perfeita para toda a família – compartilhe o uso com diferentes perfis no app e acompanhe todos.</li><li>🚀 Transforme sua rotina com dados reais e clareza total – tenha o controle do seu corpo na palma da mão!</li></ul>",
+    "informacoes_produto": {
+      "Marca": "Genérico",
+      "Tipo de visor": "LED",
+      "Limite de peso": "1 Quilogramas",
+      "Fator de forma": "Portátil",
+      "Material": "Vidro temperado"
+    },
+    "affiliate_url": "https://www.amazon.com.br/Bioimped%C3%A2ncia-Bluetooth-Controle-Completo-Corporal/dp/B0DGVS763S?tag=mixdm22-20",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0FV3JZ618",
+    "title": "GPU NV RTX5050 8GB BLACK GF 1-CLICK OC TECLAB LITE 128BITS GDDR6 GALAX 55NSL8MHDXRE",
+    "image": "https://m.media-amazon.com/images/I/61eOsLaJbxL._AC_SL1500_.jpg",
+    "canonical": null,
+    "category": "Ofertas do dia",
+    "price_current": null,
+    "price_original": 2470.58,
+    "parcelamento": null,
+    "tem_selo_prime": true,
+    "tem_oferta": true,
+    "avaliacao": 4.7,
+    "qtd_avaliacoes": 4,
+    "coupon_code": null,
+    "description": "<ul><li>GPU NV RTX5050 8GB BLACK GF 1-CLICK OC TECLAB LITE 128BITS GDDR6 GALAX 55NSL8MHDXRE</li></ul>",
+    "informacoes_produto": {
+      "Coprocessador gráfico": "NVIDIA GEFORCE RTX 5050",
+      "Tamanho da Ram da placa de vídeo": "8 GB",
+      "Ram de placa de vídeo": "GDDR6",
+      "Interface da placa de vídeo": "PCI-Express x16",
+      "Velocidade do clock da memória": "2500 MHz",
+      "Série da GPU": "NVIDIA RTX Série 50",
+      "Nome da marca": "Galax",
+      "Fabricante da placa de vídeo": "NVIDIA",
+      "Componentes incluídos": "PLACA DE VIDEO",
+      "Nome do modelo": "GPU NV RTX5050 8GB BLACK GF 1-CLICK OC",
+      "Descrição da placa de vídeo": "NVIDIA GeForce RTX 5050 8GB GDDR6",
+      "Fabricante": "Galax",
+      "Número da peça": "55NSL8MHDXRE",
+      "Número do modelo": "55NSL8MHDXRE",
+      "Contagem de unidades": "1 Count",
+      "Descrição da garantia": "1 ano com o fabricante",
+      "ASIN": "B0FV3JZ618",
+      "Marca": "Galax",
+      "Tamanho da memória RAM da placa gráfica": "8 GB",
+      "Fabricante do processador gráfico": "NVIDIA",
+      "Tipo de memória RAM da placa de vídeo": "GDDR6"
+    },
+    "affiliate_url": "https://www.amazon.com.br/RTX5050-1-CLICK-TECLAB-128BITS-55NSL8MHDXRE/dp/B0FV3JZ618?tag=mixdm22-20",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B07PNK7JSN",
+    "title": "Vanish Tira Manchas Em Pó, Multi Power Oxi Action, para Roupas Coloridas Refil 2,5Kg",
+    "image": "https://m.media-amazon.com/images/I/71oeDuf8dTL._AC_SL1500_.jpg",
+    "canonical": null,
+    "category": "Ofertas do dia",
+    "price_current": null,
+    "price_original": 109.59,
+    "parcelamento": null,
+    "tem_selo_prime": false,
+    "tem_oferta": true,
+    "avaliacao": 4.8,
+    "qtd_avaliacoes": 16372,
+    "coupon_code": null,
+    "description": "<ul><li>Vanish pó para roupas coloridas: Remove manchas com segurança, deixando roupas limpas e cheirosas</li><li>Tira manchas eiciente na remoção de manchas em roupas coloridas, atua em apenas 30 segundos</li><li>Revive os tons das roupas, deixando as peças brancas até três tons mais claras</li><li>Vanish é compatível com sabão em pó, tornando-se a combinação perfeita para lavar roupas</li><li>Vanish é compatível com sabão em pó, tornando-se a combinação perfeita para lavar roupas</li><li>Vanish pó para roupas coloridas: Remove manchas com segurança, deixando roupas limpas e cheirosas</li><li>Tira manchas eiciente na remoção de manchas em roupas coloridas, atua em apenas 30 segundos</li><li>Revive os tons das roupas, deixando as peças brancas até três tons mais claras</li><li>Vanish é compatível com sabão em pó, tornando-se a combinação perfeita para lavar roupas</li><li>Vanish é compatível com sabão em pó, tornando-se a combinação perfeita para lavar roupas</li><li>Roupas Brancas</li><li>Roupas Coloridas</li><li>2.5 kg (Pacote de 1)</li><li>120g</li><li>240g</li><li>450g</li><li>1 kg (Pacote de 1)</li><li>400 g (Pacote de 1)</li></ul>",
+    "informacoes_produto": {
+      "Nome da marca": "Vanish",
+      "Formato do item": "Pó",
+      "Quantidade de itens": "1",
+      "Fabricante": "Reckitt Benckiser",
+      "Número do modelo": "3049092",
+      "Número da peça": "CCTS-157",
+      "País de origem": "Brasil",
+      "Nome do Tipo de Produto": "Tira Manchas em Pó Multi Power Oxi Action Rosa Refil Econômico",
+      "ASIN": "B07PNK7JSN",
+      "Contagem de unidades": "1 Unidade",
+      "Peso do item": "2500 Gramas",
+      "Volume de líquido": "2500 Mililitros",
+      "Dimensões do artigo": "20 x 19 x 12 centímetros",
+      "Nome do tamanho da embalagem": "Refil",
+      "Livre de tipo de material": "Sem cloro",
+      "Características do material": "Alvejante sem cloro",
+      "Aroma": "Roupas Coloridas",
+      "Usos específicos do produto": "Pré-tratamento, molho e máquina",
+      "Benefícios do produto": "Remove as manchas mais difíceis e odores",
+      "Tipo de pele": "Todos",
+      "Marca": "Vanish",
+      "Forma do produto": "Pó",
+      "Tipo de material livre": "Sem cloro"
+    },
+    "affiliate_url": "https://www.amazon.com.br/Manchas-Action-Refil-Econ%C3%B4mico-Vanish/dp/B07PNK7JSN?tag=mixdm22-20",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B07Y3B33KG",
+    "title": "Finish Powerball Detergente para Lava Louças em tabletes Embalagem Econômica com 91 tabletes",
+    "image": "https://m.media-amazon.com/images/I/61Nf8UQrPOL._AC_SL1000_.jpg",
+    "canonical": null,
+    "category": "Ofertas do dia",
+    "price_current": null,
+    "price_original": 277.78,
+    "parcelamento": null,
+    "tem_selo_prime": false,
+    "tem_oferta": true,
+    "avaliacao": 4.8,
+    "qtd_avaliacoes": 6528,
+    "coupon_code": null,
+    "description": "<ul><li>Finish Powerball Tabletes é o seu detergente para lava louças que oferece limpeza poderosa e brilho perfeito em um único tablete.</li><li>Louça perfeitamente limpa de primeira, sem necessidade de pré-lavagem, gerando economia de água.</li><li>Prático e pronto para o uso, já vem na medida certa. Invista em qualidade de vida!</li><li>Finish é líder mundial em detergente para máquina lava louças. Recomendado pelos principais fabricantes de lava louças do mundo como Brastemp e Electrolux.</li><li>Possui agentes secantes na fórmula. Sua fórmula contém ingredientes que promovem o cuidado e proteção das louças.</li><li>Finish Powerball Tabletes é o seu detergente para lava louças que oferece limpeza poderosa e brilho perfeito em um único tablete.</li><li>Louça perfeitamente limpa de primeira, sem necessidade de pré-lavagem, gerando economia de água.</li><li>Prático e pronto para o uso, já vem na medida certa. Invista em qualidade de vida!</li><li>Finish é líder mundial em detergente para máquina lava louças. Recomendado pelos principais fabricantes de lava louças do mundo como Brastemp e Electrolux.</li><li>Possui agentes secantes na fórmula. Sua fórmula contém ingredientes que promovem o cuidado e proteção das louças.</li></ul>",
+    "informacoes_produto": {
+      "Nome da marca": "Finish",
+      "Fabricante": "Reckitt Benckiser",
+      "Número da peça": "3114087",
+      "Número do modelo": "3114087",
+      "Nome do Tipo de Produto": "Tabletes Detergentes para Lava Louças All in One Max Powerball Embalagem Econômica com 91 tabletes",
+      "País de origem": "Brasil",
+      "ASIN": "B07Y3B33KG",
+      "Usos recomendados do produto": "Lava louça",
+      "Quantidade de itens": "91",
+      "Peso do item": "1980 Gramas",
+      "Contagem de unidades": "91.0 unidade",
+      "Dimensões do artigo": "39,6 x 14,7 x 18,7 centímetros",
+      "Nome do tamanho da embalagem": "Embalagem Econômica",
+      "Formato do item": "Tablet",
+      "Aroma": "Sem perfume",
+      "Características do material": "Sem perfume",
+      "Tipo de recipiente": "Caixa",
+      "Marca": "Finish",
+      "Forma do produto": "Tablet",
+      "Característica do material": "Sem perfume",
+      "Número de itens": "91"
+    },
+    "affiliate_url": "https://www.amazon.com.br/Detergentes-Powerball-Embalagem-Econ%C3%B4mica-Finish/dp/B07Y3B33KG?tag=mixdm22-20",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0GFQ7ZJT5",
+    "title": "JBL, Caixa de Som, Boombox 4, Bluetooth, Som JBL Pro, AI Sound Boost, Graves Personalizáveis, Bateria de até 34h, IP68, Áudio Lossless – Laranja",
+    "image": "https://m.media-amazon.com/images/I/71efPyuQXOL._AC_SL1500_.jpg",
+    "canonical": null,
+    "category": "Ofertas do dia",
+    "price_current": null,
+    "price_original": 3199.0,
+    "parcelamento": null,
+    "tem_selo_prime": true,
+    "tem_oferta": false,
+    "avaliacao": 4.7,
+    "qtd_avaliacoes": 36,
+    "coupon_code": null,
+    "description": "<ul><li>SOM JBL PRO COM AI SOUND BOOST. A Boombox 4 traz dois woofers maiores, dois tweeters e três radiadores passivos para som nítido e potente. A tecnologia AI Sound Boost ajusta o áudio em tempo real para mais potência e menos distorção.</li><li>RESISTENTE À ÁGUA E POEIRA IP68. Com proteção IP68, a Boombox 4 é à prova d’água e poeira. Leve para a praia, piscina ou onde quiser, sem medo de estragar a diversão ou o som.</li><li>RESISTENTE À ÁGUA E POEIRA IP68. Com proteção IP68, a Boombox 4 é à prova d’água e poeira. Leve para a praia, piscina ou onde quiser, sem medo de estragar a diversão ou o som.</li><li>PERSONALIZE OS GRAVES COM UM TOQUE Escolha entre os modos Deep Bass ou Punchy Bass para combinar com seu clima. Basta um toque no botão para ajustar os graves ao estilo da sua música.</li><li>JBL, Caixa de Som, Boombox 4, Bluetooth, Som JBL Pro, AI Sound Boost, Graves Personalizáveis, Bateria de até 34h, IP68, Áudio Lossless – Laranja</li><li>SOM JBL PRO COM AI SOUND BOOST. A Boombox 4 traz dois woofers maiores, dois tweeters e três radiadores passivos para som nítido e potente. A tecnologia AI Sound Boost ajusta o áudio em tempo real para mais potência e menos distorção.</li><li>RESISTENTE À ÁGUA E POEIRA IP68. Com proteção IP68, a Boombox 4 é à prova d’água e poeira. Leve para a praia, piscina ou onde quiser, sem medo de estragar a diversão ou o som.</li><li>RESISTENTE À ÁGUA E POEIRA IP68. Com proteção IP68, a Boombox 4 é à prova d’água e poeira. Leve para a praia, piscina ou onde quiser, sem medo de estragar a diversão ou o som.</li><li>PERSONALIZE OS GRAVES COM UM TOQUE Escolha entre os modos Deep Bass ou Punchy Bass para combinar com seu clima. Basta um toque no botão para ajustar os graves ao estilo da sua música.</li><li>JBL, Caixa de Som, Boombox 4, Bluetooth, Som JBL Pro, AI Sound Boost, Graves Personalizáveis, Bateria de até 34h, IP68, Áudio Lossless – Laranja</li></ul>",
+    "informacoes_produto": {
+      "Modo de saída de áudio": "Stereo",
+      "Tipo de montagem": "Suporte de mesa",
+      "Tipo de alto-falante": "Caixa de Som Portátil",
+      "Características especiais": "À prova d'água",
+      "Tamanho do alto-falante": "52,6 Centímetros",
+      "Potência máxima de saída do alto-falante": "200 watts",
+      "Resposta de frequência": "20 KHz",
+      "Dimensões do item P x L x A": "56,5P x 34,5L x 25,6A centímetros",
+      "Tecnologia de conectividade": "Bluetooth",
+      "Fonte de energia": "Fio elétrico",
+      "Tipo de bateria": "1 Bateria não-padrão baterias necessárias. (inclusas)",
+      "Nome da marca": "JBL",
+      "Número do modelo": "JBLBOOMBOX4SORGBR",
+      "Nome do modelo": "JBLBOOMBOX4SORGBR",
+      "Componentes incluídos": "Cabo de alimentação",
+      "Descrição da garantia": "12 meses",
+      "Quantidade de itens": "1",
+      "UPC": "050036416634",
+      "Fabricante": "Harman",
+      "ASIN": "B0GFQ7ZJT5",
+      "Marca": "JBL",
+      "Potência máxima de saída dos alto-falantes": "200 watts"
+    },
+    "affiliate_url": "https://www.amazon.com.br/JBL-Boombox-Bluetooth-Personaliz%C3%A1veis-Lossless/dp/B0GFQ7ZJT5?tag=mixdm22-20",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B09GSQMJ5T",
+    "title": "L'Oréal Professionnel Pro Longer, Máscara de Tratamento Capilar para Cabelos Finos e Afinados, Reduz Quebra e Pontas Duplas, Proporciona Brilho, Suavidade e Densidade aos Fios, 250g",
+    "image": "https://m.media-amazon.com/images/I/51Jjvh-r-vL._AC_SL1000_.jpg",
+    "canonical": null,
+    "category": "Ofertas do dia",
+    "price_current": null,
+    "price_original": 214.9,
+    "parcelamento": null,
+    "tem_selo_prime": false,
+    "tem_oferta": true,
+    "avaliacao": 4.6,
+    "qtd_avaliacoes": 3038,
+    "coupon_code": null,
+    "description": "<ul><li>Máscara profissional para cabelos longos que preenche as pontas, devolvendo a densidade e evitando o corte.</li><li>Com tecnologia Filler-A100 e Aminoácidos que reforçam a fibra, preenchem e fortalecem os cabelos longos.</li><li>Reduz a quebra dos fios em 94%* e diminui as pontas duplas em 66%**, para um comprimento mais uniforme.</li><li>Deixa o cabelo 5x mais brilhante*, com toque sedoso e aparência visivelmente mais saudável da raiz às pontas.</li><li>Conquiste o cabelo longo dos seus sonhos: forte, denso, com pontas preenchidas e um brilho espetacular.</li><li>Máscara profissional para cabelos longos que preenche as pontas, devolvendo a densidade e evitando o corte.</li><li>Com tecnologia Filler-A100 e Aminoácidos que reforçam a fibra, preenchem e fortalecem os cabelos longos.</li><li>Reduz a quebra dos fios em 94%* e diminui as pontas duplas em 66%**, para um comprimento mais uniforme.</li><li>Deixa o cabelo 5x mais brilhante*, com toque sedoso e aparência visivelmente mais saudável da raiz às pontas.</li><li>Conquiste o cabelo longo dos seus sonhos: forte, denso, com pontas preenchidas e um brilho espetacular.</li></ul>",
+    "informacoes_produto": {
+      "Formato do item": "Creme",
+      "Tipo de cabelo": "Todos",
+      "Benefícios do produto": "Trata instantaneamente pontas finas e quebradiças, fortalecendo a fibra com resultados já na 1ª aplicação.",
+      "Aroma": "Sem perfume",
+      "Additional Features": "Hipoalergênico",
+      "Contagem de unidades": "250.0 milliliters",
+      "Quantidade de itens": "1",
+      "Dimensões do artigo": "8,3 x 8,3 x 6,9 centímetros",
+      "Volume de líquido": "250 Mililitros",
+      "Peso do item": "290 Gramas",
+      "Tamanho": "250 g (Pacote de 1)",
+      "Nome da marca": "L'Oréal Professionnel Paris",
+      "Descrição da faixa etária": "Adulto",
+      "Fabricante": "L´Oreal",
+      "Número da peça": "1000096",
+      "Nome do Tipo de Produto": "Máscara de Tratamento Para Renovação de Pontas Pro Longer Serie Expert 250G",
+      "País de origem": "Brasil",
+      "ASIN": "B09GSQMJ5T",
+      "Características do material": "Sem crueldade",
+      "Marca": "L'Oréal Professionnel Paris",
+      "Forma do produto": "Creme",
+      "Característica do material": "Sem crueldade"
+    },
+    "affiliate_url": "https://www.amazon.com.br/M%C3%A1scara-Tratamento-Renova%C3%A7%C3%A3o-L%C2%B4Oreal-Professionnel/dp/B09GSQMJ5T?tag=mixdm22-20",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0D3J37TLY",
+    "title": "ISDIN Óleo de Banho Ureadin Calm OleoGel - 400ml",
+    "image": "https://m.media-amazon.com/images/I/61P7hJWHoxL._AC_SL1500_.jpg",
+    "canonical": null,
+    "category": "Ofertas do dia",
+    "price_current": null,
+    "price_original": 131.9,
+    "parcelamento": null,
+    "tem_selo_prime": false,
+    "tem_oferta": true,
+    "avaliacao": 4.8,
+    "qtd_avaliacoes": 795,
+    "coupon_code": null,
+    "description": "<ul><li>Óleo de Banho</li><li>Óleo de Banho</li></ul>",
+    "informacoes_produto": {
+      "Nome da marca": "ISDIN",
+      "Descrição da faixa etária": "Adulto",
+      "Tipo de pele": "Todos os tipos de pele",
+      "Quantidade de itens": "1",
+      "Formato do item": "Óleo",
+      "Parte do corpo pretendida para utilização": "Corpo",
+      "Benefícios do produto": "Alivia a coceira, Calmante, Hidratante, Limpeza, Nutritivo",
+      "Usos específicos do produto": "Coceira, Secura",
+      "País da etiqueta": "Espanha",
+      "Nome do modelo": "UREADIN CALM OLEOGEL 400ML",
+      "Usos recomendados do produto": "Condicionamento da pele, alívio terapêutico, relaxamento, aromaterapia",
+      "Fabricante": "ISDIN",
+      "País de origem": "Espanha",
+      "ASIN": "B0D3J37TLY",
+      "Volume do item": "400 Mililitros",
+      "Dimensões do artigo": "6,7 x 5 x 21,9 centímetros",
+      "Contagem de unidades": "1 Unidade",
+      "Peso do item": "443 Gramas",
+      "Ingredientes especiais": "Óleo de rícino",
+      "Características do material": "Sem fragrância",
+      "Aroma": "Sem perfume",
+      "Marca": "ISDIN",
+      "Volume do produto": "400 Mililitros",
+      "Dimensões do item C x L x A": "6,7 x 5 x 21,9 centímetros",
+      "Faixa etária (descrição)": "Adulto"
+    },
+    "affiliate_url": "https://www.amazon.com.br/%C3%93leo-banho-Ureadin-Calm-OleoGel/dp/B0D3J37TLY?tag=mixdm22-20",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0B7SH8YPV",
+    "title": "L'Oréal Professionnel NutriOil Leave-in, Hidratação e Nutrição Intensa para Cabelos Secos e Sem Brilho, com Óleo de Coco, Proteção Térmica e Antifrizz, 150ml",
+    "image": "https://m.media-amazon.com/images/I/41YAXDAgkVL._AC_SL1000_.jpg",
+    "canonical": null,
+    "category": "Ofertas do dia",
+    "price_current": null,
+    "price_original": 159.0,
+    "parcelamento": null,
+    "tem_selo_prime": true,
+    "tem_oferta": true,
+    "avaliacao": 4.7,
+    "qtd_avaliacoes": 2173,
+    "coupon_code": null,
+    "description": "<ul><li>Este leave-in profissional é a solução ideal para cabelos secos e sem brilho, proporcionando nutrição profunda sem pesar os fios, ideal para complementar seu cronograma capilar.</li><li>Sua fórmula avançada é enriquecida com 1,5% de óleo de coco, que oferece ação umectante, fortalecendo a resistência da fibra capilar e promovendo maciez, brilho e movimento.</li><li>Desfrute de proteção térmica de até 230°C, protegendo os cabelos do calor de ferramentas e garantindo proteção antifrizz por até 24 horas.</li><li>Com sua ação umectante, o óleo de coco adere ao fio formando uma camada protetora na superfície Além de penetrar na fibra, fortalecendo a sua resistência e promovendo nutrição com maciez, brilho e movimento.</li><li>Contém: 1 Leave-in L'Oréal Professionnel NutriOil 150ml, para cabelos instantaneamente 4x mais macios e com muito mais brilho.</li><li>Este leave-in profissional é a solução ideal para cabelos secos e sem brilho, proporcionando nutrição profunda sem pesar os fios, ideal para complementar seu cronograma capilar.</li><li>Sua fórmula avançada é enriquecida com 1,5% de óleo de coco, que oferece ação umectante, fortalecendo a resistência da fibra capilar e promovendo maciez, brilho e movimento.</li><li>Desfrute de proteção térmica de até 230°C, protegendo os cabelos do calor de ferramentas e garantindo proteção antifrizz por até 24 horas.</li><li>Com sua ação umectante, o óleo de coco adere ao fio formando uma camada protetora na superfície Além de penetrar na fibra, fortalecendo a sua resistência e promovendo nutrição com maciez, brilho e movimento.</li><li>Contém: 1 Leave-in L'Oréal Professionnel NutriOil 150ml, para cabelos instantaneamente 4x mais macios e com muito mais brilho.</li></ul>",
+    "informacoes_produto": {
+      "Formato do item": "Líquido",
+      "Tipo de cabelo": "Seco",
+      "Benefícios do produto": "Nutritivo",
+      "Aroma": "Sem perfume",
+      "Additional Features": "Hipoalergênico, Não testado em animais, Orgânico",
+      "Contagem de unidades": "1 Unidade",
+      "Quantidade de itens": "1",
+      "Dimensões do artigo": "40 x 60 x 190 milímetros",
+      "Volume de líquido": "150 Mililitros",
+      "Nome da marca": "L'Oréal Professionnel Paris",
+      "Descrição da faixa etária": "Adulto",
+      "Fabricante": "L'Oréal Professionnel",
+      "Número do modelo": "SL-155",
+      "Número da peça": "RIV001",
+      "País de origem": "Brasil",
+      "ASIN": "B0B7SH8YPV",
+      "Características do material": "Sustentável",
+      "Marca": "L'Oréal Professionnel Paris",
+      "Forma do produto": "Líquido",
+      "Característica do material": "Sustentável",
+      "Vantagens do produto": "Nutritivo"
+    },
+    "affiliate_url": "https://www.amazon.com.br/LOREAL-PROFESSIONNEL-NutriOil-nutri%C3%A7%C3%A3o-enriquecido/dp/B0B7SH8YPV?tag=mixdm22-20",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0DSGKX1RH",
+    "title": "Refrigerador Expositor Vertical EOS 286 Litros Eco Gelo Digital Branco EEV260B 220V",
+    "image": "https://m.media-amazon.com/images/I/71N4KXPMnsL._AC_SL1500_.jpg",
+    "canonical": null,
+    "category": "Ofertas do dia",
+    "price_current": null,
+    "price_original": 3389.0,
+    "parcelamento": null,
+    "tem_selo_prime": false,
+    "tem_oferta": true,
+    "avaliacao": 4.4,
+    "qtd_avaliacoes": 7,
+    "coupon_code": null,
+    "description": "<ul><li>Design Elegante.</li><li>Iluminação Interna em LED.</li><li>Tecnologia Avançada.</li><li>10 anos de garantia no compressor</li><li>Eficiência Energética.</li><li>Faixa de Operação de 0 a 10°C.</li><li>Pés Ajustáveis e Rodas.</li></ul>",
+    "informacoes_produto": {
+      "Configuração": "Vidro Duplo Antiembaçante",
+      "Características especiais": "Leve",
+      "Número de portas": "1",
+      "Tipo de sistema de degelo": "Sem gelo",
+      "Voltagem": "220 Volts",
+      "Fator de forma": "Porta Francesa",
+      "Método de resfriamento": "Compressor",
+      "Número de prateleiras": "4",
+      "Controle de temperatura ajustável": "Não",
+      "Orientação de abertura da porta": "Direita",
+      "Tem Congelador Conversível": "Não",
+      "É alimentado por energia elétrica?": "Sim",
+      "Fonte de energia": "Elétrico com fio",
+      "O produto é sem fio": "Não",
+      "Cor": "Branco",
+      "Dimensões do item P x L x A": "53P x 56L x 166,5A centímetros",
+      "Capacidade": "286 litros",
+      "Capacidade do freezer": "286 Litros",
+      "Peso do item": "58 Quilogramas",
+      "Capacidade Líquida do Refrigerador": "286 Litros",
+      "Capacidade de comida fresca": "286 Litros",
+      "Tipo de instalação": "Independente",
+      "Avaliação por estrelas do BEE": "5 Estrelas",
+      "Nome da marca": "EOS",
+      "Número do modelo": "EEV260P 220V",
+      "Número da peça": "EEV260",
+      "Componentes incluídos": "Não aplicável",
+      "Fabricante": "EOS",
+      "Descrição da garantia": "90 dias",
+      "País de origem": "China",
+      "ASIN": "B0DSGKX1RH",
+      "Dimensões do produto": "53P x 56L x 166,5A centímetros",
+      "Marca": "EOS"
+    },
+    "affiliate_url": "https://www.amazon.com.br/Refrigerador-Expositor-Vertical-EOS-220V/dp/B0DSGKX1RH?tag=mixdm22-20",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0FX44RT9W",
+    "title": "TOYADENT Escova de Dentes Adulto Ultra Macia 6 Unidades, Cerdas Finas e Densas, Cabos Coloridos, Com Tampa Protetora, Higiene Bucal Diária, Para Família e Presente",
+    "image": "https://m.media-amazon.com/images/I/71Qu2IvujqL._AC_SL1500_.jpg",
+    "canonical": null,
+    "category": "Ofertas do dia",
+    "price_current": null,
+    "price_original": 49.9,
+    "parcelamento": null,
+    "tem_selo_prime": true,
+    "tem_oferta": true,
+    "avaliacao": 4.7,
+    "qtd_avaliacoes": 55,
+    "coupon_code": null,
+    "description": "<ul><li>Design Colorido e Atraente – Seis cabos em cores suaves e modernas, ideais para uso individual ou familiar, trazendo mais alegria para a rotina diária de escovação.</li><li>Cerdas Ultra Macias e Densas – Cerdas finas e bem distribuídas que limpam profundamente a superfície dos dentes e os espaços interdentais, reduzindo a irritação das gengivas e sendo adequadas para dentes sensíveis.</li><li>Tampa Protetora Individual – Cada escova de dente acompanha uma tampa transparente que protege contra poeira e contaminação, mantendo as cerdas limpas em casa ou durante viagens.</li><li>Design Ergonômico e Confortável – Cabo antiderrapante com formato anatômico, fácil de segurar e confortável, proporcionando uma escovação sem esforço.</li><li>Embalagem Elegante – Conjunto com 6 escovas em embalagem bonita e prática, unindo funcionalidade e estética, ideal para presentear familiares, amigos ou colegas.</li><li>Design Colorido e Atraente – Seis cabos em cores suaves e modernas, ideais para uso individual ou familiar, trazendo mais alegria para a rotina diária de escovação.</li><li>Cerdas Ultra Macias e Densas – Cerdas finas e bem distribuídas que limpam profundamente a superfície dos dentes e os espaços interdentais, reduzindo a irritação das gengivas e sendo adequadas para dentes sensíveis.</li><li>Tampa Protetora Individual – Cada escova de dente acompanha uma tampa transparente que protege contra poeira e contaminação, mantendo as cerdas limpas em casa ou durante viagens.</li><li>Design Ergonômico e Confortável – Cabo antiderrapante com formato anatômico, fácil de segurar e confortável, proporcionando uma escovação sem esforço.</li><li>Embalagem Elegante – Conjunto com 6 escovas em embalagem bonita e prática, unindo funcionalidade e estética, ideal para presentear familiares, amigos ou colegas.</li></ul>",
+    "informacoes_produto": {
+      "Nome da marca": "TOYA DENT",
+      "Descrição da faixa etária": "Adulto",
+      "Nome do modelo": "TY512",
+      "Público-alvo": "Unissex-adultos",
+      "Fabricante": "Toya Corporation",
+      "UPC": "734038463338",
+      "Número da peça": "TY512",
+      "Número do modelo": "TY512",
+      "País de origem": "China",
+      "ASIN": "B0FX44RT9W",
+      "Características especiais": "Portátil",
+      "Fonte de energia": "Não aplicável",
+      "Descrição da firmeza do item": "Macia",
+      "Modo de operação": "Manual",
+      "Quantidade de itens": "6",
+      "Contagem de unidades": "1 unidade",
+      "Cor": "6",
+      "Marca": "TOYA DENT",
+      "Faixa etária (descrição)": "Adulto",
+      "Fonte de alimentação": "Não aplicável",
+      "Firmeza do produto": "Macia"
+    },
+    "affiliate_url": "https://www.amazon.com.br/TOYADENT-Unidades-Coloridos-Protetora-Presente/dp/B0FX44RT9W?tag=mixdm22-20",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B08WLM2682",
+    "title": "Mustela Hydra Bebê 300ml - Hidratante Infantil Corpo e Rosto - Feito com 97% de Ingredientes de Origem Natural e Hipoalergênico - Seguro Desde o Nascimento",
+    "image": "https://m.media-amazon.com/images/I/510tnSLrxAL._AC_SL1000_.jpg",
+    "canonical": null,
+    "category": "Ofertas do dia",
+    "price_current": null,
+    "price_original": 119.99,
+    "parcelamento": null,
+    "tem_selo_prime": false,
+    "tem_oferta": true,
+    "avaliacao": 4.9,
+    "qtd_avaliacoes": 17906,
+    "coupon_code": null,
+    "description": "<ul><li>Loção hidratante com textura cremosa leve, deixa a pele mais macia e suave.</li><li>Seguro para uso desde o nascimento. Embalagem pump tamanho 300 ml.</li><li>Dermatologicamente Testado e Recomendado.</li><li>Com cheirinho delicado de Mustela Bebê.</li><li>Nosso principal ingrediente, feito de abacate, vem de cadeias de abastecimento orgânicas e responsáveis. Fortalece a barreira cutânea e protege o capital celular da pele.</li><li>Loção hidratante com textura cremosa leve, deixa a pele mais macia e suave.</li><li>Seguro para uso desde o nascimento. Embalagem pump tamanho 300 ml.</li><li>Dermatologicamente Testado e Recomendado.</li><li>Com cheirinho delicado de Mustela Bebê.</li><li>Nosso principal ingrediente, feito de abacate, vem de cadeias de abastecimento orgânicas e responsáveis. Fortalece a barreira cutânea e protege o capital celular da pele.</li><li>300 ml (Pacote de 1)</li><li>500 ml (Pacote de 1)</li></ul>",
+    "informacoes_produto": {
+      "Nome da marca": "Mustela",
+      "Descrição da faixa etária": "Criança",
+      "Número do modelo": "MUS0100009/2",
+      "Número da peça": "MUS0100009/2",
+      "Contagem de unidades": "24.0 milliliters",
+      "Fabricante": "Laboratorios Expanscience",
+      "País de origem": "França",
+      "Nome do Tipo de Produto": "Hydra Bebê com Abacate Orgânico Mustela, Hidratante Corporal Infantil, 97% de ingredientes de origem natural, 300ml",
+      "ASIN": "B08WLM2682",
+      "Formato do item": "Creme",
+      "Benefícios do produto": "Hidratante",
+      "Aroma": "Cheirinho delicado de Mustela Bebê",
+      "Peso do item": "10,6 Onças",
+      "Volume do item": "300 Mililitros",
+      "Princípios ativos": "Perseose® de Abacate Orgânico, ativo natural patenteado que protege a barreira cutânea, hidrata e preserva a riqueza celular da pele., Vitamina E, para proteger a pele das condições ambientais e mantê-la macia., Óleo de girassol, rico em esteróis - fonte de ácidos graxos essenciais - para hidratar a pele do bebê.",
+      "Livre de tipo de material": "Sem parabeno, Sem álcool, fenoxietanol, ftalatos, triclosan",
+      "Marca": "Mustela",
+      "Forma do produto": "Creme",
+      "Peso do produto": "10,6 Onças",
+      "Faixa etária (descrição)": "Criança"
+    },
+    "affiliate_url": "https://www.amazon.com.br/Org%C3%A2nico-Mustela-Hidratante-Corporal-Ingredientes/dp/B08WLM2682?tag=mixdm22-20",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0CJHZ92P6",
+    "title": "Webcam EMEET C960 4K, Sensor Sony UHD, Foco Automático PDAF, Microfones Duplos, Correção de Luz, FOV 73°, Capa de Privacidade",
+    "image": "https://m.media-amazon.com/images/I/71TDsZwyyEL._AC_SL1500_.jpg",
+    "canonical": null,
+    "category": "Ofertas do dia",
+    "price_current": null,
+    "price_original": 299.99,
+    "parcelamento": null,
+    "tem_selo_prime": true,
+    "tem_oferta": true,
+    "avaliacao": 4.8,
+    "qtd_avaliacoes": 2153,
+    "coupon_code": null,
+    "description": "<ul><li>Claridade incomparável com resolução 4K verdadeira - experimente videoconferência ultra-clara com um sensor CMOS EMEET SmartCam C960 4K genuíno. Sem aumento falso, apenas qualidade 4K pura. Ideal para reuniões de negócios remotas onde cada detalhe é importante. A webcam 4K para laptop oferece visuais ultra-claros que fazem você se sentir como se estivesse na mesma sala com seus colegas, estudantes ou público. Observação: a resolução de vídeo padrão é 1080P; mude para 4K por meio de software de câmera integrado ou aplicativos como PotPlayer/OBS.</li><li>Foco PDAF e correção automática de luz – Equipada com tecnologia de foco automático PDAF, a webcam EMEET para PC 4K garante foco claro e estável em vários cenários, como conferências de negócios e palestras educacionais. Diga adeus às interrupções desfocadas. As reuniões online podem ser realizadas em ambientes de superexposição e pouca luz com ajuste automático de luz. O FOV de 73° se concentra em você e não em seu plano de fundo, não precisa mais escolher ou desfocar meticulosamente o fundo da conferência.</li><li>Microfones omnidirecionais duplos – os microfones duplos integrados capturam vozes claramente para um áudio nítido e natural. Perfeito para chamadas em conferência e ensino remoto, onde a comunicação clara é primordial. A webcam com microfone permite que você aproveite a qualidade de áudio nítida, promovendo uma experiência de reunião imersiva que aumenta sua produtividade. Certifique-se de designar a webcam USB EMEET SmartCam C960 4K como seu dispositivo de microfone padrão para um desempenho ideal.</li><li>Plug and Play USB e privacidade garantida – a simplicidade da tecnologia plug-and-play encontra o alto desempenho na webcam C960 4K. A interface USB-A padrão garante que você esteja funcionando rapidamente, não importa o seu nível de conhecimento técnico. A webcam vem com uma capa de privacidade para sua segurança. Com as opções de montagem flexíveis, você pode ter uma câmera de computador que se adapta às suas necessidades sem comprometer sua privacidade. Nenhum driver/Wi-Fi/Bluetooth/armazenamento na nuvem é usado para garantir privacidade.</li><li>Compatibilidade e versatilidade – funciona sem esforço em várias plataformas, como Windows (Win7, 10, 11), macOS (10.14 e acima), Android TV V7.0 e superior e Linux. Ideal para uso com software de comunicação popular, do Zoom ao Teams ao Skype. Personalize suas configurações de vídeo com o software EMEETLINK proprietário da EMEETLINK. Com eixo horizontal ajustável de 360°, ajustes verticais de 15° e uma rosca de tripé de 1/4 de polegada, esta webcam pode ser montada com segurança em vários tipos de tela e tripés.</li></ul>",
+    "informacoes_produto": {
+      "Tecnologia do sensor fotográfico": "CMOS",
+      "Tecnologia de conectividade": "USB",
+      "Cor": "Preto",
+      "Características especiais": "4K a 30fps, Autofoco PDAF, Capa de privacidade, Correção automática de luz, Microfones omnidirecionais duplos",
+      "Nível de resistência à água": "Não resistente à água",
+      "Tem estabilização de imagem": "Não",
+      "Estabilização da imagem": "falso",
+      "Fator de forma": "Compacto",
+      "Norma de comunicação sem fio": "Bluetooth",
+      "Estilo": "4K",
+      "Dimensões do item P x L x A": "9,9P x 5,8L x 5,6A centímetros",
+      "Sistema operacional": "Windows, macOS, Android TV, Linux",
+      "Comprimento focal máximo": "3000 Milímetros",
+      "Abertura máxima": "6 f",
+      "Comprimento focal mínimo": "18 Milímetros",
+      "Tipo de lente": "Ângulo amplo",
+      "Abertura mínima": "2 Millimeters",
+      "Tipo de foco": "Focagem automática",
+      "Tamanho da tela": "3,8 Polegadas",
+      "Ângulo de visão": "66 Graus",
+      "Resolução máxima da tela": "2160 Pixels",
+      "Tipo de memória flash": "Não disponível, confie no seu PC/Mac",
+      "Tipo de interface do barramento de memória flash": "SD",
+      "Tipo de zoom": "Digital",
+      "Dispositivos compatíveis": "Computadores e smartphones com Windows, macOS, Android TV ou Linux",
+      "Nome da marca": "EMEET",
+      "Número do modelo": "E3117",
+      "Tipo de filmadora": "Webcam",
+      "Nome do modelo": "EMEET SmartCam C960 4K",
+      "Componentes incluídos": "Capa de privacidade",
+      "Usos recomendados do produto": "reuniões de negócios remotas, palestras online, videochamadas",
+      "Baterias incluídas?": "Não",
+      "Fabricante": "Shenzhen eMeet technology Co.,Ltd.",
+      "Contagem de unidades": "1.0 unidade",
+      "ASIN": "B0CJHZ92P6",
+      "Resolução de captura de vídeo": "4K",
+      "Formato de captura de vídeo": "MP4",
+      "Resolução final": "8,3 MP",
+      "Modos de disparo": "Automático",
+      "Proporção de aspecto da imagem": "16:9",
+      "Formato de imagem suportado": "JPEG",
+      "Definições de equilíbrio de branco": "Automático",
+      "Formato de arquivo": "JPEG",
+      "Tipo de controle de exposição": "Automático",
+      "Resolução efetiva de vídeo": "2160 Pixels",
+      "Formato de áudio compatível": "AAC",
+      "Contagem de alto-falantes": "1",
+      "Marca": "EMEET",
+      "Distância focal máxima": "3000 Milímetros",
+      "Tipo de memória Flash": "Não disponível, confie no seu PC/Mac"
+    },
+    "affiliate_url": "https://www.amazon.com.br/EMEET-autom%C3%A1tico-microfones-cancelamento-privacidade/dp/B0CJHZ92P6?tag=mixdm22-20",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B09GSRYL69",
+    "title": "L'Oreal Professionnel Shampoo Silver, Neutraliza Tons Amarelos Indesejados, Com Pigmentos Roxo, Para Cabelos Brancos e Grisalhos, Promove Brilho & Maciez, 300ml",
+    "image": "https://m.media-amazon.com/images/I/41UcCc+6L5L._AC_SL1000_.jpg",
+    "canonical": null,
+    "category": "Ofertas do dia",
+    "price_current": null,
+    "price_original": 116.9,
+    "parcelamento": null,
+    "tem_selo_prime": true,
+    "tem_oferta": true,
+    "avaliacao": 4.8,
+    "qtd_avaliacoes": 2886,
+    "coupon_code": null,
+    "description": "<ul><li>Elimina os reflexos amarelados do cabelo, equilibra os nutrientes sem sobrecarregá-los ou secá-los e brilho intenso</li><li>Para neutralizar e dar brilho aos fios grisalhos</li><li>Neutraliza tons amarelos indesejados</li><li>Marca:L'Oreal Professionnel Paris</li><li>Elimina os reflexos amarelados do cabelo, equilibra os nutrientes sem sobrecarregá-los ou secá-los e brilho intenso</li><li>Para neutralizar e dar brilho aos fios grisalhos</li><li>Neutraliza tons amarelos indesejados</li><li>Marca:L'Oreal Professionnel Paris</li></ul>",
+    "informacoes_produto": {
+      "Formato do item": "Creme",
+      "Tipo de cabelo": "Todos os tipos de cabelos",
+      "Aroma": "Sem perfume",
+      "Benefícios do produto": "Neutraliza tons amarelos indesejados.",
+      "Nome da marca": "L'Oréal Professionnel Paris",
+      "Descrição da faixa etária": "Adulto",
+      "Número da peça": "AD-0001",
+      "Fabricante": "L´Oreal",
+      "Nome do Tipo de Produto": "Shampoo Para Cabelos Brancos e Grisalhos Silver Serie Expert 300Ml",
+      "País de origem": "Brasil",
+      "ASIN": "B09GSRYL69",
+      "Volume de líquido": "300 Mililitros",
+      "Quantidade de itens": "1",
+      "Peso do item": "330 Gramas",
+      "Dimensões do artigo": "6,4 x 6,4 x 14,1 centímetros",
+      "Contagem de unidades": "300 milliliters",
+      "Marca": "L'Oréal Professionnel Paris",
+      "Forma do produto": "Creme",
+      "Faixa etária (descrição)": "Adulto"
+    },
+    "affiliate_url": "https://www.amazon.com.br/Shampoo-Cabelos-Brancos-Grisalhos-Professionnel/dp/B09GSRYL69?tag=mixdm22-20",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B07FN1MZBH",
+    "title": "Controle Dualshock 4 - PlayStation 4 - Preto",
+    "image": "https://m.media-amazon.com/images/I/61kwdPH8+xL._AC_SL1500_.jpg",
+    "canonical": null,
+    "category": "Ofertas do dia",
+    "price_current": null,
+    "price_original": 349.9,
+    "parcelamento": null,
+    "tem_selo_prime": true,
+    "tem_oferta": true,
+    "avaliacao": 4.6,
+    "qtd_avaliacoes": 27037,
+    "coupon_code": null,
+    "description": "<ul><li>Revolucionário, intuitivo e preciso: o controle sem fio DualShock4 para o sistema PlayStation4 define esta geração de jogos, combinando recursos revolucionários e conforto com controles precisos e intuitivos.</li><li>Controle preciso: o toque, formato e a sensibilidade dos controles analógicos e botões com gatilho do DualShock4 oferecem aos jogadores conforto e controle absolutos em todos os jogos para PlayStation4.</li><li>Compartilhamento em suas mãos: o botão SHARE facilita o compartilhamento dos seus melhores momentos nos jogos, basta pressionar um botão. Faça upload de vídeos de gameplay e capturas de tela diretamente do seu sistema ou transmita seu gameplay ao vivo, tudo isso sem afetar o andamento do jogo.</li><li>Recursos inovadores: recursos revolucionários, como o touch pad, a barra de luz e o alto-falante integrados proporcionam formas incríveis de jogar e interagir com seus jogos, e seu conector de áudio de 3,5 mm oferece uma prática solução de áudio pessoal para os jogadores que preferirem jogar com mais privacidade.</li><li>Recarga eficiente: é fácil recarregar o controle sem fio DualShock4, basta conectá-lo ao seu sistema PlayStation4 (mesmo em modo de espera), ou qualquer carregador padrão com uma porta micro USB</li></ul>",
+    "informacoes_produto": {},
+    "affiliate_url": "https://www.amazon.com.br/Controle-Dualshock-PlayStation-4-Preto/dp/B07FN1MZBH?tag=mixdm22-20",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0BC341R4S",
+    "title": "Kit 02 Travesseiros Toque de Pluma Pena Percal 180 Fios 50x70cm Lavável, Antiácaro, Antialérgico",
+    "image": "https://m.media-amazon.com/images/I/51MfxXy4MnL._AC_SL1200_.jpg",
+    "canonical": null,
+    "category": "Ofertas do dia",
+    "price_current": null,
+    "price_original": 63.9,
+    "parcelamento": null,
+    "tem_selo_prime": true,
+    "tem_oferta": true,
+    "avaliacao": 4.4,
+    "qtd_avaliacoes": 2810,
+    "coupon_code": null,
+    "description": "<ul><li>Produto é confeccionado em Percal 180 fios e possui enchimento de fibra siliconada com toque de pluma</li><li>Travesseiro extra confortável, resistente e durável</li><li>Lavável na máquina</li><li>Uma ótima opção para quem leva em conta a importância dos cuidados com o corpo na hora de dormir</li><li>Tamanho: 70cm x 50cm</li><li>Travesseiro avulso, com espuma de silicone</li><li>Espuma de alta qualidade, com toque de pluma</li><li>Produto Anti-ácaro e Anti-alérgico</li><li>Travesseiro extra confortável, resistente e durável</li><li>Lavável em maquina</li><li>Produto extremamente confortável por ter algodão em sua composição</li><li>Travesseiro revestido em tecido 180 Fios</li><li>Produto é confeccionado em Percal 180 fios e possui enchimento de fibra siliconada com toque de pluma</li><li>Travesseiro extra confortável, resistente e durável</li><li>Lavável na máquina</li><li>Uma ótima opção para quem leva em conta a importância dos cuidados com o corpo na hora de dormir</li><li>Tamanho: 70cm x 50cm</li><li>01 Unid.</li><li>02 Unid.</li><li>03 Unid.</li></ul>",
+    "informacoes_produto": {
+      "Tipo de almofada": "Almofada de cama",
+      "Características especiais": "Lavável",
+      "Utilização interior, exterior": "Área interna",
+      "Usos recomendados do produto": "Dormir",
+      "Descrição da firmeza do item": "Médio",
+      "Cor": "02 Unid.",
+      "Formato do item": "Retangular",
+      "Estampa": "Simples",
+      "Estilo": "Contemporâneo",
+      "Tema": "luxo\" or \"elegância",
+      "Ocasião": "dormir",
+      "Material de preenchimento": "Fibra de gel de poliéster",
+      "Material de capa": "Polialgodão",
+      "Instruções de cuidados com o produto": "Lavar em máquina",
+      "Contagem de roscas": "200",
+      "Características do material": "Couro: Suave e Durável; Relleno: Macio e Durável",
+      "Tipo de material": "Percal 200 Fios",
+      "Nome da marca": "Paulo Cezar Enxovais",
+      "Quantidade de itens": "2",
+      "País de origem": "Brasil",
+      "Nome do Conjunto": "Kit de 2 Travesseiros Toque de Pluma",
+      "Número da peça": "ML8501",
+      "Número do modelo": "Travesseiro",
+      "Componentes incluídos": "Travesseiro",
+      "Descrição da faixa etária": "Adulto",
+      "Fabricante": "Paulo Cezar Enxovais",
+      "Nome do Tipo de Produto": "Travesseiro",
+      "ASIN": "B0BC341R4S",
+      "Tamanho": "70x50",
+      "Dimensões do item C x L": "70C x 50L centímetros",
+      "Peso do item": "1300 Gramas",
+      "Contagem de unidades": "2 count",
+      "Comprimento da Fronha": "70 Centímetros",
+      "Tipo de travesseiro": "Almofada de cama",
+      "Marca": "Paulo Cezar Enxovais"
+    },
+    "affiliate_url": "https://www.amazon.com.br/Travesseiros-50x70cm-Lav%C3%A1vel-Anti%C3%A1caro-Antial%C3%A9rgico/dp/B0BC341R4S?tag=mixdm22-20",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0CMXV5WLB",
+    "title": "Amstel Cerveja Lager Puro Malte, Lata 350ml, Pack 12 Unidades",
+    "image": "https://m.media-amazon.com/images/I/71SauekebRL._AC_SL1500_.jpg",
+    "canonical": null,
+    "category": "Ofertas do dia",
+    "price_current": null,
+    "price_original": 46.68,
+    "parcelamento": null,
+    "tem_selo_prime": false,
+    "tem_oferta": true,
+    "avaliacao": 4.6,
+    "qtd_avaliacoes": 155,
+    "coupon_code": null,
+    "description": "<ul><li>Experimente a cerveja puro malte Amstel, 7ª maior marca do mundo, presente em mais de 100 mercados</li><li>A bebida conta com uma receita europeia tradicional, incluindo ingredientes naturais e sem aditivos para uma cerveja autêntica e marcante</li><li>A lata de 350ml é perfeita para levar na bolsa térmica ou no cooler</li><li>Experimente a cerveja puro malte Amstel, 7ª maior marca do mundo, presente em mais de 100 mercados</li><li>A bebida conta com uma receita europeia tradicional, incluindo ingredientes naturais e sem aditivos para uma cerveja autêntica e marcante</li><li>A lata de 350ml é perfeita para levar na bolsa térmica ou no cooler</li><li>A BEBIDA ALCOÓLICA PODE CAUSAR DEPENDÊNCIA QUÍMICA E, EM EXCESSO, PROVOCA GRAVES MALES À SAÚDE. A VENDA DE BEBIDAS ALCOÓLICAS É PROIBIDA PARA MENORES DE 18 ANOS. BEBA COM MODERAÇÃO.</li></ul>",
+    "informacoes_produto": {
+      "Nome da marca": "Amstel",
+      "Região de origem": "Países Baixos (Holanda)",
+      "Conteúdo alcoólico": "4,6 %",
+      "Fabricante": "Heineken II BR",
+      "País de origem": "Brasil",
+      "ASIN": "B0CMXV5WLB",
+      "Peso do item": "4,42 Quilogramas",
+      "Volume de líquido": "4200 Mililitros",
+      "Total de pacotes": "12",
+      "Quantidade de itens": "12",
+      "Contagem de unidades": "12 Unidade",
+      "Peso do pacote": "4,42 Quilogramas",
+      "Informações sobre alérgenos": "Contém: Cevada",
+      "Marca": "Amstel",
+      "Peso do produto": "4,42 Quilogramas",
+      "Volume líquido": "4200 Mililitros",
+      "Local de origem": "Países Baixos (Holanda)",
+      "Teor alcoólico": "4,6 %"
+    },
+    "affiliate_url": "https://www.amazon.com.br/Cerveja-Amstel-Pilsen-LATA-350/dp/B0CMXV5WLB?tag=mixdm22-20",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0DM6VH5KF",
+    "title": "Samsung Ar-condicionado Split Inverter WindFree AI 12.000 BTUs Frio Sem Vento AR12DYFAAWKNAZ 220V",
+    "image": "https://m.media-amazon.com/images/I/61SqDV4ba2L._AC_SL1000_.jpg",
+    "canonical": null,
+    "category": "Ofertas do dia",
+    "price_current": null,
+    "price_original": 3929.31,
+    "parcelamento": null,
+    "tem_selo_prime": false,
+    "tem_oferta": true,
+    "avaliacao": 4.5,
+    "qtd_avaliacoes": 467,
+    "coupon_code": null,
+    "description": "<ul><li>Refrigeração inteligentemente eficiente e confortável</li><li>Tecnologia Digital Inverter com AI</li><li>SmartThings</li></ul>",
+    "informacoes_produto": {
+      "Potência de refrigeração": "12 BTUs",
+      "Características especiais": "Controlado Remotamente, Activado por WiFi",
+      "Cor": "Branco",
+      "Refrigerador": "R-32",
+      "Tipo de inversor": "Possui Inversor",
+      "Tipo de instalação": "De Parede",
+      "Tipo de Compressor": "rotary_scroll",
+      "Requer Unidade Externa": "Sim",
+      "Aplicação do Ar-Condicionado": "Residencial",
+      "Voltagem": "220 Volts",
+      "Fonte de energia": "Alimentado por energia elétrica",
+      "Índice de desempenho de resfriamento sazonal": "12",
+      "Eficiência": "B",
+      "Capacidade": "12 quilogramas",
+      "Tipo de garantia": "Limitada",
+      "Nome da marca": "Samsung",
+      "Ano de início": "2021",
+      "Número do modelo": "F-AR12DYFAAWK",
+      "Fabricante": "Samsung",
+      "Contagem de unidades": "1 Unidade",
+      "País de origem": "Brasil",
+      "Descrição da garantia": "12 meses",
+      "ASIN": "B0DM6VH5KF",
+      "Dimensões do item P x L x A": "30P x 90L x 29A centímetros",
+      "Método de controle": "Aplicação, Voz",
+      "Tipo de controle": "Controle de aplicativos, Controle de voz",
+      "Modo de Operação": "Resfriamento",
+      "Fator de forma": "Minisplit",
+      "Marca": "Samsung",
+      "Energia de resfriamento": "12 BTUs",
+      "Dimensões do produto": "30P x 90L x 29A centímetros"
+    },
+    "affiliate_url": "https://www.amazon.com.br/Samsung-Ar-condicionado-Inverter-WindFree-AR12DYFAAWKNAZ/dp/B0DM6VH5KF?tag=mixdm22-20",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0BGMD5LGF",
+    "title": "Personal Fralda Baby Premium Pants G, 62 Unidades",
+    "image": "https://m.media-amazon.com/images/I/51YPzh4uhaL._AC_SL1000_.jpg",
+    "canonical": null,
+    "category": "Ofertas do dia",
+    "price_current": null,
+    "price_original": 116.89,
+    "parcelamento": null,
+    "tem_selo_prime": false,
+    "tem_oferta": true,
+    "avaliacao": 4.8,
+    "qtd_avaliacoes": 5145,
+    "coupon_code": null,
+    "description": "<ul><li>Fácil de vestir e fácil de tirar</li><li>Super Macio como Toque de Algodão*</li><li>Rápida Absorção 3D Ultrarrespirável - Até 12hrs de Proteção</li><li>Ajuste Perfeito Não Aperta Barriguinha e Perninhas</li><li>Tecnologia Japonesa</li><li>Fácil de vestir e fácil de tirar</li><li>Super Macio como Toque de Algodão*</li><li>Rápida Absorção 3D Ultrarrespirável - Até 12hrs de Proteção</li><li>Ajuste Perfeito Não Aperta Barriguinha e Perninhas</li><li>Tecnologia Japonesa</li><li>M - 48 Unidades</li><li>M - 70 Unidades</li><li>XXG - 30 Unidades</li><li>XG - 34 Unidades</li><li>G - 42 Unidades</li><li>XG - 50 Unidades</li><li>G - 62 Unidades</li></ul>",
+    "informacoes_produto": {
+      "Nome da marca": "Personal",
+      "Tipo de protetor para incontinência": "Fralda infantil",
+      "Descrição da faixa etária": "Bebê",
+      "Público-alvo": "Unissex-bebês",
+      "Tipo de pacote": "Bolsa",
+      "Fabricante": "Santher",
+      "Número do modelo": "CBGH02062",
+      "País de origem": "Brasil",
+      "Nome do Tipo de Produto": "FRALDA PERSONAL BABY PREMIUM PANTS",
+      "ASIN": "B0BGMD5LGF",
+      "Cor": "Branco",
+      "Estampa": "Estampa de animal",
+      "Quantidade de itens": "62",
+      "Tamanho": "G - 62 Unidades",
+      "Contagem de unidades": "62 unidade",
+      "Dimensões do artigo": "22 x 30 x 32,3 centímetros",
+      "Peso do item": "2003,1 Gramas",
+      "Tamanho do protetor de incontinência": "G",
+      "Weight Range": "10 a 15 kg",
+      "Material": "Algodão",
+      "Livre de tipo de material": "Sem cloro",
+      "Descrição do forro": "Algodão",
+      "Reutilização": "Descartável",
+      "Nível de resistência à água": "À prova d'água",
+      "Usos recomendados do produto": "Proteção de urina, Proteção fecal",
+      "Marca": "Personal",
+      "Número de itens": "62",
+      "Tipo de protetor de incontinência": "Fralda infantil",
+      "Faixa etária (descrição)": "Bebê"
+    },
+    "affiliate_url": "https://www.amazon.com.br/Fralda-Personal-Baby-Premium-Pants/dp/B0BGMD5LGF?tag=mixdm22-20",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B08NF6PTG4",
+    "title": "Mop Spray FIT com reservatório 365ml, Borrifa Limpa e Seca , MOP0556, Flash Limp",
+    "image": "https://m.media-amazon.com/images/I/6149kZdmG0L._AC_SL1500_.jpg",
+    "canonical": null,
+    "category": "Ofertas do dia",
+    "price_current": null,
+    "price_original": 114.78,
+    "parcelamento": null,
+    "tem_selo_prime": false,
+    "tem_oferta": true,
+    "avaliacao": 4.7,
+    "qtd_avaliacoes": 5576,
+    "coupon_code": null,
+    "description": "<ul><li>Mop Spray Fit Flash Limp Pode ser usado para limpar pisos amadeirados, frios ou sintético, seu design articulado, alcança até os locais mais difíceis</li><li>Desenvolvido com sistema spray é acionado facilmente por uma alavanca posicionada ao alcance de suas mãos, ele é perfeito para tornar a limpeza do dia a dia ainda mais simples, eficiente e sem desperdícios, com reservatório de 375 ml para acondicionamento de água e produtos de sua preferência para limpar, secar ou finalizar a limpeza.</li><li>O Refil pode ser substituído ao final de sua vida útil, resistente e de fácil troca, seu refil é 100% microfibra e pode ser lavado na máquina de lavar</li><li>Medidas individuais: Mop - 11 cm x 37 cm x 128 cm Refil - 15 cm x 40 cm x 1 cm Reservatório - 5 cm x 6,5 cm x 20 cm</li><li>Um diferencial do MOP SPRAY FIT Flash Limp é a ampla linha de acessórios que são vendidos Separadamente para auxiliar na limpeza diária. Dispenser Ref. RMOP0563 é ideal para reposição, tornando mais pratica a utilização durante a limpeza reservatório ou troca dos produtos de limpeza, evitando desperdícios. Desenvolvemos 3 cores de refil microfibra, uma sugestão para ser usar em cada ambiente da sua casa: Cozinha, Sala e quartos segue referências: RMOP7800, RMOP7800-AZ, RMOP7800-VM</li><li>Mop Spray Fit Flash Limp Pode ser usado para limpar pisos amadeirados, frios ou sintético, seu design articulado, alcança até os locais mais difíceis</li><li>Desenvolvido com sistema spray é acionado facilmente por uma alavanca posicionada ao alcance de suas mãos, ele é perfeito para tornar a limpeza do dia a dia ainda mais simples, eficiente e sem desperdícios, com reservatório de 375 ml para acondicionamento de água e produtos de sua preferência para limpar, secar ou finalizar a limpeza.</li><li>O Refil pode ser substituído ao final de sua vida útil, resistente e de fácil troca, seu refil é 100% microfibra e pode ser lavado na máquina de lavar</li><li>Medidas individuais: Mop - 11 cm x 37 cm x 128 cm Refil - 15 cm x 40 cm x 1 cm Reservatório - 5 cm x 6,5 cm x 20 cm</li><li>Um diferencial do MOP SPRAY FIT Flash Limp é a ampla linha de acessórios que são vendidos Separadamente para auxiliar na limpeza diária. Dispenser Ref. RMOP0563 é ideal para reposição, tornando mais pratica a utilização durante a limpeza reservatório ou troca dos produtos de limpeza, evitando desperdícios. Desenvolvemos 3 cores de refil microfibra, uma sugestão para ser usar em cada ambiente da sua casa: Cozinha, Sala e quartos segue referências: RMOP7800, RMOP7800-AZ, RMOP7800-VM</li><li>Mop Spray + 2 Refis</li><li>Mop Spray</li><li>Nova versão Evolution</li></ul>",
+    "informacoes_produto": {
+      "Nome da marca": "Flash Limp",
+      "Quantidade de itens": "1",
+      "Fabricante": "SUNGUIDER",
+      "Número do modelo": "MOP0556",
+      "Número da peça": "MOP0556",
+      "Componentes incluídos": "1 Mop Spray",
+      "País de origem": "China",
+      "Nome do Tipo de Produto": "Mop Spray",
+      "Descrição da garantia": "90 DIAS",
+      "Contagem de unidades": "1 Unidade",
+      "ASIN": "B08NF6PTG4",
+      "Dimensões do item C x L x A": "37C x 11L x 128A centímetros",
+      "Superfície Recomendada": "madeira, laminado, azulejo",
+      "Material do cabo": "Aço inox",
+      "Material da cabeça": "microfibra",
+      "Cor": "Verde",
+      "Marca": "Flash Limp",
+      "Dimensões do produto": "37C x 11L x 128A centímetros",
+      "Recomendação de superfície": "madeira, laminado, azulejo"
+    },
+    "affiliate_url": "https://www.amazon.com.br/Spray-MOP0556-Verde-Flash-Limp/dp/B08NF6PTG4?tag=mixdm22-20",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0DNHGQHMY",
+    "title": "Bettdow SmartWatch, relogio smartwatch com Ecrã tátil e Alexa, à prova d'água IP68, relogio feminino e masculino, com 100+ modo esportivo e recebimento de notificações(preto)",
+    "image": "https://m.media-amazon.com/images/I/61jq8y1sVZL._AC_SL1500_.jpg",
+    "canonical": null,
+    "category": "Ofertas do dia",
+    "price_current": null,
+    "price_original": 186.0,
+    "parcelamento": null,
+    "tem_selo_prime": true,
+    "tem_oferta": true,
+    "avaliacao": 4.5,
+    "qtd_avaliacoes": 1733,
+    "coupon_code": null,
+    "description": "<ul><li>Relógio esportivo：Relógio esportivo, 100 modos de exercício regulares, suporte para de corrida, Yoga, pular corda, Futebol, natação e outros vários modos de exercício</li><li>AMAZON ALEXA : Bettdow smartwatch Defina alarmes e temporizadores, verifique o clima, obtenha traduções, controle seus dispositivos de casa inteligente, crie listas de compras e muito mais com o assistente de voz Amazon Alexa.</li><li>Chamada de voz Bluetooth: O relógio smartwatch adulto unissex não apenas exibe a hora, mas também pode fazer e receber chamadas e receber notificações de mensagens via Bluetooth.</li><li>IP68 à prova d'água: você pode usar o smartwatch masculino à prova d'água IP68 para lavar as mãos e tomar banho sem se preocupar com danos causados ​​pela água, atendendo melhor às suas necessidades diárias.</li><li>Bateria de longa duração: Relogio smartwatch aproveite o uso ininterrupto com até 48 horas de uso contínuo e até 7 dias de uso regular. No modo standby, a bateria dura até 30 dias.Além disso, o relógio é amplamente compatível com Android e iOS.</li><li>Relógio esportivo：Relógio esportivo, 100 modos de exercício regulares, suporte para de corrida, Yoga, pular corda, Futebol, natação e outros vários modos de exercício</li><li>AMAZON ALEXA : Bettdow smartwatch Defina alarmes e temporizadores, verifique o clima, obtenha traduções, controle seus dispositivos de casa inteligente, crie listas de compras e muito mais com o assistente de voz Amazon Alexa.</li><li>Chamada de voz Bluetooth: O relógio smartwatch adulto unissex não apenas exibe a hora, mas também pode fazer e receber chamadas e receber notificações de mensagens via Bluetooth.</li><li>IP68 à prova d'água: você pode usar o smartwatch masculino à prova d'água IP68 para lavar as mãos e tomar banho sem se preocupar com danos causados ​​pela água, atendendo melhor às suas necessidades diárias.</li><li>Bateria de longa duração: Relogio smartwatch aproveite o uso ininterrupto com até 48 horas de uso contínuo e até 7 dias de uso regular. No modo standby, a bateria dura até 30 dias.Além disso, o relógio é amplamente compatível com Android e iOS.</li><li>azul</li><li>branco</li><li>preto</li><li>rosa</li><li>roxo</li></ul>",
+    "informacoes_produto": {
+      "Características especiais": "Amazon Alexa",
+      "GPS": "Sem GPS",
+      "Tipo de material da pulseira": "Silicone",
+      "Nível de resistência à água": "À prova d'água",
+      "Entrada de interface humana": "Tela tátil",
+      "Aplicativo suportado": "Amazon Alexa",
+      "Profundidade de resistência à água": "1 Metros",
+      "Tipo de medidor": "Múltiplos Medidores",
+      "Tipo de fechamento": "Fivela",
+      "Formato do item": "wristband",
+      "Cor": "preto",
+      "Capacidade da bateria": "48 Horas",
+      "Duração da bateria": "48 Horas",
+      "Tamanho da tela": "1,83 Polegadas",
+      "Tipo de tela": "LCD",
+      "Resolução": "320 x 385",
+      "Capacidade de armazenamento da memória": "128 MB",
+      "Tipo de garantia": "Limitada",
+      "Nome da marca": "Bettdow",
+      "Nome do modelo": "FB028",
+      "Público-alvo": "Adultos unissexo",
+      "Número do modelo": "FB028-black",
+      "Componentes incluídos": "Pulseira de relógio",
+      "Descrição da garantia": "3 meses",
+      "Tipo de computador vestível": "Relógio inteligente",
+      "Fabricante": "bettdow",
+      "Certificação de teste externa": "Não aplicável",
+      "País de origem": "China",
+      "ASIN": "B0DNHGQHMY",
+      "Tecnologia de conectividade": "Bluetooth",
+      "Norma de comunicação sem fio": "Bluetooth",
+      "Recurso de Comunicação": "Bluetooth",
+      "Dispositivos compatíveis": "Smartphone, Tablet",
+      "Modelos de telefone compatíveis": "Vários modelos de smartphones",
+      "Padrão de comunicação sem fio": "Bluetooth"
+    },
+    "affiliate_url": "https://www.amazon.com.br/Bettdow-SmartWatch-smartwatch-recebimento-notifica%C3%A7%C3%B5es/dp/B0DNHGQHMY?tag=mixdm22-20",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0GYQF5DPD",
+    "title": "Mesa Dobrável 1,80m Portátil Preta Tipo Maleta com Alça – Resistente e Leve, Ideal para Camping, Praia, Jardim, Festas e Área Gourmet Interna ou Externa",
+    "image": "https://m.media-amazon.com/images/I/6118UighFQL._AC_SL1254_.jpg",
+    "canonical": null,
+    "category": "Ofertas do dia",
+    "price_current": null,
+    "price_original": 269.9,
+    "parcelamento": null,
+    "tem_selo_prime": false,
+    "tem_oferta": true,
+    "avaliacao": 4.4,
+    "qtd_avaliacoes": 73,
+    "coupon_code": null,
+    "description": "<ul><li>Praticidade e Versatilidade no Seu Dia a Dia Tenha uma mesa ampla e funcional em qualquer lugar com montagem rápida e sem ferramentas. Estrutura dobrável tipo maleta facilita o transporte e armazenamento. Ideal para quem busca praticidade em eventos, viagens ou uso doméstico</li><li>Estrutura Resistente e Durável Fabricada com tampo reforçado e pés em material resistente, suporta uso frequente sem perder estabilidade. Design robusto com travas de segurança. Perfeita para quem precisa de durabilidade em ambientes internos e externos</li><li>Design Inteligente e Portátil Sistema dobrável compacto com alça integrada permite levar facilmente para qualquer lugar. Ocupa pouco espaço quando fechada. Ideal para camping, praia, churrascos e festas</li><li>Segurança e Estabilidade Garantidas Conta com sistema de travamento seguro que evita fechamentos acidentais durante o uso. Base firme e nivelada proporciona maior confiança. Perfeito para quem prioriza segurança e conforto</li><li>Conforto e Experiência Completa Superfície ampla de 1,80m acomoda várias pessoas com conforto. Ideal para refeições, reuniões, eventos e uso profissional. Excelente escolha para quem busca praticidade com estilo e funcionalidade.</li><li>Praticidade e Versatilidade no Seu Dia a Dia Tenha uma mesa ampla e funcional em qualquer lugar com montagem rápida e sem ferramentas. Estrutura dobrável tipo maleta facilita o transporte e armazenamento. Ideal para quem busca praticidade em eventos, viagens ou uso doméstico</li><li>Estrutura Resistente e Durável Fabricada com tampo reforçado e pés em material resistente, suporta uso frequente sem perder estabilidade. Design robusto com travas de segurança. Perfeita para quem precisa de durabilidade em ambientes internos e externos</li><li>Design Inteligente e Portátil Sistema dobrável compacto com alça integrada permite levar facilmente para qualquer lugar. Ocupa pouco espaço quando fechada. Ideal para camping, praia, churrascos e festas</li><li>Segurança e Estabilidade Garantidas Conta com sistema de travamento seguro que evita fechamentos acidentais durante o uso. Base firme e nivelada proporciona maior confiança. Perfeito para quem prioriza segurança e conforto</li><li>Conforto e Experiência Completa Superfície ampla de 1,80m acomoda várias pessoas com conforto. Ideal para refeições, reuniões, eventos e uso profissional. Excelente escolha para quem busca praticidade com estilo e funcionalidade.</li><li>✔ Estrutura resistente e durável para uso interno e externo</li><li>✔ Sistema dobrável compacto com alça para transporte fácil</li><li>✔ Montagem rápida, sem necessidade de ferramentas</li><li>✔ Superfície espaçosa ideal para várias pessoas</li><li>✔ Perfeita para festas, camping, praia, jardim ou uso profissional</li><li>Branca</li><li>Marrom</li><li>Preto</li></ul>",
+    "informacoes_produto": {
+      "Cor": "Preto",
+      "Formato do item": "Retangular",
+      "Design de mesa": "Mesa de Piquenique",
+      "Estilo": "Moderno / Funcional",
+      "Tipo de acabamento": "Liso",
+      "Tema": "Ao Ar Livre, Entretenimento, Lazer",
+      "Acabamento do móvel": "Superfície Lisa, Fácil De Limpar, À Prova D'água",
+      "Estilo do pé": "Pernas Metálicas Dobráveis Em Aço Com Base Antiderrapante",
+      "Cor da parte superior": "Preto",
+      "Tipo de Acabamento da Alça": "Plástico",
+      "Cor da base": "Cinza",
+      "Cor da Perna da Mobília": "Cinza",
+      "Dimensões do item P x L x A": "70P x 180L x 74A centímetros",
+      "Peso do item": "10 Quilogramas",
+      "Tamanho": "180 X 70 X 74 Cm",
+      "Espessura do tampo da mesa": "3 Centímetros",
+      "Comprimento da perna": "74 Centímetros",
+      "Largura do artigo": "70 Centímetros",
+      "Distância entre o chão e o artigo": "74 Centímetros",
+      "Maximum Lifting Height": "74 Centímetros",
+      "Distância da Base ao Topo": "74 Centímetros",
+      "Comprimento Mínimo Colapsado": "90 Centímetros",
+      "Dimensões do item C x L x A": "180C x 70L x 74A centímetros",
+      "Dimensões do artigo": "70 x 180 x 74 centímetros",
+      "Capacidade de assentos": "6.0",
+      "Tipo de base": "Pernas Dobráveis Em Metal",
+      "Largura mínima exigida para a porta": "70 Centímetros",
+      "Mecanismo de Extensão de Mesa": "Dobrável Tipo Maleta",
+      "É dobrável": "Sim",
+      "Quantidade de itens": "1",
+      "Tipo de junta da estrutura": "Dobradiça Metálica Com Trava De Estrutura",
+      "Inclinada": "Não",
+      "É personalizável?": "Não",
+      "Número de posições de altura": "1",
+      "Movimento da base do móvel": "Deslizante",
+      "Tipo de sala": "Cozinha, Jardim, Sala De Festas, Área Externa, Área Gourmet",
+      "Nome da marca": "Laruno",
+      "País de origem": "China",
+      "Nome do modelo": "M-PR",
+      "Componentes incluídos": "Alça De Transporte, Mesa Dobrável",
+      "Número do modelo": "M-PR",
+      "Nome do Conjunto": "Mesa Dobrável Portátil 1,80m",
+      "Características especiais": "Alça Para Transporte, Base Antiderrapante, Cantos Arredondados, Dobrável Tipo Maleta, Trava De Estrutura Metálica",
+      "Fabricante": "Laruno",
+      "Número da peça": "M-PR",
+      "ASIN": "B0GYQF5DPD",
+      "Recomendação de peso máximo": "150 Quilogramas",
+      "Usos recomendados do produto": "Camping, Churrasco, Cozinha, Eventos, Festas, Jardim, Piquenique, Praia, Uso Externo, Uso Interno, Área Gourmet",
+      "Utilização interior, exterior": "Área externa",
+      "Número recomendado de pessoas para montagem": "1",
+      "Usos específicos do produto": "Camping, Festas, Jardim, Praia, Área Gourmet",
+      "Tipo de garantia": "Garantia Do Fabricante",
+      "Inclui Todas as Ferramentas de Montagem": "Sim",
+      "Descrição das Instruções de Montagem": "Mesa Dobrável Tipo Maleta De Fácil Montagem. Desdobrar A Mesa Abrindo As Pernas Metálicas E Travar A Estrutura Com A Trava De Segurança (item 03). Para Dobrar, Soltar A Trava E Recolher As Pernas. Utilizar A Alça Central (item 02) Para Transporte. Não Requer Ferramentas.",
+      "Frame Material Type": "Metal",
+      "Top Material Type": "Plástico Hdpe (polietileno De Alta Densidade)",
+      "Instruções de cuidados com o produto": "Armazenar Dobrada Em Local Seco, Evitar Exposição Prolongada Ao Sol Intenso, Limpar Com Pano Úmido, Não Usar Produtos Abrasivos, Secar Após Limpeza",
+      "Material da base": "Metal",
+      "É resistente a manchas": "Sim",
+      "Material": "Liga de aço, Metal, Plástico Hdpe",
+      "Tipo de variação natural": "Cor",
+      "Material para Pernas de Móveis": "Aço, Metal",
+      "Marca": "Laruno",
+      "Dimensões do produto": "70P x 180L x 74A centímetros",
+      "Peso do produto": "10 Quilogramas",
+      "Peso máximo recomendado": "150 Quilogramas",
+      "Material da moldura": "Metal"
+    },
+    "affiliate_url": "https://www.amazon.com.br/Mesa-Dobr%C3%A1vel-Port%C3%A1til-Preta-Maleta/dp/B0GYQF5DPD?tag=mixdm22-20",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B09B8W3KQP",
+    "title": "Máquina de Lavar Electrolux 15kg Branca Essential Care com Cesto Inox e Jet&Clean (LED15) - 127V",
+    "image": "https://m.media-amazon.com/images/I/41pS08Q7EoL._AC_SL1000_.jpg",
+    "canonical": null,
+    "category": "Eletrodomésticos",
+    "price_current": null,
+    "price_original": 2199.0,
+    "parcelamento": null,
+    "tem_selo_prime": true,
+    "tem_oferta": false,
+    "avaliacao": 4.7,
+    "qtd_avaliacoes": 845,
+    "coupon_code": null,
+    "description": "<ul><li>ÚNICO³ COM TECNOLOGIA JET&amp;CLEAN: Dispenser autolimpante com tecnologia Jet&amp;Clean, que através de fortes jatos de água otimiza o uso do sabão e do amaciante, além de diluí-los em até 100%¹ antes de entrarem em contato com as roupas, evitando manchas e relavagem. ¹Teste comparativo interno realizado com a LT10B (sem Jet&amp;Clean), verificando a distribuição dos insumos líquidos na carga de roupa mais próxima ao fundo do cesto. Uso de amaciante líquido (150ml) e 8kg de carga, com pressão de água de 240kPa. Área atingida pelo amaciante de 99,99% e desvio padrão 0,01.</li><li>ULTRA FILTER PEGA FIAPOS: Retém e armazena até 8 vezes² mais fiapos: sistema de filtragem que retém os fiapos desagradáveis que podem ficar nas roupas após a lavagem. ²O maior volume interno do filtro pode armazenar até 8 vezes mais fiapos. Este produto possui filtro com volume interno 8 vezes maior quando comparado ao volume interno do filtro do produto LT12F, segundo procedimento interno em laboratório da Electrolux.</li><li>SISTEMA DE LAVAGEM COM CICLOS RÁPIDOS: Vida longa às roupas. Possui um sistema de lavagem, que otimiza o tempo dos programas de forma automática, deixando-os mais rápidos quando necessário e mantendo a mesma performance. Isso promove mais cuidado e menos desgaste das roupas.</li><li>FUNÇÃO LIMPEZA DE CESTO: Possui uma função de autolimpeza no cesto da máquina. Essa limpeza, evita que resíduos de outras lavagens fiquem acumulados no cesto, promovendo uma lavagem mais eficiente.</li><li>FUNÇÃO TURBO AGITAÇÃO/SECAGEM: Aumenta a ação mecânica da agitação melhorando o desempenho da lavagem. Indicado para tirar manchas mais difíceis ou roupas mais sujas. Também aumenta o tempo de centrifugação permitindo que as roupas saiam menos úmidas da lavadora comparado a uma centrifugação normal.</li><li>FUNÇÃO DUPLO ENXÁGUE: Função que promove mais performance no enxágue e menos resíduos de sabão nas roupas.</li><li>FUNÇÃO REUTILIZAÇÃO DE ÁGUA: Função que permite economia de água através do reaproveitamento durante a lavagem, reutilizando-a para outros fins, como por exemplo lavar o chão.</li><li>ÚNICO³ COM TECNOLOGIA JET&amp;CLEAN: Dispenser autolimpante com tecnologia Jet&amp;Clean, que através de fortes jatos de água otimiza o uso do sabão e do amaciante, além de diluí-los em até 100%¹ antes de entrarem em contato com as roupas, evitando manchas e relavagem. ¹Teste comparativo interno realizado com a LT10B (sem Jet&amp;Clean), verificando a distribuição dos insumos líquidos na carga de roupa mais próxima ao fundo do cesto. Uso de amaciante líquido (150ml) e 8kg de carga, com pressão de água de 240kPa. Área atingida pelo amaciante de 99,99% e desvio padrão 0,01.</li><li>ULTRA FILTER PEGA FIAPOS: Retém e armazena até 8 vezes² mais fiapos: sistema de filtragem que retém os fiapos desagradáveis que podem ficar nas roupas após a lavagem. ²O maior volume interno do filtro pode armazenar até 8 vezes mais fiapos. Este produto possui filtro com volume interno 8 vezes maior quando comparado ao volume interno do filtro do produto LT12F, segundo procedimento interno em laboratório da Electrolux.</li><li>SISTEMA DE LAVAGEM COM CICLOS RÁPIDOS: Vida longa às roupas. Possui um sistema de lavagem, que otimiza o tempo dos programas de forma automática, deixando-os mais rápidos quando necessário e mantendo a mesma performance. Isso promove mais cuidado e menos desgaste das roupas.</li><li>FUNÇÃO LIMPEZA DE CESTO: Possui uma função de autolimpeza no cesto da máquina. Essa limpeza, evita que resíduos de outras lavagens fiquem acumulados no cesto, promovendo uma lavagem mais eficiente.</li><li>FUNÇÃO TURBO AGITAÇÃO/SECAGEM: Aumenta a ação mecânica da agitação melhorando o desempenho da lavagem. Indicado para tirar manchas mais difíceis ou roupas mais sujas. Também aumenta o tempo de centrifugação permitindo que as roupas saiam menos úmidas da lavadora comparado a uma centrifugação normal.</li><li>FUNÇÃO DUPLO ENXÁGUE: Função que promove mais performance no enxágue e menos resíduos de sabão nas roupas.</li><li>FUNÇÃO REUTILIZAÇÃO DE ÁGUA: Função que permite economia de água através do reaproveitamento durante a lavagem, reutilizando-a para outros fins, como por exemplo lavar o chão.</li><li>127 Volts</li><li>220 Volts</li></ul>",
+    "informacoes_produto": {
+      "Capacidade": "15 quilogramas",
+      "Características especiais": "Dispenser Jet&amp;Clean, Ultra Filter Pega Fiapos, Ciclos Rápidos, Limpeza de Cesto, Turbo Agitação/Secagem, Duplo Enxágue, Reutilização de Água",
+      "Local do acesso": "Carga superior",
+      "Tipo de acabamento": "Branca",
+      "Opções de ciclo": "Ciclos Rápidos, Função Duplo Enxágue",
+      "Tipo de controles": "Botão de pressão",
+      "Modo de operação": "Totalmente automático",
+      "Voltagem": "127 Volts",
+      "Número de ciclos padrão": "11",
+      "Entrada de interface humana": "Botões",
+      "Tipo de instalação": "Independente",
+      "Opções de dosador da máquina de lavar": "Dispenser Jet&amp;Clean",
+      "Número de programas": "11",
+      "Dimensões do item P x L x A": "72,4P x 66,2L x 105,2A centímetros",
+      "Peso do item": "48 Quilogramas",
+      "Profundidade do item": "72, 4 centimetros",
+      "Nome da marca": "Electrolux",
+      "Usos recomendados do produto": "Residencial",
+      "Nome do modelo": "LED15",
+      "Componentes incluídos": "1 máquina de lavar, 1 guia rápido, 1 curva da mangueira",
+      "Fabricante": "Electrolux",
+      "Número do modelo": "LED15",
+      "Número da peça": "LED15",
+      "Nome do Tipo de Produto": "Máquina de Lavar",
+      "ASIN": "B09B8W3KQP",
+      "Material": "Plástico",
+      "Material do tambor do aparelho de lavagem de roupa": "Aço inoxidável",
+      "Cor": "Branca",
+      "Dimensões do produto": "72,4P x 66,2L x 105,2A centímetros",
+      "Marca": "Electrolux",
+      "Local de acesso": "Carga superior"
+    },
+    "affiliate_url": "https://www.amazon.com.br/Lavadora-Electrolux-LED15-Essential-Filter/dp/B09B8W3KQP/ref=zg_bs_g_appliances_d_sccl_10/145-6471407-4196324?tag=mixdm22-20",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0G4WSTVHR",
+    "title": "Máquina de Lavar Brastemp 14kg com Smart Sensor, Função Reduzir Tempo e Ciclo Tira Manchas Preto BWJ14A9",
+    "image": "https://m.media-amazon.com/images/I/511oGHphG0L._AC_SS345_.jpg",
+    "canonical": null,
+    "category": "Eletrodomésticos",
+    "price_current": null,
+    "price_original": 1987.98,
+    "parcelamento": null,
+    "tem_selo_prime": true,
+    "tem_oferta": false,
+    "avaliacao": 4.5,
+    "qtd_avaliacoes": 106,
+    "coupon_code": null,
+    "description": "<ul><li>A nova lavadora Brastemp 14kg Com sensores inteligentes economiza até 25% de água, reduz 45 minutos e remove mais de 50 manchas com praticidade.</li></ul>",
+    "informacoes_produto": {
+      "Capacidade": "14 quilogramas",
+      "Características especiais": "Smart Sensor e Função Reduzir Tempo",
+      "Local do acesso": "Carga superior",
+      "Tipo de acabamento": "Cinza Platinum",
+      "Modo de operação": "Manual",
+      "Voltagem": "110 Volts",
+      "Tipo de instalação": "Independente",
+      "Dimensões do item P x L x A": "69,5P x 63L x 104A centímetros",
+      "Peso do item": "38 Quilogramas",
+      "Cor": "Preto",
+      "Nome da marca": "Brastemp",
+      "Usos recomendados do produto": "Residencial",
+      "Nome do modelo": "BWJ14A9",
+      "Componentes incluídos": "Mangueira de drenagem",
+      "Fabricante": "BRASTEMP",
+      "Número do modelo": "BWJ14A9",
+      "Número da peça": "BWJ14A9",
+      "Descrição da garantia": "12",
+      "ASIN": "B0G4WSTVHR",
+      "Dimensões do produto": "69,5P x 63L x 104A centímetros",
+      "Marca": "Brastemp",
+      "Local de acesso": "Carga superior"
+    },
+    "affiliate_url": "https://www.amazon.com.br/M%C3%A1quina-Platinum-Brastemp-Sensor-Reduzir/dp/B0G4WSTVHR/ref=zg_bs_g_appliances_d_sccl_16/145-6471407-4196324?tag=mixdm22-20",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0FVMH1K2Y",
+    "title": "Electrolux Geladeira Electrolux Frost Free 320L Duplex Branca (TF38) 127V",
+    "image": "https://m.media-amazon.com/images/I/319xY36QjcL._AC_SL1000_.jpg",
+    "canonical": null,
+    "category": "Eletrodomésticos",
+    "price_current": null,
+    "price_original": 2999.0,
+    "parcelamento": null,
+    "tem_selo_prime": true,
+    "tem_oferta": false,
+    "avaliacao": 4.6,
+    "qtd_avaliacoes": 38,
+    "coupon_code": null,
+    "description": "<ul><li>A Geladeira</li><li>Electrolux</li><li>Frost</li><li>Duplex</li></ul>",
+    "informacoes_produto": {
+      "Configuração": "Compacto lado a lado",
+      "Características especiais": "Baixo nível de ruído",
+      "Número de portas": "2",
+      "Tipo de sistema de degelo": "Automático",
+      "Voltagem": "110",
+      "Número de prateleiras": "7",
+      "Orientação de abertura da porta": "Esquerda",
+      "É alimentado por energia elétrica?": "Sim",
+      "Total de Prateleiras de Porta": "3",
+      "Fonte de energia": "Elétrico com fio",
+      "Nome da marca": "Electrolux",
+      "Número do modelo": "TF38",
+      "Número da peça": "TF38",
+      "Componentes incluídos": "Não aplicável",
+      "Fabricante": "Electrolux",
+      "Descrição da garantia": "1",
+      "ASIN": "B0FVMH1K2Y",
+      "Dimensões do item P x L x A": "64P x 60L x 170A centímetros",
+      "Capacidade": "320 litros",
+      "Capacidade do freezer": "79 Litros",
+      "Peso do item": "50 Quilogramas",
+      "Consumo de energia anual": "46 Kilowatt Hours",
+      "Capacidade Líquida do Refrigerador": "320 Litros",
+      "Tamanho": "320L",
+      "Avaliação por estrelas do BEE": "5 Estrelas",
+      "Tipo de material da porta": "aço inoxidável",
+      "Cor": "branco",
+      "Dimensões do produto": "64P x 60L x 170A centímetros",
+      "Marca": "Electrolux"
+    },
+    "affiliate_url": "https://www.amazon.com.br/Electrolux-Geladeira-Duplex-Branca-TF38/dp/B0FVMH1K2Y/ref=zg_bs_g_appliances_d_sccl_30/145-6471407-4196324?tag=mixdm22-20",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B081FKSGPP",
+    "title": "SUGGAR DEPURADOR DE AR SLIM DE EMBUTIR 60CM FRONTAL INOX 110V DE61IX",
+    "image": "https://m.media-amazon.com/images/I/51ciFDrjQLL._AC_SL1200_.jpg",
+    "canonical": null,
+    "category": "Eletrodomésticos",
+    "price_current": null,
+    "price_original": null,
+    "parcelamento": null,
+    "tem_selo_prime": true,
+    "tem_oferta": false,
+    "avaliacao": 4.7,
+    "qtd_avaliacoes": 1211,
+    "coupon_code": null,
+    "description": "<ul><li>Grande capacidade de sucção: 390m³/h</li><li>Dupla filtragem</li><li>Tela deslizante</li><li>Dupla função: coifa e depurador</li><li>Baixo consumo: 0,12kWh</li></ul>",
+    "informacoes_produto": {
+      "Características especiais": "Telas em alumínio lavável, eliminam gordura e fumaça, filtro de carvão ativado, elimina odores indesejados",
+      "Capacidade do fluxo de ar": "390 Metros cúbicos por hora",
+      "Nível de ruído": "65 Decibéis",
+      "Tipo de montagem": "Montagem debaixo do móvel",
+      "Tipo de controles": "Tela deslizante",
+      "Voltagem": "110 Volts",
+      "Fonte de luz": "LED",
+      "Tipo de filtro": "Malha",
+      "Tipo de ventilação": "Ducted/Vented",
+      "Compatibilidade com Casa Inteligente": "Não Compatível com Casa Inteligente",
+      "Cor": "inox",
+      "Tipo de acabamento": "Aço inoxidável",
+      "Formato do item": "debaixo do móvel",
+      "Design da Coifa": "Coifa de Exaustor Montado na Parede",
+      "Material": "Aço inoxidável",
+      "Nome da marca": "Suggar",
+      "Componentes incluídos": "Manual de instruções",
+      "Número do modelo": "DE61IX",
+      "Fabricante": "Suggar",
+      "Número de identificação de comércio internacional": "07896518503873",
+      "Número da peça": "DE61IX",
+      "Nome do Tipo de Produto": "depurador de ar",
+      "Descrição da garantia": "1 ano com o fabricante",
+      "ASIN": "B081FKSGPP",
+      "Dimensões do item P x L x A": "28,4P x 60L x 17,6A centímetros",
+      "Peso do item": "6 Quilogramas",
+      "Marca": "Suggar",
+      "Dimensões do produto": "28,4P x 60L x 17,6A centímetros"
+    },
+    "affiliate_url": "https://www.amazon.com.br/Depurador-Suggar-slim-embutir-DE61IX/dp/B081FKSGPP/ref=zg_bs_g_appliances_d_sccl_10/145-6471407-4196324?tag=mixdm22-20",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B09B7X4JSZ",
+    "title": "Máquina de Lavar Electrolux 13kg Branca Essential Care com Cesto Inox e Jet&Clean (LED13)",
+    "image": "https://m.media-amazon.com/images/I/41NV3orR5JL._AC_SL1000_.jpg",
+    "canonical": null,
+    "category": "Eletrodomésticos",
+    "price_current": null,
+    "price_original": 1699.0,
+    "parcelamento": null,
+    "tem_selo_prime": true,
+    "tem_oferta": false,
+    "avaliacao": 4.8,
+    "qtd_avaliacoes": 1033,
+    "coupon_code": null,
+    "description": "<ul><li>Exclusiva Tecnologia Jet&amp;Clean - Dispenser autolimpante com tecnologia Jet&amp;Clean, que através de fortes jatos de água otimiza o uso do sabão e do amaciante, além de diluí-los em até 100%¹ antes de entrarem em contato com as roupas, evitando manchas e relavagem. ¹Teste comparativo interno realizado com a LT10B (sem Jet&amp;Clean), verificando a distribuição dos insumos líquidos na carga de roupa mais próxima ao fundo do cesto, segundo testes internos da Electrolux. Área atingida pelo amaciante de 99,99% e desvio padrão 0,01.</li><li>Ultra Filter Pega Fiapos - Retém e armazena até 8 vezes² mais fiapos: sistema de filtragem que retém os fiapos desagradáveis que podem ficar nas roupas após a lavagem. ²O maior volume interno do filtro pode armazenar até 8 vezes mais fiapos. Este produto possui filtro com volume interno 8 vezes maior quando comparado ao volume interno do filtro do produto LT12F, segundo procedimento interno em laboratório da Electrolux</li><li>Sistema de Lavagem com Ciclos Rápidos - Possui sistema de lavagem, que otimiza o tempo dos programas de forma automática, deixando-os mais rápidos quando necessário e mantendo a mesma performance. Isso promove mais cuidado e menos desgaste das roupas.</li><li>Programa Super Silencioso - Máquina de Lavar roupa com sistema de lavagem de tecnologia silenciosa que, através do programa “Super Silencioso”, reduz o nível de ruído durante a lavagem, o que permite lavar as roupas a qualquer horário, de acordo com a sua rotina.</li><li>Função Reutilização de Água - Função que permite que você economize água através do reaproveitamento da mesma durante as lavagens, reutilizando para outros fins, como por exemplo lavar o chão.</li><li>Função Limpeza de Cesto - Possui uma função de autolimpeza no cesto da máquina. Essa limpeza, evita que resíduos de outras lavagens fiquem acumulados no cesto, promovendo uma lavagem mais eficiente.</li><li>Programas de Lavagem - Possui 11 programas de lavagem, especialmente desenvolvidos para lavar adequadamente todos os tipos de roupas e sujeiras, inclusive edredons de casal para camas queen size e roupas de tecidos delicados.</li><li>Função Avança Etapas - Permite avançar a programação da máquina através de uma única tecla. Promovendo agilidade no dia a dia com apenas um toque.</li><li>Programa Rápido - Maior praticidade e mais tempo livre pra você! Programa de lavagem rápida, ideal para roupas pouco sujas.</li><li>Função Turbo Agitação/Secagem - Aumenta a ação mecânica da agitação melhorando o desempenho da lavagem. Indicado para tirar manchas mais difíceis ou roupas mais sujas. Também aumenta o tempo de centrifugação permitindo que as roupas saiam menos úmidas da lavadora comparado a uma centrifugação normal.</li><li>Exclusiva Tecnologia Jet&amp;Clean - Dispenser autolimpante com tecnologia Jet&amp;Clean, que através de fortes jatos de água otimiza o uso do sabão e do amaciante, além de diluí-los em até 100%¹ antes de entrarem em contato com as roupas, evitando manchas e relavagem. ¹Teste comparativo interno realizado com a LT10B (sem Jet&amp;Clean), verificando a distribuição dos insumos líquidos na carga de roupa mais próxima ao fundo do cesto, segundo testes internos da Electrolux. Área atingida pelo amaciante de 99,99% e desvio padrão 0,01.</li><li>Ultra Filter Pega Fiapos - Retém e armazena até 8 vezes² mais fiapos: sistema de filtragem que retém os fiapos desagradáveis que podem ficar nas roupas após a lavagem. ²O maior volume interno do filtro pode armazenar até 8 vezes mais fiapos. Este produto possui filtro com volume interno 8 vezes maior quando comparado ao volume interno do filtro do produto LT12F, segundo procedimento interno em laboratório da Electrolux</li><li>Sistema de Lavagem com Ciclos Rápidos - Possui sistema de lavagem, que otimiza o tempo dos programas de forma automática, deixando-os mais rápidos quando necessário e mantendo a mesma performance. Isso promove mais cuidado e menos desgaste das roupas.</li><li>Programa Super Silencioso - Máquina de Lavar roupa com sistema de lavagem de tecnologia silenciosa que, através do programa “Super Silencioso”, reduz o nível de ruído durante a lavagem, o que permite lavar as roupas a qualquer horário, de acordo com a sua rotina.</li><li>Função Reutilização de Água - Função que permite que você economize água através do reaproveitamento da mesma durante as lavagens, reutilizando para outros fins, como por exemplo lavar o chão.</li><li>Função Limpeza de Cesto - Possui uma função de autolimpeza no cesto da máquina. Essa limpeza, evita que resíduos de outras lavagens fiquem acumulados no cesto, promovendo uma lavagem mais eficiente.</li><li>Programas de Lavagem - Possui 11 programas de lavagem, especialmente desenvolvidos para lavar adequadamente todos os tipos de roupas e sujeiras, inclusive edredons de casal para camas queen size e roupas de tecidos delicados.</li><li>Função Avança Etapas - Permite avançar a programação da máquina através de uma única tecla. Promovendo agilidade no dia a dia com apenas um toque.</li><li>Programa Rápido - Maior praticidade e mais tempo livre pra você! Programa de lavagem rápida, ideal para roupas pouco sujas.</li><li>Função Turbo Agitação/Secagem - Aumenta a ação mecânica da agitação melhorando o desempenho da lavagem. Indicado para tirar manchas mais difíceis ou roupas mais sujas. Também aumenta o tempo de centrifugação permitindo que as roupas saiam menos úmidas da lavadora comparado a uma centrifugação normal.</li><li>110 Volts</li><li>220 Volts</li></ul>",
+    "informacoes_produto": {
+      "Capacidade": "13 quilogramas",
+      "Características especiais": "Tecnologia Jet&amp;Clean, Ultra Filter Pega Fiapos, Sistema de Lavagem com Ciclos Rápidos, Programa Super Silencioso, Função Reutilização de Água, Função Limpeza de Cesto, Programas de Lavagem, Função Avança Etapas, Programa Rápido, Função Turbo Agitação/Secagem",
+      "Local do acesso": "Carga superior",
+      "Tipo de acabamento": "Branca",
+      "Opções de ciclo": "11 programas de lavagem",
+      "Tipo de controles": "Botões",
+      "Modo de operação": "Totalmente automático",
+      "Voltagem": "110 Volts",
+      "Número de ciclos padrão": "11",
+      "Entrada de interface humana": "Botões",
+      "Tipo de instalação": "Independente",
+      "Número de programas": "11",
+      "Dimensões do item P x L x A": "66,5P x 59,5L x 105,5A centímetros",
+      "Peso do item": "42 Quilogramas",
+      "Profundidade do item": "66,5 centimeters",
+      "Cor": "Branca",
+      "Nome da marca": "Electrolux",
+      "Usos recomendados do produto": "Residencial",
+      "Nome do modelo": "LED13",
+      "Componentes incluídos": "1 máquina de lavar, 1 guia rápido, 1 curva da mangueira",
+      "Fabricante": "Electrolux",
+      "Número do modelo": "LED13",
+      "Número da peça": "LED13",
+      "Nome do Tipo de Produto": "Máquina de Lavar",
+      "ASIN": "B09B7X4JSZ",
+      "Material": "Plástico",
+      "Material do tambor do aparelho de lavagem de roupa": "Aço inox",
+      "Dimensões do produto": "66,5P x 59,5L x 105,5A centímetros",
+      "Marca": "Electrolux",
+      "Local de acesso": "Carga superior"
+    },
+    "affiliate_url": "https://www.amazon.com.br/Lavadora-Electrolux-LED13-Essential-Filter/dp/B09B7X4JSZ/ref=zg_bs_g_appliances_d_sccl_18/145-6471407-4196324?tag=mixdm22-20",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0FF6FZF9Y",
+    "title": "Smart TV Samsung 32\" HD Tizen HDR Wi-Fi HDMI Bivolt Preta",
+    "image": "https://m.media-amazon.com/images/I/61tCoc7NunL._AC_SL1368_.jpg",
+    "canonical": null,
+    "category": "Eletrônicos",
+    "price_current": null,
+    "price_original": 1379.0,
+    "parcelamento": null,
+    "tem_selo_prime": false,
+    "tem_oferta": false,
+    "avaliacao": 4.3,
+    "qtd_avaliacoes": 750,
+    "coupon_code": null,
+    "description": "<ul><li>Monitor Smart TV Samsung com Plataforma Tizen, Tecnologia HDR e PurColor para uma experiência de imagem aprimorada e entretenimento completo.</li><li>Design Art Deco em cor preta com tela de 32 polegadas e resolução HD, combinando estética sofisticada com qualidade de imagem nítida.</li><li>Conectividade via HDMI para fácil integração com dispositivos externos; não possui função Bluetooth.</li><li>Monitor Smart TV Samsung com Plataforma Tizen, Tecnologia HDR e PurColor para uma experiência de imagem aprimorada e entretenimento completo.</li><li>Design Art Deco em cor preta com tela de 32 polegadas e resolução HD, combinando estética sofisticada com qualidade de imagem nítida.</li><li>Conectividade via HDMI para fácil integração com dispositivos externos; não possui função Bluetooth.</li></ul>",
+    "informacoes_produto": {
+      "Tecnologia da tela": "HD",
+      "Resolução": "HD",
+      "Taxa de atualização": "60 Hz",
+      "Proporção de aspecto": "16:9",
+      "Índice de contraste da imagem": "True",
+      "Formato HDR suportado": "HDR10",
+      "Tecnologia de aprimoramento de movimento": "Sim",
+      "Tecnologia de Aprimoramento da Qualidade da Imagem": "Tecnologia HDR, Tecnologia PurColor, Realce de Contraste",
+      "Tecnologia da Luz de Fundo da Tela": "LED",
+      "Taxa de Atualização da Tela em Hertz": "60",
+      "Tamanho da tela": "32 Polegadas",
+      "Dimensões do item P x L x A": "80P x 11,4L x 50A centímetros",
+      "Peso do item": "3,8 Quilogramas",
+      "Tamanho do Visor": "32 Polegadas",
+      "Tamanho": "32 polegadas",
+      "Voltagem": "110,22 Volts",
+      "Eficiência": "Não aplicavél",
+      "Tipo de bateria": "1 AA (necessita de baterias)",
+      "Características especiais": "Plataforma Tizen™, Tecnologia HDR, Tecnologia PurColor",
+      "Sistema operacional": "Android",
+      "Método de controle": "Voz",
+      "Tipo de montagem": "Montagem na mesa",
+      "Padrão de montagem VESA": "200 x 200 mm",
+      "Nome da marca": "Samsung",
+      "Componentes incluídos": "Samsung Smart Monitor TV 32\", HD, Plataforma Tizen™",
+      "Ano do modelo": "2025",
+      "Número do modelo": "LS32H5000FGXZD",
+      "Descrição da garantia": "12 meses",
+      "Série do Modelo": "S",
+      "Fabricante": "SAMSUNG ELETRÔNICA DA AMAZÔNIA LTDA",
+      "Número da peça": "LS32H5000FGXZD",
+      "Contagem de unidades": "1 Unidade",
+      "Certificação de teste externa": "Não aplicavél",
+      "ASIN": "B0FF6FZF9Y",
+      "Tecnologia de conectividade": "HDMI",
+      "Serviços da Internet suportados": "Netflix, YouTube, Amazon Prime Video",
+      "Entrada de áudio": "HDMI",
+      "Formato do sinal": "Digital",
+      "Total de portas HDMI": "2",
+      "Interface de hardware": "HDMI",
+      "Tecnologia de comunicação sem fio": "Wi-Fi 4 e Wireless Display",
+      "Tipo de conector": "HDMI",
+      "Total de portas USB 3.0": "1",
+      "Cor": "Preto",
+      "Tipo de garantia": "Limitado",
+      "Marca": "Samsung",
+      "Tecnologia do visor": "HD",
+      "Proporção de tela": "16:9",
+      "Dimensões do produto": "80P x 11,4L x 50A centímetros"
+    },
+    "affiliate_url": "https://www.amazon.com.br/Samsung-Smart-Monitor-Plataforma-TizenTM/dp/B0FF6FZF9Y/ref=zg_bs_g_electronics_d_sccl_8/145-6471407-4196324?tag=mixdm22-20",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0977B9KN4",
+    "title": "PHILIPS Pilha alcalina do tipo AA e AAA C/10 AA E 10-AAA, Branco, azul e cinza, padrão, LR036P20BP/59",
+    "image": "https://m.media-amazon.com/images/I/81mSdn-33cS._AC_SL1500_.jpg",
+    "canonical": null,
+    "category": "Eletrônicos",
+    "price_current": null,
+    "price_original": null,
+    "parcelamento": null,
+    "tem_selo_prime": true,
+    "tem_oferta": false,
+    "avaliacao": 4.7,
+    "qtd_avaliacoes": 3735,
+    "coupon_code": null,
+    "description": "<ul><li>Pilha Philips tipo palito AAA e AA 1.5V.</li><li>Embalagem com 10 unidade AAA e 10 unidades AA.</li><li>Desempenho confiável permanece o mesmo por até 10 anos.</li><li>Ideal para dispositivos que requerem muita energia, como brinquedos, aparelhos de áudio, lanternas, controle remoto, microfone e muito mais.</li><li>Material de composição livre de metais pesados prejudiciais à saúde.</li><li>Pilha Philips tipo palito AAA e AA 1.5V.</li><li>Embalagem com 10 unidade AAA e 10 unidades AA.</li><li>Desempenho confiável permanece o mesmo por até 10 anos.</li><li>Ideal para dispositivos que requerem muita energia, como brinquedos, aparelhos de áudio, lanternas, controle remoto, microfone e muito mais.</li><li>Material de composição livre de metais pesados prejudiciais à saúde.</li></ul>",
+    "informacoes_produto": {
+      "Tipo de bateria": "20 AA (necessita de baterias)",
+      "Nome da marca": "PHILIPS",
+      "Número do modelo": "LR036P20BP/59",
+      "Nome do modelo": "LR036P20BP/59",
+      "Fabricante": "Philips",
+      "Certificação de teste externa": "Não aplicável",
+      "Componentes incluídos": "Pilha Philips alcalina do tipo AA e AAA 1.5V com 10 unidades AA + 10 unidades AAA LR036P20BP/59",
+      "Descrição da garantia": "10 anos",
+      "Nome do Tipo de Produto": "Pilha",
+      "ASIN": "B0977B9KN4",
+      "Capacidade da bateria": "1,5 Volts",
+      "Voltagem": "1.5",
+      "Amperagem": "10 Amperes",
+      "Contagem de unidades": "1 Unidade",
+      "Dimensões do artigo": "14 x 14 x 50 milímetros",
+      "Usos recomendados do produto": "Controle remoto da TV",
+      "Composição da célula da pilha": "Alcalina",
+      "Número de baterias": "20 AA (necessita de baterias)",
+      "Marca": "PHILIPS",
+      "Composição das células da bateria": "Alcalina",
+      "Adequação do controle por rádio": "Controle remoto da TV"
+    },
+    "affiliate_url": "https://www.amazon.com.br/Pilha-Philips-alcalina-tipo-10-AAA/dp/B0977B9KN4/ref=zg_bs_g_electronics_d_sccl_29/145-6471407-4196324?tag=mixdm22-20",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0H3T5K8FW",
+    "title": "Suporte para Notebook e MacBook em Alumínio Dobrável Ergonômico Ajustável 6 Níveis com Altura Regulável Base Antiderrapante p",
+    "image": "https://m.media-amazon.com/images/I/51n5lpVgMEL._AC_SL1254_.jpg",
+    "canonical": null,
+    "category": "Móveis",
+    "price_current": null,
+    "price_original": null,
+    "parcelamento": null,
+    "tem_selo_prime": true,
+    "tem_oferta": false,
+    "avaliacao": 4.5,
+    "qtd_avaliacoes": 6,
+    "coupon_code": null,
+    "description": "<ul><li>💻 Alívio imediato para costas e pescoço — Eleva a tela do notebook para uma posição mais ergonômica, ajudando a reduzir dores, tensão muscular e desconforto após horas de uso no trabalho, estudo ou home office.</li><li>🛡️ Estrutura premium super resistente e estável — Fabricado em liga de alumínio reforçada, oferece firmeza total para notebooks e MacBooks de 10” a 16”.</li><li>🌬️ Sistema vazado para melhor ventilação — O design aberto permite maior circulação de ar na parte inferior do notebook, ajudando a dissipar o calor e evitar superaquecimento do aparelho.</li><li>📏 6 níveis de ajuste de altura e inclinação — Personalize facilmente o ângulo ideal para melhorar sua postura, aumentar o conforto visual e reduzir o cansaço durante longos períodos de uso.</li><li>🎒 Dobrável, portátil e fácil de transportar — Compacto e leve, pode ser levado facilmente na mochila, bolsa ou mala. Acompanha capa protetora para armazenamento e transporte com mais praticidade.</li><li>💻 Alívio imediato para costas e pescoço — Eleva a tela do notebook para uma posição mais ergonômica, ajudando a reduzir dores, tensão muscular e desconforto após horas de uso no trabalho, estudo ou home office.</li><li>🛡️ Estrutura premium super resistente e estável — Fabricado em liga de alumínio reforçada, oferece firmeza total para notebooks e MacBooks de 10” a 16”.</li><li>🌬️ Sistema vazado para melhor ventilação — O design aberto permite maior circulação de ar na parte inferior do notebook, ajudando a dissipar o calor e evitar superaquecimento do aparelho.</li><li>📏 6 níveis de ajuste de altura e inclinação — Personalize facilmente o ângulo ideal para melhorar sua postura, aumentar o conforto visual e reduzir o cansaço durante longos períodos de uso.</li><li>🎒 Dobrável, portátil e fácil de transportar — Compacto e leve, pode ser levado facilmente na mochila, bolsa ou mala. Acompanha capa protetora para armazenamento e transporte com mais praticidade.</li></ul>",
+    "informacoes_produto": {
+      "Fator de forma": "Tripé",
+      "Dispositivos compatíveis": "Notebooks, Tablets",
+      "Tipo de montagem": "Sobre a mesa",
+      "Usos recomendados do produto": "Mesa",
+      "Comprimento Ajustável": "Sim",
+      "Cor": "Prata",
+      "Contagem de unidades": "1 Count",
+      "Peso do item": "400 Gramas",
+      "Material": "Alumínio",
+      "Nome da marca": "Genérico",
+      "Nome do modelo": "Suporte Notebook",
+      "Número do modelo": "01",
+      "Quantidade de itens": "1",
+      "Número da peça": "01",
+      "Componentes incluídos": "Suporte para Notebook, Saco de armazenamento",
+      "Descrição da garantia": "30 dias",
+      "Fabricante": "Importado",
+      "ASIN": "B0H3T5K8FW",
+      "Marca": "Genérico"
+    },
+    "affiliate_url": "https://www.amazon.com.br/Ergon%C3%B4mico-Ajust%C3%A1vel-Regul%C3%A1vel-Antiderrapante-Transporte/dp/B0H3T5K8FW/ref=zg_bs_g_furniture_d_sccl_6/145-6471407-4196324?tag=mixdm22-20",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0FXH2YX9M",
+    "title": "Berço Portátil Bebê Acoplado Co-Bed Connect Maxi baby (Cinza)",
+    "image": "https://m.media-amazon.com/images/I/51DKhhozt+L._AC_SL1200_.jpg",
+    "canonical": null,
+    "category": "Móveis",
+    "price_current": null,
+    "price_original": 629.9,
+    "parcelamento": null,
+    "tem_selo_prime": true,
+    "tem_oferta": false,
+    "avaliacao": 4.7,
+    "qtd_avaliacoes": 69,
+    "coupon_code": null,
+    "description": "<ul><li>- Idade Recomendada: A Partir de 0 Meses - Peso Máximo suportado: até 9 kg</li><li>- Estrutura de aço carbono durável e leve - Tecido de linho respirável, elegante e fácil de limpar</li><li>- Rodas universais com freio, garantindo mobilidade segura - Altura regulável em três posições</li><li>- Pode ser acoplado à cama dos pais - Função berço com balanço automático manual - Armazenamento dobrável e removível, ideal para viagens</li><li>- Inclui mosquiteiro, colchonete e cesto inferior organizador - Função Anti-Refluxo: Eleve um dos lados para evitar que o bebe vomite ou engasgue - Disponível nas cores: Cinza Claro, Cinza Escuro</li><li>- Idade Recomendada: A Partir de 0 Meses - Peso Máximo suportado: até 9 kg</li><li>- Estrutura de aço carbono durável e leve - Tecido de linho respirável, elegante e fácil de limpar</li><li>- Rodas universais com freio, garantindo mobilidade segura - Altura regulável em três posições</li><li>- Pode ser acoplado à cama dos pais - Função berço com balanço automático manual - Armazenamento dobrável e removível, ideal para viagens</li><li>- Inclui mosquiteiro, colchonete e cesto inferior organizador - Função Anti-Refluxo: Eleve um dos lados para evitar que o bebe vomite ou engasgue - Disponível nas cores: Cinza Claro, Cinza Escuro</li><li>Bege</li><li>Cinza</li><li>Grafite</li></ul>",
+    "informacoes_produto": {
+      "Nome da marca": "Maxi Baby",
+      "Fabricante": "Planeta - Importação e Distribuição de Brinquedos Ltda",
+      "Nome do Conjunto": "Berço Portátil Bebê Acoplado Co-Bed Connect Cinza Maxi baby",
+      "Número do modelo": "BERÇO-CONNECT",
+      "Número da peça": "21935",
+      "Extensível": "Não",
+      "Características especiais": "Certificado pelo INMETRO, Função berço com balanço automático manual, Idade Recomendada: A Partir de 0 Meses, Peso Máximo suportado: até 9 kg, Tecido de linho respirável, elegante e fácil de limpar",
+      "Nome do Tipo de Produto": "Berço Portátil Infantil Cercado",
+      "Componentes incluídos": "1 Berço Portátil com Mosquiteiro e colchonete",
+      "Contagem de unidades": "1 Unidade",
+      "ASIN": "B0FXH2YX9M",
+      "Material": "Ferro",
+      "Instruções de cuidados com o produto": "não aplicável",
+      "É à prova d'água": "Não",
+      "Exige montagem": "Sim",
+      "Cor": "Cinza",
+      "Acabamento do móvel": "Poliéster",
+      "Formato do item": "Retangular",
+      "Estilo": "Moderno",
+      "Dimensões do item C x L x A": "92C x 68L x 85A centímetros",
+      "Peso do item": "7,1 Quilogramas",
+      "Dimensões do artigo": "92 x 68 x 85 centímetros",
+      "Profundidade do item": "92,0",
+      "Tamanho": "Berço",
+      "Marca": "Maxi Baby",
+      "Dimensões do produto": "92C x 68L x 85A centímetros"
+    },
+    "affiliate_url": "https://www.amazon.com.br/Port%C3%A1til-Acoplado-Co-Bed-Connect-Maxi/dp/B0FXH2YX9M/ref=zg_bs_g_furniture_d_sccl_8/145-6471407-4196324?tag=mixdm22-20",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0G8GZPWY8",
+    "title": "EKROTOK Cadeira de Escritório com Almofada de Assento de Látex, Cadeiras Ergonômicas para Computador com Apoio de Braços Retr",
+    "image": "https://m.media-amazon.com/images/I/71lR-MmrXBL._AC_SL1500_.jpg",
+    "canonical": null,
+    "category": "Móveis",
+    "price_current": null,
+    "price_original": 589.0,
+    "parcelamento": null,
+    "tem_selo_prime": false,
+    "tem_oferta": true,
+    "avaliacao": 4.4,
+    "qtd_avaliacoes": 24,
+    "coupon_code": null,
+    "description": "<ul><li>✅Suporte Ergonômico: O encosto ergonomicamente projetado da nossa cadeira ergonômica para escritório possui apoio lombar proeminente para se adaptar à curvatura natural da coluna. Encosto em malha dupla de alta densidade, com suporte flexível e respirável. A almofada do assento acolchoada e espessa com emulsão proporciona conforto durante todo o dia.</li><li>✅Cadeiras de Escritório com Ajuste Livre: Ao levantar o encosto de cabeça da cadeira de escritório EKROTOK , ela se apoia precisamente onde sua cabeça está. Para levantar ou abaixar o assento, procure por uma alavanca de ajuste pneumática. Seus discos intervertebrais podem ser liberados da pressão ao reclinar e balançar.</li><li>✅Economia de Espaço: Design de apoio de braço reversível e não atrapalhará quando não estiver em uso. Os apoios de braço da cadeira para computador oferecem suporte confortável para seus braços e podem ser levantados para economizar espaço de forma eficaz quando não estiverem em uso.</li><li>✅Fácil de Mover: A base resistente da cadeira permite que você gire o corpo facilmente enquanto estiver sentado. Seus rodízios silenciosos se movem suavemente em qualquer direção, para qualquer cômodo que você queira ir, perfeitos para pisos duros. Desfrute de mobilidade silenciosa e confortável em sua área de trabalho. As cadeiras de escritório EKROTOK podem ser usadas como cadeiras de escritório para estudantes, cadeiras de computador, cadeiras ergonômicas, cadeiras de mesa e cadeiras gamer.</li><li>✅Fácil montagem: A cadeira de escritório para casa vem com instruções de instalação e todas as ferragens e ferramentas necessárias.</li><li>✅Suporte Ergonômico: O encosto ergonomicamente projetado da nossa cadeira ergonômica para escritório possui apoio lombar proeminente para se adaptar à curvatura natural da coluna. Encosto em malha dupla de alta densidade, com suporte flexível e respirável. A almofada do assento acolchoada e espessa com emulsão proporciona conforto durante todo o dia.</li><li>✅Cadeiras de Escritório com Ajuste Livre: Ao levantar o encosto de cabeça da cadeira de escritório EKROTOK , ela se apoia precisamente onde sua cabeça está. Para levantar ou abaixar o assento, procure por uma alavanca de ajuste pneumática. Seus discos intervertebrais podem ser liberados da pressão ao reclinar e balançar.</li><li>✅Economia de Espaço: Design de apoio de braço reversível e não atrapalhará quando não estiver em uso. Os apoios de braço da cadeira para computador oferecem suporte confortável para seus braços e podem ser levantados para economizar espaço de forma eficaz quando não estiverem em uso.</li><li>✅Fácil de Mover: A base resistente da cadeira permite que você gire o corpo facilmente enquanto estiver sentado. Seus rodízios silenciosos se movem suavemente em qualquer direção, para qualquer cômodo que você queira ir, perfeitos para pisos duros. Desfrute de mobilidade silenciosa e confortável em sua área de trabalho. As cadeiras de escritório EKROTOK podem ser usadas como cadeiras de escritório para estudantes, cadeiras de computador, cadeiras ergonômicas, cadeiras de mesa e cadeiras gamer.</li><li>✅Fácil montagem: A cadeira de escritório para casa vem com instruções de instalação e todas as ferragens e ferramentas necessárias.</li><li>Branco</li></ul>",
+    "informacoes_produto": {
+      "Nome da marca": "Genérico",
+      "Contagem de unidades": "1 Count",
+      "País de origem": "China",
+      "Descrição da faixa etária": "Adulto",
+      "Componentes incluídos": "Cadeira de Escritório",
+      "Nome do modelo": "EKROTOK DJY",
+      "Utilização interior, exterior": "Área interna",
+      "Número do modelo": "EKROTOK DJY",
+      "Fabricante": "EKROTOK",
+      "Número da peça": "EKROTOK DJY",
+      "ASIN": "B0FYMRR5YK",
+      "Material": "Metal",
+      "Frame Material Type": "Metal",
+      "Material do assento": "Espuma",
+      "Material de preenchimento": "Espuma",
+      "Cor": "Branco",
+      "Estilo de fundo": "Encosto Alto",
+      "Estilo": "Moderno",
+      "Estampa": "Liso",
+      "Formato do item": "retangular",
+      "Estilo de braço": "Retráteis",
+      "Estilo do pé": "Base de trenó",
+      "Fator de forma": "Cadeira de escritório com encosto alto e braços com base giratória",
+      "Dimensões do item P x L x A": "60P x 48L x 130A centímetros",
+      "Tamanho": "60 cm x 48 cm x 130 cm",
+      "Peso do item": "12 Quilogramas",
+      "Dimensões do artigo": "60 x 48 x 130 centímetros",
+      "Profundidade do item": "60 centímetros",
+      "Total de Posições Reclináveis": "1",
+      "Inclinada": "Sim",
+      "Descrição das Instruções de Montagem": "Sim, a cadeira de escritório EKROTOK requer montagem e vem com instruções de instalação e todas as ferramentas necessárias.",
+      "Exige montagem": "Sim",
+      "Marca": "Genérico",
+      "Dimensões do produto": "60P x 48L x 130A centímetros"
+    },
+    "affiliate_url": "https://www.amazon.com.br/Escrit%C3%B3rio-Almofada-Ergon%C3%B4micas-Computador-Retr%C3%A1teis/dp/B0G8GZPWY8/ref=zg_bs_g_furniture_d_sccl_22/145-6471407-4196324?tag=mixdm22-20",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0H6NNJL1V",
+    "title": "Smartphone Motorola Edge 50 Neo 5G - 256GB 16GB (8GB RAM+8GB Ram Boost) 50MP Sony Camera Moto AI Ultrarresistencia militar -",
+    "image": "https://m.media-amazon.com/images/I/61gbpgrR5VL._AC_SL1200_.jpg",
+    "canonical": null,
+    "category": "Celulares e Smartphones",
+    "price_current": null,
+    "price_original": null,
+    "parcelamento": null,
+    "tem_selo_prime": true,
+    "tem_oferta": false,
+    "avaliacao": 4.1,
+    "qtd_avaliacoes": null,
+    "coupon_code": null,
+    "description": "<ul><li>Para consultar a homologação do produto, acesse: sistemas.anatel.gov.br/sch.</li><li>Dual SIM</li><li>GPS integrado</li><li>Processador Octa Core</li><li>Tela sensível ao toque</li><li>Resistente à Água</li><li>Dual SIM</li><li>GPS integrado</li><li>Processador Octa Core</li><li>Tela sensível ao toque</li><li>Resistente à Água</li></ul>",
+    "informacoes_produto": {
+      "Sistema operacional": "Android 14",
+      "Memória RAM instalada": "16 GB",
+      "Capacidade de armazenamento da memória": "256 GB",
+      "Cor": "Grisalle",
+      "Tipo de conector": "USB tipo C",
+      "Características especiais": "Dual SIM, GPS integrado, Processador Octa Core, Resistente à Água, Tela sensível ao toque",
+      "Nome da marca": "Motorola",
+      "Ano do modelo": "2024",
+      "Componentes incluídos": "Cabo USB, Ejetor da bandeja SIM",
+      "Descrição da garantia": "Garantia limitada de 90 dias",
+      "Fabricante": "Motorola",
+      "UPC": "728434397311",
+      "Contagem de unidades": "1 Count",
+      "Certificação de teste externa": "ANATEL: 069842400330/ Modelo:XT2409-2",
+      "ASIN": "B0H6NNJL1V",
+      "Tamanho da tela": "6,4 Polegadas",
+      "Resolução": "1200 x 2670",
+      "Tipo de tela": "OLED",
+      "Resolução máxima da tela": "1200 x 2670 Pixels",
+      "Densidade do pixel de exibição": "460 Pixels por polegada (PPI)",
+      "Provedor de serviços sem fio": "Todas as Operadoras",
+      "Tecnologia de celular": "5G",
+      "Tecnologia de conectividade": "Bluetooth, NFC, USB, Wi-fi",
+      "Resolução do sensor fotográfico traseiro da câmara": "50 MP",
+      "Potência da bateria": "4300 Milliamp Hours",
+      "Peso do item": "171 Gramas",
+      "Dimensões do artigo": "8 x 71 x 154 milímetros",
+      "Marca": "Motorola",
+      "Tamanho instalado da memória RAM": "16 GB"
+    },
+    "affiliate_url": "https://www.amazon.com.br/Smartphone-Motorola-Edge-Ultrarresistencia-Recondicionado/dp/B0H6NNJL1V/ref=zg_bsnr_g_16243890011_d_sccl_9/145-6471407-4196324?tag=mixdm22-20",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0H1N3GXRX",
+    "title": "Smartphone Motorola Edge 50 5G - 256GB 24GB (12GB RAM+12GB Ram Boost) 50MP Sony Camera Moto AI Ultrarresistencia militar - Gr",
+    "image": "https://m.media-amazon.com/images/I/61S1KH7RaXL._AC_SL1200_.jpg",
+    "canonical": null,
+    "category": "Celulares e Smartphones",
+    "price_current": null,
+    "price_original": null,
+    "parcelamento": null,
+    "tem_selo_prime": true,
+    "tem_oferta": false,
+    "avaliacao": 4.8,
+    "qtd_avaliacoes": null,
+    "coupon_code": null,
+    "description": "<ul><li>Para consultar a homologação do produto, acesse: sistemas.anatel.gov.br/sch.</li><li>Produto usado e verificado em ótimo estado, inspecionado, testado e reparado conforme necessário para garantir perfeito funcionamento. Consulte a condição do produto nessa página.</li><li>Incluem todos os acessórios do modelo novo equivalente, exceto para smartphones. A embalagem do produto pode ser a original ou uma caixa de papelão.</li><li>Produto usado e verificado em ótimo estado, inspecionado, testado e reparado conforme necessário para garantir perfeito funcionamento. Consulte a condição do produto nessa página.</li><li>Incluem todos os acessórios do modelo novo equivalente, exceto para smartphones. A embalagem do produto pode ser a original ou uma caixa de papelão.</li></ul>",
+    "informacoes_produto": {
+      "Sistema operacional": "Android",
+      "Memória RAM instalada": "24 GB",
+      "Capacidade de armazenamento da memória": "256 GB",
+      "Cor": "Grey - Vegan Leather",
+      "Tipo de conector": "USB tipo C",
+      "Tamanho máximo suportado pela memória flash": "256 GB",
+      "Nome da marca": "Motorola",
+      "Ano do modelo": "2024",
+      "Componentes incluídos": "01 Telefone",
+      "Descrição da garantia": "Garantia limitada de 90 dias",
+      "Fabricante": "Motorola",
+      "Usos específicos do produto": "Atividades ao ar livre, esportes radicais, trabalho em construção",
+      "UPC": "728434326533",
+      "Contagem de unidades": "1 Count",
+      "Certificação de teste externa": "ANATEL: 065652400330/ Modelo: XT2407-2",
+      "ASIN": "B0H1N3GXRX",
+      "Resolução": "1220 x 2712",
+      "Tipo de tela": "Super HD (1220x2712) | HDR10+ | pOLED | 120 Hz",
+      "Provedor de serviços sem fio": "Todas as Operadoras",
+      "Tecnologia de celular": "5G",
+      "Tecnologia de conectividade": "5G",
+      "Resolução do sensor fotográfico traseiro da câmara": "50 MP",
+      "Descrição da bateria": "Íon de lítio",
+      "Potência da bateria": "5000.0",
+      "Peso do item": "170 Gramas",
+      "Dimensões do artigo": "16 x 7,2 x 0,8 centímetros",
+      "Duração da bateria": "15 Minutos",
+      "Marca": "Motorola",
+      "Tamanho instalado da memória RAM": "24 GB"
+    },
+    "affiliate_url": "https://www.amazon.com.br/Smartphone-Motorola-Edge-50-Ultrarresistencia/dp/B0H1N3GXRX/ref=zg_bsnr_g_16243890011_d_sccl_11/145-6471407-4196324?tag=mixdm22-20",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0GW9FH9B8",
+    "title": "Celular Samsung Galaxy S26 5G, 256GB, 12GB RAM, Câmera Tripla de 50+12+10, Tela Grande de 6.3\" - Prata",
+    "image": "https://m.media-amazon.com/images/I/51VgFRTqJmL._AC_SL1000_.jpg",
+    "canonical": null,
+    "category": "Celulares e Smartphones",
+    "price_current": null,
+    "price_original": null,
+    "parcelamento": null,
+    "tem_selo_prime": true,
+    "tem_oferta": false,
+    "avaliacao": 4.6,
+    "qtd_avaliacoes": 6,
+    "coupon_code": null,
+    "description": "<ul><li>Para consultar a homologação do produto, acesse: sistemas.anatel.gov.br/sch.</li><li>O design elegante e resistente traz uma construção slim e refinada, com toque premium e feita para durar.</li><li>Multitarefa rápida e eficiente com um chipset avançado e desempenho de alto nível.</li><li>O sistema de câmeras com AI aprimora o processamento para detalhes mais nítidos e melhores fotos em baixa luz.</li><li>O design elegante e resistente traz uma construção slim e refinada, com toque premium e feita para durar.</li><li>Multitarefa rápida e eficiente com um chipset avançado e desempenho de alto nível.</li><li>O sistema de câmeras com AI aprimora o processamento para detalhes mais nítidos e melhores fotos em baixa luz.</li></ul>",
+    "informacoes_produto": {
+      "Cor": "Prata",
+      "Provedor de serviços sem fio": "Todas as Operadoras",
+      "Tamanho da tela": "6,3 Polegadas",
+      "Nome da marca": "Samsung",
+      "ASIN": "B0GW9FH9B8",
+      "Marca": "Samsung",
+      "Operadora de celulares e tecnologia sem fio": "Todas as Operadoras"
+    },
+    "affiliate_url": "https://www.amazon.com.br/Celular-Samsung-Galaxy-C%C3%A2mera-Tripla/dp/B0GW9FH9B8/ref=zg_bsnr_g_16243890011_d_sccl_15/145-6471407-4196324?tag=mixdm22-20",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0F4PMQK69",
+    "title": "Smartphone Xiaomi Poco X7 5G NFC Black (Preto) 12GB RAM 512GB ROM",
+    "image": "https://m.media-amazon.com/images/I/514JU22HlZL._AC_SL1000_.jpg",
+    "canonical": null,
+    "category": "Celulares e Smartphones",
+    "price_current": null,
+    "price_original": null,
+    "parcelamento": null,
+    "tem_selo_prime": true,
+    "tem_oferta": false,
+    "avaliacao": 4.8,
+    "qtd_avaliacoes": 1,
+    "coupon_code": null,
+    "description": "<ul><li>Para consultar a homologação do produto, acesse: sistemas.anatel.gov.br/sch.</li><li>Poco X7 12GB 512GB</li><li>Poco X7 12GB 512GB</li></ul>",
+    "informacoes_produto": {
+      "Sistema operacional": "HyperOS",
+      "Memória RAM instalada": "12 GB",
+      "Capacidade de armazenamento da memória": "12 GB",
+      "Cor": "Preto",
+      "Tipo de conector": "USB tipo C",
+      "Fator de forma": "Touch",
+      "Funcionalidade de segurança biométrica": "Reconhecimento facial e de impressões digitais",
+      "Tamanho máximo suportado pela memória flash": "512 GB",
+      "Resolução do sensor fotográfico frontal": "20 MP",
+      "Número de câmaras traseiras": "3",
+      "Número de Câmeras Frontais": "1",
+      "Capacidade da bateria": "5110 Milliamp Hours",
+      "Potência da bateria": "5110",
+      "Tamanho da tela": "6,67 Polegadas",
+      "Resolução": "1220x2712",
+      "Tipo de tela": "AMOLED",
+      "Provedor de serviços sem fio": "Desbloqueado",
+      "Tecnologia de celular": "5G",
+      "Tecnologia de conectividade": "5G, NFC",
+      "Nome da marca": "XIAOMI",
+      "Ano do modelo": "2025",
+      "Componentes incluídos": "Cabo USB",
+      "Descrição da garantia": "90 dias",
+      "Fabricante": "Xiaomi",
+      "Usos específicos do produto": "Fotografia, Entretenimento",
+      "Contagem de unidades": "1 Count",
+      "Certificação de teste externa": "ANATEL: 086532409185/ Modelo:24095PCADG",
+      "ASIN": "B0F4PMQK69",
+      "Marca": "XIAOMI",
+      "Tamanho instalado da memória RAM": "12 GB"
+    },
+    "affiliate_url": "https://www.amazon.com.br/Smartphone-Xiaomi-Black-Preto-512GB/dp/B0F4PMQK69/ref=zg_bsnr_g_16243890011_d_sccl_16/145-6471407-4196324?tag=mixdm22-20",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0H1NSD956",
+    "title": "Smartphone Xiaomi Redmi Note 15 Roxo Purple 8GB RAM 256GB ROM (2510DRA23L)",
+    "image": "https://m.media-amazon.com/images/I/51UjEKPb1uL._AC_SL1000_.jpg",
+    "canonical": null,
+    "category": "Celulares e Smartphones",
+    "price_current": null,
+    "price_original": null,
+    "parcelamento": null,
+    "tem_selo_prime": true,
+    "tem_oferta": false,
+    "avaliacao": 4.7,
+    "qtd_avaliacoes": 2,
+    "coupon_code": null,
+    "description": "<ul><li>Para consultar a homologação do produto, acesse: sistemas.anatel.gov.br/sch.</li><li>Redmi Note 15 4G</li><li>Redmi Note 15 4G</li></ul>",
+    "informacoes_produto": {
+      "Sistema operacional": "hyperos",
+      "Memória RAM instalada": "8 GB",
+      "Capacidade de armazenamento da memória": "8 GB",
+      "Cor": "Roxo",
+      "Tipo de conector": "USB tipo C",
+      "Fator de forma": "Touch",
+      "Tamanho máximo suportado pela memória flash": "256 GB",
+      "Nome da marca": "XIAOMI",
+      "Ano do modelo": "2026",
+      "Componentes incluídos": "Cabo USB",
+      "Descrição da garantia": "90 dias",
+      "Fabricante": "Xiaomi",
+      "Usos específicos do produto": "Uso diário, entretenimento, redes sociais",
+      "Contagem de unidades": "1 Unidade",
+      "Certificação de teste externa": "ANATEL: 075022509185/ Model:2510DRA23L",
+      "ASIN": "B0H1NSD956",
+      "Tamanho da tela": "6,77 Polegadas",
+      "Resolução": "2392x1080",
+      "Taxa de atualização": "120",
+      "Tipo de tela": "AMOLED",
+      "Resolução máxima da tela": "2392x1080 pixels",
+      "Provedor de serviços sem fio": "Desbloqueado",
+      "Tecnologia de celular": "4G",
+      "Tecnologia de conectividade": "4G",
+      "Tecnologia de rede sem fios": "LTE",
+      "Resolução do sensor fotográfico frontal": "20 MP",
+      "Resolução do sensor fotográfico traseiro da câmara": "108 MP",
+      "Número de câmaras traseiras": "2",
+      "Número de Câmeras Frontais": "1",
+      "Capacidade da bateria": "6000 Milliamp Hours",
+      "Potência da bateria": "6000",
+      "Marca": "XIAOMI",
+      "Tamanho instalado da memória RAM": "8 GB"
+    },
+    "affiliate_url": "https://www.amazon.com.br/Smartphone-Xiaomi-Redmi-Purple-2510DRA23L/dp/B0H1NSD956/ref=zg_bsnr_g_16243890011_d_sccl_19/145-6471407-4196324?tag=mixdm22-20",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0H1YLBMMC",
+    "title": "Samsung Combo Galaxy S26 (256GB) - Preto + Galaxy Buds3 FE - Preto",
+    "image": "https://m.media-amazon.com/images/I/413mOzp2Z0L._AC_SL1000_.jpg",
+    "canonical": null,
+    "category": "Celulares e Smartphones",
+    "price_current": null,
+    "price_original": null,
+    "parcelamento": null,
+    "tem_selo_prime": true,
+    "tem_oferta": false,
+    "avaliacao": 4.8,
+    "qtd_avaliacoes": 1,
+    "coupon_code": null,
+    "description": "<ul><li>Para consultar a homologação do produto, acesse: sistemas.anatel.gov.br/sch.</li><li>1 Galaxy S26 (256GB) - Preto</li><li>1 Galaxy Buds3 FE - Preto</li><li>1 Galaxy S26 (256GB) - Preto</li><li>1 Galaxy Buds3 FE - Preto</li></ul>",
+    "informacoes_produto": {
+      "Sistema operacional": "Android 16.0",
+      "Memória RAM instalada": "12 GB",
+      "Capacidade de armazenamento da memória": "256 GB",
+      "Cor": "Preto",
+      "Tipo de conector": "USB tipo C",
+      "Fator de forma": "Barra",
+      "Funcionalidade de segurança biométrica": "Reconhecimento de impressões digitais",
+      "Nome da marca": "Samsung",
+      "Ano do modelo": "2026",
+      "Componentes incluídos": "Galaxy S26 (256GB) - Preto + Galaxy Buds3 FE - Preto",
+      "Descrição da garantia": "12 meses",
+      "Fabricante": "SAMSUNG ELETRÔNICA DA AMAZÔNIA LTDA",
+      "Certificação de teste externa": "ANATEL: 074042500953 / MODEL: SM-S942B/DS",
+      "ASIN": "B0H1YLBMMC",
+      "Tamanho da tela": "6,3 Polegadas",
+      "Resolução": "FHD+",
+      "Tipo de tela": "AMOLED",
+      "Resolução máxima da tela": "2340x1080 Pixels",
+      "Provedor de serviços sem fio": "Desbloqueado",
+      "Tecnologia de celular": "5G",
+      "Tecnologia de conectividade": "Bluetooth, NFC, USB, Wi-fi",
+      "Resolução do sensor fotográfico frontal": "12 MP",
+      "Zoom digital": "30 x",
+      "Capacidade da bateria": "4300 Milliamp Hours",
+      "Potência da bateria": "4300 Milliamp Hours",
+      "Marca": "Samsung",
+      "Tamanho instalado da memória RAM": "12 GB"
+    },
+    "affiliate_url": "https://www.amazon.com.br/Samsung-Combo-Galaxy-S26-256GB/dp/B0H1YLBMMC/ref=zg_bsnr_g_16243890011_d_sccl_23/145-6471407-4196324?tag=mixdm22-20",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0H1SLW7L1",
+    "title": "Smartphone Xiaomi Poco X7 5G NFC Black (Preto) 12GB RAM 512GB ROM",
+    "image": "https://m.media-amazon.com/images/I/51NngRdz8SL._AC_SL1000_.jpg",
+    "canonical": null,
+    "category": "Celulares e Smartphones",
+    "price_current": null,
+    "price_original": null,
+    "parcelamento": null,
+    "tem_selo_prime": true,
+    "tem_oferta": false,
+    "avaliacao": 4.7,
+    "qtd_avaliacoes": 2,
+    "coupon_code": null,
+    "description": "<ul><li>Para consultar a homologação do produto, acesse: sistemas.anatel.gov.br/sch.</li><li>Poco X7 12GB 512GB</li><li>Poco X7 12GB 512GB</li></ul>",
+    "informacoes_produto": {
+      "Sistema operacional": "HyperOS",
+      "Memória RAM instalada": "12 GB",
+      "Capacidade de armazenamento da memória": "12 GB",
+      "Cor": "Preto",
+      "Tipo de conector": "USB tipo C",
+      "Fator de forma": "Touch",
+      "Funcionalidade de segurança biométrica": "Reconhecimento facial e de impressões digitais",
+      "Tamanho máximo suportado pela memória flash": "512 GB",
+      "Resolução do sensor fotográfico frontal": "20 MP",
+      "Número de câmaras traseiras": "3",
+      "Número de Câmeras Frontais": "1",
+      "Capacidade da bateria": "5110 Milliamp Hours",
+      "Potência da bateria": "5110",
+      "Tamanho da tela": "6,67 Polegadas",
+      "Resolução": "1220x2712",
+      "Tipo de tela": "AMOLED",
+      "Provedor de serviços sem fio": "Desbloqueado",
+      "Tecnologia de celular": "5G",
+      "Tecnologia de conectividade": "5G, NFC",
+      "Nome da marca": "XIAOMI",
+      "Ano do modelo": "2025",
+      "Componentes incluídos": "Cabo USB",
+      "Descrição da garantia": "90 dias",
+      "Fabricante": "Xiaomi",
+      "Usos específicos do produto": "Fotografia, entretenimento, multitarefa",
+      "Certificação de teste externa": "ANATEL: 086532409185/ Modelo:24095PCADG",
+      "ASIN": "B0H1SLW7L1",
+      "Marca": "XIAOMI",
+      "Tamanho instalado da memória RAM": "12 GB"
+    },
+    "affiliate_url": "https://www.amazon.com.br/Smartphone-Xiaomi-Black-Preto-512GB/dp/B0H1SLW7L1/ref=zg_bsnr_g_16243890011_d_sccl_26/145-6471407-4196324?tag=mixdm22-20",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0CW9MHHHT",
+    "title": "Motorola G34 5G (azul gelo, 4 GB de RAM, 128 GB de armazenamento) (Seminovo)",
+    "image": "https://m.media-amazon.com/images/I/718zShPNUqL._AC_SL1500_.jpg",
+    "canonical": null,
+    "category": "Celulares e Smartphones",
+    "price_current": null,
+    "price_original": null,
+    "parcelamento": null,
+    "tem_selo_prime": true,
+    "tem_oferta": false,
+    "avaliacao": 4.6,
+    "qtd_avaliacoes": null,
+    "coupon_code": null,
+    "description": "<ul><li>Para consultar a homologação do produto, acesse: sistemas.anatel.gov.br/sch.</li><li>Produto usado e verificado em ótimo estado, inspecionado, testado e reparado conforme necessário para garantir perfeito funcionamento. Consulte a condição do produto nessa página.</li><li>Incluem todos os acessórios do modelo novo equivalente, exceto para smartphones. A embalagem do produto pode ser a original ou uma caixa de papelão.</li><li>Produto usado e verificado em ótimo estado, inspecionado, testado e reparado conforme necessário para garantir perfeito funcionamento. Consulte a condição do produto nessa página.</li><li>Incluem todos os acessórios do modelo novo equivalente, exceto para smartphones. A embalagem do produto pode ser a original ou uma caixa de papelão.</li></ul>",
+    "informacoes_produto": {
+      "Capacidade de armazenamento da memória": "128 GB",
+      "Entrada de interface humana": "Tela tátil",
+      "Características especiais": "Acelerômetro, Bluetooth, Carregamento rápido, Câmera, Câmera dupla, Câmera frontal, Câmera primária, Desbloqueio facial, GPS, Internet, Scanner de impressões digitais, Sensor de luz, Sensor de proximidade, Tela sensível ao toque, USB, Wifi",
+      "Nome da marca": "Motorola",
+      "Ano do modelo": "2023",
+      "Descrição da garantia": "Garantia limitada de 90 dias",
+      "Fabricante": "Motorola",
+      "UPC": "786513717436",
+      "Certificação de teste externa": "203412300330",
+      "ASIN": "B0CW9MHHHT",
+      "Tamanho da tela": "6,34 Polegadas",
+      "Proporção de aspecto": "16:9",
+      "Provedor de serviços sem fio": "Todas as Operadoras",
+      "Capacidade da bateria": "5000 Milliamp Hours",
+      "Peso do item": "180 Gramas",
+      "Dimensões do artigo": "16,3 x 7,5 x 0,8 centímetros",
+      "Marca": "Motorola",
+      "Nome do modelo": "Motorola moto G34 5G",
+      "Operadora de celulares e tecnologia sem fio": "Todas as Operadoras"
+    },
+    "affiliate_url": "https://www.amazon.com.br/Motorola-azul-gelo-armazenamento-Seminovo/dp/B0CW9MHHHT/ref=zg_bsnr_g_16243890011_d_sccl_27/145-6471407-4196324?tag=mixdm22-20",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0GZQ2CSC4",
+    "title": "Smartphone Motorola Razr Fold 5G - 1TB 32GB (16GB RAM+16GB Ram Boost), Tela interna 8.1\" e externa 6.6”, extreme AMOLED, 3 câ",
+    "image": "https://m.media-amazon.com/images/I/5164ZPrRJGL._AC_SL1000_.jpg",
+    "canonical": null,
+    "category": "Celulares e Smartphones",
+    "price_current": null,
+    "price_original": null,
+    "parcelamento": null,
+    "tem_selo_prime": true,
+    "tem_oferta": false,
+    "avaliacao": 4.3,
+    "qtd_avaliacoes": null,
+    "coupon_code": null,
+    "description": "<ul><li>Para consultar a homologação do produto, acesse: sistemas.anatel.gov.br/sch.</li><li>A melhor câmera do mundo em um dobrável*</li><li>A melhor bateria da categoria*</li><li>Brilho e fluidez de imagem na maior tela Extreme AMOLED da categoria*</li><li>O ápice da produtividade</li><li>Resistência que inspira confiança*</li><li>A melhor câmera do mundo em um dobrável*</li><li>A melhor bateria da categoria*</li><li>Brilho e fluidez de imagem na maior tela Extreme AMOLED da categoria*</li><li>O ápice da produtividade</li><li>Resistência que inspira confiança*</li></ul>",
+    "informacoes_produto": {
+      "Sistema operacional": "Android 16",
+      "Memória RAM instalada": "16 GB",
+      "Capacidade de armazenamento da memória": "1024 GB",
+      "Cor": "Branco",
+      "Tipo de conector": "USB tipo C",
+      "Fator de forma": "Barra",
+      "Nome da marca": "Motorola",
+      "Ano do modelo": "2026",
+      "Componentes incluídos": "01 CABO USB-C/ USB-C, 01 CAPA PROTETORA, 01 CARREGADOR TURBOPOWER™ 90 W, 01 ESTOJO DE CARREGAMENTO, 01 FERRAMENTA DE REMOÇÃO DO CHIP, 01 KIT DE MANUAIS, 01 MOTO PEN ULTRA, 01 Telefone",
+      "Descrição da garantia": "12 Meses",
+      "Fabricante": "Motorola",
+      "Usos específicos do produto": "fotografia, trabalho",
+      "Contagem de unidades": "1 Count",
+      "Certificação de teste externa": "ANATEL: 08337-25-00330/ Modelo: XT2651-1",
+      "ASIN": "B0GZQ2CSC4",
+      "Tamanho da tela": "6,6 Polegadas",
+      "Taxa de atualização": "165",
+      "Tipo de tela": "Extreme AMOLED",
+      "Resolução máxima da tela": "1080 x 2520",
+      "Densidade do pixel de exibição": "418 Pixels por polegada (PPI)",
+      "Provedor de serviços sem fio": "Todas as Operadoras",
+      "Tecnologia de celular": "5G",
+      "Tecnologia de conectividade": "Bluetooth, NFC, Wi-fi",
+      "Resolução do sensor fotográfico frontal": "32 MP",
+      "Resolução do sensor fotográfico traseiro da câmara": "50 MP",
+      "Número de câmaras traseiras": "3",
+      "Capacidade da bateria": "6000 Milliamp Hours",
+      "Potência da bateria": "6000.0",
+      "Marca": "Motorola",
+      "Tamanho instalado da memória RAM": "16 GB"
+    },
+    "affiliate_url": "https://www.amazon.com.br/Smartphone-Motorola-Razr-Fold-5G/dp/B0GZQ2CSC4/ref=zg_bsnr_g_16243890011_d_sccl_30/145-6471407-4196324?tag=mixdm22-20",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0FCW79ZM3",
+    "title": "Notebook Lenovo IdeaPad Slim 3 Core i5-13420H 8GB 512GB SSD Tela 15.3\" Touch Screen - 83NS000ABR W11",
+    "image": "https://m.media-amazon.com/images/I/61adtOg0TUL._AC_SL1000_.jpg",
+    "canonical": null,
+    "category": "Computadores e Informática",
+    "price_current": null,
+    "price_original": 4699.0,
+    "parcelamento": null,
+    "tem_selo_prime": true,
+    "tem_oferta": false,
+    "avaliacao": 4.6,
+    "qtd_avaliacoes": 470,
+    "coupon_code": null,
+    "description": "<ul><li>Notebook fino e potente com processadores Intel de 13.ª geração. Tela WUXGA de 15.3\", bateria de 10 horas, carregamento rápido</li><li>Tela 15.3\" (1920x1200) com Touch</li><li>Processador Intel Core i5-13420H</li><li>Memória RAM 8GB</li><li>Armazenamento 512GB SSD</li></ul>",
+    "informacoes_produto": {
+      "Cor": "Cinza",
+      "Tamanho do disco rígido": "512 GB",
+      "Sistema operacional": "Windows 11 Home",
+      "Descrição da placa de vídeo": "Integrated Intel UHD Graphics",
+      "Descrição do disco rígido": "SSD",
+      "Peso do item": "1,59 Quilogramas",
+      "Fabricante da placa de vídeo": "Intel",
+      "Usos específicos do produto": "Negócios",
+      "Capacidade da câmara web": "Não",
+      "Software incluso": "Lenovo Vantage",
+      "Fator de forma": "Ultra-portátil",
+      "Ram de placa de vídeo": "Shared",
+      "Dispositivos compatíveis": "Displays externos, mouse, teclados, dispositivos de armazenamento, impressoras",
+      "Dimensões do item C x L x Espessura": "34,3C x 2L x 23,6Espessura centímetros",
+      "Dispositivo de armazenamento óptico": "Não tem",
+      "Saída de vídeo": "DisplayPort, HDMI",
+      "Tamanho da tela": "15,3 Polegadas",
+      "Resolução": "1920x1200",
+      "Resolução nativa": "1920 x 1200 pixels",
+      "Tipo de tela": "LCD",
+      "Resolução máxima da tela": "1920x1200 Pixels",
+      "Tecnologia da tela": "TFT LCD",
+      "Tipo de tela sensível ao toque": "Touch",
+      "Tecnologia de conectividade": "Bluetooth, Wi-Fi",
+      "Norma de comunicação sem fio": "802.11ac",
+      "Suporte para Bluetooth?": "Não",
+      "Duração da bateria": "10 Horas",
+      "Duração média da bateria em espera": "10 Horas",
+      "Conteúdo de energia da bateria de lítio": "50 Watt-hora",
+      "Descrição do alto-falante": "Alto-falantes, 2W x2, otimizado com Dolby Audio",
+      "Modelo da CPU": "Intel Core i5",
+      "Velocidade da CPU": "2,1 GHz",
+      "Contagem de processadores": "1",
+      "Fabricante do modelo da CPU": "Intel",
+      "Número do modelo da CPU": "Intel Core i5-13420H",
+      "Geração do Modelo da CPU": "13ª Geração",
+      "Velocidade máxima do modelo de CPU": "4,6 GHz",
+      "Cache L1 da CPU": "12 MB",
+      "Nome da marca": "Lenovo",
+      "Nome do modelo": "IdeaPad Slim 3 15IRH10",
+      "Ano do modelo": "2025",
+      "Número do modelo": "83NS000ABR",
+      "Componentes incluídos": "1 notebook e cabo de energia",
+      "Fabricante": "Lenovo",
+      "UPC": "198158760041",
+      "Descrição da garantia": "1 ano",
+      "Certificação de teste externa": "06970-18-04423",
+      "ASIN": "B0FCW79ZM3",
+      "Memória RAM instalada": "8 GB",
+      "Tecnologia de memória RAM": "DDR5",
+      "Tamanho máximo da memória RAM": "8 GB",
+      "Tipo de RAM": "RAM DDR5",
+      "Total de portas USB": "3",
+      "Número de portas": "4",
+      "Entrada de interface humana": "Tela tátil",
+      "Descrição do teclado": "Padrão brasileiro",
+      "Marca": "Lenovo",
+      "Tamanho instalado da memória RAM": "8 GB"
+    },
+    "affiliate_url": "https://www.amazon.com.br/Notebook-Lenovo-IdeaPad-i5-13420H-Screen/dp/B0FCW79ZM3/ref=zg_bs_g_computers_d_sccl_21/145-6471407-4196324?tag=mixdm22-20",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B07574RT3C",
+    "title": "MONDIAL Aquecedor A Ar, Cinza/Branco, 1500W, 110V - A-08",
+    "image": "https://m.media-amazon.com/images/I/61Af2D6mMzL._AC_SL1000_.jpg",
+    "canonical": null,
+    "category": "Ferramentas e Materiais de Construção",
+    "price_current": null,
+    "price_original": 169.9,
+    "parcelamento": null,
+    "tem_selo_prime": true,
+    "tem_oferta": false,
+    "avaliacao": 4.4,
+    "qtd_avaliacoes": 11911,
+    "coupon_code": null,
+    "description": "<ul><li>3 EM 1: Aquece, circula e desumidifica o ar, garantindo um ambiente quentinho e confortável.</li><li>2 NÍVEIS DE AQUECIMENTO: Controle a temperatura de acordo com sua preferência.</li><li>TRIPLO SISTEMA DE SEGURANÇA: Proteção contra superaquecimento.</li><li>MAIS SILENCIOSO: Aquece o ambiente com baixo ruído e proporciona noites tranquilas e agradáveis.</li><li>3 EM 1: Aquece, circula e desumidifica o ar, garantindo um ambiente quentinho e confortável.</li><li>2 NÍVEIS DE AQUECIMENTO: Controle a temperatura de acordo com sua preferência.</li><li>TRIPLO SISTEMA DE SEGURANÇA: Proteção contra superaquecimento.</li><li>MAIS SILENCIOSO: Aquece o ambiente com baixo ruído e proporciona noites tranquilas e agradáveis.</li><li>110.0 Volts</li><li>220.0 Volts</li></ul>",
+    "informacoes_produto": {
+      "Características especiais": "Leve, Portátil, Silencioso",
+      "Fator de forma": "Torre",
+      "Utilização interior, exterior": "Área interna",
+      "Fonte de energia": "Elétrico com fio",
+      "Método de aquecimento": "Convecção",
+      "Usos recomendados do produto": "Casa",
+      "Tipo de montagem": "Montagem no chão",
+      "Tipo de sala": "Quarto",
+      "Tipo de combustível": "Elétrico",
+      "Número de velocidades": "2",
+      "Voltagem": "110 Volts",
+      "Amperagem": "20 Amperes",
+      "Compatibilidade com Casa Inteligente": "Não Compatível com Casa Inteligente",
+      "Cor": "Cinza",
+      "Nome da marca": "MONDIAL",
+      "Número do modelo": "A-08",
+      "Ano de fabricação": "1900",
+      "Número da peça": "A-08",
+      "Nome do Tipo de Produto": "Aquecedor a Ar",
+      "Fabricante": "Mondial",
+      "Componentes incluídos": "1 Aquecedor, 1 Manual de Instruções",
+      "ASIN": "B07574RT3C",
+      "Dimensões do item P x L x A": "13,4P x 22L x 26,4A centímetros",
+      "Marca": "MONDIAL",
+      "Ambiente interno/externo": "Área interna"
+    },
+    "affiliate_url": "https://www.amazon.com.br/08-Aquecedor-127V-Mondial-Cinza/dp/B07574RT3C/ref=zg_bs_g_hi_d_sccl_1/145-6471407-4196324?tag=mixdm22-20",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0785W3BLR",
+    "title": "Resistência Acqua Ultra 220V 7800W 3065B, Lorenzetti, 7589117, Metal, Pequeno",
+    "image": "https://m.media-amazon.com/images/I/51QaCWJx86L._AC_SL1000_.jpg",
+    "canonical": null,
+    "category": "Ferramentas e Materiais de Construção",
+    "price_current": null,
+    "price_original": 68.0,
+    "parcelamento": null,
+    "tem_selo_prime": true,
+    "tem_oferta": false,
+    "avaliacao": 4.6,
+    "qtd_avaliacoes": 10561,
+    "coupon_code": null,
+    "description": "<ul><li>Resistência compatível com o produto da Linha Acqua Ultra 220V 7800W</li><li>Cada produto é desenvolvido com fiação interna para suportar uma determinada voltagem e potência não coloque uma resistência diferentes do padrão desenvolvido para seu produto</li><li>Marca: Lorenzetti</li><li>ATENÇÃO: Cada produto é desenvolvido com fiação interna para suportar uma determinada Voltagem e Potência. Nunca coloque uma resistência que tenha características diferentes do padrão desenvolvido para seu produto. As informações sobre Voltagem e Potência podem ser encontrados no próprio corpo do produto ou na embalagem do mesmo.</li><li>Resistência compatível com o produto da Linha Acqua Ultra 220V 7800W</li><li>Cada produto é desenvolvido com fiação interna para suportar uma determinada voltagem e potência não coloque uma resistência diferentes do padrão desenvolvido para seu produto</li><li>Marca: Lorenzetti</li><li>ATENÇÃO: Cada produto é desenvolvido com fiação interna para suportar uma determinada Voltagem e Potência. Nunca coloque uma resistência que tenha características diferentes do padrão desenvolvido para seu produto. As informações sobre Voltagem e Potência podem ser encontrados no próprio corpo do produto ou na embalagem do mesmo.</li></ul>",
+    "informacoes_produto": {
+      "Tipo de instalação": "Elátrica/Hidráulica",
+      "Número de jatos": "1",
+      "Tipo de fixação": "Chuva",
+      "Nome da marca": "LORENZETTI",
+      "Número do modelo": "7589117",
+      "Número da peça": "7589117",
+      "Nome do Tipo de Produto": "Resistência Acqua Ultra",
+      "Fabricante": "Lorenzetti",
+      "Componentes incluídos": "Resistência.",
+      "ASIN": "B0785W3BLR",
+      "Estilo": "Moderno",
+      "Formato do item": "Retangular",
+      "Tipo de acabamento": "Metal",
+      "Cor": "Metal",
+      "Material": "Metal",
+      "Dimensões do item C x L": "19,6C x 13,4L centímetros",
+      "Unidade de comprimento da mangueira": "3,5 Centímetros",
+      "Marca": "LORENZETTI",
+      "Forma": "Retangular"
+    },
+    "affiliate_url": "https://www.amazon.com.br/Resist%C3%AAncia-Acqua-Lorenzetti-7589117-Pequeno/dp/B0785W3BLR/ref=zg_bs_g_hi_d_sccl_27/145-6471407-4196324?tag=mixdm22-20",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B09B2LHKKS",
+    "title": "Giovanna Baby - Desodorante Corporal Giovanna Baby 260Ml Body Splash Blue",
+    "image": "https://m.media-amazon.com/images/I/512JJJTgrPL._AC_SL1500_.jpg",
+    "canonical": null,
+    "category": "perfumes",
+    "price_current": null,
+    "price_original": null,
+    "parcelamento": null,
+    "tem_selo_prime": true,
+    "tem_oferta": false,
+    "avaliacao": 4.3,
+    "qtd_avaliacoes": 1126,
+    "coupon_code": null,
+    "description": "<ul><li>Lenço umedecido geriátrica</li><li>Biofral</li><li>Cuidados pessoais</li><li>Tipo de produto: SHAMPOO</li><li>Lenço umedecido geriátrica</li><li>Biofral</li><li>Cuidados pessoais</li><li>Tipo de produto: SHAMPOO</li></ul>",
+    "informacoes_produto": {
+      "Formato do item": "Creme",
+      "Aroma": "Blue",
+      "Additional Features": "Antialergico, Testado Dermatologicamente",
+      "Volume do item": "260 Mililitros",
+      "Peso do item": "259 Gramas",
+      "Quantidade de itens": "1",
+      "Contagem de unidades": "260 Mililitro",
+      "Livre de tipo de material": "Antialergico, Testado Dermatologicamente",
+      "Características do material": "Antialergico, Testado Dermatologicamente",
+      "Nome da marca": "Giovanna Baby",
+      "Descrição da faixa etária": "Bebê",
+      "Número de identificação de comércio internacional": "07896044997191",
+      "Número da peça": "7896044997191",
+      "Fabricante": "Giovanna Baby",
+      "Nome do Tipo de Produto": "Body Splashampoo Giovanna Baby Blue",
+      "ASIN": "B09B2LHKKS",
+      "Marca": "Giovanna Baby",
+      "Forma do produto": "Creme",
+      "Volume do produto": "260 Mililitros",
+      "Características especiais": "Antialergico, Testado Dermatologicamente"
+    },
+    "affiliate_url": "https://www.amazon.com.br/Giovanna-Baby-Desodorante-Corporal-Splash/dp/B09B2LHKKS/ref=zg_bs_g_16754347011_d_sccl_11/145-6471407-4196324?tag=mixdm22-20",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B07F6RDZ67",
+    "title": "Pom Pom Água De Colônia 100Ml",
+    "image": "https://m.media-amazon.com/images/I/51zudXpBbRL._AC_SL1500_.jpg",
+    "canonical": null,
+    "category": "perfumes",
+    "price_current": null,
+    "price_original": null,
+    "parcelamento": null,
+    "tem_selo_prime": true,
+    "tem_oferta": false,
+    "avaliacao": 4.8,
+    "qtd_avaliacoes": 1771,
+    "coupon_code": null,
+    "description": "<ul><li>Não irrita a pele do bebê</li><li>Sem álcool etílico</li><li>Testado dermatologicamente</li><li>Origem: BR</li><li>Não irrita a pele do bebê</li><li>Sem álcool etílico</li><li>Testado dermatologicamente</li><li>Origem: BR</li></ul>",
+    "informacoes_produto": {
+      "Formato do item": "Líquido",
+      "Aroma": "Suave",
+      "Concentração de fragrância": "Eau de Cologne",
+      "Volume do item": "100 Mililitros",
+      "Peso do item": "124 Gramas",
+      "Quantidade de itens": "1",
+      "Contagem de unidades": "100 mililitro",
+      "Nome da marca": "Pom Pom",
+      "Descrição da faixa etária": "Bebê",
+      "Nome do modelo": "Água de Colônia Pom Pom",
+      "Número do modelo": "16235-0",
+      "Número da peça": "16235-0",
+      "Fabricante": "Ontex Brasil",
+      "Nome do Tipo de Produto": "Água de Colônia, Pom Pom, Azul",
+      "ASIN": "B07F6RDZ67",
+      "Marca": "Pom Pom",
+      "Forma do produto": "Líquido",
+      "Volume do produto": "100 Mililitros"
+    },
+    "affiliate_url": "https://www.amazon.com.br/%C3%81gua-Col%C3%B4nia-Pom-Azul/dp/B07F6RDZ67/ref=zg_bs_g_16754347011_d_sccl_15/145-6471407-4196324?tag=mixdm22-20",
+    "last_checked_at": "2026-07-18T15:09:03.000Z",
     "spotlight": false
   }
 ];
