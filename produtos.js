@@ -39,7 +39,7 @@ const PRODUCTS = [
       "Elementos de aquecimento": "2"
     },
     "affiliate_url": "https://www.amazon.com.br/El%C3%A9trico-Port%C3%A1til-Cooktop-Elgin-Double/dp/B0DCLXRD5X/ref=zg_bs_g_appliances_d_sccl_1/146-4713483-2937012?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -85,7 +85,7 @@ const PRODUCTS = [
       "Dimensões do produto": "48P x 60L x 8,5A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/SUGGAR-DEPURADOR-SLIM-PRETO-DPS161PT/dp/B0B3SJ345V/ref=zg_bs_g_appliances_d_sccl_2/146-4713483-2937012?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -122,7 +122,7 @@ const PRODUCTS = [
       "Disponível para compra desde": "28 agosto 2025"
     },
     "affiliate_url": "https://www.amazon.com.br/Ajust%C3%A1vel-Telesc%C3%B3pico-Antiderrapante-Deslizante-Silencioso/dp/B0FP1251TD/ref=zg_bs_g_appliances_d_sccl_3/146-4713483-2937012?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -170,7 +170,7 @@ const PRODUCTS = [
       "Dimensões do produto": "48P x 80L x 8,5A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/SUGGAR-DEPURADOR-SLIM-PRETO-DPS182PT/dp/B0B3SJ8YLP/ref=zg_bs_g_appliances_d_sccl_4/146-4713483-2937012?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -209,7 +209,7 @@ const PRODUCTS = [
       "Característica do material": "Perfumado"
     },
     "affiliate_url": "https://www.amazon.com.br/Dover-Roll-Defense-Banheiro-Lil%C3%A1s-510022028/dp/B0876YDWVC/ref=zg_bs_g_appliances_d_sccl_5/146-4713483-2937012?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -259,7 +259,50 @@ const PRODUCTS = [
       "Local de acesso": "Carga superior"
     },
     "affiliate_url": "https://www.amazon.com.br/Lavadora-Roupas-Electrolux-LES11-Essencial/dp/B084R94R4S/ref=zg_bs_g_appliances_d_sccl_6/146-4713483-2937012?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B00DCTI47M",
+    "title": "Máquina de Lavar Panasonic 15kg Titânio 127v NA-F150B1T",
+    "image": "https://m.media-amazon.com/images/I/61aihS5uIXL._AC_SL1500_.jpg",
+    "canonical": null,
+    "category": "Eletrodomésticos",
+    "price_current": 2157.38,
+    "price_original": 2599,
+    "discount_percentage": null,
+    "tem_selo_prime": false,
+    "tem_oferta": true,
+    "avaliacao": 4.6,
+    "qtd_avaliacoes": 223,
+    "coupon_code": null,
+    "description": "<ul><li>Lavadora 15kg com a melhor lavagem e o menor consumo de água da categoria, segundo o Inmetro</li><li>Cor titânio, design moderno que se adapta a diversos ambientes</li><li>Menor consumo de água da categoria, conforme certificado pelo Inmetro</li></ul>",
+    "informacoes_produto": {
+      "Capacidade": "15 quilogramas",
+      "Características especiais": "Alta eficiência",
+      "Local do acesso": "Carga frontal",
+      "Tipo de acabamento": "Titânio",
+      "Opções de ciclo": "Vanish, Vanish Branco mais Branco",
+      "Modo de operação": "Totalmente automático",
+      "Voltagem": "127 Volts",
+      "Tipo de instalação": "Independente",
+      "Dimensões do item P x L x A": "69P x 60L x 105A centímetros",
+      "Material do tambor do aparelho de lavagem de roupa": "Titanio",
+      "Cor": "Titânio",
+      "Nome da marca": "Panasonic",
+      "Componentes incluídos": "Mangueira de drenagem",
+      "Fabricante": "PANASONIC",
+      "Número do modelo": "NA-F150B1TA",
+      "Número da peça": "1",
+      "Descrição da garantia": "12 meses",
+      "Nome do Tipo de Produto": "MAQUINA DE LAVAR",
+      "ASIN": "B00DCTI47M",
+      "Dimensões do produto": "69P x 60L x 105A centímetros",
+      "Marca": "Panasonic",
+      "Local de acesso": "Carga frontal"
+    },
+    "affiliate_url": "https://www.amazon.com.br/Panasonic-M%C3%A1quina-Lavar-Tit%C3%A2nio-NA-F150B1T/dp/B00DCTI47M/ref=zg_bs_g_appliances_d_sccl_7/146-4195612-0631345?tag=mixdm22-20",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -302,7 +345,7 @@ const PRODUCTS = [
       "Dimensões do produto": "40C x 50L x 0,3A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/Oikos-conjunto-m%C3%A1quina-roupas-delicadas/dp/B086WWQX1S/ref=zg_bs_g_appliances_d_sccl_7/146-4713483-2937012?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -355,7 +398,7 @@ const PRODUCTS = [
       "Local de acesso": "Carga superior"
     },
     "affiliate_url": "https://www.amazon.com.br/M%C3%A1quina-Lavar-Electrolux-Essential-Filter/dp/B09B8VWZRG/ref=zg_bs_g_appliances_d_sccl_9/146-4713483-2937012?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -395,7 +438,7 @@ const PRODUCTS = [
       "Forma": "Redondo"
     },
     "affiliate_url": "https://www.amazon.com.br/Artist-Estabilizar-Eletrodom%C3%A9sticos-Antivibra%C3%A7%C3%A3o-Anti-Deslocamento/dp/B08NWQHGR4/ref=zg_bs_g_appliances_d_sccl_10/146-4713483-2937012?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -438,7 +481,7 @@ const PRODUCTS = [
       "Dimensões do produto": "64,5P x 64,5L x 87,1A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/Electrolux-Lava-Lou%C3%A7a-Servi%C3%A7os-Programa-LS14E/dp/B0FLQJJ47J/ref=zg_bs_g_appliances_d_sccl_11/146-4713483-2937012?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -490,7 +533,7 @@ const PRODUCTS = [
       "Local de acesso": "Carga superior"
     },
     "affiliate_url": "https://www.amazon.com.br/Lavadora-Electrolux-LED15-Essential-Filter/dp/B09B8W3KQP/ref=zg_bs_g_appliances_d_sccl_17/146-4713483-2937012?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -524,7 +567,7 @@ const PRODUCTS = [
       "Marca": "SOFT"
     },
     "affiliate_url": "https://www.amazon.com.br/Refil-Filtro-Purificador-Everest-Original/dp/B07CZ3R2P8/ref=zg_bs_g_appliances_d_sccl_12/146-4713483-2937012?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -575,7 +618,7 @@ const PRODUCTS = [
       "Descontinuado pelo fabricante": "Não"
     },
     "affiliate_url": "https://www.amazon.com.br/Protetor-Contra-Energia-Freezer-Geladeira/dp/B0798XT2VK/ref=zg_bs_g_appliances_d_sccl_14/146-4713483-2937012?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -611,7 +654,7 @@ const PRODUCTS = [
       "Marca": "Neri Shop"
     },
     "affiliate_url": "https://www.amazon.com.br/Capa-Brastemp-Eletrolux-Imperme%C3%A1vel-Resistente/dp/B0D7NPF9Z2/ref=zg_bs_g_appliances_d_sccl_13/146-4713483-2937012?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -662,7 +705,7 @@ const PRODUCTS = [
       "Fonte de alimentação": "Alimentado a gás"
     },
     "affiliate_url": "https://www.amazon.com.br/MONDIAL-Cooktop-Bocas-Preto-Bivolt/dp/B085JFRRSW/ref=zg_bs_g_appliances_d_sccl_16/146-4713483-2937012?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -712,7 +755,7 @@ const PRODUCTS = [
       "Local de acesso": "Carga superior"
     },
     "affiliate_url": "https://www.amazon.com.br/SUGGAR-LAVADORA-ROUPAS-LAVAMAX-LE2002BR/dp/B0BSR4QKZL/ref=zg_bs_g_appliances_d_sccl_15/146-4713483-2937012?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -759,7 +802,7 @@ const PRODUCTS = [
       "Fonte de alimentação": "Gás GLP/GN"
     },
     "affiliate_url": "https://www.amazon.com.br/Itatiaia-Essencial-Temperado-Acendimento-Autom%C3%A1tico/dp/B0B7C9HXGL/ref=zg_bs_g_appliances_d_sccl_18/146-4713483-2937012?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -806,7 +849,7 @@ const PRODUCTS = [
       "Dimensões do produto": "16P x 16L x 40A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/SUGGAR-DEPURADOR-SLIM-EMBUTIR-DE62IX/dp/B0816YJYQB/ref=zg_bs_g_appliances_d_sccl_19/146-4713483-2937012?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -858,7 +901,7 @@ const PRODUCTS = [
       "Fonte de alimentação": "Alimentado a gás"
     },
     "affiliate_url": "https://www.amazon.com.br/Fog%C3%A3o-Cooktop-Fischer-INFINITY-BIVOLT/dp/B07GWXBGYS/ref=zg_bs_g_appliances_d_sccl_20/146-4713483-2937012?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -897,7 +940,7 @@ const PRODUCTS = [
       "Dimensões do produto": "65P x 60L x 85A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/Lava-Seca-Samsung-Programas-Lavagem/dp/B0B61WJRY5/ref=zg_bs_g_appliances_d_sccl_21/146-4713483-2937012?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -944,7 +987,7 @@ const PRODUCTS = [
       "Local de acesso": "Carga superior"
     },
     "affiliate_url": "https://www.amazon.com.br/M%C3%A1quina-Branca-Brastemp-Sensor-Lavagem/dp/B0G3Y8Y619/ref=zg_bs_g_appliances_d_sccl_22/146-4713483-2937012?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -981,7 +1024,7 @@ const PRODUCTS = [
       "Disponível para compra desde": "3 outubro 2022"
     },
     "affiliate_url": "https://www.amazon.com.br/Rodinhas-Ajust%C3%A1vel-Geladeira-Resistente-Refor%C3%A7ado/dp/B0BTZBQDMC/ref=zg_bs_g_appliances_d_sccl_23/146-4713483-2937012?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -1029,7 +1072,7 @@ const PRODUCTS = [
       "Dimensões do produto": "48P x 80L x 8,5A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/SUGGAR-DEPURADOR-SLIM-80CM-DPS181IX/dp/B0B3SHRP7S/ref=zg_bs_g_appliances_d_sccl_25/146-4713483-2937012?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -1085,7 +1128,7 @@ const PRODUCTS = [
       "Marca": "Midea"
     },
     "affiliate_url": "https://www.amazon.com.br/Frigobar-Litros-Inverter-Bivolt-Midea/dp/B0FJJ3YY9B/ref=zg_bs_g_appliances_d_sccl_24/146-4713483-2937012?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -1123,7 +1166,7 @@ const PRODUCTS = [
       "Local de acesso": "Carga frontal"
     },
     "affiliate_url": "https://www.amazon.com.br/Secadora-Roupa-Mueller-Solaris-220V/dp/B07Q6LVF9J/ref=zg_bs_g_appliances_d_sccl_26/146-4713483-2937012?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -1176,7 +1219,7 @@ const PRODUCTS = [
       "Marca": "Midea"
     },
     "affiliate_url": "https://www.amazon.com.br/Frigobar-Litros-Inverter-Bivolt-Branco/dp/B0GJG36MCZ/ref=zg_bs_g_appliances_d_sccl_30/146-4713483-2937012?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -1217,7 +1260,7 @@ const PRODUCTS = [
       "Peso do produto": "19,5 Quilogramas"
     },
     "affiliate_url": "https://www.amazon.com.br/Freezer-Horizontal-Inverter-Bivolt-Midea/dp/B0FK163DY6/ref=zg_bs_g_appliances_d_sccl_27/146-4713483-2937012?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -1268,7 +1311,63 @@ const PRODUCTS = [
       "Local de acesso": "Superior"
     },
     "affiliate_url": "https://www.amazon.com.br/M%C3%A1quina-Lavar-CWN14AB-Modo-Consul/dp/B0GWFNV422/ref=zg_bs_g_appliances_d_sccl_29/146-4713483-2937012?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0DTZQP72X",
+    "title": "Geladeira Refrigerador HQ Frost Free Multidoor 426 Litros Prata HQ-426MDFF (127V)",
+    "image": "https://m.media-amazon.com/images/I/41gbp9oIJ5L._AC_SL1000_.jpg",
+    "canonical": null,
+    "category": "Eletrodomésticos",
+    "price_current": 3148.99,
+    "price_original": 4248.75,
+    "discount_percentage": null,
+    "tem_selo_prime": false,
+    "tem_oferta": true,
+    "avaliacao": 4.5,
+    "qtd_avaliacoes": 84,
+    "coupon_code": null,
+    "description": "<ul><li>Painel Digital Touch: Controle de temperatura independente, resfriamento e congelamento rápidos.</li><li>Classe A+++ de Economia: Máxima eficiência energética.</li><li>Design Sofisticado: Acabamento em aço inoxidável com tratamento antimarcas.</li><li>Tecnologia Frost Free: Mais tempo para você, sem preocupações com gelo acumulado.</li><li>Tecnologia Fresh Box: Gaveta para frutas e legumes com controle de umidade.</li></ul>",
+    "informacoes_produto": {
+      "Configuração": "Tamanho completo lado a lado",
+      "Características especiais": "Frost Free, Inverter",
+      "Número de portas": "4",
+      "Tipo de sistema de degelo": "Automático",
+      "Voltagem": "127 Volts",
+      "Tipo de prateleira": "Vidro",
+      "Fator de forma": "Lado a lado",
+      "Método de resfriamento": "Compressor",
+      "Número de prateleiras": "3",
+      "Controle de temperatura ajustável": "Sim",
+      "Orientação de abertura da porta": "Multidoor",
+      "Tem Congelador Conversível": "Não",
+      "É alimentado por energia elétrica?": "Sim",
+      "Fonte de energia": "Elétrico com fio",
+      "Cor": "Cinza",
+      "Dimensões do item P x L x A": "70P x 73L x 186A centímetros",
+      "Capacidade": "426 litros",
+      "Capacidade do freezer": "130 Litros",
+      "Peso do item": "72,5 Quilogramas",
+      "Consumo de energia anual": "363,6 Kilowatt Hours Per Year",
+      "Capacidade de comida fresca": "426 Litros",
+      "Tipo de instalação": "Independente",
+      "Especificação atendida": "Energy Star",
+      "Avaliação por estrelas do BEE": "4 Estrelas",
+      "Nome da marca": "HQ Screen",
+      "Nome do modelo": "HQ-426MDFF",
+      "Número do modelo": "HQ-426MDFF",
+      "Número da peça": "BCD-400WQYD",
+      "Componentes incluídos": "1 Geladeira",
+      "Fabricante": "HQ Screen",
+      "Descrição da garantia": "01 Ano (Sendo 3 meses de garantia legal e mais 9 meses de garantia para defeito de fabricação).",
+      "Nome do Tipo de Produto": "Geladeira",
+      "ASIN": "B0DTZQP72X",
+      "Dimensões do produto": "70P x 73L x 186A centímetros",
+      "Marca": "HQ Screen"
+    },
+    "affiliate_url": "https://www.amazon.com.br/Geladeira-Refrigerador-HQ-Multidoor-HQ-426MDFF/dp/B0DTZQP72X/ref=zg_bs_g_appliances_d_sccl_30/146-4195612-0631345?tag=mixdm22-20",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -1318,7 +1417,182 @@ const PRODUCTS = [
       "Local de acesso": "Carga frontal"
     },
     "affiliate_url": "https://www.amazon.com.br/SUGGAR-LAVADORA-ROUPAS-LAVAMAX-LE2002PT/dp/B0BSR4TZK2/ref=zg_bs_g_appliances_d_sccl_3/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B09B9D1YQV",
+    "title": "Lava Louças Electrolux 10 Serviços Inox com Função Higienizar Compras (LL10X) - 127V",
+    "image": "https://m.media-amazon.com/images/I/412XOE8WIvL._AC_SL1000_.jpg",
+    "canonical": null,
+    "category": "Eletrodomésticos",
+    "price_current": 3899,
+    "price_original": 4099.9,
+    "discount_percentage": null,
+    "tem_selo_prime": false,
+    "tem_oferta": true,
+    "avaliacao": 4.4,
+    "qtd_avaliacoes": 149,
+    "coupon_code": null,
+    "description": "<ul><li>HIGIENIZAR COMPRAS</li><li>ECONOMIZE 92% DE ÁGUA</li><li>HIGIENIZAR LOUÇA 70ºC</li><li>EXCLUSIVO PAINEL DIGITAL EXTERNO</li><li>PROGRAMA INTELIGENTE / AUTO SENSE</li></ul>",
+    "informacoes_produto": {
+      "Tipo de instalação": "Embutir",
+      "Capacidade": "9,5 litros",
+      "Características especiais": "Altura ajustável, Tela digital",
+      "Tipo de controles": "Toque",
+      "Nível de ruído": "1 Decibéis",
+      "Fator de forma": "Embutido",
+      "Voltagem": "110 Volts",
+      "Opções de ciclo": "Higienizar Compras, EcoPlus, Higienizar Louças",
+      "Número de engastes": "9",
+      "Número de ciclos de opções": "8",
+      "Frequência de operação": "60 Hz",
+      "Dimensões do item P x L x A": "45P x 44,8L x 61A centímetros",
+      "Peso do item": "41 Quilogramas",
+      "Cor": "Inox",
+      "Estilo": "Lava Louças",
+      "Nome da marca": "Electrolux",
+      "Componentes incluídos": "1 Lava Louças 10 Serviços Inox com Função Higienizar Compras Electrolux",
+      "Número do modelo": "LL10X",
+      "Fabricante": "Electrolux",
+      "Número da peça": "LL10X",
+      "Nome do Tipo de Produto": "Lava Louças",
+      "Descrição da garantia": "12 meses",
+      "ASIN": "B09B9D1YQV",
+      "Material": "Aço inoxidável",
+      "Tipo de acabamento": "Inox",
+      "Material da Prateleira da Lava-Louça": "Aço inoxidável",
+      "Marca": "Electrolux",
+      "Dimensões do produto": "45P x 44,8L x 61A centímetros"
+    },
+    "affiliate_url": "https://www.amazon.com.br/Lou%C3%A7as-Electrolux-Servi%C3%A7os-Higienizar-Compras/dp/B09B9D1YQV/ref=zg_bs_g_appliances_d_sccl_2/146-4195612-0631345?tag=mixdm22-20",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0DJ3C9MGL",
+    "title": "FISCHER COOKTOP À GÁS 5 BOCAS FIT LINE TREMPE ARAMADO MESA VIDRO PRETO BIVOLT 36360-102676",
+    "image": "https://m.media-amazon.com/images/I/61z8rB+9dEL._AC_SL1500_.jpg",
+    "canonical": null,
+    "category": "Eletrodomésticos",
+    "price_current": 437.13,
+    "price_original": 666.64,
+    "discount_percentage": null,
+    "tem_selo_prime": false,
+    "tem_oferta": true,
+    "avaliacao": 4.6,
+    "qtd_avaliacoes": 89,
+    "coupon_code": null,
+    "description": "<ul><li>Mesa de vidro temperado, proporciona um visual moderno que combina com diversos estilos de ambiente; Fundo compacto, otimiza o espaço do armário/nicho;</li><li>Manipuladores (botões) ergonômicos: Garantem conforto e precisão no manuseio; Acendimento superautomático: Praticidade no uso diário, girou, ligou;</li><li>Trempe estável com grande área de apoio, que proporciona maior segurança e estabilidade na hora de cozinhar;</li><li>5 queimadores: 1 queimador rápido (3.000 W) e 4 queimadores semirrápidos (1.750W); Câmara de gás fechada: a chama não se apaga com facilidade;</li></ul>",
+    "informacoes_produto": {
+      "Número de elementos de aquecimento": "5",
+      "Fonte de energia": "Gás GLP / GN",
+      "Tipo de combustível": "Gás GLP / GN",
+      "Características especiais": "Portátil, Queimador selado",
+      "Elemento de aquecimento": "Radiante",
+      "Tipo de controle": "Botão de pressão",
+      "Tipo de instalação": "Embutido",
+      "Voltagem": "110 Volts, 220 Volts",
+      "Potência": "10000 watts",
+      "Dimensões do item P x L x A": "46P x 68,5L x 12,6A centímetros",
+      "Peso do item": "8,4 Quilogramas",
+      "Tamanho": "68.5 cm x 46 cm",
+      "Cor": "PRETO",
+      "Nome da marca": "Fischer",
+      "Componentes incluídos": "01 Etiqueta Inmetro, 01 Etiqueta atenção gás, 01 Manual de instruções, 04 Tiras de espuma para vedação, Peças Móveis: Trempes individuais e Conjunto dos queimadores",
+      "Fabricante": "FISCHER",
+      "Número da peça": "1",
+      "Número do modelo": "36360-102676",
+      "Nome do Tipo de Produto": "COOKTOP À GÁS 5 BOCAS FIT LINE TREMPE ARAMADO",
+      "Descrição da garantia": "3 meses de garantia legal e 9 meses de garantia contratual",
+      "ASIN": "B0DJ3C9MGL",
+      "Material da superfície do aquecedor": "Vidro temperado",
+      "Material": "Vidro temperado",
+      "Marca": "Fischer",
+      "Elementos de aquecimento": "5",
+      "Fonte de alimentação": "Gás GLP / GN"
+    },
+    "affiliate_url": "https://www.amazon.com.br/FISCHER-COOKTOP-TREMPE-ARAMADO-36360-102676/dp/B0DJ3C9MGL/ref=zg_bs_g_appliances_d_sccl_3/146-4195612-0631345?tag=mixdm22-20",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0BH75ZS8Y",
+    "title": "COOKTOP ITATIAIA ESS 5Q TC 127/220V PTO",
+    "image": "https://m.media-amazon.com/images/I/51a2ogp-kVL._AC_SL1000_.jpg",
+    "canonical": null,
+    "category": "Eletrodomésticos",
+    "price_current": 422.99,
+    "price_original": 594.5,
+    "discount_percentage": null,
+    "tem_selo_prime": false,
+    "tem_oferta": true,
+    "avaliacao": 4.3,
+    "qtd_avaliacoes": 123,
+    "coupon_code": null,
+    "description": "<ul><li>Ignição automática, Configuração de calor</li></ul>",
+    "informacoes_produto": {
+      "Número de elementos de aquecimento": "3",
+      "Fonte de energia": "Gás GLP/GN",
+      "Tipo de combustível": "Gás natural",
+      "Características especiais": "Ignição automática, Configuração de calor",
+      "Elemento de aquecimento": "Gás GLP/GN",
+      "Tipo de controle": "Botão de pressão",
+      "Tipo de instalação": "Independente",
+      "Voltagem": "110.22",
+      "Dimensões do item P x L x A": "45P x 73L x 17A centímetros",
+      "Peso do item": "10,09 Quilogramas",
+      "Tamanho": "45 cm x 73 cm",
+      "Cor": "Preto",
+      "Nome da marca": "Itatiaia",
+      "Componentes incluídos": "Cooktop",
+      "Fabricante": "Itatiaia",
+      "Número do modelo": "3700000194",
+      "Nome do Tipo de Produto": "Cooktop",
+      "Descrição da garantia": "90 dias",
+      "ASIN": "B0BH75ZS8Y",
+      "Material da superfície do aquecedor": "Vidro temperado",
+      "Material": "Vidro Temperado 6mm",
+      "Marca": "Itatiaia",
+      "Elementos de aquecimento": "3",
+      "Fonte de alimentação": "Gás GLP/GN"
+    },
+    "affiliate_url": "https://www.amazon.com.br/COOKTOP-ITATIAIA-ESS-127-220V/dp/B0BH75ZS8Y/ref=zg_bs_g_appliances_d_sccl_4/146-4195612-0631345?tag=mixdm22-20",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0GFC12YMZ",
+    "title": "Capa Para Maquina De Lavar Brastemp Eletrolux Consul 12Kg 13Kg 14Kg 15Kg 16Kg 17Kg Impermeável Forrada Com Zíper Proteção UV",
+    "image": "https://m.media-amazon.com/images/I/51f4d2jYNNL._AC_SL1350_.jpg",
+    "canonical": null,
+    "category": "Eletrodomésticos",
+    "price_current": 32.9,
+    "price_original": 39.9,
+    "discount_percentage": 17.0,
+    "tem_selo_prime": false,
+    "tem_oferta": true,
+    "avaliacao": 4.0,
+    "qtd_avaliacoes": 130,
+    "coupon_code": null,
+    "description": "<ul><li>Proteção completa: evita poeira, respingos, umidade e danos externos, garantindo maior durabilidade e bom funcionamento da máquina de lavar.</li><li>Material impermeável e flanelado: camada dupla que mantém a máquina protegida contra água e sujeira, aumentando a vida útil do eletrodoméstico.</li><li>Zíper funcional e prático: facilita o uso diário da máquina sem precisar retirar a capa, mantendo a proteção mesmo durante a lavagem.</li><li>Tratamento UV contra o sol: protege contra raios solares e evita desbotamento e desgaste do material, ideal para áreas externas.</li><li>Design perolizado elegante: acabamento moderno, sofisticado e resistente, que combina com qualquer ambiente da casa ou lavanderia.</li><li>Alta resistência e durabilidade: material reforçado que garante longa vida útil mesmo em ambientes úmidos e de maior uso.</li><li>Uso doméstico e comercial: ideal tanto para casas quanto para lavanderias, assegurando maior conservação em diferentes ambientes.</li><li>Fácil de limpar e manter: basta passar um pano úmido para remover poeira ou respingos, garantindo praticidade no dia a dia.</li></ul>",
+    "informacoes_produto": {
+      "Nome da marca": "‎Genérico",
+      "Informações do modelo": "‎INOV23",
+      "Certificação": "‎Não aplicável",
+      "Dimensões do produto": "‎98 x 89 x 60 cm; 350 g",
+      "Número da Peça": "‎INOV23",
+      "Cor": "‎BEGE",
+      "Tipo de material": "‎PVC",
+      "Componentes incluídos": "‎1 Capa para Maquina de Lavar",
+      "Funciona a bateria ou pilha?": "‎Não",
+      "Fabricante": "‎Genérico",
+      "Número do modelo": "‎INOV23",
+      "ASIN": "‎B0GFC12YMZ",
+      "Disponível para compra desde": "6 janeiro 2026"
+    },
+    "affiliate_url": "https://www.amazon.com.br/Eletrolux-Imperme%C3%A1vel-Resistente-Perolizado-Qualidade/dp/B0GFC12YMZ/ref=zg_bs_g_appliances_d_sccl_5/146-4195612-0631345?tag=mixdm22-20",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -1356,7 +1630,7 @@ const PRODUCTS = [
       "Forma": "Quadrado"
     },
     "affiliate_url": "https://www.amazon.com.br/Universal-Adequado-Geladeira-Eletrodom%C3%A9sticos-Dom%C3%A9sticos/dp/B0CQL4T98R/ref=zg_bs_g_appliances_d_sccl_6/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -1398,7 +1672,7 @@ const PRODUCTS = [
       "Dimensões do produto": "30C x 40L x 1A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/Sacos-para-Lavar-Roupa-30x40cm/dp/B0F7W57TWG/ref=zg_bs_g_appliances_d_sccl_7/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -1448,7 +1722,7 @@ const PRODUCTS = [
       "Fonte de alimentação": "Alimentado a gás"
     },
     "affiliate_url": "https://www.amazon.com.br/MONDIAL-Cooktop-Bocas-Tripla-Bivolt/dp/B085JG3T6S/ref=zg_bs_g_appliances_d_sccl_5/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -1486,7 +1760,7 @@ const PRODUCTS = [
       "Dimensões do produto": "60P x 59,8L x 85A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/Lava-Lou%C3%A7as-Midea-Servi%C3%A7os-Preta/dp/B093XZ9TLW/ref=zg_bs_g_appliances_d_sccl_24/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -1537,7 +1811,7 @@ const PRODUCTS = [
       "Local de acesso": "Carga superior"
     },
     "affiliate_url": "https://www.amazon.com.br/Colormaq-Maquina-Semi-Automatica-Tanquinho-Branco/dp/B07TMRJFNZ/ref=zg_bs_g_appliances_d_sccl_8/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -1587,7 +1861,7 @@ const PRODUCTS = [
       "Fonte de alimentação": "Gás"
     },
     "affiliate_url": "https://www.amazon.com.br/MONDIAL-Cooktop-Bocas-Preto-Bivolt/dp/B085JFZHJ6/ref=zg_bs_g_appliances_d_sccl_17/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -1626,7 +1900,7 @@ const PRODUCTS = [
       "Marca": "Midea"
     },
     "affiliate_url": "https://www.amazon.com.br/Lava-Lou%C3%A7as-Midea-Servi%C3%A7os-Preta/dp/B093Y3WMXX/ref=zg_bs_g_appliances_d_sccl_16/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -1662,7 +1936,7 @@ const PRODUCTS = [
       "Marca": "Neri Shop"
     },
     "affiliate_url": "https://www.amazon.com.br/Eletrolux-Imperme%C3%A1vel-Flanelada-Resistente-Perolizado/dp/B0D279PP52/ref=zg_bs_g_appliances_d_sccl_14/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -1709,7 +1983,7 @@ const PRODUCTS = [
       "Dimensões do produto": "30P x 80L x 17,6A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/SUGGAR-DEPURADOR-EMBUTIR-FRONTAL-DE82IX/dp/B0CMJRVJ4V/ref=zg_bs_g_appliances_d_sccl_11/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -1749,7 +2023,7 @@ const PRODUCTS = [
       "Local de acesso": "Carga frontal"
     },
     "affiliate_url": "https://www.amazon.com.br/SUGGAR-CENTRIFUGA-ROUPAS-GIROMAX-CT1501BR/dp/B08L9RHPCF/ref=zg_bs_g_appliances_d_sccl_15/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -1795,7 +2069,7 @@ const PRODUCTS = [
       "Fonte de alimentação": "Alimentado a gás"
     },
     "affiliate_url": "https://www.amazon.com.br/Suggar-FG2002AVP-Cooktop-Vidro-queimadores/dp/B0B3SFNZ7J/ref=zg_bs_g_appliances_d_sccl_12/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -1844,7 +2118,7 @@ const PRODUCTS = [
       "Fonte de alimentação": "GÁS GLP/GN"
     },
     "affiliate_url": "https://www.amazon.com.br/FISCHER-COOKTOP-BOCAS-BIVOLT-1519-5713/dp/B076JLW8D5/ref=zg_bs_g_appliances_d_sccl_9/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -1896,7 +2170,7 @@ const PRODUCTS = [
       "Local de acesso": "Superior"
     },
     "affiliate_url": "https://www.amazon.com.br/M%C3%A1quina-Lavar-CWN14AB-Modo-Consul/dp/B0GWFRN9J6/ref=zg_bs_g_appliances_d_sccl_10/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -1946,7 +2220,7 @@ const PRODUCTS = [
       "Marca": "Electrolux"
     },
     "affiliate_url": "https://www.amazon.com.br/Electrolux-Geladeira-Duplex-Branca-TF38/dp/B0FVMH1K2Y/ref=zg_bs_g_appliances_d_sccl_28/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -1993,7 +2267,7 @@ const PRODUCTS = [
       "Fonte de alimentação": "Elétrico com fio"
     },
     "affiliate_url": "https://www.amazon.com.br/Cooktop-PCT10A-Diferentes-Pot%C3%AAncia-Temperaturas/dp/B0F2JMT8MN/ref=zg_bs_g_appliances_d_sccl_27/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -2045,7 +2319,7 @@ const PRODUCTS = [
       "Local de acesso": "Carga superior"
     },
     "affiliate_url": "https://www.amazon.com.br/Colormaq-M%C3%A1quina-Lavar-Semiautom%C3%A1tica-Tanquinho/dp/B0CDZKFFLC/ref=zg_bs_g_appliances_d_sccl_18/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": true
   },
   {
@@ -2093,7 +2367,7 @@ const PRODUCTS = [
       "Dimensões do produto": "48P x 80L x 8,5A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/SUGGAR-DEPURADOR-TOUCH-PRETO-DTH81PT/dp/B0BSP3R2HR/ref=zg_bs_g_appliances_d_sccl_20/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -2148,7 +2422,7 @@ const PRODUCTS = [
       "Marca": "Electrolux"
     },
     "affiliate_url": "https://www.amazon.com.br/Refrigerador-Portas-Classe-Branco-Electrolux/dp/B07K29F3SB/ref=zg_bs_g_appliances_d_sccl_22/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -2195,7 +2469,7 @@ const PRODUCTS = [
       "Fonte de alimentação": "Gás GLP / GN"
     },
     "affiliate_url": "https://www.amazon.com.br/FISCHER-COOKTOP-TREMPE-ARAMADO-36350-102675/dp/B0DJ3CLH7M/ref=zg_bs_g_appliances_d_sccl_23/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -2237,7 +2511,55 @@ const PRODUCTS = [
       "Marca": "Consul"
     },
     "affiliate_url": "https://www.amazon.com.br/Fog%C3%A3o-Consul-Bocas-CFO4NARUNA-Bivolt/dp/B07HM9JL5K/ref=zg_bs_g_appliances_d_sccl_30/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0G3Y61JMT",
+    "title": "Máquina de Lavar Branca 14kg Brastemp com Smart Sensor e Lavagem Rápida - BWJ14AB",
+    "image": "https://m.media-amazon.com/images/I/612AvD2ZDrL._AC_SL1500_.jpg",
+    "canonical": null,
+    "category": "Eletrodomésticos",
+    "price_current": 1973.06,
+    "price_original": 2349,
+    "discount_percentage": null,
+    "tem_selo_prime": false,
+    "tem_oferta": true,
+    "avaliacao": 4.5,
+    "qtd_avaliacoes": 15,
+    "coupon_code": null,
+    "description": "<ul><li>Cama, Banho, Jeans, Casaco e até Edredom Casal pode ser lavado sem preocupação e sem esforço.</li><li>Ciclo silencioso: Lave suas roupas em qualquer horário sem preocupações.</li><li>Reuso da Água: A mudança por outro mundo começa dentro de casa.</li><li>Qualidade Brastemp: Uma lavadora feita para durar.</li><li>Ciclo Tira Manchas Advanced: Ciclo com sistema exclusivo de molho e agitação</li></ul>",
+    "informacoes_produto": {
+      "Capacidade": "14 quilogramas",
+      "Características especiais": "Smart Sensor, Lavagem Rápida, Economia de Água, Ciclo Tira Manchas Advanced",
+      "Local do acesso": "Carga superior",
+      "Tipo de acabamento": "Branco",
+      "Opções de ciclo": "Normal, Ciclo Tira Manchas, Lavagem Rápida",
+      "Tipo de controles": "Painel de toque",
+      "Modo de operação": "Totalmente automático",
+      "Voltagem": "110 Volts",
+      "Tipo de instalação": "Embaixo da bancada",
+      "Opções de dosador da máquina de lavar": "Detergente, Amaciante, Removedor de Manchas",
+      "Dimensões do item P x L x A": "69,5P x 62,5L x 104A centímetros",
+      "Peso do item": "38 Quilogramas",
+      "Profundidade do item": "69.5 centimeters",
+      "Cor": "Branco",
+      "Nome da marca": "Brastemp",
+      "Usos recomendados do produto": "Residencial",
+      "Nome do modelo": "BWJ14AB",
+      "Componentes incluídos": "Mangueira de drenagem",
+      "Fabricante": "BRASTEMP",
+      "Número do modelo": "BWJ14AB",
+      "Número da peça": "BWJ14AB",
+      "Descrição da garantia": "12 meses com o fabricante",
+      "ASIN": "B0G3Y61JMT",
+      "Material do tambor do aparelho de lavagem de roupa": "Aço inoxidável",
+      "Dimensões do produto": "69,5P x 62,5L x 104A centímetros",
+      "Marca": "Brastemp",
+      "Local de acesso": "Carga superior"
+    },
+    "affiliate_url": "https://www.amazon.com.br/M%C3%A1quina-Branca-Brastemp-Sensor-Lavagem/dp/B0G3Y61JMT/ref=zg_bs_g_appliances_d_sccl_26/146-4195612-0631345?tag=mixdm22-20",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -2283,7 +2605,7 @@ const PRODUCTS = [
       "Marca": "ATLAS ELETRODOMÉSTICOS"
     },
     "affiliate_url": "https://www.amazon.com.br/Atlas-M%C3%B4naco-Plus-Acendimento-Autom%C3%A1tico/dp/B091TWKZV4/ref=zg_bs_g_appliances_d_sccl_29/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -2322,7 +2644,39 @@ const PRODUCTS = [
       "Dimensões do produto": "48P x 8,5A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/SUGGAR-DEPURADOR-PRETO-MANTA-DI801PT/dp/B0886H2HQ4/ref=zg_bs_g_appliances_d_sccl_26/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B084RX82RT",
+    "title": "Secadora de Roupas Electrolux 12Kg Branca Premium Care com Autosense (SFP12) 220V",
+    "image": "https://m.media-amazon.com/images/I/51vAxVDRrQL._AC_SL1000_.jpg",
+    "canonical": null,
+    "category": "Eletrodomésticos",
+    "price_current": 3471.14,
+    "price_original": null,
+    "discount_percentage": null,
+    "tem_selo_prime": false,
+    "tem_oferta": true,
+    "avaliacao": 4.8,
+    "qtd_avaliacoes": 177,
+    "coupon_code": null,
+    "description": "<ul><li>Tecnologia AutoSense mede temperatura e umidade, secando com precisão sem ressecar as roupas, preservando 80% das cores</li><li>Secadora de roupas branca com capacidade de 12 kg, ideal para famílias maiores</li><li>Função Reverse Action com movimentos alternados do cesto reduz rugas em até 32%, facilitando o processo de passar roupas</li></ul>",
+    "informacoes_produto": {
+      "Nome da marca": "Electrolux",
+      "Fabricante": "ELECTROLUX",
+      "ASIN": "B084RX82RT",
+      "Fator de forma": "Carga frontal",
+      "Local do acesso": "Carga frontal",
+      "Capacidade": "12 quilogramas",
+      "Dimensões do item P x L x A": "62,5P x 60L x 85A centímetros",
+      "Cor": "branca",
+      "Material": "Liga de aço",
+      "Marca": "Electrolux",
+      "Local de acesso": "Carga frontal"
+    },
+    "affiliate_url": "https://www.amazon.com.br/Secadora-Electrolux-SFP12-Front-Premium/dp/B084RX82RT/ref=zg_bs_g_appliances_d_sccl_29/146-4195612-0631345?tag=mixdm22-20",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -2366,7 +2720,7 @@ const PRODUCTS = [
       "Fonte de alimentação": "Gás elétrico"
     },
     "affiliate_url": "https://www.amazon.com.br/Cooktop-Itatiaia-Electra-Plus-Bocas/dp/B0FFTK3656/ref=zg_bs_g_appliances_d_sccl_19/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -2411,7 +2765,7 @@ const PRODUCTS = [
       "Adequação do controle por rádio": "Diversos"
     },
     "affiliate_url": "https://www.amazon.com.br/Pilhas-Alcalinas-Palito-Elgin-Baterias/dp/B0754J12RW/ref=zg_bs_g_electronics_d_sccl_1/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -2431,7 +2785,7 @@ const PRODUCTS = [
     "description": "<ul><li>SOM VIBRANTE E POTENTE - Experimente um áudio aprimorado — vocais mais nítidos, graves mais potentes — para uma experiência Echo Dot ainda mais imersiva.</li><li>SUAS MÚSICAS E CONTEÚDOS FAVORITOS - Reproduza músicas e podcasts do Amazon Music, Apple Music, Spotify, entre outros, ou por Bluetooth em todos os ambientes da sua casa.</li><li>SEMPRE DISPONÍVEL PARA AJUDAR - Pergunte a previsão do tempo para Alexa, defina timers com sua voz, obtenha respostas e ouça piadas. Precisa de mais uns minutinhos de sono pela manhã? É só tocar no seu Echo Dot para adiar o alarme.</li><li>MAIS CONFORTO EM CASA - Controle dispositivos de casa inteligente compatíveis por voz ou com rotinas ativadas por sensores de temperatura internos. Crie rotinas para ligar o ar condicionado se a temperatura interna estiver mais quente que o ideal.</li><li>DESENVOLVIDO PARA PROTEGER A SUA PRIVACIDADE - A Amazon não vende informações pessoais de clientes. O Echo Dot foi construído com várias camadas de controles de privacidade, incluindo o botão de desligar o microfone.</li><li>APROVEITE AO MÁXIMO O PAREAMENTO DE DISPOSITIVOS - Escute música na casa toda usando os dispositivos Echo compatíveis em cômodos diferentes ou crie um sistema de home theater com o Fire TV.</li></ul>",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/Echo-Dot-5%C2%AA-gera%C3%A7%C3%A3o-Cor-Preta/dp/B09B8VGCR8/ref=zg_bs_g_electronics_d_sccl_2/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -2475,7 +2829,7 @@ const PRODUCTS = [
       "Adequação do controle por rádio": "Brinquedos, Controle de videogame, Controle remoto"
     },
     "affiliate_url": "https://www.amazon.com.br/Pilha-AA-Pequena-24-Unidades/dp/B0C9RVFRZD/ref=zg_bs_g_electronics_d_sccl_3/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -2522,7 +2876,7 @@ const PRODUCTS = [
       "Marca": "Roku"
     },
     "affiliate_url": "https://www.amazon.com.br/Roku-Streaming-Dispositivo-streaming-compat%C3%ADvel/dp/B0FH7LY3R4/ref=zg_bs_g_electronics_d_sccl_4/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -2568,7 +2922,7 @@ const PRODUCTS = [
       "Adequação do controle por rádio": "Brinquedos"
     },
     "affiliate_url": "https://www.amazon.com.br/Pilha-recarreg%C3%A1vel-1000mAh-unidades-Palito/dp/B0754KMGFN/ref=zg_bs_g_electronics_d_sccl_5/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -2640,7 +2994,7 @@ const PRODUCTS = [
       "Tamanho instalado da memória RAM": "4 GB"
     },
     "affiliate_url": "https://www.amazon.com.br/Celular-Samsung-Galaxy-128GB-50MP/dp/B0FPYV6K68/ref=zg_bs_g_electronics_d_sccl_6/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -2700,7 +3054,7 @@ const PRODUCTS = [
       "Tipo de garantia": "Ilimitada"
     },
     "affiliate_url": "https://www.amazon.com.br/Smartwatch-Samsung-Galaxy-Display-Grafite/dp/B0CVCLGV1W/ref=zg_bs_g_electronics_d_sccl_7/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -2749,7 +3103,7 @@ const PRODUCTS = [
       "Tensão": "110 Volts, 220 Volts"
     },
     "affiliate_url": "https://www.amazon.com.br/iCLAMPER-Prote%C3%A7%C3%A3o-El%C3%A9tricos-Notebook-Impressora/dp/B0D8V3QLDD/ref=zg_bs_g_electronics_d_sccl_8/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -2808,7 +3162,7 @@ const PRODUCTS = [
       "Fator de forma dos fones de ouvido": "Intra-auricular"
     },
     "affiliate_url": "https://www.amazon.com.br/PHILIPS-Microfone-TAUE101BK-00-intra-auricular/dp/B084S6BCJN/ref=zg_bs_g_electronics_d_sccl_9/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -2828,7 +3182,7 @@ const PRODUCTS = [
     "description": "<ul><li>Evolua sua TV instantaneamente – O Fire TV Stick HD é nosso streaming stick HD mais rápido até agora, com uma navegação simplificada que leva você direto ao seu entretenimento. Leve seus filmes, séries e TV ao vivo para onde você for com o novo perfil ultraportátil. E veja tudo ganhar vida com Full HD nítido e suporte a Wi-Fi 6.</li><li>Jogue jogos Xbox – Jogue Call of Duty: Black Ops 7, Outer Worlds 2, Ninja Gaiden 4 e centenas de jogos no seu Fire TV Stick HD com Xbox Game Pass via nuvem. Assinatura do Xbox Game Pass e controle compatível necessários. Cada um deles é vendido separadamente.</li><li>A nova experiência Fire TV (lançamento 2026) – Nossa maior atualização do Fire TV tem um design novo e moderno que leva você ao seu entretenimento rapidamente. Navegue por categorias de conteúdo dedicadas e fixe mais dos seus aplicativos favoritos. Passe menos tempo procurando e mais tempo assistindo.</li><li>Todos os seus aplicativos em um só lugar – Prime Video, Netflix, YouTube, Disney+, Apple TV, HBO Max, Globoplay e outros. É fácil encontrar o que assistir entre mais de 250 mil filmes e episódios de séries, incluindo episódios de conteúdo gratuito com anúncios. Taxas de assinatura podem ser necessárias.</li><li>Nosso stick mais portátil – Fino e leve, sem bagunça. Conecta diretamente na porta HDMI da sua TV sem bloquear outras portas. Agora alimentado pela sua TV com o cabo USB-C incluso e elimina a necessidade de um adaptador de energia.</li><li>Escolhas mais inteligentes com Alexa – Encontrar o que você ama nunca foi tão fácil. Pressione o botão de voz do controle remoto e fale naturalmente para encontrar o que assistir em seus aplicativos, gerenciar sua casa inteligente ou mergulhar em praticamente qualquer tópico.</li><li>Controle remoto por voz com Alexa – Controle sua TV, soundbar e receptor compatíveis com botões dedicados para ligar/desligar e de volume. Use os botões predefinidos para abrir os principais aplicativos. Durante a configuração do dispositivo você receberá, no e-mail da sua conta Amazon, o convite para Alexa+. Caso prefira, você pode ativar Alexa+ por voz usando o controle do seu Fire TV Stick: pressione e segure o botão Alexa e fale: \"Alexa, vamos começar\" e ative Alexa+ na tela da sua TV.</li><li>Controle sua casa inteligente – Peça para Alexa dizer a previsão do tempo, diminuir as luzes, mostrar câmeras ao vivo, tocar música e muito mais com dispositivos compatíveis.</li><li>Escute por Bluetooth – Conecte seus fones de ouvido Bluetooth para escutar de forma privada e assistir TV sem incomodar quem está ao seu redor.</li></ul>",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/Fire-TV-Stick-HD/dp/B0DVK166SV/ref=zg_bs_g_electronics_d_sccl_10/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -2905,7 +3259,7 @@ const PRODUCTS = [
       "Fator de forma dos fones de ouvido": "Intra-auricular"
     },
     "affiliate_url": "https://www.amazon.com.br/soundcore-Cancelamento-Poderosos-Reprodu%C3%A7%C3%A3o-Bluetooth/dp/B0CRTYZG5C/ref=zg_bs_g_electronics_d_sccl_11/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -2948,7 +3302,7 @@ const PRODUCTS = [
       "Adequação do controle por rádio": "Controlador de jogos"
     },
     "affiliate_url": "https://www.amazon.com.br/Pilha-Zinco-comum-AA-ELE000000082341/dp/B0B2YJK7KF/ref=zg_bs_g_electronics_d_sccl_13/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -3006,7 +3360,7 @@ const PRODUCTS = [
       "Fator de forma dos fones de ouvido": "Circumaurais"
     },
     "affiliate_url": "https://www.amazon.com.br/Headphone-Bluetooth-TAH2300BK-00-Microfone/dp/B0FJMHMCBZ/ref=zg_bs_g_electronics_d_sccl_15/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -3072,7 +3426,7 @@ const PRODUCTS = [
       "Fator de forma dos fones de ouvido": "Intra-auricular"
     },
     "affiliate_url": "https://www.amazon.com.br/PHILIPS-TAT1109BK-00-Bluetooth-Microfone/dp/B0DVMQVVDY/ref=zg_bs_g_electronics_d_sccl_17/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -3118,7 +3472,7 @@ const PRODUCTS = [
       "Adequação do controle por rádio": "Aparelho auditivo, Controle remoto da TV, Câmera, Drone, Relógio"
     },
     "affiliate_url": "https://www.amazon.com.br/Carregador-Pilhas-com-pilhas-Duracell/dp/B07X4JG2G4/ref=zg_bs_g_electronics_d_sccl_14/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -3187,7 +3541,7 @@ const PRODUCTS = [
       "Dimensões do produto": "8P x 89L x 51A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/Smart-Philco-HDR10-Dolby-P40CRA/dp/B0GJTCF75W/ref=zg_bs_g_electronics_d_sccl_12/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -3230,7 +3584,7 @@ const PRODUCTS = [
       "Adequação do controle por rádio": "Brinquedos, Controle de videogame, Controle remoto"
     },
     "affiliate_url": "https://www.amazon.com.br/Pilha-AAA-Pequena-24-Unidades/dp/B0C9R8RC1P/ref=zg_bs_g_electronics_d_sccl_16/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -3309,7 +3663,7 @@ const PRODUCTS = [
       "Peso do produto": "3,9 Quilogramas"
     },
     "affiliate_url": "https://www.amazon.com.br/Multifuncional-Epson-EcoTank-L3250-Colorida/dp/B098YHFT9S/ref=zg_bs_g_electronics_d_sccl_19/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -3353,7 +3707,7 @@ const PRODUCTS = [
       "Adequação do controle por rádio": "Controle remoto da TV"
     },
     "affiliate_url": "https://www.amazon.com.br/Elgin-PILHA-ZINCO-COMUM-Laranja/dp/B09LD48ZZ4/ref=zg_bs_g_electronics_d_sccl_18/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -3373,7 +3727,7 @@ const PRODUCTS = [
     "description": "<ul><li>CONHEÇA O ECHO SPOT - Um despertador inteligente com som vibrante e Alexa. Sempre pronto para te ajudar a acordar, relaxar e muito mais.</li><li>DESPERTADOR INTELIGENTE PERSONALIZÁVEL - Veja facilmente a hora, a previsão do tempo e nomes de música, controle dispositivos de casa inteligente e muito mais. Personalize o display com seu design preferido de relógio e cores divertidas.</li><li>SOM POTENTE E VIBRANTE - Curta sons com vocais nítidos e graves profundos. É só pedir para Alexa reproduzir música, podcasts e audiolivros. Veja o título do que está tocando e controle sua música também por toque.</li><li>SUA VIDA MAIS FÁCIL - Crie uma rotina de Alexa para acordar aos poucos ao som de música e com iluminação gradual. Veja rapidamente a hora, confira os lembretes ou peça para Alexa dizer a previsão do tempo.</li><li>SUA CASA MAIS CONFORTÁVEL - Controle dispositivos de casa inteligente compatíveis. É só pedir para Alexa ou tocar no display para ligar ou desligar luzes inteligentes. Crie rotinas para desligar o ar-condicionado quando você sair de casa ou acender as luzes ao pôr do sol.</li><li>DESENVOLVIDO PARA PROTEGER A SUA PRIVACIDADE - A Amazon não vende informações pessoais de clientes. O Echo Spot foi construído com várias camadas de controles de privacidade, incluindo o botão de desligar o microfone e controles no aplicativo.</li><li>DESENVOLVIDO PENSANDO NA SUSTENTABILIDADE - Esse dispositivo foi feito com 36% de materiais reciclados.</li></ul>",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/echo-spot-despertador-inteligente-com-alexa-cor-preta/dp/B0C2RS4ZG6/ref=zg_bs_g_electronics_d_sccl_30/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -3440,7 +3794,7 @@ const PRODUCTS = [
       "Tamanho instalado da memória RAM": "8 GB"
     },
     "affiliate_url": "https://www.amazon.com.br/Celular-Samsung-Galaxy-C%C3%A2mera-Recursos/dp/B0DYVMS335/ref=zg_bs_g_electronics_d_sccl_23/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -3477,7 +3831,7 @@ const PRODUCTS = [
       "Marca": "intelbras"
     },
     "affiliate_url": "https://www.amazon.com.br/intelbras-Antena-Interna-2025-Preto/dp/B0999NKXF9/ref=zg_bs_g_electronics_d_sccl_21/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -3518,7 +3872,7 @@ const PRODUCTS = [
       "Marca": "ELG"
     },
     "affiliate_url": "https://www.amazon.com.br/Suporte-Universal-Parede-Elg-GENIUS/dp/B0765P3DB8/ref=zg_bs_g_electronics_d_sccl_20/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -3544,7 +3898,7 @@ const PRODUCTS = [
       "Tamanho da tela": "6,3 Polegadas"
     },
     "affiliate_url": "https://www.amazon.com.br/Apple-iPhone-17-256-GB/dp/B0GQW2J4SK/ref=zg_bs_g_electronics_d_sccl_26/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -3605,7 +3959,7 @@ const PRODUCTS = [
       "Fator de forma dos fones de ouvido": "Circumaurais"
     },
     "affiliate_url": "https://www.amazon.com.br/JBL-Fone-Ouvido-Tune-520BT/dp/B0C4CCMNQT/ref=zg_bs_g_electronics_d_sccl_29/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -3662,7 +4016,7 @@ const PRODUCTS = [
       "Fator de forma dos fones de ouvido": "Extra-auriculares"
     },
     "affiliate_url": "https://www.amazon.com.br/JBL-Ouvido-Bluetooth-Over-Ear-Bateria/dp/B0GM1LSHQF/ref=zg_bs_g_electronics_d_sccl_22/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -3708,7 +4062,7 @@ const PRODUCTS = [
       "Adequação do controle por rádio": "Controles automotivos, Placas-mãe de computador, Relógio"
     },
     "affiliate_url": "https://www.amazon.com.br/Duracell-Pilhas-Unidades-Controles-Automotivos/dp/B08DQQC61G/ref=zg_bs_g_electronics_d_sccl_24/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -3750,7 +4104,7 @@ const PRODUCTS = [
       "Adequação do controle por rádio": "Brinquedos, Controle de videogame, Controle remoto"
     },
     "affiliate_url": "https://www.amazon.com.br/Duracell-Optimum-AA-Pequena-Unidades/dp/B0BXYD49TV/ref=zg_bs_g_electronics_d_sccl_27/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -3819,7 +4173,7 @@ const PRODUCTS = [
       "Resolução máxima do visor": "1920 x 1200 Pixels"
     },
     "affiliate_url": "https://www.amazon.com.br/Tablet-Samsung-Galaxy-128GB-WiFi/dp/B0G4SLJNFF/ref=zg_bs_g_electronics_d_sccl_28/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -3892,7 +4246,7 @@ const PRODUCTS = [
       "Dimensões do produto": "2,89P x 14,45L x 8,98A Metros"
     },
     "affiliate_url": "https://www.amazon.com.br/TCL-QLED-SMART-65P8K-GOOGLE/dp/B0GH2L5MZL/ref=zg_bs_g_electronics_d_sccl_25/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -3967,7 +4321,7 @@ const PRODUCTS = [
       "Tamanho instalado da memória RAM": "4 GB"
     },
     "affiliate_url": "https://www.amazon.com.br/Celular-Samsung-Galaxy-128GB-50MP/dp/B0FPPQ5T37/ref=zg_bs_g_16243890011_d_sccl_8/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -3993,7 +4347,7 @@ const PRODUCTS = [
       "Resolução": "2160 x 1080"
     },
     "affiliate_url": "https://www.amazon.com.br/Apple-iPhone-16-128-GB/dp/B0DJFTJ6LX/ref=zg_bs_g_electronics_d_sccl_8/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -4049,7 +4403,7 @@ const PRODUCTS = [
       "Padrão de comunicação sem fio": "Bluetooth"
     },
     "affiliate_url": "https://www.amazon.com.br/Bettdow-SmartWatch-smartwatch-recebimento-notifica%C3%A7%C3%B5es/dp/B0DNHGQHMY/ref=zg_bs_g_electronics_d_sccl_1/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -4127,7 +4481,7 @@ const PRODUCTS = [
       "Resolução máxima do visor": "2560 x 1600 Pixels"
     },
     "affiliate_url": "https://www.amazon.com.br/chamadas-alto-falantes-9000mAh-Bluetooth-25040RP0AL/dp/B0F9B9QDNK/ref=zg_bs_g_electronics_d_sccl_2/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -4162,7 +4516,7 @@ const PRODUCTS = [
       "Número de itens": "2"
     },
     "affiliate_url": "https://www.amazon.com.br/Adaptadores-Tomada-Plug-250V-Eletrodom%C3%A9sticos/dp/B0GKCHNJFL/ref=zg_bs_g_electronics_d_sccl_3/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -4215,7 +4569,7 @@ const PRODUCTS = [
       "Proporção de tela": "16:9"
     },
     "affiliate_url": "https://www.amazon.com.br/AOC-Monitor-120Hz-22B35HM23-Gaming/dp/B0F4L1SBV3/ref=zg_bs_g_electronics_d_sccl_4/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -4241,7 +4595,7 @@ const PRODUCTS = [
       "Capacidade de armazenamento da memória": "128 GB"
     },
     "affiliate_url": "https://www.amazon.com.br/Apple-iPhone-15-128-GB/dp/B0CP6CR795/ref=zg_bs_g_electronics_d_sccl_20/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -4298,7 +4652,7 @@ const PRODUCTS = [
       "Tamanho instalado da memória RAM": "8 GB"
     },
     "affiliate_url": "https://www.amazon.com.br/Celular-Samsung-Galaxy-C%C3%A2mera-Tripla/dp/B0FTC96JJ5/ref=zg_bs_g_electronics_d_sccl_12/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -4366,7 +4720,7 @@ const PRODUCTS = [
       "Peso do produto": "5,2 Quilogramas"
     },
     "affiliate_url": "https://www.amazon.com.br/Multifuncional-EcoTank-imprime-frente-autom%C3%A1tico/dp/B0GJ7H8WLW/ref=zg_bs_g_electronics_d_sccl_13/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -4402,7 +4756,7 @@ const PRODUCTS = [
       "Número máximo de dispositivos suportados": "1"
     },
     "affiliate_url": "https://www.amazon.com.br/Controle-Premium-Compat%C3%ADvel-Samsung-Crystal/dp/B0H161WG23/ref=zg_bs_g_electronics_d_sccl_6/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -4451,7 +4805,7 @@ const PRODUCTS = [
       "Adequação do controle por rádio": "Brinquedos de alto consumo, Câmeras digitais, Lanternas potentes"
     },
     "affiliate_url": "https://www.amazon.com.br/Duracell-Recarreg%C3%A1vel-Longa-Vida-Pacote/dp/B00007ISWA/ref=zg_bs_g_electronics_d_sccl_15/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -4501,7 +4855,7 @@ const PRODUCTS = [
       "Fator de forma dos fones de ouvido": "True Wireless"
     },
     "affiliate_url": "https://www.amazon.com.br/Xiaomi-Redmi-Buds-6-Play/dp/B0DB52X2ZW/ref=zg_bs_g_electronics_d_sccl_14/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -4564,7 +4918,7 @@ const PRODUCTS = [
       "Proporção de tela": "16:9"
     },
     "affiliate_url": "https://www.amazon.com.br/Monitor-LG-UltraGear-DisplayPort-FreeSyncTM/dp/B0D8DPT7ZY/ref=zg_bs_g_electronics_d_sccl_19/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -4608,7 +4962,7 @@ const PRODUCTS = [
       "Adequação do controle por rádio": "Brinquedos, Controles remotos, Flash de câmera"
     },
     "affiliate_url": "https://www.amazon.com.br/Duracell-Pilha-Alcalina-Aaa/dp/B07LCTKD4D/ref=zg_bs_g_electronics_d_sccl_18/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -4653,7 +5007,7 @@ const PRODUCTS = [
       "Adequação do controle por rádio": "Brinquedos de alto consumo, Câmeras digitais, Lanternas potentes"
     },
     "affiliate_url": "https://www.amazon.com.br/Pilha-Duracell-Recarreg%C3%A1vel-Aaa-unidades/dp/B000XSG300/ref=zg_bs_g_electronics_d_sccl_7/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -4688,7 +5042,7 @@ const PRODUCTS = [
       "Quantidade de embalagens do produto": "1"
     },
     "affiliate_url": "https://www.amazon.com.br/Universal-Funcionais-Aplicativo-Compat%C3%ADvel-AKB75095315/dp/B0C71VM2ZS/ref=zg_bs_g_electronics_d_sccl_11/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -4750,7 +5104,7 @@ const PRODUCTS = [
       "Tamanho instalado da memória RAM": "8 GB"
     },
     "affiliate_url": "https://www.amazon.com.br/Smartphone-Xiaomi-Redmi-Preto-2510DRA23L/dp/B0GL9QPQYL/ref=zg_bs_g_electronics_d_sccl_17/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -4793,7 +5147,7 @@ const PRODUCTS = [
       "Protocolo de conectividade": "Wi-Fi"
     },
     "affiliate_url": "https://www.amazon.com.br/C%C3%A2mera-Seguran%C3%A7a-Wi-Fi-Externa-Infravermelha/dp/B0FTT42SDP/ref=zg_bs_g_electronics_d_sccl_10/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -4863,7 +5217,7 @@ const PRODUCTS = [
       "Fator de forma dos fones de ouvido": "Intra-auricular"
     },
     "affiliate_url": "https://www.amazon.com.br/Bluetooth-Microfone-Embutido-Ergon%C3%B4mico-Atividades/dp/B0FDB9Z96L/ref=zg_bs_g_electronics_d_sccl_22/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -4931,7 +5285,7 @@ const PRODUCTS = [
       "Dimensões do produto": "11,7P x 73,3L x 45,2A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/Samsung-Smart-TV-H5000F-2025/dp/B0F38JYBZB/ref=zg_bs_g_electronics_d_sccl_16/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -5007,7 +5361,7 @@ const PRODUCTS = [
       "Marca": "Pazie"
     },
     "affiliate_url": "https://www.amazon.com.br/Seguran%C3%A7a-1080p-Infravermelho-Movimento-Bidirecional/dp/B0H3QJ9PX1/ref=zg_bs_g_electronics_d_sccl_9/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -5080,7 +5434,7 @@ const PRODUCTS = [
       "Tamanho instalado da memória RAM": "4 GB"
     },
     "affiliate_url": "https://www.amazon.com.br/Smartphone-Motorola-Moto-g35-Superbrilho/dp/B0DHWF5G76/ref=zg_bs_g_electronics_d_sccl_23/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -5153,7 +5507,7 @@ const PRODUCTS = [
       "Resolução máxima do visor": "2304 x 1440 Pixels"
     },
     "affiliate_url": "https://www.amazon.com.br/Samsung-Imersiva-Traseira-Frontal-Android/dp/B0F3LTWYS5/ref=zg_bs_g_electronics_d_sccl_30/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -5196,7 +5550,7 @@ const PRODUCTS = [
       "Nome do modelo": "iPhone 16"
     },
     "affiliate_url": "https://www.amazon.com.br/Apple-iPhone-16-512-GB/dp/B0DJFS7GXV/ref=zg_bs_g_16243890011_d_sccl_18/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": true
   },
   {
@@ -5238,7 +5592,7 @@ const PRODUCTS = [
       "Adequação do controle por rádio": "GPS"
     },
     "affiliate_url": "https://www.amazon.com.br/Bateria-Philips-tipo-moeda-CR2032/dp/B0977CLHW5/ref=zg_bs_g_electronics_d_sccl_21/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -5288,7 +5642,7 @@ const PRODUCTS = [
       "Tamanho instalado da memória RAM": "8 GB"
     },
     "affiliate_url": "https://www.amazon.com.br/Smartphone-Motorola-Moto-g56-Ultrarresistencia/dp/B0F9MNPVKG/ref=zg_bs_g_electronics_d_sccl_28/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -5364,7 +5718,7 @@ const PRODUCTS = [
       "Dimensões do produto": "8P x 73L x 46A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/Smart-LCD-AOC-32S5155-78G/dp/B0FVY9MD19/ref=zg_bs_g_electronics_d_sccl_25/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -5403,7 +5757,104 @@ const PRODUCTS = [
       "Número máximo de dispositivos suportados": "99"
     },
     "affiliate_url": "https://www.amazon.com.br/Controle-Remoto-Compat%C3%ADvel-Samsung-Smart/dp/B0G467TPS1/ref=zg_bs_g_electronics_d_sccl_24/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0DBR3DZWG",
+    "title": "SSD Kingston NV3 1TB M.2 2280 NVMe Gen4, Desempenho e Eficiência para Upgrade de PC – SNV3S/1000G",
+    "image": "https://m.media-amazon.com/images/I/71c5uuoM1bL._AC_SL1500_.jpg",
+    "canonical": null,
+    "category": "Eletrônicos",
+    "price_current": 1029,
+    "price_original": 1559.67,
+    "discount_percentage": null,
+    "tem_selo_prime": false,
+    "tem_oferta": true,
+    "avaliacao": 4.8,
+    "qtd_avaliacoes": 10536,
+    "coupon_code": null,
+    "description": "<ul><li>Desempenho Gen 4x4 NVMe PCIe</li><li>Ideal para armazenamento de alta velocidade e baixo consumo de energia</li><li>Ideal para sistemas com espaço limitado - Integra-se facilmente em modelos com conectores M.2. Perfeito para laptops finos e PCs de formato pequeno.</li><li>Até 5.000MB/s para leitura, 3.000MB/s para gravação</li><li>Inclui software de clonagem Acronis</li><li>3 anos de garantia limitada</li></ul>",
+    "informacoes_produto": {
+      "Capacidade de armazenamento digital": "1000 GB",
+      "Interface do disco rígido": "PCIE x 4",
+      "Tecnologia de conectividade": "NVMe",
+      "Características especiais": "Serviço de recuperação de dados",
+      "Fator forma do disco rígido": "2280 Polegadas",
+      "Dispositivos compatíveis": "Desktop, Laptop, Console de jogos",
+      "Usos específicos do produto": "Carregamento de sistemas, Console de jogos, Pessoal",
+      "Velocidade de leitura": "6000 Megabytes Per Second",
+      "Tamanho da memória em cachê instalada": "1",
+      "Taxa de transferência de dados": "6000 Megabytes Per Second",
+      "Fator de forma": "M.2 2280",
+      "Interface de hardware": "PCI Express 4,0",
+      "Tamanho do disco rígido": "1000 GB",
+      "Dimensões do item C x L x Espessura": "8C x 2,2L x 1Espessura centímetros",
+      "Quantidade de itens": "1",
+      "Cor": "Azul",
+      "Nome da marca": "Kingston",
+      "Número do modelo": "SNV3S/1000G",
+      "Descrição do disco rígido": "Unidade de estado sólido",
+      "Componentes incluídos": "SSD M.2",
+      "Nome do modelo": "SSD KINGSTON NV3 1TB M.2 2280 NVME PCIE 4.0 - SNV3S/1000G",
+      "País de origem": "Taiwan",
+      "Fabricante": "Kingston",
+      "Número de identificação de comércio internacional": "00740617344790",
+      "UPC": "740617344790",
+      "Número da peça": "SNV3S/1000G",
+      "Descrição da garantia": "5 anos com o fabricante",
+      "ASIN": "B0DBR3DZWG",
+      "Tipo de instalação": "Disco rígido interno",
+      "Marca": "Kingston",
+      "Fator de forma de disco rígido": "2280 Polegadas"
+    },
+    "affiliate_url": "https://www.amazon.com.br/Kingston-2280-NVMe-SNV3S-1000G/dp/B0DBR3DZWG/ref=zg_bs_g_electronics_d_sccl_29/146-4195612-0631345?tag=mixdm22-20",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0BX8WSXFG",
+    "title": "CAMERA INSTAX MINI 12 ROSA GLOSS",
+    "image": "https://m.media-amazon.com/images/I/61+5Ld-oc1L._AC_SL1500_.jpg",
+    "canonical": null,
+    "category": "Eletrônicos",
+    "price_current": 479.65,
+    "price_original": 649,
+    "discount_percentage": null,
+    "tem_selo_prime": false,
+    "tem_oferta": true,
+    "avaliacao": 4.8,
+    "qtd_avaliacoes": 7120,
+    "coupon_code": null,
+    "description": "<ul><li>Foto instantânea: uma experiência única! Onde as fotos são impressas em 5 segundos e são reveladas instantaneamente à frente dos seus olhos (até 2 min. após o clique).</li><li>Flash: ajustado automaticamente de acordo com a luz do ambiente fotografado. Ideal para diversas situações do dia a dia, como festas, momentos com amigos, eventos familiares, viagens, entre outras ocasiões.</li><li>Exposição automática: a camera identifica as condições do ambiente e realiza automaticamente os ajustes necessários para que você registre suas fotos sem se preocupar com qualquer regulagem.</li><li>Modo Selfie &amp; Close up: é possível tirar fotos com aproximação de 30 cm a 50 cm de distância com maior riqueza de detalhes.</li><li>Espelho Selfie: localizado ao lado da lente para que você possa enquadrar perfeitamente seu autorretrato.situações do dia a dia, como festas, momentos com amigos, eventos familiares, viagens, entre outras ocasiões.</li></ul>",
+    "informacoes_produto": {
+      "Características especiais": "Flash embutido, Leve",
+      "Tipo de formato do filme": "Instax mini",
+      "Cor do filme": "Colorido",
+      "Velocidade máxima do obturador": "Obturador eletrônico programado 1/2 para 1/250s. Sincronização lenta para pouca luz.",
+      "Tipo do Formato do Filme de Câmera Compatível": "Instax Mini",
+      "Tipo de controle de exposição": "Automático",
+      "Tem temporizador": "Não",
+      "Modos de disparo": "Modo Selfie &amp; Close up",
+      "Cor": "ROSA GLOSS",
+      "Peso do item": "306 Gramas",
+      "Dimensões do artigo": "10,4 x 12,2 x 6,7 centímetros",
+      "Nome da marca": "FUJIFILM",
+      "Componentes incluídos": "Somente o corpo da câmera",
+      "Nome do modelo": "INSTAX MINI 12",
+      "Número do modelo": "85364",
+      "Número da peça": "85364",
+      "Descrição da garantia": "1 ANO COM O FABRICANTE",
+      "Fabricante": "FUJIFILM",
+      "Nome do Tipo de Produto": "INSTAX MINI 12",
+      "ASIN": "B0BX8WSXFG",
+      "Marca": "FUJIFILM",
+      "Tipo de formato de filme": "Instax mini",
+      "Peso do produto": "306 Gramas",
+      "Dimensões do item C x L x A": "10,4 x 12,2 x 6,7 centímetros"
+    },
+    "affiliate_url": "https://www.amazon.com.br/instax-85364-CAMERA-INSTAX-MINI-ROSA-GLOSS/dp/B0BX8WSXFG/ref=zg_bs_g_electronics_d_sccl_30/146-4195612-0631345?tag=mixdm22-20",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -5443,7 +5894,46 @@ const PRODUCTS = [
       "Marca": "Electrolux"
     },
     "affiliate_url": "https://www.amazon.com.br/Filtro-Refil-Original-Purificador-Electrolux/dp/B0F256HPZJ/ref=zg_bs_g_kitchen_d_sccl_1/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0CDJ4L7CZ",
+    "title": "Sanduicheira Elétrica Cadence Click - 127V",
+    "image": "https://m.media-amazon.com/images/I/51UxR8FHe-L._AC_SL1000_.jpg",
+    "canonical": null,
+    "category": "Cozinha",
+    "price_current": 94.91,
+    "price_original": 159.9,
+    "discount_percentage": null,
+    "tem_selo_prime": false,
+    "tem_oferta": true,
+    "avaliacao": 4.8,
+    "qtd_avaliacoes": 19818,
+    "coupon_code": null,
+    "description": "<ul><li>Botão Liga/Desliga com LEDs indicadores: Não precisa tirar da tomada.</li><li>Pés Embutidos mais firmes: A sanduicheira não tomba.</li><li>Chapas Antiaderentes + Profundas: 80%* + ESPAÇO mais versátil.</li><li>Chapas + SIMPLES DE LIMPAR: Superior grill, Inferior LISINHA!</li><li>Alça embutida e Base Porta Fio: Área protegida de aquecimento. 750 W de potência</li></ul>",
+    "informacoes_produto": {
+      "Nome da marca": "Cadence",
+      "Ano de fabricação": "1900",
+      "Fabricante": "Cadence",
+      "Número da peça": "SAN400",
+      "País de origem": "China",
+      "Nome do Tipo de Produto": "Sanduicheira Grill",
+      "ASIN": "B0CDJ4L7CZ",
+      "Material": "Plástico",
+      "Características especiais": "Leve, Revestimento antiaderente",
+      "Potência": "750 watts",
+      "Voltagem": "127 Volts",
+      "Dimensões do item P x L x A": "22,3P x 21,5L x 7,8A centímetros",
+      "Peso do item": "1,31 Quilogramas",
+      "Cor": "Preto",
+      "Estilo": "Moderno",
+      "Tipo de garantia": "Limitada",
+      "Marca": "Cadence",
+      "Dimensões do produto": "22,3P x 21,5L x 7,8A centímetros"
+    },
+    "affiliate_url": "https://www.amazon.com.br/Sanduicheira-El%C3%A9trica-Cadence-Click-127V/dp/B0CDJ4L7CZ/ref=zg_bs_g_kitchen_d_sccl_2/146-4195612-0631345?tag=mixdm22-20",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -5493,7 +5983,7 @@ const PRODUCTS = [
       "Dimensões do produto": "20P x 21L x 40A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/MONDIAL-Liquidificador-Turbo-Power-Preto/dp/B07QK91PTZ/ref=zg_bs_g_kitchen_d_sccl_3/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -5538,7 +6028,7 @@ const PRODUCTS = [
       "Dimensões do produto": "35P x 5L x 5A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/Mixer-Turbo-Elgin-42MIX2001000-Preto/dp/B09VQ39F41/ref=zg_bs_g_kitchen_d_sccl_4/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -5587,7 +6077,7 @@ const PRODUCTS = [
       "Dimensões do produto": "27,1C x 18,8L x 20,5A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/Kit-Potes-Herm%C3%A9ticos-Pl%C3%A1stico-Electrolux/dp/B09XJL4B9H/ref=zg_bs_g_kitchen_d_sccl_6/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -5630,7 +6120,7 @@ const PRODUCTS = [
       "Marca": "Pazie"
     },
     "affiliate_url": "https://www.amazon.com.br/Chaleira-El%C3%A9trica-Inox-Litro-110v/dp/B0GYSBW68G/ref=zg_bs_g_kitchen_d_sccl_5/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -5683,7 +6173,7 @@ const PRODUCTS = [
       "Dimensões do produto": "32P x 36,1L x 36A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/Fritadeira-Fryer-Forno-Litros-Mondial/dp/B0BZJDLT6Z/ref=zg_bs_g_kitchen_d_sccl_7/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -5730,7 +6220,7 @@ const PRODUCTS = [
       "Dimensões do produto": "22P x 21L x 42A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/Liquidificador-1400-Full-Preto-Oster/dp/B08DFJRCJB/ref=zg_bs_g_kitchen_d_sccl_8/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -5775,7 +6265,7 @@ const PRODUCTS = [
       "Nível de torragem": "Torra clara"
     },
     "affiliate_url": "https://www.amazon.com.br/Dolce-Mochaccino-C%C3%A1psula-Nescaf%C3%A9-Unidades/dp/B0CN1L7B18/ref=zg_bs_g_kitchen_d_sccl_9/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -5829,7 +6319,7 @@ const PRODUCTS = [
       "Dimensões do produto": "40,3P x 30,9L x 30,8A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/Fritadeira-Airfryer-Walita-Tecnologia-RapidAir/dp/B0D98VK8PP/ref=zg_bs_g_kitchen_d_sccl_10/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -5869,7 +6359,7 @@ const PRODUCTS = [
       "Disponível para compra desde": "29 julho 2023"
     },
     "affiliate_url": "https://www.amazon.com.br/Tramontina-Vancouver-Alum%C3%ADnio-Revestimento-Antiaderente/dp/B0CD4SCM33/ref=zg_bs_g_kitchen_d_sccl_13/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -5913,7 +6403,7 @@ const PRODUCTS = [
       "Dimensões do produto": "24P x 17,5L x 22A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/Espremedor-Premium-220V-Mondial-Preto/dp/B076FGHHNG/ref=zg_bs_g_kitchen_d_sccl_11/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -5947,7 +6437,7 @@ const PRODUCTS = [
       "Próprio para lava-louças": "Sim"
     },
     "affiliate_url": "https://www.amazon.com.br/Unidades-Flexivel-Forminha-Silicone-Alimentos/dp/B0CCB3HLGK/ref=zg_bs_g_kitchen_d_sccl_12/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -5992,7 +6482,7 @@ const PRODUCTS = [
       "Componentes incluídos": "Purificador de água e bandeja para copo"
     },
     "affiliate_url": "https://www.amazon.com.br/Purificador-Electrolux-Compacto-Cinza-Bivolt/dp/B08X66RQ48/ref=zg_bs_g_kitchen_d_sccl_14/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -6048,7 +6538,7 @@ const PRODUCTS = [
       "Dimensões do produto": "35,3P x 45L x 26,2A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/Micro-ondas-Philco-Branco-Pmo23bb-110v/dp/B097CJVNWS/ref=zg_bs_g_kitchen_d_sccl_16/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -6096,7 +6586,7 @@ const PRODUCTS = [
       "Característica do material": "Seguro para forno, Seguro para micro-ondas, Sem BPA"
     },
     "affiliate_url": "https://www.amazon.com.br/Potes-Vidro-Retangular-Tampa-Herm%C3%A9tica/dp/B08CPW5BR2/ref=zg_bs_g_kitchen_d_sccl_15/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -6136,7 +6626,7 @@ const PRODUCTS = [
       "Disponível para compra desde": "13 dezembro 2022"
     },
     "affiliate_url": "https://www.amazon.com.br/Forma-Quadrada-Silicone-Fryer-Cinza/dp/B0BPYT6NL2/ref=zg_bs_g_kitchen_d_sccl_18/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -6182,7 +6672,7 @@ const PRODUCTS = [
       "Marca": "Electrolux"
     },
     "affiliate_url": "https://www.amazon.com.br/Electrolux-capacidade-silenciosa-seguran%C3%A7a-pr%C3%A9-programadas/dp/B076HYKFL7/ref=zg_bs_g_kitchen_d_sccl_19/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -6230,7 +6720,7 @@ const PRODUCTS = [
       "Dimensões do produto": "12C x 7L x 17A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/Herm%C3%A9ticos-Marmitas-Conserva%C3%A7%C3%A3o-Alimentos-Refrat%C3%A1rio/dp/B0GSH6DCCJ/ref=zg_bs_g_kitchen_d_sccl_17/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -6271,7 +6761,7 @@ const PRODUCTS = [
       "Adequação do controle por rádio": "Café"
     },
     "affiliate_url": "https://www.amazon.com.br/Stanley-Garrafa-T%C3%A9rmica-Aerolight-Transit/dp/B0FR5D4ZYY/ref=zg_bs_g_kitchen_d_sccl_23/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -6312,7 +6802,7 @@ const PRODUCTS = [
       "Marca": "Britânia"
     },
     "affiliate_url": "https://www.amazon.com.br/Pipoqueira-Brit%C3%A2nia-Pop-Time-IMPORTADOS/dp/B076BB2NCN/ref=zg_bs_g_kitchen_d_sccl_25/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -6349,7 +6839,7 @@ const PRODUCTS = [
       "Dimensões do produto": "15C x 10L centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/Utens%C3%ADlios-Cozinha-Silicone-Resistente-Antiaderente/dp/B0CKWDY274/ref=zg_bs_g_kitchen_d_sccl_21/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -6392,7 +6882,7 @@ const PRODUCTS = [
       "Marca": "MONDIAL"
     },
     "affiliate_url": "https://www.amazon.com.br/Chaleira-El%C3%A9trica-Pratic-Mondial-CE-06/dp/B076MCNZX6/ref=zg_bs_g_kitchen_d_sccl_20/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -6436,7 +6926,7 @@ const PRODUCTS = [
       "Adequação do controle por rádio": "Trabalho, Escola, Piquenique"
     },
     "affiliate_url": "https://www.amazon.com.br/Termica-Marmita-Lancheira-Trabalho-Academia/dp/B0CYVDJDC1/ref=zg_bs_g_kitchen_d_sccl_22/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -6470,7 +6960,7 @@ const PRODUCTS = [
       "Marca": "GATAO"
     },
     "affiliate_url": "https://www.amazon.com.br/Chaleira-El%C3%A9trica-Desligamento-Automatico-Aquecimento/dp/B0H4ZXQ8QK/ref=zg_bs_g_kitchen_d_sccl_24/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -6510,7 +7000,7 @@ const PRODUCTS = [
       "Dimensões do produto": "22P x 26L x 8A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/Brit%C3%A2nia-SANDUICHEIRA-GRILL-PRESS-BGR27I/dp/B09WWY48B7/ref=zg_bs_g_kitchen_d_sccl_30/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -6557,7 +7047,7 @@ const PRODUCTS = [
       "Marca": "ROMANTIC CROWN"
     },
     "affiliate_url": "https://www.amazon.com.br/Romantic-T%C3%A9rmico-Smoothie-Presente-inoxid%C3%A1vel/dp/B0D9GDTM67/ref=zg_bs_g_kitchen_d_sccl_26/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -6603,7 +7093,7 @@ const PRODUCTS = [
       "Dimensões do produto": "23,3P x 45L x 36,3A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/Multiprocessador-Pmp1600p-1400w-101201001-Philco/dp/B07QN1RW8K/ref=zg_bs_g_kitchen_d_sccl_29/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -6644,7 +7134,51 @@ const PRODUCTS = [
       "Marca": "Electrolux"
     },
     "affiliate_url": "https://www.amazon.com.br/Filtro-Refil-Original-Purificador-Electrolux/dp/B0F256PXM8/ref=zg_bs_g_kitchen_d_sccl_28/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B09XFD2YMF",
+    "title": "Tramontina JOGO FACAS INOX 4PC PLENUS PRE, Preto",
+    "image": "https://m.media-amazon.com/images/I/71EvJYnDRYL._AC_SL1500_.jpg",
+    "canonical": null,
+    "category": "Cozinha",
+    "price_current": 29.9,
+    "price_original": 37.61,
+    "discount_percentage": 20.0,
+    "tem_selo_prime": false,
+    "tem_oferta": true,
+    "avaliacao": 4.9,
+    "qtd_avaliacoes": 12831,
+    "coupon_code": null,
+    "description": "<ul><li>Jogo de Facas Tramontina Plenus com Lâminas em Aço Inox e Cabos de Polipropileno Preto 04 Peças</li><li>Número de modelo: 23498064</li><li>Nome de modelo: PLENUS</li><li>Tipo de produto: HOME</li></ul>",
+    "informacoes_produto": {
+      "Nome da marca": "Tramontina",
+      "Fabricante": "Tramontina",
+      "Número do modelo": "23498051",
+      "Número da peça": "23498/064",
+      "Descrição da garantia": "12 meses com fabricante",
+      "País de origem": "Brasil",
+      "Nome do Tipo de Produto": "Faqueiro",
+      "Componentes incluídos": "23426007 - Faca Chef 7\" - 1 peça 23423006 - Faca para Cozinha 6\" - 1 peça 23420003 - Faca para Legumes e Frutas 3\" - 1 peça",
+      "ASIN": "B09XFD2YMF",
+      "Material da Lâmina": "Aço inoxidável",
+      "Material do cabo": "Polipropileno",
+      "O item pode ser lavado na máquina de lavar louça?": "Sim",
+      "Material": "Aço inoxidável",
+      "Comprimento da lâmina": "5 Centímetros",
+      "Peso do item": "210 Gramas",
+      "Comprimento do artigo": "2 Centímetros",
+      "Cor": "Preto",
+      "Cor da lâmina": "Inox",
+      "Lâmina afiada": "Plana",
+      "Tipo de construção": "Estampado",
+      "Material da lâmina": "Aço inoxidável",
+      "Marca": "Tramontina",
+      "Borda da lâmina": "Plana"
+    },
+    "affiliate_url": "https://www.amazon.com.br/Tramontina-JOGO-FACAS-PLENUS-Preto/dp/B09XFD2YMF/ref=zg_bs_g_kitchen_d_sccl_30/146-4195612-0631345?tag=mixdm22-20",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -6698,7 +7232,7 @@ const PRODUCTS = [
       "Dimensões do produto": "45,3P x 56,9L x 33,2A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/Micro-ondas-Philco-Limpa-F%C3%A1cil-PMO38E/dp/B0D3N6ZHT8/ref=zg_bs_g_kitchen_d_sccl_4/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -6750,7 +7284,7 @@ const PRODUCTS = [
       "Dimensões do produto": "36,3P x 25,2L x 28,2A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/Fritadeira-Sem-%C3%93leo-Oster-127V/dp/B0B72QZXCC/ref=zg_bs_g_kitchen_d_sccl_3/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -6801,7 +7335,7 @@ const PRODUCTS = [
       "Dimensões do produto": "43,2P x 50L x 32,5A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/Micro-ondas-Panasonic-NN-ST67LSRUN-Litros-Inox/dp/B0921RTR6Y/ref=zg_bs_g_kitchen_d_sccl_5/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -6843,7 +7377,48 @@ const PRODUCTS = [
       "Dimensões do produto": "23,5P x 23,5L x 8,5A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/Sanduicheira-Grill-Sandwich-Mondial-S-12/dp/B076FGX8GR/ref=zg_bs_g_kitchen_d_sccl_6/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B09CBXQFYY",
+    "title": "Electrolux Chaleira jarra eletrica desligamento automatico capacidade 1,8L facil abertura tampa alça ergometrica EEK10 inox 1",
+    "image": "https://m.media-amazon.com/images/I/5157j9NnlaL._AC_SL1000_.jpg",
+    "canonical": null,
+    "category": "Cozinha",
+    "price_current": 158.02,
+    "price_original": 169.9,
+    "discount_percentage": 6.0,
+    "tem_selo_prime": false,
+    "tem_oferta": true,
+    "avaliacao": 4.7,
+    "qtd_avaliacoes": 2378,
+    "coupon_code": null,
+    "description": "<ul><li>Capacidade Generosa: Jarra com 1,8 litros, ideal para preparar chás e receitas em grande quantidade.</li><li>Abertura Pop-Up: Tampa abre com um clique e permanece fechada com segurança, evitando acidentes.</li><li>Base 360°: Permite encaixe da jarra em qualquer ângulo, garantindo praticidade no uso.</li><li>Desligamento Automático: Aquece a água até 100°C e desliga automaticamente para maior segurança.</li><li>Design Sofisticado: Acabamento em aço inox escovado, trazendo modernidade para sua cozinha.</li></ul>",
+    "informacoes_produto": {
+      "Nome da marca": "Electrolux",
+      "Componentes incluídos": "Chaleira elétrica",
+      "País de origem": "China",
+      "Número do modelo": "5011AIBR408",
+      "Descrição da garantia": "1 ano com o fabricante",
+      "Fabricante": "Electrolux",
+      "Número da peça": "5011AIBR408",
+      "Nome do Tipo de Produto": "Chaleiras Elétricas",
+      "ASIN": "B09CBXQFYY",
+      "Características especiais": "Desligamento automático",
+      "Tipo de recipiente": "Chaleira",
+      "Voltagem": "127 Volts",
+      "Potência": "1200 watts",
+      "Capacidade": "1,8 litros",
+      "Dimensões do item C x L x A": "21,3C x 21,3L x 23,2A centímetros",
+      "Material": "Aço inoxidável",
+      "Instruções de cuidados com o produto": "Manual",
+      "Cor": "Aço inoxidável",
+      "Tipo de acabamento": "Escovado",
+      "Marca": "Electrolux"
+    },
+    "affiliate_url": "https://www.amazon.com.br/Chaleira-El%C3%A9trica-Electrolux-Efficient-EEK10/dp/B09CBXQFYY/ref=zg_bs_g_kitchen_d_sccl_5/146-4195612-0631345?tag=mixdm22-20",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -6881,7 +7456,46 @@ const PRODUCTS = [
       "Forma": "Cone"
     },
     "affiliate_url": "https://www.amazon.com.br/Filtro-para-Caf%C3%A9-102-Melitta/dp/B078XNNYG6/ref=zg_bs_g_kitchen_d_sccl_7/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0BLP86QT3",
+    "title": "Farinha de Trigo de 1 Kg, Tipo 1, Globo Superiore W300.",
+    "image": "https://m.media-amazon.com/images/I/61oZUBexZ7L._AC_SL1500_.jpg",
+    "canonical": null,
+    "category": "Cozinha",
+    "price_current": 5.49,
+    "price_original": 166.8,
+    "discount_percentage": null,
+    "tem_selo_prime": false,
+    "tem_oferta": true,
+    "avaliacao": 4.6,
+    "qtd_avaliacoes": 829,
+    "coupon_code": null,
+    "description": "<ul><li>Produto tipificado, com padrão constante de qualidade, especialmente desenvolvido para receitas de maior desempenho.</li><li>Rica em proteínas do glúten, proporciona massas mais resistentes, com melhor absorção de água e crescimento uniforme.</li><li>Massa mais extensível, sem necessidade de cilindrar, garantindo miolo macio e textura leve.</li><li>Proporciona um acabamento diferenciado ao produto final, mais claro e atrativo em comparação à farinha tradicional.</li><li>Indicada para pães especiais, massas doces, tortas, esfirras, salgados assados, panquecas e muito mais.</li></ul>",
+    "informacoes_produto": {
+      "Nome da marca": "Globo",
+      "Informações sobre alérgenos": "Contém: Aveia, Cereais contendo glúten, Cevada, Soja, Trigo",
+      "Fabricante": "Moinho Globo Alimentos S. A.",
+      "Número da peça": "A012",
+      "Número do modelo": "A012",
+      "Nome do Tipo de Produto": "Farinha de Trigo",
+      "País de origem": "Brasil",
+      "ASIN": "B0BLP86QT3",
+      "Peso do item": "1 Quilogramas",
+      "Peso do pacote": "1 Quilogramas",
+      "Quantidade de itens": "1",
+      "Contagem de unidades": "1000 grama",
+      "Tamanho": "Pequeno",
+      "Cor": "Branca",
+      "Marca": "Globo",
+      "Peso do produto": "1 Quilogramas",
+      "Peso da embalagem": "1 Quilogramas",
+      "Número de itens": "1"
+    },
+    "affiliate_url": "https://www.amazon.com.br/Farinha-Trigo-Tipo-Globo-Superiore/dp/B0BLP86QT3/ref=zg_bs_g_kitchen_d_sccl_7/146-4195612-0631345?tag=mixdm22-20",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -6919,7 +7533,54 @@ const PRODUCTS = [
       "Dimensões do produto": "12C x 15L centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/Esp%C3%A1tula-Pr%C3%A1tica-Mimo-Style-ASA1619/dp/B076JLCYFR/ref=zg_bs_g_kitchen_d_sccl_2/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0C4CF2F67",
+    "title": "Batedeira Planetária Oster Bowl Inox III - 127V",
+    "image": "https://m.media-amazon.com/images/I/51aQCAmwRLL._AC_SL1000_.jpg",
+    "canonical": null,
+    "category": "Cozinha",
+    "price_current": 415,
+    "price_original": 699.9,
+    "discount_percentage": null,
+    "tem_selo_prime": false,
+    "tem_oferta": true,
+    "avaliacao": 4.6,
+    "qtd_avaliacoes": 1903,
+    "coupon_code": null,
+    "description": "<ul><li>POTÊNCIA PROFISSIONAL: Motor de 850W garante desempenho ideal para preparar massas pesadas cremes e muito mais com consistência perfeita</li><li>CONTROLE TOTAL: Com 12 velocidades e partida suave oferece precisão e mistura homogênea sem respingos</li><li>ESTABILIDADE GARANTIDA: Ventosas de alta sucção na base proporcionam firmeza mesmo em receitas mais pesadas como pães</li><li>ESTABILIDADE GARANTIDA: Ventosas de alta sucção na base proporcionam firmeza mesmo em receitas mais pesadas como pães</li><li>DESIGN MODERNO: Acabamento em inox une estilo durabilidade e sofisticação para sua cozinha</li></ul>",
+    "informacoes_produto": {
+      "Nome da marca": "Oster",
+      "Nome do modelo": "BATEDEIRA PLANETÁRIA",
+      "Fabricante": "Oster",
+      "Descrição da garantia": "12 meses",
+      "Número do modelo": "OBAT641-127",
+      "Número da peça": "OBAT641-127",
+      "Componentes incluídos": "3 batedores dierentes, medidor",
+      "País de origem": "Brasil",
+      "Nome do Tipo de Produto": "BATEDEIRA PLANETÁRIA",
+      "ASIN": "B0C4CF2F67",
+      "Cor": "Prata",
+      "Características especiais": "Tigela removível",
+      "Voltagem": "110 Volts",
+      "Potência": "850 watts",
+      "Tipo de controles": "Knob",
+      "Nível de ruído": "75 Decibéis",
+      "Número de velocidades": "12",
+      "Dimensões do item P x L x A": "23,8P x 38,3L x 34,4A centímetros",
+      "Capacidade": "4 litros",
+      "Peso do item": "3,96 Quilogramas",
+      "Material": "Aço inoxidável",
+      "O item pode ser lavado na máquina de lavar louça?": "Não",
+      "Material de recipiente": "inox",
+      "Material da Lâmina": "aço inoxidável",
+      "Marca": "Oster",
+      "Dimensões do produto": "23,8P x 38,3L x 34,4A centímetros"
+    },
+    "affiliate_url": "https://www.amazon.com.br/Batedeira-Planet%C3%A1ria-Oster-Bowl-OBAT641/dp/B0C4CF2F67/ref=zg_bs_g_kitchen_d_sccl_9/146-4195612-0631345?tag=mixdm22-20",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -6958,7 +7619,7 @@ const PRODUCTS = [
       "Adequação do controle por rádio": "Uso doméstico"
     },
     "affiliate_url": "https://www.amazon.com.br/Mixer-El%C3%A9trico-Bebidas-Pl%C3%A1stico-Branco/dp/B0C7DLXV6Q/ref=zg_bs_g_kitchen_d_sccl_8/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -7007,7 +7668,7 @@ const PRODUCTS = [
       "Dimensões do produto": "12P x 32L x 24,5A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/Cafeteira-Espresso-Passione-Preta-Cora%C3%A7%C3%B5es/dp/B08S1ZS6R1/ref=zg_bs_g_kitchen_d_sccl_14/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -7045,7 +7706,7 @@ const PRODUCTS = [
       "Forma": "Cone"
     },
     "affiliate_url": "https://www.amazon.com.br/Filtro-Branco-unidades-Tamanho-Coador/dp/B001U7EOYA/ref=zg_bs_g_kitchen_d_sccl_13/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -7099,7 +7760,7 @@ const PRODUCTS = [
       "Dimensões do produto": "22,3P x 28,6L x 36,5A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/Liquidificador-S%C3%A9rie-RI2244-Philips-Walita/dp/B08TLH52PQ/ref=zg_bs_g_kitchen_d_sccl_9/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -7140,7 +7801,50 @@ const PRODUCTS = [
       "Próprio para lava-louças": "Sim"
     },
     "affiliate_url": "https://www.amazon.com.br/Panelas-Pe%C3%A7as-Bianco-Antiaderente-Tampa/dp/B0CZMK9X9B/ref=zg_bs_g_kitchen_d_sccl_15/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B07BB8NL42",
+    "title": "Heineken Cerveja Barril 5L",
+    "image": "https://m.media-amazon.com/images/I/71HEhcTxjvL._AC_SL1500_.jpg",
+    "canonical": null,
+    "category": "Cozinha",
+    "price_current": 112.56,
+    "price_original": 161.88,
+    "discount_percentage": null,
+    "tem_selo_prime": false,
+    "tem_oferta": true,
+    "avaliacao": 4.8,
+    "qtd_avaliacoes": 1216,
+    "coupon_code": null,
+    "description": "<ul><li>Conheça Heineken, a cerveja icônica desde 1873, feita com cevada, lúpulo e água</li><li>Cerveja Heineken é ideal para momentos entre amigos, na praia, no churrasco ou em encontros relaxantes</li><li>Celebre a vida com o sabor único e autêntico que um copo de cerveja Heineken traz</li><li>O barril Heineken 5 litros é perfeito para levar em uma reunião com amigos ou família, livre da preocupação de que a bebida pode acabar em algum momento</li><li>Conheça as versões lata, long neck, garrafa, barril Heineken 5 litros, cerveja sem alcool e as outras marcas de Heineken.</li></ul>",
+    "informacoes_produto": {
+      "Nome da marca": "Heineken",
+      "Tipo alcoólico": "Blended whiskey",
+      "Sabor": "Baunilha",
+      "Quantidade de itens": "1",
+      "Conteúdo alcoólico": "5 %",
+      "Descrição do conteúdo líquido": "Cerveja",
+      "Número de identificação de comércio internacional": "08712000025649",
+      "Número do modelo": "55002158",
+      "Número da peça": "55002158",
+      "Número da peça do item": "8712000025649",
+      "Fabricante": "Heineken II BR",
+      "ASIN": "B07BB8NL42",
+      "Contagem de unidades": "1 Unidade",
+      "Volume de líquido": "5000 Mililitros",
+      "Peso do item": "5 Quilogramas",
+      "Peso do pacote": "5,78 Quilogramas",
+      "Total de pacotes": "1",
+      "Volume do item": "5000 Mililitros",
+      "Informações sobre alérgenos": "Contém: Cevada",
+      "Marca": "Heineken",
+      "Tipo de álcool": "Blended whiskey",
+      "Número de itens": "1"
+    },
+    "affiliate_url": "https://www.amazon.com.br/Heineken-Cerveja-Keg-5L/dp/B07BB8NL42/ref=zg_bs_g_kitchen_d_sccl_15/146-4195612-0631345?tag=mixdm22-20",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -7189,7 +7893,7 @@ const PRODUCTS = [
       "Dimensões do produto": "18P x 20L x 38A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/Liquidificador-Easy-Power-Mondial-L-550-B/dp/B08J8GKC5R/ref=zg_bs_g_kitchen_d_sccl_16/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -7228,7 +7932,7 @@ const PRODUCTS = [
       "Marca": "MONDIAL"
     },
     "affiliate_url": "https://www.amazon.com.br/Pipoqueira-Popflix-Mondial-Pp-03-Vermelho/dp/B07G1HWM9D/ref=zg_bs_g_kitchen_d_sccl_22/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -7285,7 +7989,7 @@ const PRODUCTS = [
       "Marca": "GATAO"
     },
     "affiliate_url": "https://www.amazon.com.br/Sofia-Transparente-Design-Canelado-Vertical/dp/B0H5TGYNPL/ref=zg_bs_g_kitchen_d_sccl_11/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -7324,7 +8028,7 @@ const PRODUCTS = [
       "Dimensões do produto": "25,5P x 28,5L x 36,7A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/Fritadeira-Gourmet-Litros-Compacta-Digital/dp/B0DGWHX6JH/ref=zg_bs_g_kitchen_d_sccl_18/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -7364,7 +8068,7 @@ const PRODUCTS = [
       "Descontinuado pelo fabricante": "Não"
     },
     "affiliate_url": "https://www.amazon.com.br/OU-OF350NT-Organizador-Geladeira-Escorredor/dp/B08Y5LKM6W/ref=zg_bs_g_kitchen_d_sccl_25/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -7408,7 +8112,7 @@ const PRODUCTS = [
       "Fonte de alimentação": "Elétrico com fio"
     },
     "affiliate_url": "https://www.amazon.com.br/Panela-Arroz-Bianca-Mondial-NPE-05-5X/dp/B07QCVJHN5/ref=zg_bs_g_kitchen_d_sccl_17/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -7450,7 +8154,7 @@ const PRODUCTS = [
       "Dimensões do produto": "32C x 53L x 64A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/Herm%C3%A9tico-Alimentos-Mantimentos-Kit-24/dp/B0G5YRSFP1/ref=zg_bs_g_kitchen_d_sccl_21/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -7486,7 +8190,7 @@ const PRODUCTS = [
       "Marca": "Tramontina"
     },
     "affiliate_url": "https://www.amazon.com.br/Tramontina-PIPOQUEIRA-20CM-LORETO-VERMELHO/dp/B09W4CSX53/ref=zg_bs_g_kitchen_d_sccl_28/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -7525,7 +8229,7 @@ const PRODUCTS = [
       "Dimensões do produto": "23,5P x 23,5L x 10A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/Sanduicheira-Grill-Brit%C3%A2nia-BGR16-Redstone/dp/B0CJ3R1537/ref=zg_bs_g_kitchen_d_sccl_19/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -7566,7 +8270,7 @@ const PRODUCTS = [
       "Dimensões do produto": "20,7C x 4,2L centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/Esp%C3%A1tula-Silicone-Reta-Pequena-OIKOS/dp/B085M4Z3N4/ref=zg_bs_g_kitchen_d_sccl_27/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -7615,7 +8319,7 @@ const PRODUCTS = [
       "Dimensões do produto": "5,5P x 5L x 38A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/Mixer-velocidades-Bmx400-Preto-Brit%C3%A2nia/dp/B08YHR9C4S/ref=zg_bs_g_kitchen_d_sccl_24/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -7657,7 +8361,7 @@ const PRODUCTS = [
       "Marca": "Brinox"
     },
     "affiliate_url": "https://www.amazon.com.br/Pressao-indu%C3%A7%C3%A3o-Pressure-BRINOX-REVESTIDOS/dp/B08YFLVSBP/ref=zg_bs_g_kitchen_d_sccl_26/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -7703,7 +8407,7 @@ const PRODUCTS = [
       "Marca": "TIBA"
     },
     "affiliate_url": "https://www.amazon.com.br/Garrafa-Squeeze-TIBA-Fun-300/dp/B0G1PCXPNC/ref=zg_bs_g_kitchen_d_sccl_20/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -7750,7 +8454,59 @@ const PRODUCTS = [
       "Faixa etária (descrição)": "Adultos"
     },
     "affiliate_url": "https://www.amazon.com.br/Borossilicato-Retangular-Conserva%C3%A7%C3%A3o-Micro-ondas-Lava-lou%C3%A7as/dp/B0H1J7P7RL/ref=zg_bs_g_kitchen_d_sccl_23/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0B726S9S3",
+    "title": "Fritadeira Oven Fryer 12L Oster 3 em 1-127V",
+    "image": "https://m.media-amazon.com/images/I/51SJbHCok6L._AC_SL1000_.jpg",
+    "canonical": null,
+    "category": "Cozinha",
+    "price_current": 509,
+    "price_original": 562.8,
+    "discount_percentage": 22.0,
+    "tem_selo_prime": false,
+    "tem_oferta": true,
+    "avaliacao": 4.8,
+    "qtd_avaliacoes": 4582,
+    "coupon_code": null,
+    "description": "<ul><li>Cor: Branco</li><li>A Fritadeira elétrica sem óleo Air Fryer 12L 1.800 Watts 3 em 1 - Oven Fryer da Oster é tudo o que você precisa para fazer refeições mais leves e saudáveis no dia a dia.</li><li>A Oven Fryer chega para completar seus momentos na cozinha. Multifunções e com capacidade ampliada, ela traz mais praticidade para a rotina em família, com ainda mais possibilidades de preparos rápidos e saudáveis.</li><li>Painel Touch</li><li>Função desidratar</li><li>Timer sonoro com desligamento automático.</li></ul>",
+    "informacoes_produto": {
+      "Características especiais": "Programável",
+      "Potência de saída": "1800 Watts",
+      "Potência": "1800 watts",
+      "Voltagem": "110 Volts",
+      "Método de controle": "Toque",
+      "Configuração mínima de temperatura": "40 Graus Celsius",
+      "Unidade de configuração de temperatura máxima": "200 Graus Celsius",
+      "Tecnologia de Fritura a Ar": "Fluxo de ar",
+      "Dimensões do item P x L x A": "34,7P x 39L x 42,8A centímetros",
+      "Capacidade": "12 litros",
+      "Peso do item": "5,9 Quilogramas",
+      "Tamanho": "único",
+      "Material": "Plástico, Vidro",
+      "Tem revestimento antiaderente": "Sim",
+      "O item pode ser lavado na máquina de lavar louça?": "Não",
+      "Instruções de cuidados com o produto": "não colocar na lava louças",
+      "Material interno": "Plástico, Vidro",
+      "Usos recomendados do produto": "Assar, Desidratar, Fritar",
+      "Nome da marca": "Oster",
+      "Número do modelo": "OFRT780-127V",
+      "Ano de fabricação": "1900",
+      "Configuração": "110 Volts",
+      "Descrição da garantia": "12 meses, contra defeito de fabricação",
+      "Fabricante": "Oster",
+      "Número da peça": "OFRT780-127V",
+      "Nome do Tipo de Produto": "FRITADEIRA ELÉTRICA",
+      "Componentes incluídos": "2 Assadores com fluxo de ar (Grade) + 1 Cesto rotativo + 1 Gancho para remover acessórios + 1 Espeto rotisserie + 1 Bandeja coletora + 1 Manual de instruções e um folheto de garantia e assistência técnica",
+      "País de origem": "China",
+      "ASIN": "B0B726S9S3",
+      "Cor": "Preto",
+      "Dimensões do produto": "34,7P x 39L x 42,8A centímetros"
+    },
+    "affiliate_url": "https://www.amazon.com.br/Fritadeira-forno-Oster-127V-OFRT780-127V/dp/B0B726S9S3/ref=zg_bs_g_kitchen_d_sccl_30/146-4195612-0631345?tag=mixdm22-20",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -7812,7 +8568,7 @@ const PRODUCTS = [
       "Dimensões do produto": "53P x 49L x 120A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/escrit%C3%B3rio-ergon%C3%B4mico-independente-respir%C3%A1vel-ajust%C3%A1vel%EF%BC%88Preto/dp/B0CG8J3N2H/ref=zg_bs_g_furniture_d_sccl_2/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -7856,7 +8612,7 @@ const PRODUCTS = [
       "Marca": "WR"
     },
     "affiliate_url": "https://www.amazon.com.br/Suporte-Notebook-MacBook-Alum%C3%ADnio-Ajust%C3%A1vel/dp/B086CB6BXW/ref=zg_bs_g_furniture_d_sccl_1/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -7888,7 +8644,7 @@ const PRODUCTS = [
       "Dimensões do produto": "10P x 44L x 64A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/Mesa-Port%C3%A1til-Para-Notebook-Suporte/dp/B09963FWYX/ref=zg_bs_g_furniture_d_sccl_3/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -7976,7 +8732,7 @@ const PRODUCTS = [
       "Material da moldura": "Metal"
     },
     "affiliate_url": "https://www.amazon.com.br/Mesa-Dobr%C3%A1vel-Port%C3%A1til-Preta-Maleta/dp/B0GYQF5DPD/ref=zg_bs_g_furniture_d_sccl_4/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -8034,7 +8790,7 @@ const PRODUCTS = [
       "Dimensões do produto": "19C x 760L x 220Espessura milímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/Colch%C3%A3o-Infl%C3%A1vel-Solteiro-Com-Fole/dp/B075XMH39C/ref=zg_bs_g_furniture_d_sccl_5/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -8071,7 +8827,7 @@ const PRODUCTS = [
       "Peso do produto": "7,1 Quilogramas"
     },
     "affiliate_url": "https://www.amazon.com.br/Port%C3%A1til-Acoplado-Connect-Maxi-Grafite/dp/B0FXH6Y9G8/ref=zg_bs_g_furniture_d_sccl_6/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -8110,7 +8866,7 @@ const PRODUCTS = [
       "Marca": "Genérico"
     },
     "affiliate_url": "https://www.amazon.com.br/Notebook-Ergon%C3%B4mico-Ajust%C3%A1vel-Regul%C3%A1vel-Universal/dp/B0F1C2GCK4/ref=zg_bs_g_furniture_d_sccl_7/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -8180,7 +8936,7 @@ const PRODUCTS = [
       "Tipo de material da parte superior": "Madeira de engenharia"
     },
     "affiliate_url": "https://www.amazon.com.br/Escrit%C3%B3rio-Diretor-Estilo-Industrial-Kuadra/dp/B089Y3S71L/ref=zg_bs_g_furniture_d_sccl_10/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -8240,7 +8996,7 @@ const PRODUCTS = [
       "Dimensões do produto": "77P x 25L x 59A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/Cadeira-Ergonomica-Gamer-Apoio-Branco/dp/B0CJV2WKQF/ref=zg_bs_g_furniture_d_sccl_8/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -8278,7 +9034,7 @@ const PRODUCTS = [
       "Dimensões do produto": "64P x 6L x 44A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/ajust%C3%A1vel-dobr%C3%A1vel-notebook-lateral-Nogueira-Flip/dp/B0FF4KZ1ZZ/ref=zg_bs_g_furniture_d_sccl_9/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -8327,7 +9083,7 @@ const PRODUCTS = [
       "Dimensões do produto": "188C x 138L x 34A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/Estrutura-Precisa-Spring-Espa%C3%A7o-Armazenamen/dp/B0FZ98XMN9/ref=zg_bs_g_furniture_d_sccl_11/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -8377,7 +9133,7 @@ const PRODUCTS = [
       "Marca": "VONDER"
     },
     "affiliate_url": "https://www.amazon.com.br/Banqueta-Pl%C3%A1stica-Dobr%C3%A1vel-Altura-VDO2556/dp/B078HFQHKX/ref=zg_bs_g_furniture_d_sccl_12/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -8416,7 +9172,7 @@ const PRODUCTS = [
       "Dimensões do produto": "60P x 28L x 40A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/Notebook-Port%C3%A1til-Articulada-Grafite-Dobr%C3%A1vel/dp/B0FNNHKML3/ref=zg_bs_g_furniture_d_sccl_13/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -8482,7 +9238,7 @@ const PRODUCTS = [
       "Peso do produto": "15 Quilogramas"
     },
     "affiliate_url": "https://www.amazon.com.br/Cadeira-Escrit%C3%B3rio-Apoio-Encosto-Ajust%C3%A1vel%EF%BC%88Preto%EF%BC%89/dp/B0CSD46QVZ/ref=zg_bs_g_furniture_d_sccl_17/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -8558,7 +9314,7 @@ const PRODUCTS = [
       "Dimensões do produto": "51P x 51L x 90,5A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/Cadeira-Escrit%C3%B3rio-Girat%C3%B3ria-Office-Preta/dp/B0BXV6YGZQ/ref=zg_bs_g_furniture_d_sccl_14/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -8601,7 +9357,7 @@ const PRODUCTS = [
       "Dimensões do produto": "74C x 64,5L x 99A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/Burigotto-Ber%C3%A7o-Sonata-Bege/dp/B0C5N6ST9L/ref=zg_bs_g_furniture_d_sccl_16/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -8664,7 +9420,7 @@ const PRODUCTS = [
       "Dimensões do produto": "53P x 54L x 72A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/Cadeira-Praia-ALTA-ACO-2002/dp/B075XM6DKH/ref=zg_bs_g_furniture_d_sccl_27/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -8726,7 +9482,7 @@ const PRODUCTS = [
       "Dimensões do produto": "47P x 50L x 100A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/Cadeira-Escritorio-Begonia-Ergonomica-Giratoria/dp/B0BCXBC2W4/ref=zg_bs_g_furniture_d_sccl_18/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -8775,7 +9531,7 @@ const PRODUCTS = [
       "Marca": "Sanremo"
     },
     "affiliate_url": "https://www.amazon.com.br/Sanremo-955-Organizador-Transparente/dp/B0788PY5PP/ref=zg_bs_g_furniture_d_sccl_19/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -8813,7 +9569,7 @@ const PRODUCTS = [
       "Marca": "Genérico"
     },
     "affiliate_url": "https://www.amazon.com.br/Notebook-Ergon%C3%B4mico-Ajust%C3%A1vel-Antiderrapante-Universal/dp/B0H2RLZN4M/ref=zg_bs_g_furniture_d_sccl_15/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -8867,7 +9623,7 @@ const PRODUCTS = [
       "Dimensões do produto": "53P x 72,5L x 54,5A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/MOR-2059-Mor-Alta-Preta/dp/B0F8P7V1VB/ref=zg_bs_g_furniture_d_sccl_21/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -8924,7 +9680,7 @@ const PRODUCTS = [
       "Limite de peso": "260 Quilogramas"
     },
     "affiliate_url": "https://www.amazon.com.br/Colchao-Casal-Emma-Basics-ortop%C3%A9dico/dp/B0B8ZF9DR3/ref=zg_bs_g_furniture_d_sccl_22/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -8958,7 +9714,7 @@ const PRODUCTS = [
       "Disponível para compra desde": "20 abril 2026"
     },
     "affiliate_url": "https://www.amazon.com.br/Guarda-roupa-Espelho-Portas-Gavetas-Araplac/dp/B0GXX1CNPX/ref=zg_bs_g_furniture_d_sccl_20/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -9006,7 +9762,7 @@ const PRODUCTS = [
       "Marca": "Sanremo"
     },
     "affiliate_url": "https://www.amazon.com.br/Sanremo-SR941-Organizador-Transparente/dp/B07C844DL9/ref=zg_bs_g_furniture_d_sccl_23/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -9055,7 +9811,7 @@ const PRODUCTS = [
       "Limite de peso": "260 Quilogramas"
     },
     "affiliate_url": "https://www.amazon.com.br/Colch%C3%A3o-Emma-Original-Brasil-158x198/dp/B081NL17WS/ref=zg_bs_g_furniture_d_sccl_26/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": true
   },
   {
@@ -9095,7 +9851,7 @@ const PRODUCTS = [
       "Dimensões do produto": "38P x 33L x 56A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/Gaveteiro-Pl%C3%A1stico-Gavetas-S%C3%A3o-Bernardo/dp/B076X7T36F/ref=zg_bs_g_furniture_d_sccl_24/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -9170,7 +9926,7 @@ const PRODUCTS = [
       "Dimensões do produto": "56P x 65L x 120A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/Laruno-Escrit%C3%B3rio-Ergon%C3%B4mica-Reclin%C3%A1vel-Respir%C3%A1vel/dp/B0GYQBPDG6/ref=zg_bs_g_furniture_d_sccl_29/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -9212,7 +9968,7 @@ const PRODUCTS = [
       "Marca": "A S AMAZING SHOP"
     },
     "affiliate_url": "https://www.amazon.com.br/Banquinho-Auxiliar-Ergon%C3%B4mico-para-Sanit%C3%A1rio/dp/B0CTFT35CJ/ref=zg_bs_g_furniture_d_sccl_28/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -9275,7 +10031,87 @@ const PRODUCTS = [
       "Dimensões do produto": "60P x 60L x 30A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/Escrit%C3%B3io-Presidente-Estofamento-Reclin%C3%A1vel-Girat%C3%B3ria/dp/B0DJ9XGMTQ/ref=zg_bs_g_furniture_d_sccl_25/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0D1S8ZFHT",
+    "title": "Ou Organizador Multiuso 8L Bege Linha Flow",
+    "image": "https://m.media-amazon.com/images/I/51yivWYCUsL._AC_SL1500_.jpg",
+    "canonical": null,
+    "category": "Móveis",
+    "price_current": 38.5,
+    "price_original": 158.8,
+    "discount_percentage": null,
+    "tem_selo_prime": false,
+    "tem_oferta": true,
+    "avaliacao": 4.8,
+    "qtd_avaliacoes": 747,
+    "coupon_code": null,
+    "description": "<ul><li>Organizador</li><li>Organizador multiuso para melhorar a organização e otimizar espaços em sua casa ou escritório</li><li>Design retangular de tamanho médio na cor bege, oferecendo uma aparência neutra e versátil</li></ul>",
+    "informacoes_produto": {
+      "Dimensões do item C x L x A": "34,6C x 22,4L x 21,5A centímetros",
+      "Contagem de unidades": "1.0 unidade",
+      "Capacidade": "8 litros",
+      "Cor": "Bege",
+      "Tipo de acabamento": "Polipropileno (PP), Bambu",
+      "Material": "Bambu, Polipropileno (PP)",
+      "O item pode ser lavado na máquina de lavar louça?": "Não",
+      "Nome da marca": "OU",
+      "Fabricante": "Ou",
+      "Número do modelo": "OMW100BGF",
+      "Número da peça": "OMW100BGF",
+      "Nome do Tipo de Produto": "Cesto",
+      "ASIN": "B0D1S8ZFHT",
+      "Dimensões do produto": "34,6C x 22,4L x 21,5A centímetros",
+      "Marca": "OU"
+    },
+    "affiliate_url": "https://www.amazon.com.br/Organizador-Multiuso-Bege-Linha-Flow/dp/B0D1S8ZFHT/ref=zg_bs_g_furniture_d_sccl_30/146-4195612-0631345?tag=mixdm22-20",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0B5S9HH3X",
+    "title": "Banqueta Plástica Dobrável, Cinza, Altura 220 Mm, Vonder.",
+    "image": "https://m.media-amazon.com/images/I/51p+xvfhDZL._AC_SL1000_.jpg",
+    "canonical": null,
+    "category": "Móveis",
+    "price_current": 51.21,
+    "price_original": 70.43,
+    "discount_percentage": 27.0,
+    "tem_selo_prime": false,
+    "tem_oferta": true,
+    "avaliacao": 4.8,
+    "qtd_avaliacoes": 806,
+    "coupon_code": null,
+    "description": "<ul><li>Antiderrapante, dobrável e com alça para transporte (fechada).</li><li>Banqueta dobrável com pés antiderrapantes, facilitando o armazenamento e garantindo estabilidade durante o uso.</li><li>Feita de plástico resistente, com formato quadrado e acabamento na cor cinza, ideal para diversos ambientes.</li></ul>",
+    "informacoes_produto": {
+      "Dimensões do item P x L x A": "30P x 35L x 22A centímetros",
+      "Altura máxima": "220 Milímetros",
+      "Profundidade do item": "220 millimeters",
+      "Características especiais": "Dobrável, Pés antiderrapantes",
+      "É dobrável": "Sim",
+      "Tipo de base": "Plástica",
+      "Cor": "Cinza",
+      "Tipo de sala": "Banheiro",
+      "Estilo": "assento",
+      "Exige montagem": "Não",
+      "Material": "Plástico",
+      "Nome da marca": "VONDER",
+      "Nome do modelo": "Banqueta Dobrável, Cinza, Vonder.",
+      "Número da peça": "1",
+      "Número do modelo": "1",
+      "Nome do Tipo de Produto": "Banqueta Plástica Dobrável",
+      "Descrição da garantia": "3 meses",
+      "Componentes incluídos": "1 Banqueta dobrável.",
+      "Fabricante": "Vonder",
+      "País de origem": "China",
+      "ASIN": "B0B5S9HH3X",
+      "Dimensões do produto": "30P x 35L x 22A centímetros",
+      "Marca": "VONDER"
+    },
+    "affiliate_url": "https://www.amazon.com.br/Banqueta-Pl%C3%A1stico-Dobr%C3%A1vel-Vonder-220mm/dp/B0B5S9HH3X/ref=zg_bs_g_furniture_d_sccl_1/146-4195612-0631345?tag=mixdm22-20",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -9337,7 +10173,7 @@ const PRODUCTS = [
       "Dimensões do produto": "36P x 86L x 75A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/Fruteira-Multim%C3%B3veis-Micro-ondas-Cozinha-Lavanderia/dp/B07J6BXSNN/ref=zg_bs_g_furniture_d_sccl_5/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -9370,7 +10206,7 @@ const PRODUCTS = [
       "Número de itens": "1"
     },
     "affiliate_url": "https://www.amazon.com.br/Seguran%C3%A7a-Universal-Anti-Quedas-Dobr%C3%A1vel-Prote%C3%A7%C3%A3o/dp/B0GWFL1L5Z/ref=zg_bs_g_furniture_d_sccl_1/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -9404,7 +10240,7 @@ const PRODUCTS = [
       "Dimensões do produto": "28L x 17A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/Cabide-Infantil-Veludo-Antideslizante-Moderno/dp/B09XNCLQBW/ref=zg_bs_g_furniture_d_sccl_7/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -9440,7 +10276,7 @@ const PRODUCTS = [
       "Método de refrigeração": "Ar"
     },
     "affiliate_url": "https://www.amazon.com.br/Silencioso-Ergon%C3%B4mico-Adicional-Ilumina%C3%A7%C3%A3o-Polegadas/dp/B0F9B4TQVP/ref=zg_bs_g_furniture_d_sccl_8/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -9498,7 +10334,7 @@ const PRODUCTS = [
       "Dimensões do produto": "50P x 115L x 45A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/Cadeira-encosto-apoios-bra%C3%A7os-ajust%C3%A1vel/dp/B0CYZGCJYC/ref=zg_bs_g_furniture_d_sccl_4/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -9534,7 +10370,7 @@ const PRODUCTS = [
       "Marca": "Genérico"
     },
     "affiliate_url": "https://www.amazon.com.br/Regulagem-Ergon%C3%B4mica-Ventila%C3%A7%C3%A3o-Aprimorada-Transporte/dp/B0H3788T72/ref=zg_bs_g_furniture_d_sccl_3/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -9580,7 +10416,7 @@ const PRODUCTS = [
       "Marca": "NO2PROBLEMS"
     },
     "affiliate_url": "https://www.amazon.com.br/Notebook-Ajust%C3%A1vel-Ergon%C3%B4mico-Compat%C3%ADvel-Polegadas/dp/B0BBVCPCYP/ref=zg_bs_g_furniture_d_sccl_24/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -9639,7 +10475,7 @@ const PRODUCTS = [
       "Dimensões do produto": "50P x 66L x 95A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/Cadeira-Escrit%C3%B3rio-Python-Fly-Leisure/dp/B0D1QWJYV9/ref=zg_bs_g_furniture_d_sccl_12/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -9680,7 +10516,7 @@ const PRODUCTS = [
       "Peso do produto": "240 Gramas"
     },
     "affiliate_url": "https://www.amazon.com.br/Cadeira-Refei%C3%A7%C3%A3o-Port%C3%A1til-Smart-Cosco/dp/B07VMNQC4P/ref=zg_bs_g_furniture_d_sccl_14/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -9735,7 +10571,7 @@ const PRODUCTS = [
       "Dimensões do produto": "60P x 48L x 130A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/EKROTOK-Escrit%C3%B3rio-Ergon%C3%B4micas-Computador-Retr%C3%A1teis/dp/B0FYMRR5YK/ref=zg_bs_g_furniture_d_sccl_6/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -9770,7 +10606,7 @@ const PRODUCTS = [
       "Marca": "Genérico"
     },
     "affiliate_url": "https://www.amazon.com.br/Conjunto-Banheiro-Dispenser-Sabonete-Sanit%C3%A1ria/dp/B0FXT573B1/ref=zg_bs_g_furniture_d_sccl_11/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -9810,7 +10646,7 @@ const PRODUCTS = [
       "Número de itens": "16"
     },
     "affiliate_url": "https://www.amazon.com.br/Anti-Impacto-Redondo-Scotch-HB004263081-Grande/dp/B07DKNT84M/ref=zg_bs_g_furniture_d_sccl_13/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -9858,7 +10694,7 @@ const PRODUCTS = [
       "Dimensões do produto": "52P x 72L x 170A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/Arm%C3%A1rio-Multiuso-Portas-New-Aram%C3%B3veis/dp/B0CMJ9PYB9/ref=zg_bs_g_furniture_d_sccl_10/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -9898,7 +10734,7 @@ const PRODUCTS = [
       "Peso do produto": "27,6 Quilogramas"
     },
     "affiliate_url": "https://www.amazon.com.br/Rack-portas-CHARLOTTE-Cinamomo-White/dp/B0D1H85DGL/ref=zg_bs_g_furniture_d_sccl_28/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -9950,7 +10786,7 @@ const PRODUCTS = [
       "Dimensões do produto": "32P x 52L x 170A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/Arm%C3%A1rio-Multiuso-Portas-New-Aram%C3%B3veis/dp/B0CMJCQGGN/ref=zg_bs_g_furniture_d_sccl_9/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -10010,7 +10846,7 @@ const PRODUCTS = [
       "Forma": "Retangular"
     },
     "affiliate_url": "https://www.amazon.com.br/Agraplast-851-Estante-Modular-Preto/dp/B076X58FPZ/ref=zg_bs_g_furniture_d_sccl_22/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -10080,7 +10916,7 @@ const PRODUCTS = [
       "Dimensões do produto": "70P x 66L x 128A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/Cadeira-Ergonomic-Thunderx3-Yama1-Preta/dp/B07XM8KGBB/ref=zg_bs_g_furniture_d_sccl_21/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -10137,7 +10973,7 @@ const PRODUCTS = [
       "Limite de peso": "260 Quilogramas"
     },
     "affiliate_url": "https://www.amazon.com.br/Colch%C3%A3o-Emma-Duo-Casal-Espuma/dp/B08YKBXTX6/ref=zg_bs_g_furniture_d_sccl_23/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -10185,7 +11021,7 @@ const PRODUCTS = [
       "Marca": "Buba"
     },
     "affiliate_url": "https://www.amazon.com.br/Degrau-Urso-Buba-Branco-%C3%9Anico/dp/B08JGF668H/ref=zg_bs_g_furniture_d_sccl_16/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -10250,7 +11086,44 @@ const PRODUCTS = [
       "Tipo de material da parte superior": "Madeira de engenharia"
     },
     "affiliate_url": "https://www.amazon.com.br/Mesa-Home-Office-prateleiras-Metal/dp/B0FWVJ7YRY/ref=zg_bs_g_furniture_d_sccl_18/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0FN6DFPFJ",
+    "title": "Suporte para Notebook em Aço Carbono Apoio Ajustável Apoiador Dobrável E Ergonômico Ventilado para Mac Notebook MacBook Pro/A",
+    "image": "https://m.media-amazon.com/images/I/61mmX+0WWNL._AC_SL1024_.jpg",
+    "canonical": null,
+    "category": "Móveis",
+    "price_current": 79.9,
+    "price_original": 349.9,
+    "discount_percentage": null,
+    "tem_selo_prime": false,
+    "tem_oferta": true,
+    "avaliacao": 4.5,
+    "qtd_avaliacoes": 190,
+    "coupon_code": null,
+    "description": "<ul><li>✅ Ergonomia Profissional para Longas Jornadas Adote uma postura correta com ajuste total de altura e inclinação (0° a 90°), reduzindo dores nas costas, pescoço e ombros. Ideal para home office, estudos, escritórios e uso contínuo.</li><li>✅ Compatibilidade Total com Dispositivos (10\" a 17,3\") Suporte universal compatível com MacBook, Dell, HP, Lenovo, ASUS, Acer, Surface, Chromebook e tablets — atende notebooks de 10 até 17,3 polegadas com total estabilidade.</li><li>✅ Construção Robusta e Ultra Resistente (até 15kg) Fabricado em liga de alumínio premium, suporta peso elevado sem oscilar. Estrutura reforçada e ganchos com proteção de silicone antiderrapante garantem segurança máxima para seu notebook.</li><li>✅ Design Dobrável e Portátil com Alça Integrada Leve, compacto e dobrável, ideal para quem precisa de mobilidade. Perfeito para levar na mochila e trabalhar com conforto em qualquer lugar: casa, coworking ou viagens.</li><li>✅ Sistema Avançado de Ventilação com Alta Performance Design vazado e estrutura elevada que favorece o fluxo de ar e evita o superaquecimento — mantém seu notebook refrigerado mesmo durante horas de uso intenso.</li><li>✅ Estabilidade Imbatível com Base Antiderrapante Pés emborrachados e base antiderrapante evitam qualquer deslizamento, mesmo durante a digitação. Firmeza e segurança garantidas para qualquer superfície.</li><li>✅ Acabamento Premium com Visual Moderno e Sofisticado Detalhes refinados, bordas arredondadas e estrutura metálica escovada criam um visual elegante que valoriza qualquer setup de trabalho ou estudo.</li><li>✅ Ideal para Multiuso Profissional e Doméstico Use como suporte para tablets, livros, cardápios, projetores, revistas e até partituras — versatilidade para escritório, sala de aula, cozinha e estúdio.</li><li>✅ Facilidade de Armazenamento e Organização Libere espaço na sua mesa com um suporte que se dobra em segundos, mantendo o ambiente limpo, organizado e mais produtivo.</li><li>✅ Presente Inteligente e Funcional para Qualquer Ocasião Excelente opção para surpreender amigos, familiares ou colegas com um acessório útil, moderno e essencial para o dia a dia digital.</li></ul>",
+    "informacoes_produto": {
+      "Fator de forma": "Suporte de mesa",
+      "Dispositivos compatíveis": "Notebooks, Tablets",
+      "Tipo de montagem": "Sobre a mesa",
+      "Usos recomendados do produto": "Mesa",
+      "Comprimento Ajustável": "Sim",
+      "Contagem de unidades": "1 Unidade",
+      "Material": "Alumínio",
+      "Nome da marca": "Genérico",
+      "Quantidade de itens": "1",
+      "Número da peça": "001",
+      "Componentes incluídos": "Suporte",
+      "Descrição da garantia": "30 dias",
+      "País de origem": "China",
+      "Fabricante": "Importado",
+      "ASIN": "B0FN6DFPFJ",
+      "Marca": "Genérico"
+    },
+    "affiliate_url": "https://www.amazon.com.br/Notebook-Ajust%C3%A1vel-Apoiador-Ergon%C3%B4mico-Ventilado/dp/B0FN6DFPFJ/ref=zg_bs_g_furniture_d_sccl_22/146-4195612-0631345?tag=mixdm22-20",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -10328,7 +11201,7 @@ const PRODUCTS = [
       "Dimensões do produto": "50P x 60L x 126A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/BlidShop-Cadeira-Escrit%C3%B3rio-Ergon%C3%B4mica-Girat%C3%B3ria/dp/B0FKPKCS47/ref=zg_bs_g_furniture_d_sccl_29/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -10373,7 +11246,152 @@ const PRODUCTS = [
       "Marca": "Brinqlar"
     },
     "affiliate_url": "https://www.amazon.com.br/Carrinho-Organizador-Multiuso-Prateleiras-Rodinhas/dp/B0FPSDGJQ4/ref=zg_bs_g_furniture_d_sccl_25/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B089Y7F6GR",
+    "title": "Mesa para Escritório Office Estilo Industrial 1,20m, Compace, Kuadra, Nogal/Est. Preta",
+    "image": "https://m.media-amazon.com/images/I/71r8agSoJbL._AC_SL1000_.jpg",
+    "canonical": null,
+    "category": "Móveis",
+    "price_current": 270.38,
+    "price_original": 293.91,
+    "discount_percentage": null,
+    "tem_selo_prime": false,
+    "tem_oferta": true,
+    "avaliacao": 4.6,
+    "qtd_avaliacoes": 4145,
+    "coupon_code": null,
+    "description": "<ul><li>Mesa kuadra office 120x60x75cm acetinado / est.preta</li><li>Marca reconhecida</li><li>Fabricado com muito cuidado e atenção aos detalhes</li><li>Feito com materiais de qualidade</li></ul>",
+    "informacoes_produto": {
+      "Formato do item": "Retangular",
+      "Design da mesa": "Escrivaninha",
+      "Cor": "Nogal / Est. Preta",
+      "Estilo": "Industrial",
+      "Tipo de acabamento": "Bp Acetinado",
+      "Acabamento do móvel": "Nogal",
+      "Cor da parte superior": "Nogal",
+      "Cor da base": "Nogal/Est. Preta",
+      "Dimensões do item P x L x A": "60P x 120L x 75A centímetros",
+      "Peso do item": "14,32 Quilogramas",
+      "Tamanho": "120 cm x 60 cm x 75 cm",
+      "Espessura do tampo da mesa": "75 Centímetros",
+      "Altura mínima": "75 Centímetros",
+      "Comprimento Diagonal da Superfície de Trabalho": "134,1 Centímetros",
+      "Altura máxima": "75 Centímetros",
+      "Dimensões do artigo": "120 x 60 x 75 centímetros",
+      "Profundidade do item": "60 centímetros",
+      "Características especiais": "MDP",
+      "Tipo de base": "Perna",
+      "Tipo de junta da estrutura": "pernas",
+      "É personalizável?": "Não",
+      "É alimentado por energia elétrica?": "Não",
+      "Tipo de montagem": "Montagem no chão",
+      "Nome da marca": "Compace",
+      "Tipo de sala": "Escritório",
+      "Usos recomendados do produto": "Escrivaninha",
+      "Componentes incluídos": "1 Mesa",
+      "Pontuação do Produto": "Comercial",
+      "Número do modelo": "KUME6120.EP",
+      "Nome do modelo": "Kuadra",
+      "País de origem": "Brasil",
+      "Descrição da garantia": "6 meses de garantia contra defeitos de fabricação",
+      "Fabricante": "Compace",
+      "Número da peça": "KUME6120.EP",
+      "Nome do Tipo de Produto": "Mesa",
+      "ASIN": "B089Y7F6GR",
+      "Material da base": "Aço",
+      "Top Material Type": "Nogal",
+      "Instruções de cuidados com o produto": "Limpe com pano úmido e evite contato com objetos afiados ou abrasivos",
+      "Frame Material Type": "Liga de aço",
+      "Material": "MDP",
+      "Exige montagem": "Sim",
+      "Tipo de garantia": "Limitada",
+      "Inclui Todas as Ferramentas de Montagem": "Não",
+      "Marca": "Compace",
+      "Forma": "Retangular",
+      "Design de mesa": "Escrivaninha",
+      "Dimensões do produto": "60P x 120L x 75A centímetros",
+      "Tipo de material da parte superior": "Nogal"
+    },
+    "affiliate_url": "https://www.amazon.com.br/Escrit%C3%B3rio-Office-Estilo-Industrial-Kuadra/dp/B089Y7F6GR/ref=zg_bs_g_furniture_d_sccl_25/146-4195612-0631345?tag=mixdm22-20",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B089Y4SNJZ",
+    "title": "Mesa de Escritório em L Estilo Industrial 1,50mX1,50m Kuadra, Compace, Preto Ônix/Est.Preta",
+    "image": "https://m.media-amazon.com/images/I/31RU-AWsqOL._AC_SL1000_.jpg",
+    "canonical": null,
+    "category": "Móveis",
+    "price_current": 441.49,
+    "price_original": 2197,
+    "discount_percentage": null,
+    "tem_selo_prime": false,
+    "tem_oferta": true,
+    "avaliacao": 4.6,
+    "qtd_avaliacoes": 8269,
+    "coupon_code": null,
+    "description": "<ul><li>Mesa em L Kuadra Diretor 150X150X75cm Amadeirado / Est.Preta</li><li>Marca: Compace</li></ul>",
+    "informacoes_produto": {
+      "Formato do item": "Retangular",
+      "Design da mesa": "Escrivaninha",
+      "Cor": "Preto Ônix / Est.Preta",
+      "Estilo": "Industrial",
+      "Tipo de acabamento": "Bp Acetinado",
+      "Acabamento do móvel": "BP Acetinado",
+      "Cor da parte superior": "Preto Ônix / Est.Preta",
+      "Cor da base": "Preto Ônix / Est.Preta",
+      "Dimensões do item P x L x A": "150P x 150L x 75A centímetros",
+      "Peso do item": "24,56 Quilogramas",
+      "Tamanho": "150X150X75cm",
+      "Espessura do tampo da mesa": "75 Centímetros",
+      "Altura mínima": "75 Centímetros",
+      "Comprimento Diagonal da Superfície de Trabalho": "212,1 Centímetros",
+      "Altura máxima": "75 Centímetros",
+      "Dimensões do artigo": "150 x 150 x 75 centímetros",
+      "Profundidade do item": "75 centímetros",
+      "Material da base": "Madeira",
+      "Top Material Type": "Madeira",
+      "Material para Pernas de Móveis": "Madeira",
+      "Frame Material Type": "Madeira",
+      "Material": "MDP",
+      "Exige montagem": "Sim",
+      "Tipo de garantia": "Limitada",
+      "Inclui Todas as Ferramentas de Montagem": "Não",
+      "Descrição das Instruções de Montagem": "Instruções de montagem básicas incluídas",
+      "Nome da marca": "Compace",
+      "Características especiais": "MDP",
+      "Tipo de sala": "Escritório",
+      "Usos recomendados do produto": "Jogar",
+      "Componentes incluídos": "Tampo da Mesa e Estrutura de Aço",
+      "Pontuação do Produto": "novo",
+      "Número do modelo": "KUML6150.EP",
+      "Nome do modelo": "Mesa Kuadra",
+      "País de origem": "Brasil",
+      "Descrição da garantia": "6 meses contra defeitos de fabricação",
+      "Fabricante": "Compace",
+      "Nome do Conjunto": "Kuadra",
+      "Número da peça": "KUML6150.EP",
+      "Nome do Tipo de Produto": "Mesa",
+      "Contagem de unidades": "1 Unidade",
+      "ASIN": "B089Y4SNJZ",
+      "Tipo de base": "Perna",
+      "Tipo de junta da estrutura": "união de canto",
+      "Acabamento Posterior": "Não",
+      "Configuração do Armário": "Embutido",
+      "É personalizável?": "Não",
+      "É alimentado por energia elétrica?": "Não",
+      "Tipo de montagem": "Montagem no chão",
+      "Marca": "Compace",
+      "Forma": "Retangular",
+      "Design de mesa": "Escrivaninha",
+      "Dimensões do produto": "150P x 150L x 75A centímetros",
+      "Tipo de material da parte superior": "Madeira"
+    },
+    "affiliate_url": "https://www.amazon.com.br/Mesa-Escrit%C3%B3rio-Estilo-Industrial-Kuadra/dp/B089Y4SNJZ/ref=zg_bs_g_furniture_d_sccl_26/146-4195612-0631345?tag=mixdm22-20",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -10410,7 +11428,7 @@ const PRODUCTS = [
       "Marca": "KONTUZ"
     },
     "affiliate_url": "https://www.amazon.com.br/Carrinho-Organizador-Multiuso-Prateleiras-Cabeleireiro/dp/B0DSCC344G/ref=zg_bs_g_furniture_d_sccl_26/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -10492,7 +11510,7 @@ const PRODUCTS = [
       "Tipo": "Padrão"
     },
     "affiliate_url": "https://www.amazon.com.br/Retr%C3%A1til-Reclin%C3%A1vel-Bipartido-Lugares-Coliseu/dp/B0D1LJTBWL/ref=zg_bs_g_furniture_d_sccl_17/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -10529,7 +11547,7 @@ const PRODUCTS = [
       "Dimensões do produto": "58P x 62L x 12A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/Dobr%C3%A1vel-Port%C3%A1til-Articulada-Notebook-Laptop/dp/B0FPGGHJMZ/ref=zg_bs_g_furniture_d_sccl_20/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -10571,7 +11589,7 @@ const PRODUCTS = [
       "Marca": "Genérico"
     },
     "affiliate_url": "https://www.amazon.com.br/Cabeceira-Estofada-Suspensa-Decora%C3%A7%C3%A3o-Quarto/dp/B0DGRF5SV8/ref=zg_bs_g_furniture_d_sccl_30/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -10638,7 +11656,7 @@ const PRODUCTS = [
       "Tamanho instalado da memória RAM": "4 GB"
     },
     "affiliate_url": "https://www.amazon.com.br/Celular-Samsung-Galaxy-128GB-Preto/dp/B0FPJ52LSR/ref=zg_bs_g_16243890011_d_sccl_4/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -10702,7 +11720,7 @@ const PRODUCTS = [
       "Tamanho instalado da memória RAM": "8 GB"
     },
     "affiliate_url": "https://www.amazon.com.br/Celular-Samsung-Galaxy-C%C3%A2mera-Recursos/dp/B0GVSVS9WH/ref=zg_bs_g_16243890011_d_sccl_5/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -10781,7 +11799,7 @@ const PRODUCTS = [
       "Tamanho instalado da memória RAM": "4 GB"
     },
     "affiliate_url": "https://www.amazon.com.br/Smartphone-Motorola-g06-128GB-Camera-Bateria/dp/B0FR5NSCF7/ref=zg_bs_g_16243890011_d_sccl_6/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -10807,7 +11825,7 @@ const PRODUCTS = [
       "Nome do modelo": "iPhone 16e"
     },
     "affiliate_url": "https://www.amazon.com.br/Apple-iPhone-16e-128-GB/dp/B0DXR7GNWJ/ref=zg_bs_g_16243890011_d_sccl_7/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -10868,7 +11886,7 @@ const PRODUCTS = [
       "Tamanho instalado da memória RAM": "12 GB"
     },
     "affiliate_url": "https://www.amazon.com.br/Smartphone-Xiaomi-Poco-512GB-Preto/dp/B0GN2L3DZZ/ref=zg_bs_g_16243890011_d_sccl_9/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -10927,7 +11945,7 @@ const PRODUCTS = [
       "Tamanho instalado da memória RAM": "8 GB"
     },
     "affiliate_url": "https://www.amazon.com.br/Smartphone-Motorola-Moto-g86-5G/dp/B0FCYP5FB2/ref=zg_bs_g_16243890011_d_sccl_17/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -10987,7 +12005,7 @@ const PRODUCTS = [
       "Tamanho instalado da memória RAM": "12 GB"
     },
     "affiliate_url": "https://www.amazon.com.br/Smartphone-Xiaomi-Poco-512GB-Branco/dp/B0GN1N5C7M/ref=zg_bs_g_electronics_d_sccl_26/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -11043,7 +12061,7 @@ const PRODUCTS = [
       "Tamanho instalado da memória RAM": "4 GB"
     },
     "affiliate_url": "https://www.amazon.com.br/Celular-Samsung-Galaxy-128GB-Preto/dp/B0FPHYC9FQ/ref=zg_bs_g_16243890011_d_sccl_19/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -11112,7 +12130,7 @@ const PRODUCTS = [
       "Tamanho instalado da memória RAM": "12 GB"
     },
     "affiliate_url": "https://www.amazon.com.br/Celular-Samsung-Galaxy-Qu%C3%A1drupla-Tit%C3%A2nio/dp/B0DSYJCY45/ref=zg_bs_g_16243890011_d_sccl_23/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -11183,7 +12201,7 @@ const PRODUCTS = [
       "Tamanho instalado da memória RAM": "4 GB"
     },
     "affiliate_url": "https://www.amazon.com.br/Smartphone-Motorola-Moto-g35-Superbrilho/dp/B0DHWFBYVC/ref=zg_bs_g_16243890011_d_sccl_22/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -11251,7 +12269,7 @@ const PRODUCTS = [
       "Tamanho instalado da memória RAM": "12 GB"
     },
     "affiliate_url": "https://www.amazon.com.br/Smartphone-Motorola-g15-256GB-Bateria-Superbrilho/dp/B0DQQCGG3Q/ref=zg_bs_g_16243890011_d_sccl_20/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -11314,7 +12332,7 @@ const PRODUCTS = [
       "Tamanho instalado da memória RAM": "12 GB"
     },
     "affiliate_url": "https://www.amazon.com.br/Celular-Samsung-Galaxy-C%C3%A2mera-Tripla/dp/B0GKQTCXL8/ref=zg_bs_g_16243890011_d_sccl_21/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -11372,7 +12390,7 @@ const PRODUCTS = [
       "Tamanho instalado da memória RAM": "8 GB"
     },
     "affiliate_url": "https://www.amazon.com.br/Smartphone-Motorola-Edge-60-Fusion/dp/B0F1H78X95/ref=zg_bs_g_16243890011_d_sccl_24/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -11435,7 +12453,64 @@ const PRODUCTS = [
       "Tamanho instalado da memória RAM": "12 GB"
     },
     "affiliate_url": "https://www.amazon.com.br/Celular-Samsung-Galaxy-C%C3%A2mera-Marinho/dp/B0DSY665M3/ref=zg_bs_g_16243890011_d_sccl_25/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0GMY41LM8",
+    "title": "Smartphone Motorola Edge 70 5G Crystals by Swarovski - 512GB 24GB (12GB RAM + 12GB RAM Boost), Ultrafino, 3 cameras 50MP e te",
+    "image": "https://m.media-amazon.com/images/I/61LyzNkloEL._AC_SL1200_.jpg",
+    "canonical": null,
+    "category": "Celulares e Smartphones",
+    "price_current": 4045.89,
+    "price_original": 5999,
+    "discount_percentage": 36.0,
+    "tem_selo_prime": false,
+    "tem_oferta": true,
+    "avaliacao": 4.7,
+    "qtd_avaliacoes": 65,
+    "coupon_code": null,
+    "description": "<ul><li>O smartphone mais fino e ultrarresistente da categoria*</li><li>O único ultrafino com 3 câmeras de 50 MP*</li><li>A maior bateria em um ultrafino*</li><li>Tela Extreme AMOLED mais brilhante com cores Pantone Validated*</li><li>Desempenho potente em um design ultrafino</li></ul>",
+    "informacoes_produto": {
+      "Sistema operacional": "Android 16",
+      "Memória RAM instalada": "12 GB",
+      "Modelo da CPU": "Snapdragon 865",
+      "Capacidade de armazenamento da memória": "512 GB",
+      "Cor": "Cloud Dancer",
+      "Contagem de slots do cartão SIM": "Dual SIM",
+      "Tipo de conector": "USB tipo C",
+      "Fator de forma": "Barra",
+      "Funcionalidade de segurança biométrica": "Desbloqueio Facial, Impressão Digital na tela",
+      "Tamanho do cartão SIM": "Nano",
+      "Tamanho máximo suportado pela memória flash": "512 GB",
+      "Resolução do sensor fotográfico frontal": "50 MP",
+      "Resolução do sensor fotográfico traseiro da câmara": "50 MP",
+      "Número de câmaras traseiras": "3",
+      "Capacidade da bateria": "4800 Milliamp Hours",
+      "Potência da bateria": "4800",
+      "Dimensões do artigo": "5,3 x 8,6 x 16,9 centímetros",
+      "Resolução efetiva de vídeo": "50 MP",
+      "Tamanho da tela": "6,7 Polegadas",
+      "Taxa de atualização": "120",
+      "Tipo de tela": "Super HD",
+      "Provedor de serviços sem fio": "Todas as Operadoras",
+      "Tecnologia de celular": "5G",
+      "Tecnologia de conectividade": "5G",
+      "Nome da marca": "Motorola",
+      "Ano do modelo": "2026",
+      "País de origem": "Brasil",
+      "Componentes incluídos": "01 CABO USB-C/ USB-C, 01 CARREGADOR TURBOPOWER™ 68 W, 01 FERRAMENTA DE REMOÇÃO DO CHIP, 01 MANUAL, 01 Telefone",
+      "Descrição da garantia": "12 Meses",
+      "Fabricante": "Motorola",
+      "Usos específicos do produto": "fotografia móvel, jogos, entretenimento",
+      "Contagem de unidades": "1 unidade",
+      "Certificação de teste externa": "ANATEL: 05213-25-00330/ Modelo: XT2601-3",
+      "ASIN": "B0GMY41LM8",
+      "Marca": "Motorola",
+      "Tamanho instalado da memória RAM": "12 GB"
+    },
+    "affiliate_url": "https://www.amazon.com.br/Smartphone-Motorola-Edge-Crystals-Swarovski/dp/B0GMY41LM8/ref=zg_bs_g_16243890011_d_sccl_26/146-4195612-0631345?tag=mixdm22-20",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -11461,7 +12536,7 @@ const PRODUCTS = [
       "Operadora de celulares e tecnologia sem fio": "Todas as Operadoras"
     },
     "affiliate_url": "https://www.amazon.com.br/Apple-iPhone-Pro-Max-256/dp/B0FQJ2KJ9X/ref=zg_bs_g_16243890011_d_sccl_26/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": true
   },
   {
@@ -11487,7 +12562,75 @@ const PRODUCTS = [
       "Tamanho da tela": "6,1 Polegadas"
     },
     "affiliate_url": "https://www.amazon.com.br/Apple-iPhone-17e-256-GB/dp/B0GTRWMZWZ/ref=zg_bs_g_16243890011_d_sccl_27/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0DYVPCX34",
+    "title": "Smartphone Samsung Galaxy A56 5G 256GB, 8GB RAM, Câmera 50MP, IP67, Super AMOLED 6.7\", Recursos AI, Preto",
+    "image": "https://m.media-amazon.com/images/I/51SVg0X6BzL._AC_SL1080_.jpg",
+    "canonical": null,
+    "category": "Celulares e Smartphones",
+    "price_current": 2199,
+    "price_original": null,
+    "discount_percentage": null,
+    "tem_selo_prime": false,
+    "tem_oferta": true,
+    "avaliacao": 4.8,
+    "qtd_avaliacoes": 5025,
+    "coupon_code": null,
+    "description": "<ul><li>Feito para Durar: até 6 atualizações de Android e Segurança</li><li>Tela imersiva de 6.7\" Super AMOLED com Vision Booster</li><li>Resistente à água e poeira com IP67</li><li>Câmera com recursos de AI e Nightography / Circule para Pesquisar no Google</li><li>Bateria de 5000 mAh e carregamento rápido de até 45W</li></ul>",
+    "informacoes_produto": {
+      "Sistema operacional": "Android 15.0",
+      "Memória RAM instalada": "8 GB",
+      "Modelo da CPU": "Others",
+      "Velocidade da CPU": "3,4 GHz",
+      "Capacidade de armazenamento da memória": "256 GB",
+      "Cor": "Preto",
+      "Contagem de slots do cartão SIM": "Dual SIM",
+      "Tipo de conector": "USB tipo C",
+      "Fator de forma": "Deslizante",
+      "Funcionalidade de segurança biométrica": "Leitor de impressão digital, Reconhecimento Facial",
+      "Tamanho do cartão SIM": "Nano",
+      "Nível de resistência à água": "Resistente à água",
+      "Características especiais": "Dual SIM, GPS integrado, Resistente à Água, Suporte de carregamento rápido",
+      "Tamanho máximo suportado pela memória flash": "256 GB",
+      "Resolução do sensor fotográfico frontal": "12 MP",
+      "Resolução do sensor fotográfico traseiro da câmara": "12.0, 5.0, 50.0 MP",
+      "Descrição da câmera": "Frontal, Traseira",
+      "Número de câmaras traseiras": "3",
+      "Número de Câmeras Frontais": "1",
+      "Capacidade da bateria": "5000 Milliamp Hours",
+      "Potência da bateria": "5000.0",
+      "Peso do item": "198 Gramas",
+      "Dimensões do artigo": "16,2 x 7,7 x 0,7 centímetros",
+      "GPS": "Verdadeiro",
+      "Tamanho da tela": "6,7 Polegadas",
+      "Resolução": "1080 x 2340",
+      "Taxa de atualização": "120 Hz",
+      "Tipo de tela": "AMOLED",
+      "Resolução máxima da tela": "2340x1080",
+      "Densidade do pixel de exibição": "385 Pixels por polegada (PPI)",
+      "Provedor de serviços sem fio": "Todas as Operadoras",
+      "Tecnologia de celular": "5G",
+      "Tecnologia de conectividade": "Bluetooth, USB, Wi-fi",
+      "Tecnologia de rede sem fios": "Bluetooth, Wi-Fi",
+      "Nome da marca": "Samsung",
+      "Ano do modelo": "2025",
+      "Componentes incluídos": "Adaptador de alimentação, Cabo USB, Ejetor da bandeja SIM",
+      "Descrição da garantia": "12 meses com o Fabricante",
+      "Fabricante": "Samsung",
+      "Usos específicos do produto": "Fotografia, Telefonar",
+      "Certificação de teste externa": "ANATEL: 107622400953 / Modelo: SM-A566E/DS",
+      "ASIN": "B0DYVPCX34",
+      "Resolução efetiva de vídeo": "1080 Pixels",
+      "Resolução de captura de vídeo": "30fps, 60fps",
+      "Taxa de quadros": "30fps, 60fps",
+      "Marca": "Samsung",
+      "Tamanho instalado da memória RAM": "8 GB"
+    },
+    "affiliate_url": "https://www.amazon.com.br/Smartphone-Samsung-Galaxy-C%C3%A2mera-Recursos/dp/B0DYVPCX34/ref=zg_bs_g_16243890011_d_sccl_29/146-4195612-0631345?tag=mixdm22-20",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -11536,7 +12679,7 @@ const PRODUCTS = [
       "Tamanho instalado da memória RAM": "8 GB"
     },
     "affiliate_url": "https://www.amazon.com.br/Smartphone-Xiaomi-Poco-Preto-256GB/dp/B0FZDVS62S/ref=zg_bs_g_16243890011_d_sccl_29/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -11589,7 +12732,7 @@ const PRODUCTS = [
       "Tamanho instalado da memória RAM": "12 GB"
     },
     "affiliate_url": "https://www.amazon.com.br/Smartphone-Xiaomi-Preto-Black-2412DPC0AG/dp/B0FHS18Q1N/ref=zg_bsnr_g_16243890011_d_sccl_1/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -11650,7 +12793,7 @@ const PRODUCTS = [
       "Tamanho instalado da memória RAM": "8 GB"
     },
     "affiliate_url": "https://www.amazon.com.br/Xiaomi-Smartphone-256GB-GREEN-Global/dp/B0GN23K43X/ref=zg_bsnr_g_16243890011_d_sccl_2/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": true
   },
   {
@@ -11710,7 +12853,7 @@ const PRODUCTS = [
       "Tamanho instalado da memória RAM": "8 GB"
     },
     "affiliate_url": "https://www.amazon.com.br/Smartphone-Xiaomi-Poco-512GB-Verde/dp/B0H1NS1XQD/ref=zg_bsnr_g_16243890011_d_sccl_3/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -11762,7 +12905,7 @@ const PRODUCTS = [
       "Tamanho instalado da memória RAM": "24 GB"
     },
     "affiliate_url": "https://www.amazon.com.br/Smartphone-Motorola-Edge-70-PRO/dp/B0GZLT5PX9/ref=zg_bsnr_g_16243890011_d_sccl_5/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -11813,7 +12956,7 @@ const PRODUCTS = [
       "Tamanho instalado da memória RAM": "8 GB"
     },
     "affiliate_url": "https://www.amazon.com.br/Smartphone-Xiaomi-Redmi-Note-256GB/dp/B0H2WXYRQ5/ref=zg_bsnr_g_16243890011_d_sccl_4/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -11870,7 +13013,7 @@ const PRODUCTS = [
       "Tamanho instalado da memória RAM": "12 GB"
     },
     "affiliate_url": "https://www.amazon.com.br/Smartphone-Motorola-Edge-70-PRO/dp/B0GZLL5D74/ref=zg_bsnr_g_16243890011_d_sccl_6/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -11916,7 +13059,7 @@ const PRODUCTS = [
       "Marca": "XIAOMI"
     },
     "affiliate_url": "https://www.amazon.com.br/Smartphone-Xiaomi-15-Pro-5G/dp/B0G2BHH8SR/ref=zg_bsnr_g_16243890011_d_sccl_7/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -11966,7 +13109,7 @@ const PRODUCTS = [
       "Tamanho instalado da memória RAM": "16 GB"
     },
     "affiliate_url": "https://www.amazon.com.br/Smartphone-Motorola-Razr-Fold-5G/dp/B0GZQTLQ9S/ref=zg_bsnr_g_16243890011_d_sccl_8/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -12015,7 +13158,7 @@ const PRODUCTS = [
       "Tamanho instalado da memória RAM": "8 GB"
     },
     "affiliate_url": "https://www.amazon.com.br/Smartphone-Xiaomi-Redmi-Note-512GB/dp/B0H2WRYZYJ/ref=zg_bsnr_g_16243890011_d_sccl_9/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -12064,7 +13207,7 @@ const PRODUCTS = [
       "Tamanho instalado da memória RAM": "8 GB"
     },
     "affiliate_url": "https://www.amazon.com.br/Samsung-Combo-Galaxy-A57-256GB/dp/B0H1YB1WCT/ref=zg_bsnr_g_16243890011_d_sccl_11/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -12103,7 +13246,7 @@ const PRODUCTS = [
       "Operadora de celulares e tecnologia sem fio": "Todas as Operadoras"
     },
     "affiliate_url": "https://www.amazon.com.br/Apple-iPhone-Pro-Max-256/dp/B0H2N4QTVC/ref=zg_bsnr_g_16243890011_d_sccl_10/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -12150,7 +13293,7 @@ const PRODUCTS = [
       "Tamanho instalado da memória RAM": "8 GB"
     },
     "affiliate_url": "https://www.amazon.com.br/Samsung-Combo-Galaxy-A57-256GB/dp/B0H34TQ34J/ref=zg_bsnr_g_16243890011_d_sccl_12/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -12200,7 +13343,7 @@ const PRODUCTS = [
       "Tamanho instalado da memória RAM": "16 GB"
     },
     "affiliate_url": "https://www.amazon.com.br/Smartphone-Motorola-Edge-Ultrarresistencia-Recondicionado/dp/B0H6NNJL1V/ref=zg_bsnr_g_16243890011_d_sccl_13/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -12252,7 +13395,7 @@ const PRODUCTS = [
       "Tamanho instalado da memória RAM": "4 GB"
     },
     "affiliate_url": "https://www.amazon.com.br/Smartphone-Motorola-Moto-C%C3%A2mera-Selfie/dp/B0H5X34DNR/ref=zg_bsnr_g_16243890011_d_sccl_14/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -12302,7 +13445,7 @@ const PRODUCTS = [
       "Tamanho instalado da memória RAM": "24 GB"
     },
     "affiliate_url": "https://www.amazon.com.br/Smartphone-Motorola-Edge-50-Ultrarresistencia/dp/B0H1N3GXRX/ref=zg_bsnr_g_16243890011_d_sccl_15/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -12353,7 +13496,7 @@ const PRODUCTS = [
       "Tamanho instalado da memória RAM": "8 GB"
     },
     "affiliate_url": "https://www.amazon.com.br/Smartphone-Motorola-Razr-70-5G/dp/B0GYPY79H9/ref=zg_bsnr_g_16243890011_d_sccl_16/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -12381,7 +13524,7 @@ const PRODUCTS = [
       "Operadora de celulares e tecnologia sem fio": "Todas as Operadoras"
     },
     "affiliate_url": "https://www.amazon.com.br/Celular-Samsung-Galaxy-C%C3%A2mera-Tripla/dp/B0GW9FH9B8/ref=zg_bsnr_g_16243890011_d_sccl_18/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -12428,7 +13571,7 @@ const PRODUCTS = [
       "Tamanho instalado da memória RAM": "8 GB"
     },
     "affiliate_url": "https://www.amazon.com.br/Samsung-Combo-Galaxy-A57-256GB/dp/B0H34VM48S/ref=zg_bsnr_g_16243890011_d_sccl_17/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -12479,7 +13622,7 @@ const PRODUCTS = [
       "Tamanho instalado da memória RAM": "12 GB"
     },
     "affiliate_url": "https://www.amazon.com.br/Smartphone-Xiaomi-Black-Preto-512GB/dp/B0F4PMQK69/ref=zg_bsnr_g_16243890011_d_sccl_19/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -12531,7 +13674,7 @@ const PRODUCTS = [
       "Tamanho instalado da memória RAM": "24 GB"
     },
     "affiliate_url": "https://www.amazon.com.br/Smartphone-Motorola-Moto-Max-5G/dp/B0GZQX7CBJ/ref=zg_bsnr_g_16243890011_d_sccl_20/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -12584,7 +13727,7 @@ const PRODUCTS = [
       "Tamanho instalado da memória RAM": "12 GB"
     },
     "affiliate_url": "https://www.amazon.com.br/Smartphones-Motorola-Moto-G47-5G/dp/B0GYPYM43X/ref=zg_bsnr_g_16243890011_d_sccl_21/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -12638,7 +13781,7 @@ const PRODUCTS = [
       "Tamanho instalado da memória RAM": "8 GB"
     },
     "affiliate_url": "https://www.amazon.com.br/Smartphone-Xiaomi-Redmi-Purple-2510DRA23L/dp/B0H1NSD956/ref=zg_bsnr_g_16243890011_d_sccl_22/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -12687,7 +13830,7 @@ const PRODUCTS = [
       "Tamanho instalado da memória RAM": "12 GB"
     },
     "affiliate_url": "https://www.amazon.com.br/Samsung-Combo-Galaxy-S26-256GB/dp/B0H1YYX6VP/ref=zg_bsnr_g_16243890011_d_sccl_23/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -12734,7 +13877,7 @@ const PRODUCTS = [
       "Tamanho instalado da memória RAM": "8 GB"
     },
     "affiliate_url": "https://www.amazon.com.br/Samsung-Combo-Galaxy-A37-256GB/dp/B0H34WKMJJ/ref=zg_bsnr_g_16243890011_d_sccl_24/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -12782,7 +13925,7 @@ const PRODUCTS = [
       "Tamanho instalado da memória RAM": "12 GB"
     },
     "affiliate_url": "https://www.amazon.com.br/Samsung-Combo-Galaxy-S26-256GB/dp/B0H1YLBMMC/ref=zg_bsnr_g_16243890011_d_sccl_25/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -12831,7 +13974,7 @@ const PRODUCTS = [
       "Tamanho instalado da memória RAM": "8 GB"
     },
     "affiliate_url": "https://www.amazon.com.br/Samsung-Combo-Galaxy-A57-256GB/dp/B0H1YY12R8/ref=zg_bsnr_g_16243890011_d_sccl_26/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -12881,7 +14024,7 @@ const PRODUCTS = [
       "Tamanho instalado da memória RAM": "12 GB"
     },
     "affiliate_url": "https://www.amazon.com.br/Smartphone-Xiaomi-Black-Preto-512GB/dp/B0H1SLW7L1/ref=zg_bsnr_g_16243890011_d_sccl_27/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -12924,7 +14067,7 @@ const PRODUCTS = [
       "Marca": "Motorola"
     },
     "affiliate_url": "https://www.amazon.com.br/Smartphone-Motorola-Edge-PRO-ultrarresistencia/dp/B0H37ZQQFP/ref=zg_bsnr_g_16243890011_d_sccl_28/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -12964,7 +14107,7 @@ const PRODUCTS = [
       "Operadora de celulares e tecnologia sem fio": "Todas as Operadoras"
     },
     "affiliate_url": "https://www.amazon.com.br/Motorola-azul-gelo-armazenamento-Seminovo/dp/B0CW9MHHHT/ref=zg_bsnr_g_16243890011_d_sccl_29/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -13012,7 +14155,7 @@ const PRODUCTS = [
       "Marca": "Motorola"
     },
     "affiliate_url": "https://www.amazon.com.br/Smartphone-Motorola-Razr-Fold-Collection/dp/B0GZPRQ9JJ/ref=zg_bsnr_g_16243890011_d_sccl_30/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -13061,7 +14204,7 @@ const PRODUCTS = [
       "Produção de páginas": "100"
     },
     "affiliate_url": "https://www.amazon.com.br/Cartucho-HP-Preto-Original-3YM79AB/dp/B08WKPK952/ref=zg_bs_g_computers_d_sccl_1/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -13120,7 +14263,7 @@ const PRODUCTS = [
       "Tecnologia de detecção de movimento": "Óptico"
     },
     "affiliate_url": "https://www.amazon.com.br/Mouse-Nanoreceptor-Inclusa-Logitech-Mouses/dp/B074L9L5KZ/ref=zg_bs_g_computers_d_sccl_2/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -13178,7 +14321,7 @@ const PRODUCTS = [
       "Tamanho": "Grande"
     },
     "affiliate_url": "https://www.amazon.com.br/Expansivel-Masculina-Executiva-Imperme%C3%A1vel-Refor%C3%A7ada/dp/B0F2N7L7HQ/ref=zg_bs_g_computers_d_sccl_3/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -13220,7 +14363,7 @@ const PRODUCTS = [
       "Marca": "ELG"
     },
     "affiliate_url": "https://www.amazon.com.br/Ergon%C3%B4mico-Articulado-Compacto-Retr%C3%A1til-Monitores/dp/B0765KZ264/ref=zg_bs_g_computers_d_sccl_4/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -13268,7 +14411,7 @@ const PRODUCTS = [
       "Produção de páginas": "120"
     },
     "affiliate_url": "https://www.amazon.com.br/HP-F6V29AB-Cartucho-Tinta-Preto/dp/B074HMBWQG/ref=zg_bs_g_computers_d_sccl_7/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -13331,7 +14474,7 @@ const PRODUCTS = [
       "Fator de forma dos fones de ouvido": "Extra-auriculares"
     },
     "affiliate_url": "https://www.amazon.com.br/Ouvido-Headset-Fuxi-H3-Wireless-Bluetooth/dp/B0CHJXCJTW/ref=zg_bs_g_computers_d_sccl_13/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -13382,7 +14525,7 @@ const PRODUCTS = [
       "Fator de forma de disco rígido": "2,5 Polegadas"
     },
     "affiliate_url": "https://www.amazon.com.br/Externo-Toshiba-Canvio-Basics-HDTB520XK3AA/dp/B0BQX6NNVC/ref=zg_bs_g_computers_d_sccl_9/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -13420,7 +14563,7 @@ const PRODUCTS = [
       "Marca": "Dell"
     },
     "affiliate_url": "https://www.amazon.com.br/Teclado-Mouse-sem-fio-Dell/dp/B0BPTK4P38/ref=zg_bs_g_computers_d_sccl_11/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -13469,7 +14612,7 @@ const PRODUCTS = [
       "Marca": "Genérico"
     },
     "affiliate_url": "https://www.amazon.com.br/Cabo-USB-C-Metros-Turbo-Transfer%C3%AAncia/dp/B0F5XBMGB5/ref=zg_bs_g_computers_d_sccl_8/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -13519,7 +14662,7 @@ const PRODUCTS = [
       "Soquete da CPU": "Socket AM4"
     },
     "affiliate_url": "https://www.amazon.com.br/Processador-AMD-Ryzen-5500-100100000457BOX/dp/B09VCJ171S/ref=zg_bs_g_computers_d_sccl_12/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -13560,7 +14703,7 @@ const PRODUCTS = [
       "Tecnologia de detecção de movimento": "Óptico"
     },
     "affiliate_url": "https://www.amazon.com.br/Recarreg%C3%A1vel-Wireless-Bluetooth-Ergon%C3%B4mico-Computador/dp/B0F1G2TL8P/ref=zg_bs_g_computers_d_sccl_14/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -13639,7 +14782,7 @@ const PRODUCTS = [
       "Resolução máxima do visor": "2112 x 1320 (WUXGA+) Pixels"
     },
     "affiliate_url": "https://www.amazon.com.br/Galaxy-Lite-128GB-Tela-Cinza/dp/B0FMFRFNWG/ref=zg_bs_g_computers_d_sccl_16/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -13695,7 +14838,7 @@ const PRODUCTS = [
       "Tecnologia de detecção de movimento": "Óptico"
     },
     "affiliate_url": "https://www.amazon.com.br/Logitech-Silencioso-Ambidestro-Conex%C3%A3o-Bluetooth/dp/B0CJ3BDN7T/ref=zg_bs_g_computers_d_sccl_15/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -13736,7 +14879,7 @@ const PRODUCTS = [
       "Marca": "Thecoopidea"
     },
     "affiliate_url": "https://www.amazon.com.br/carregador-iPhone-Lightning-Certifica%C3%A7%C3%A3o-Carregamento/dp/B0BGJR1R3B/ref=zg_bs_g_computers_d_sccl_19/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -13774,7 +14917,7 @@ const PRODUCTS = [
       "Peso do produto": "150 Gramas"
     },
     "affiliate_url": "https://www.amazon.com.br/Case-transparente-original-transmiss%C3%A3o-6gbps/dp/B07K2F1B2S/ref=zg_bs_g_computers_d_sccl_18/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -13826,7 +14969,7 @@ const PRODUCTS = [
       "Produção de páginas": "12000"
     },
     "affiliate_url": "https://www.amazon.com.br/EPSON-garrafas-originais-Compacto-T544520-BR/dp/B09JKXGSLG/ref=zg_bs_g_computers_d_sccl_21/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -13869,7 +15012,7 @@ const PRODUCTS = [
       "Marca": "Maletry"
     },
     "affiliate_url": "https://www.amazon.com.br/Cabo-Lightning-Refor%C3%A7ado-Compat%C3%ADvel-iPhone/dp/B0DT5383HM/ref=zg_bs_g_computers_d_sccl_20/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -13928,7 +15071,7 @@ const PRODUCTS = [
       "Adequação do controle por rádio": "Uso diário"
     },
     "affiliate_url": "https://www.amazon.com.br/Teclado-Logitech-Conex%C3%A3o-Bluetooth-Easy-Switch/dp/B0CJ3WFW9H/ref=zg_bs_g_computers_d_sccl_22/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -13976,7 +15119,7 @@ const PRODUCTS = [
       "Produção de páginas": "4500"
     },
     "affiliate_url": "https://www.amazon.com.br/Garrafa-Tinta-Original-Epson-Ecotank/dp/B0DF8VTNHM/ref=zg_bs_g_computers_d_sccl_23/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -14022,7 +15165,7 @@ const PRODUCTS = [
       "Classe de banda de frequência": "Dual-Band"
     },
     "affiliate_url": "https://www.amazon.com.br/Repetidor-Tp-Link-Wireless-Tl-Wa850Re-Repetidores/dp/B00A0VCJPI/ref=zg_bs_g_computers_d_sccl_26/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -14080,7 +15223,7 @@ const PRODUCTS = [
       "Padrão de comunicação sem fio": "802.11ac"
     },
     "affiliate_url": "https://www.amazon.com.br/Antena-Internet-sat%C3%A9lite-Starlink-MINI/dp/B0DH3PLZ6N/ref=zg_bs_g_computers_d_sccl_25/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -14133,7 +15276,55 @@ const PRODUCTS = [
       "Marca": "PlusCable"
     },
     "affiliate_url": "https://www.amazon.com.br/Cat-6-Patch-Plus-Cable-Branco/dp/B07SR1F7LS/ref=zg_bs_g_computers_d_sccl_27/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0FLFWP47Z",
+    "title": "Combo Teclado e Mouse Sem Fio Logitech MK250 Bluetooth com Conectividade Rápida e Fácil, Design Compacto, Mouse Ambidestro, L",
+    "image": "https://m.media-amazon.com/images/I/618iLr2V14L._AC_SL1500_.jpg",
+    "canonical": null,
+    "category": "Computadores e Informática",
+    "price_current": 139.99,
+    "price_original": 169.9,
+    "discount_percentage": 17.0,
+    "tem_selo_prime": false,
+    "tem_oferta": true,
+    "avaliacao": 4.7,
+    "qtd_avaliacoes": 959,
+    "coupon_code": null,
+    "description": "<ul><li>Conecte em segundos: Tecnologia sem fio Bluetooth rápida e fácil — com o Pair and Play, faça o pareamento deste combo de teclado e mouse sem fio Logitech sem a necessidade de uma porta USB</li><li>Durável e confiável: Desenvolvido para oferecer qualidade, o teclado Bluetooth do MK250 oferece teclas duradouras, um design resistente a derramamentos*</li><li>O conforto é o fundamental. Seu mouse possui formato ambidestro suave, que guia a mão para uma posição natural, e seu o teclado conta com teclas de perfil profundo e um design de inclinação ajustável proporcionando uma ótima sensação de digitação</li><li>Compacto e completo: Com um mouse pequeno o suficiente para ser colocado em uma bolsa e um teclado com um layout compacto, sem abrir mão do teclado numérico, teclas de seta e atalhos práticos da tecla F</li><li>Duração da bateria sem preocupações: aproveite 12 meses de uso diário antes de trocar as pilhas**</li></ul>",
+    "informacoes_produto": {
+      "Tecnologia de conectividade": "Bluetooth",
+      "Características especiais": "Resistente a derramamentos",
+      "Dispositivos compatíveis": "Computador pessoal, Notebook, Tablet",
+      "Deteção de movimento": "Ótico",
+      "Suporte para cor de retroiluminação do teclado": "Cor única",
+      "Baterias são necessárias?": "Sim",
+      "Fonte de energia": "Alimentado a bateria",
+      "Disposição do teclado": "QWERTY",
+      "Tipo de bateria": "3 AAA baterias necessárias. (inclusas)",
+      "Família de Sistema Operacional Compatível": "Windows",
+      "Orientação de uso": "Ambidestro",
+      "Sistema operacional": "Windows 10, 11 ou superior , Chrome OS",
+      "Quantidade de teclas": "1",
+      "Cor": "Grafite",
+      "Peso do item": "720 Gramas",
+      "Nome da marca": "Logitech",
+      "Descrição do teclado": "Membrana",
+      "Usos recomendados do produto": "general computing, office work",
+      "Fabricante": "Logitech",
+      "Contagem de unidades": "1 unidade",
+      "UPC": "097855204769",
+      "Número do modelo": "920-013516",
+      "Número da peça": "920-013516",
+      "Descrição da garantia": "12 Meses",
+      "País de origem": "China",
+      "ASIN": "B0FLFWP47Z",
+      "Marca": "Logitech"
+    },
+    "affiliate_url": "https://www.amazon.com.br/Logitech-Conectividade-Ambidestro-Constru%C3%A7%C3%A3o-Compat%C3%ADvel/dp/B0FLFWP47Z/ref=zg_bs_g_computers_d_sccl_30/146-4195612-0631345?tag=mixdm22-20",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -14172,7 +15363,7 @@ const PRODUCTS = [
       "Marca": "Apple"
     },
     "affiliate_url": "https://www.amazon.com.br/Cabo-Apple-USB-C-para-Lightning/dp/B0CX22JSR3/ref=zg_bs_g_computers_d_sccl_4/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -14217,7 +15408,47 @@ const PRODUCTS = [
       "Marca": "MD9"
     },
     "affiliate_url": "https://www.amazon.com.br/MD9-CONECTOR-RJ-45-EMB-C-UNID/dp/B076HQVSXZ/ref=zg_bs_g_computers_d_sccl_3/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B098K3H92Z",
+    "title": "Adaptador Bluetooth 5.3 TP-Link UB500 Nano USB para Windows",
+    "image": "https://m.media-amazon.com/images/I/51XzimFS-pL._AC_SL1000_.jpg",
+    "canonical": null,
+    "category": "Computadores e Informática",
+    "price_current": 52.91,
+    "price_original": 64,
+    "discount_percentage": 17.0,
+    "tem_selo_prime": false,
+    "tem_oferta": true,
+    "avaliacao": 4.8,
+    "qtd_avaliacoes": 58630,
+    "coupon_code": null,
+    "description": "<ul><li>【Bluetooth 5.3】: Desfrute do novo Bluetooth 5.3. Retro compatível com as versões 4.0/3.0/2.1/2.0/1.1 para você conectar dispositivos novos e antigos.</li><li>【Alta compatibilidade】: Conecte todos seus dispositivos - como fones de ouvido, controles, smartphones e muito mais com Bluetooth 5.3!</li><li>【Tamanho Nano】: Design compacto para maior portabilidade e conveniência, mantendo um excelente desempenho.</li><li>【Compatível com Sistema Operacional】: Windows 11/10/8.1/7</li><li>【Conexão estável】: compatível com a maioria dos dispositivos bluetooth no mercado.</li><li>【Garantia】: 2 anos para defeitos de fabricação</li><li>【Dica do Fabricante】: Desative quaisquer dispositivos internos de Bluetooth antes de usar o TP-Link UB500, para evitar conflitos de driver e desfrutar de uma experiência impecável.</li></ul>",
+    "informacoes_produto": {
+      "Interface de hardware": "Bluetooth",
+      "Dispositivos compatíveis": "Controles de Videogame Bluetooth, Fone de ouvido, Impressora, Smartphone, Teclados e Mouse Bluetooth",
+      "Protocolo de link de dados": "Bluetooth 5.3, USB",
+      "Taxa de transferência de dados": "2 Megabits Per Second",
+      "Dimensões do item C x L x A": "15C x 7L x 19A milímetros",
+      "Peso do item": "30 Gramas",
+      "Cor": "Preto e Cobre",
+      "Nome da marca": "TP-Link",
+      "Número de identificação de comércio internacional": "04897098683446",
+      "Fabricante": "TP-LINK",
+      "Certificação de teste externa": "Não aplicável",
+      "Componentes incluídos": "Adaptador Nano Bluetooth 5.0 UB500, Guia de instalação rápida",
+      "Nome do Tipo de Produto": "Adaptador Bluetooth 5.0",
+      "Número do modelo": "UB500",
+      "Número da peça": "UB500",
+      "Descrição da garantia": "1 ano",
+      "ASIN": "B098K3H92Z",
+      "Marca": "TP-Link",
+      "Dimensões do produto": "15C x 7L x 19A milímetros"
+    },
+    "affiliate_url": "https://www.amazon.com.br/TP-Link-ADAPTADOR-BLUETOOTH-UB500-Preto/dp/B098K3H92Z/ref=zg_bs_g_computers_d_sccl_3/146-4195612-0631345?tag=mixdm22-20",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -14269,7 +15500,7 @@ const PRODUCTS = [
       "Peso do produto": "3,42 Quilogramas"
     },
     "affiliate_url": "https://www.amazon.com.br/Impressora-multifuncional-HP-Advantage-2975/dp/B0G491Z8QR/ref=zg_bs_g_computers_d_sccl_5/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -14349,7 +15580,7 @@ const PRODUCTS = [
       "Tamanho instalado da memória RAM": "8 GB"
     },
     "affiliate_url": "https://www.amazon.com.br/Notebook-Lenovo-IdeaPad-15IRH10-i5-13420H/dp/B0F7RVV292/ref=zg_bs_g_computers_d_sccl_9/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -14390,7 +15621,7 @@ const PRODUCTS = [
       "Adequação do controle por rádio": "Escritório"
     },
     "affiliate_url": "https://www.amazon.com.br/Padr%C3%A3o-Mouse-Vermelho-60356-4-Maxprint/dp/B01N35N6ZC/ref=zg_bs_g_computers_d_sccl_8/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -14445,7 +15676,7 @@ const PRODUCTS = [
       "Marca": "Anker"
     },
     "affiliate_url": "https://www.amazon.com.br/Anker-Carregamento-Tran%C3%A7ado-Sujeira-Conector/dp/B0DBTV5QF5/ref=zg_bs_g_computers_d_sccl_2/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -14491,7 +15722,7 @@ const PRODUCTS = [
       "Dimensões do produto": "12C x 9L centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/Pel%C3%ADcula-Kindle-Paperwhite-Gera%C3%A7%C3%A3o-Polegadas/dp/B0DXDCCZBY/ref=zg_bs_g_computers_d_sccl_6/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -14558,7 +15789,7 @@ const PRODUCTS = [
       "Peso do produto": "3,9 Quilogramas"
     },
     "affiliate_url": "https://www.amazon.com.br/Impressora-Epson-EcoTank-L1250-Colorida/dp/B0DTTM47F9/ref=zg_bs_g_computers_d_sccl_11/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -14621,7 +15852,7 @@ const PRODUCTS = [
       "Instruções de cuidados com o produto": "Apenas lavagem à mão"
     },
     "affiliate_url": "https://www.amazon.com.br/Mochila-Dell-Notebook-Resistente-Integrada/dp/B0842XB4BN/ref=zg_bs_g_computers_d_sccl_7/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -14674,7 +15905,7 @@ const PRODUCTS = [
       "Tecnologia de detecção de movimento": "Óptico"
     },
     "affiliate_url": "https://www.amazon.com.br/Mouse-Classic-%C3%93ptico-Full-Black/dp/B086J78G67/ref=zg_bs_g_computers_d_sccl_10/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -14730,7 +15961,7 @@ const PRODUCTS = [
       "Adequação do controle por rádio": "Escritório"
     },
     "affiliate_url": "https://www.amazon.com.br/Multilaser-TC193-Teclado-Laser-Preto/dp/B075VFWDD4/ref=zg_bs_g_computers_d_sccl_13/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -14775,7 +16006,7 @@ const PRODUCTS = [
       "Marca": "Multilaser"
     },
     "affiliate_url": "https://www.amazon.com.br/Pendrive-Twist-Preto-Multilaser-Pendrives/dp/B0754M9KZT/ref=zg_bs_g_computers_d_sccl_14/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -14822,7 +16053,7 @@ const PRODUCTS = [
       "Fator de forma dos fones de ouvido": "Circumaurais"
     },
     "affiliate_url": "https://www.amazon.com.br/Headset-Gamer-Redragon-Preto-H510-LT/dp/B0F1C3MRMF/ref=zg_bs_g_computers_d_sccl_19/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -14937,7 +16168,7 @@ const PRODUCTS = [
       "Tamanho instalado da memória RAM": "8 GB"
     },
     "affiliate_url": "https://www.amazon.com.br/Notebook-Dell-Inspiron-I15-I1300-A30P-Carbono/dp/B0FHCHBRGF/ref=zg_bs_g_computers_d_sccl_25/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -14979,7 +16210,7 @@ const PRODUCTS = [
       "Marca": "Genérico"
     },
     "affiliate_url": "https://www.amazon.com.br/Carregador-Metros-Tran%C3%A7ado-Branco-Compativel/dp/B0GVQ5ZY7D/ref=zg_bs_g_computers_d_sccl_12/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -15029,7 +16260,7 @@ const PRODUCTS = [
       "Proporção de tela": "16:9"
     },
     "affiliate_url": "https://www.amazon.com.br/Monitor-Gamer-AOC-G-SYNC-27G50F/dp/B0FLKL7DHZ/ref=zg_bs_g_computers_d_sccl_21/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -15088,7 +16319,7 @@ const PRODUCTS = [
       "Proporção de tela": "16:9"
     },
     "affiliate_url": "https://www.amazon.com.br/Monitor-LG-UltraGearTM-27G411A-B-FreeSync/dp/B0G3144L7C/ref=zg_bs_g_computers_d_sccl_15/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -15142,7 +16373,7 @@ const PRODUCTS = [
       "Marca": "Samsung"
     },
     "affiliate_url": "https://www.amazon.com.br/Samsung-Cabo-tipo-EP-DA705BBEGWW-preto/dp/B07T99CGDF/ref=zg_bs_g_computers_d_sccl_17/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -15197,7 +16428,7 @@ const PRODUCTS = [
       "Tecnologia de detecção de movimento": "Óptico"
     },
     "affiliate_url": "https://www.amazon.com.br/Logitech-LIGHTSYNC-Efeito-Bot%C3%B5es-Program%C3%A1veis/dp/B087CT8PWY/ref=zg_bs_g_computers_d_sccl_20/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -15240,7 +16471,7 @@ const PRODUCTS = [
       "Adequação do controle por rádio": "Jogo"
     },
     "affiliate_url": "https://www.amazon.com.br/Mouse-Pad-Gaming-Havit-HV-MP830/dp/B0152HPXXE/ref=zg_bs_g_computers_d_sccl_30/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -15297,7 +16528,7 @@ const PRODUCTS = [
       "Tamanho da Alça": "Média"
     },
     "affiliate_url": "https://www.amazon.com.br/Masculina-Refor%C3%A7ada-Executiva-Imperme%C3%A1vel-Antifurto/dp/B0DHBJ7KPF/ref=zg_bs_g_computers_d_sccl_18/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -15332,7 +16563,7 @@ const PRODUCTS = [
       "Adequação do controle por rádio": "Escritório, Jogo"
     },
     "affiliate_url": "https://www.amazon.com.br/TopGet-ProControl-Precis%C3%A3o-Antiderrapante-Poli%C3%A9ster/dp/B0FVPG6XR9/ref=zg_bs_g_computers_d_sccl_16/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -15373,7 +16604,7 @@ const PRODUCTS = [
       "Adequação do controle por rádio": "Escritório, Estudos, Jogo"
     },
     "affiliate_url": "https://www.amazon.com.br/Mouse-Gamer-MPG-103-Grande-Fortrek/dp/B0BLXHT5Q9/ref=zg_bs_g_computers_d_sccl_23/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -15418,7 +16649,7 @@ const PRODUCTS = [
       "Disponível para compra desde": "28 dezembro 2017"
     },
     "affiliate_url": "https://www.amazon.com.br/Base-Padr%C3%A3o-Mouse-60355-0-Maxprint/dp/B078NVW1XT/ref=zg_bs_g_computers_d_sccl_27/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -15472,7 +16703,232 @@ const PRODUCTS = [
       "Tamanho": "43 x 24 x 2 cm"
     },
     "affiliate_url": "https://www.amazon.com.br/Capa-para-Notebook-15-6-Neoprene/dp/B0FPDN248Q/ref=zg_bs_g_computers_d_sccl_24/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0D6NLHV8N",
+    "title": "JBL, Fone de Ouvido Com Fio, Quantum 100M2, Headset Gamer, Over Ear, Microfone Removível - Preto",
+    "image": "https://m.media-amazon.com/images/I/61KmVBD4ZfL._AC_SL1500_.jpg",
+    "canonical": null,
+    "category": "Computadores e Informática",
+    "price_current": 175.65,
+    "price_original": 219,
+    "discount_percentage": 44.0,
+    "tem_selo_prime": false,
+    "tem_oferta": true,
+    "avaliacao": 4.7,
+    "qtd_avaliacoes": 7724,
+    "coupon_code": null,
+    "description": "<ul><li>SOM PROFISSIONAL. Com a tecnologia JBL QuantumSOUND Signature, o JBL Quantum 100M2 coloca você no centro da ação para escutar os menores detalhes e sentir cada explosão, proporcionando uma experiência de som realista.</li><li>FEITO PARA LONGAS SESSÕES. O headset possui almofadas auriculares leves feitas com tecido respirável e espuma de memória, com haste leve que garante muitas horas de jogo com total conforto.</li><li>FOCO NA SUA VOZ. Com o microfone removível e direcional do JBL Quantum 100M2, suas comunicações em multiplayer serão sempre claras e nítidas, graças ao recurso de mudo que permite controlar suas conversas com facilidade.</li><li>WINDOWS SONIC SPATIAL SOUND. Totalmente compatível com o sistema de som surround nativo dos PCs com Windows 10 e consoles Xbox ONE, o JBL Quantum 100M2 oferece uma experiência de som envolvente e de alta qualidade.</li><li>PARA TODAS AS PLATAFORMAS. O JBL Quantum 100M2 é compatível com várias plataformas via conector de 3,5 mm, incluindo PC, PlayStation, Xbox, Nintendo Switch, dispositivos móveis, Mac e VR.</li></ul>",
+    "informacoes_produto": {
+      "Nome da marca": "JBL",
+      "Número do modelo": "JBLQTUM100M2BLK",
+      "Nome do modelo": "Headset Quantum",
+      "Componentes incluídos": "1 x Headset Quantum 100 M2, 1x Certificado de garantia, 1x Cartão de advertência, 1x Espuma para microfone tipo Boom, 1x Guia de ínicio rápido, 1x Microfone destacável",
+      "Descrição da faixa etária": "Adulto, Juvenil",
+      "Descrição da garantia": "12 Meses pelo fabricante",
+      "Quantidade de itens": "1",
+      "Número de série": "100",
+      "Número de identificação de comércio internacional": "01200130015519",
+      "Fabricante": "JBL",
+      "Certificação de teste externa": "Não Aplicável",
+      "É autografado": "Não",
+      "ASIN": "B0D6NLHV8N",
+      "Cor": "Preto",
+      "Peso do item": "2,2 Gramas",
+      "Contagem de unidades": "1 Unidades",
+      "Impedância": "32 Ohms",
+      "Controle de ruído": "Isolamento de som",
+      "Tipo de controlador de áudio": "Controlador dinâmico",
+      "Alcance de frequência": "20 Hz a 20 kHz",
+      "Material": "Tecido e espuma de memória",
+      "Usos específicos do produto": "Jogos",
+      "Dispositivos compatíveis": "Computadores, Consoles de jogos, Smartphones, Tablets",
+      "Nível de resistência à água": "Não resistente à água",
+      "Características especiais": "Microfone incluso",
+      "Entrada de fone de ouvido": "Jack de 3,5 mm",
+      "Tecnologia de conectividade": "Com fio",
+      "Colocação de auscultadores na orelha": "Circumaurais",
+      "Formato dos fones de ouvido": "Extra-auriculares",
+      "Forma do auricular": "over-ear cups",
+      "Método de controle": "Remoto",
+      "Marca": "JBL",
+      "Colocação na orelha": "Circumaurais",
+      "Fator de forma dos fones de ouvido": "Extra-auriculares"
+    },
+    "affiliate_url": "https://www.amazon.com.br/JBL-Fone-Ouvido-Com-JBLQTUM100M2BLK/dp/B0D6NLHV8N/ref=zg_bs_g_computers_d_sccl_27/146-4195612-0631345?tag=mixdm22-20",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B08HM6TLXM",
+    "title": "Cabo USB-C em nylon 1,5 m EUAC 15NB Branco Intelbras",
+    "image": "https://m.media-amazon.com/images/I/51psiydEG3L._AC_SL1000_.jpg",
+    "canonical": null,
+    "category": "Computadores e Informática",
+    "price_current": 23.66,
+    "price_original": 39.9,
+    "discount_percentage": 40.0,
+    "tem_selo_prime": false,
+    "tem_oferta": true,
+    "avaliacao": 4.8,
+    "qtd_avaliacoes": 6927,
+    "coupon_code": null,
+    "description": "<ul><li>Carregue e sincronize dados dos seus dispositivos.</li><li>Projetado e testado para garantir o melhor desempenho e durabilidade, possui 1,5 metros de comprimento para oferecer maior comodidade no uso com smartphones, tablets, computadores, fones de ouvido sem fio, controles de videogame e outros dispositivos compatíveis. O revestimento em nylon trançado garante maior resistência diante das exigências do dia a dia.</li><li>Velocidade de carregamento até 3,0 A (15 W)*, transferência de dados até 480 Mbps.</li><li>Revestimento em nylon traçado maleável e resistente.</li></ul>",
+    "informacoes_produto": {
+      "Tipo de conector": "USB tipo C",
+      "Tipo de cabo": "USB",
+      "Dispositivos compatíveis": "Smartphones Android com por USB-C",
+      "Características especiais": "Bitola de cabo 22AWG para melhor condutividade elétrica, Corrente máxima de 3,0 A, Para uso em dispositvos com conector USB-C, Revestimento em nylon trançado maleável e resistente",
+      "Modelos de telefone compatíveis": "No Compatible Phone Models",
+      "Adaptador do conector": "Macho-macho",
+      "Número de pinos": "24",
+      "Corrente máxima": "3 Amperes",
+      "Tensão máxima": "20 Volts",
+      "Usos recomendados do produto": "Carregamento e sincronização de dados",
+      "Utilização interior, exterior": "Área interna",
+      "Item Weight": "1,1 Onças",
+      "Quantidade de itens": "1",
+      "Cor": "branco",
+      "Formato do item": "Redondo",
+      "Brand Name": "intelbras",
+      "País de origem": "China",
+      "Nome do modelo": "EUAC 15NB",
+      "Model Number": "4830067",
+      "Comprimento do artigo": "1,5 Metros",
+      "Fabricante": "Intelbras",
+      "Descrição da garantia": "1 ano com o fabricante",
+      "Part Number": "4830067",
+      "Componentes incluídos": "Cabo USB-A para USB-C em nylon",
+      "Nome do Tipo de Produto": "Cabo USB",
+      "Certificação de teste externa": "Não aplicável",
+      "ASIN": "B08HM6TLXM",
+      "Material externo": "Nylon",
+      "Marca": "intelbras"
+    },
+    "affiliate_url": "https://www.amazon.com.br/Cabo-USB-C-nylon-Intelbras-branco/dp/B08HM6TLXM/ref=zg_bs_g_computers_d_sccl_28/146-4195612-0631345?tag=mixdm22-20",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B09J1TB35S",
+    "title": "Mouse Sem Fio Logitech Lift Vertical com Design Ergonômico para Redução de Tensão Muscular, Cliques Silenciosos, Conexão Blue",
+    "image": "https://m.media-amazon.com/images/I/61OkuiCWbDL._AC_SL1500_.jpg",
+    "canonical": null,
+    "category": "Computadores e Informática",
+    "price_current": 395.28,
+    "price_original": null,
+    "discount_percentage": null,
+    "tem_selo_prime": false,
+    "tem_oferta": true,
+    "avaliacao": 4.8,
+    "qtd_avaliacoes": 14555,
+    "coupon_code": null,
+    "description": "<ul><li>Dê um Lift: quando a vida cotidiana no escritório for exaustiva, o Mouse Ergonômico Lift Vertical da Logitech irá te ajudar com a postura ideal - perfeito para mãos direitas pequenas ou médias</li><li>Deixe sua mão elevada para o máximo conforto: descanse a sua mão no Mouse Lift Vertical durante todo o dia, com uma textura suave e um descanso de polegar para maior conforto</li><li>57° de alívio: a forma vertical do Lift ajuda os pulsos a sentirem-se confortáveis enquanto trabalha, promovendo uma postura natural no antebraço para conforto e produtividade durante o dia</li><li>Relaxe e concentre-se o dia todo: trabalhe com um mouse de computador sem fio que possui botões personalizáveis, funcionamento silencioso e um SmartWheel para scroll suave e perfeito</li><li>Certificado Ergo: o Mouse Sem Fio Lift Vertical da Logitech foi projetado, desenvolvido, testado e aprovado de acordo com os critérios estabelecidos por pesquisadores</li><li>Conecte-se do seu jeito: conecte-se via Bluetooth Low Energy ou USB Logi Bolt ao Windows, macOS, iPadOS, Chrome OS ou Linux e aproveite até 2 anos de bateria</li><li>As peças de plástico no Lift incluem certificação de plástico reciclado pós-consumo (Graphite: 70%, Off White e Rosa: 54%). Certificação Carbon Neutral</li></ul>",
+    "informacoes_produto": {
+      "Tecnologia de conectividade": "Bluetooth, USB, Wireless",
+      "Características especiais": "Design ergonômico, Sem fio",
+      "Deteção de movimento": "Óptico",
+      "Quantidade do botão": "6",
+      "Orientação de uso": "Direita",
+      "Dispositivos compatíveis": "Computador pessoal",
+      "Sistema operacional": "Chrome OS, Linux, Windows 10",
+      "Duração da bateria": "24 Meses",
+      "Tipo de bateria": "1 Polímero de lítio baterias necessárias. (inclusas)",
+      "Plataforma de hardware": "Laptop, PC",
+      "Fonte de energia": "Alimentado por bateria",
+      "Sensibilidade máxima do rato": "4000 Pontos por polegada",
+      "Escala": "10.0",
+      "Recurso de enfeite": "LED",
+      "Cor": "GRAFITE",
+      "Estilo": "Destro",
+      "Estampa": "Mouse",
+      "Tema": "neutro",
+      "Material": "Plástico",
+      "Duração da disponibilidade da peça sobressalente da UE": "2 Anos",
+      "Nome da marca": "Logitech",
+      "Nome do modelo": "LIFT",
+      "Usos recomendados do produto": "Escritório",
+      "Número do modelo": "910-006466",
+      "Componentes incluídos": "01 Documento do usuário, 01 Garantia de 1 ano do fabricante, 01 Receptor USB Logi Bolt, 01 mouse sem fio Lift, 1 Pilha AA",
+      "Baterias incluídas?": "Sim",
+      "Baterias são necessárias?": "Sim",
+      "Fabricante": "Logitech",
+      "UPC": "097855170927",
+      "Número de identificação de comércio internacional": "00097855170927",
+      "Número da peça": "910-006466",
+      "Descrição da garantia": "1 ano com o fabricante",
+      "Nome do Tipo de Produto": "Mouse",
+      "ASIN": "B09J1TB35S",
+      "Peso do item": "125 Gramas",
+      "Dimensões do item C x L": "10C x 70L milímetros",
+      "Contagem de unidades": "1 Cada",
+      "Marca": "Logitech",
+      "Tecnologia de detecção de movimento": "Óptico"
+    },
+    "affiliate_url": "https://www.amazon.com.br/Logitech-ergon%C3%B4mico-Bluetooth-silenciosos-compat%C3%ADvel/dp/B09J1TB35S/ref=zg_bs_g_computers_d_sccl_29/146-4195612-0631345?tag=mixdm22-20",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B00DZIOMJ4",
+    "title": "Impressora Multifuncional HP Smart Tank 589 Tanque de Tinta Colorida Wi-Fi, USB - Alta Economia -Copiadora e Scanner (5D1A8A)",
+    "image": "https://m.media-amazon.com/images/I/511izOWgyfL._AC_SL1000_.jpg",
+    "canonical": null,
+    "category": "Computadores e Informática",
+    "price_current": 781.55,
+    "price_original": 1099,
+    "discount_percentage": 37.0,
+    "tem_selo_prime": false,
+    "tem_oferta": true,
+    "avaliacao": 4.6,
+    "qtd_avaliacoes": 197,
+    "coupon_code": null,
+    "description": "<ul><li>[FUNÇÕES] Imprime, copia e digitaliza com qualidade profissional</li><li>[GARANTIA] Até dois anos de garantia* Visite hp.com/go/extendmywarranty em até 60 dias após a compra para registrar e receber sua garantia estendida</li><li>[CONECTIVIDADE] Wi-Fi com autorreparo, que detecta e soluciona problemas de conectividade para manter sua impressora sempre pronta e conectada. Compatível com Air Print. ***Não acompanha cabo para conexão em PCs</li><li>[CONSUMÍVEIS] Garrafas de Tinta Originais HP incluídas na caixa, fáceis de recarregar. Basta encaixar o frasco no reservatório de tinta.</li><li>[IMPRESSÃO SUSTENTÁVEL] com uma impressora composta por 45% de plástico reciclado</li></ul>",
+    "informacoes_produto": {
+      "Tecnologia da impressora": "Jato de tinta",
+      "Características especiais": "Wi-Fi e multifuncional",
+      "Saída da impressora": "Colorido",
+      "Peso do item": "4,94 Quilogramas",
+      "Dimensões do item P x L x A": "36,2P x 44,4L x 15,7A centímetros",
+      "Mídia impressa": "Envelopes, Etiquetas, Papel, Papel Cartão",
+      "Tipo de leitor": "Plano",
+      "Velocidade máxima de cópia a preto e branco": "14 Páginas por minuto",
+      "Dispositivos compatíveis": "Laptops, PC",
+      "Tipo de garantia": "Limitada",
+      "Cor da tinta": "Preto, Colorido",
+      "Funções adicionais da impressora": "Cópia, Digitalização",
+      "Resolução": "4800 x 1200",
+      "Velocidade máxima de impressão (colorida)": "24.0",
+      "Velocidade máxima de impressão (preto e branco)": "30.0",
+      "Cor": "Cinza Chumbo",
+      "Resolução máxima de impressão a cores": "4800 x 1200 dpi",
+      "Resolução máxima de impressão em preto e branco": "4800 dots_per_inch",
+      "Nome da marca": "HP",
+      "Nome do modelo": "HP 589",
+      "Número do modelo": "5D1A8A#AK4",
+      "Componentes incluídos": "Garrafas de tinta",
+      "Série do Modelo": "HP Smart Tank",
+      "Usos específicos do produto": "Impressão de documentos em casa ou no escritório",
+      "UPC": "199764959751",
+      "Fabricante": "HP",
+      "Descrição da garantia": "12 meses com o fabricante",
+      "Nome do Tipo de Produto": "Impressora multifuncional",
+      "País de origem": "Brasil",
+      "ASIN": "B00DZIOMJ4",
+      "Tamanho máximo da mídia": "A4",
+      "Capacidade máxima de folhas": "100",
+      "Tecnologia de conectividade": "Bluetooth, USB, Wi-Fi",
+      "Interface de hardware": "USB",
+      "Marca": "HP",
+      "Tecnologia de impressão": "Jato de tinta",
+      "Velocidade máxima de impressão (cor)": "24.0",
+      "Velocidade máxima de impressão monocromática": "30.0",
+      "Peso do produto": "4,94 Quilogramas"
+    },
+    "affiliate_url": "https://www.amazon.com.br/Impressora-Multifuncional-HP-Tanque-Colorida/dp/B00DZIOMJ4/ref=zg_bs_g_computers_d_sccl_30/146-4195612-0631345?tag=mixdm22-20",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -15520,7 +16976,7 @@ const PRODUCTS = [
       "Adequação do controle por rádio": "[POSSIBLE_USES]"
     },
     "affiliate_url": "https://www.amazon.com.br/HB004492250-Forte-Espuma-Extrema-Multicolor/dp/B0779BRVVS/ref=zg_bs_g_hi_d_sccl_1/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -15566,7 +17022,7 @@ const PRODUCTS = [
       "Ambiente interno/externo": "Área interna"
     },
     "affiliate_url": "https://www.amazon.com.br/08-Aquecedor-127V-Mondial-Cinza/dp/B07574RT3C/ref=zg_bs_g_hi_d_sccl_2/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -15609,7 +17065,7 @@ const PRODUCTS = [
       "Dimensões do produto": "37P x 26,5L x 38A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/WAP-Extratora-Port%C3%A1til-Cleaner-Pot%C3%AAncia/dp/B0CH3WBKN6/ref=zg_bs_g_hi_d_sccl_3/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -15662,7 +17118,7 @@ const PRODUCTS = [
       "Tensão": "110 Volts, 220 Volts"
     },
     "affiliate_url": "https://www.amazon.com.br/Parafusadeira-Furadeira-WAP-Carregador-Acess%C3%B3rios/dp/B09V1SM8QB/ref=zg_bs_g_hi_d_sccl_4/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -15702,7 +17158,7 @@ const PRODUCTS = [
       "Dimensões do produto": "25C x 3,5L x 31A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/Maleta-Ferramentas-Sparta-Kit-13564/dp/B076N2S8FV/ref=zg_bs_g_hi_d_sccl_5/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -15743,7 +17199,7 @@ const PRODUCTS = [
       "Peso do produto": "200 Gramas"
     },
     "affiliate_url": "https://www.amazon.com.br/Wd-40-Spray-Produto-Multiusos-300/dp/B07CV2JXNH/ref=zg_bs_g_hi_d_sccl_6/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -15789,7 +17245,7 @@ const PRODUCTS = [
       "Tensão": "120 Volts"
     },
     "affiliate_url": "https://www.amazon.com.br/Extens%C3%A3o-Tripolar-Slim-Metros-Branco/dp/B07JN19LDF/ref=zg_bs_g_hi_d_sccl_7/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -15846,7 +17302,7 @@ const PRODUCTS = [
       "Fonte de alimentação": "Energia elétrica"
     },
     "affiliate_url": "https://www.amazon.com.br/Aspirador-Agua-Electrolux-2214362-Preto/dp/B076BB1XPG/ref=zg_bs_g_hi_d_sccl_8/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -15889,7 +17345,7 @@ const PRODUCTS = [
       "Adequação do controle por rádio": "Cozinha"
     },
     "affiliate_url": "https://www.amazon.com.br/Torneira-Cozinha-Gourmet-Flex%C3%ADvel-Parede/dp/B084L1CTXL/ref=zg_bs_g_hi_d_sccl_10/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -15932,7 +17388,7 @@ const PRODUCTS = [
       "Tipo de material": "borracha nitrílica"
     },
     "affiliate_url": "https://www.amazon.com.br/Nitrilica-Premium-Antiderrapante-Unidades-Descart%C3%A1vel/dp/B0F61QC5SR/ref=zg_bs_g_hi_d_sccl_9/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -15969,7 +17425,7 @@ const PRODUCTS = [
       "Fonte de alimentação": "Elétrico com fio"
     },
     "affiliate_url": "https://www.amazon.com.br/Calibrador-Compressor-Port%C3%A1til-Lanterna-Bicicleta/dp/B0FP9FF295/ref=zg_bs_g_hi_d_sccl_11/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -16008,7 +17464,7 @@ const PRODUCTS = [
       "Dimensões do produto": "53L x 64A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/Mor-194068-Escada-Banqueta-Alum%C3%ADnio/dp/B0776VVM73/ref=zg_bs_g_hi_d_sccl_15/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -16044,7 +17500,7 @@ const PRODUCTS = [
       "Estilo da cabeça": "Pacote de Variedades"
     },
     "affiliate_url": "https://www.amazon.com.br/Conjunto-ferramentas-magn%C3%A9tico-eletr%C3%B4nica-computador/dp/B092SPZFYT/ref=zg_bs_g_hi_d_sccl_14/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -16086,7 +17542,7 @@ const PRODUCTS = [
       "Forma do produto": "Líquido"
     },
     "affiliate_url": "https://www.amazon.com.br/Super-Bonder-Ultra-20g-Loctite/dp/B07SYBNBNF/ref=zg_bs_g_hi_d_sccl_16/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -16129,7 +17585,7 @@ const PRODUCTS = [
       "Adequação do controle por rádio": "Embalagem, Presente"
     },
     "affiliate_url": "https://www.amazon.com.br/Adelbras-811000014-Empacotamento-Qualitape-Multicolor/dp/B077P84NBQ/ref=zg_bs_g_hi_d_sccl_17/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -16163,7 +17619,7 @@ const PRODUCTS = [
       "Marca": "Genérico"
     },
     "affiliate_url": "https://www.amazon.com.br/Adaptador-Tomada-Articulado-Benjamin-Adaptador/dp/B0FW81NYQ9/ref=zg_bs_g_hi_d_sccl_18/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -16220,7 +17676,7 @@ const PRODUCTS = [
       "Marca": "ELG"
     },
     "affiliate_url": "https://www.amazon.com.br/ELG-SHCR600-Inteligente-Compat%C3%ADvel-Bidirecional/dp/B0B8GNV5LS/ref=zg_bs_g_hi_d_sccl_21/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -16284,7 +17740,7 @@ const PRODUCTS = [
       "Marca": "intelbras"
     },
     "affiliate_url": "https://www.amazon.com.br/intelbras-C%C3%A2mera-Inteligente-interna-Branco/dp/B09Q3JVDYS/ref=zg_bs_g_hi_d_sccl_19/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -16324,7 +17780,7 @@ const PRODUCTS = [
       "Dimensões do produto": "75P x 35L x 80A milímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/Disjuntor-Bipolar-MCB-Curva-Elgin/dp/B0B2K3CVBN/ref=zg_bs_g_hi_d_sccl_25/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -16363,7 +17819,7 @@ const PRODUCTS = [
       "Tipo de gume da ferramenta": "Espiral"
     },
     "affiliate_url": "https://www.amazon.com.br/Jogo-X-Line-Pe%C3%A7as-Bosch-2607017398-000/dp/B07CTN7X2Y/ref=zg_bs_g_hi_d_sccl_30/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -16399,7 +17855,7 @@ const PRODUCTS = [
       "Dimensões do produto": "8C x 29L x 26A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/Furadeira-Parafusadeira-Recarreg%C3%A1veis-Integrado-Profissional/dp/B0H5T7JHF4/ref=zg_bs_g_hi_d_sccl_20/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -16457,7 +17913,7 @@ const PRODUCTS = [
       "Marca": "Bettanin"
     },
     "affiliate_url": "https://www.amazon.com.br/Vers%C3%A1til-Tamanho-Brilhus-Bettanin-Amarelo/dp/B08Y55DZXT/ref=zg_bs_g_hi_d_sccl_23/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -16507,7 +17963,7 @@ const PRODUCTS = [
       "Adequação do controle por rádio": "water_resistant"
     },
     "affiliate_url": "https://www.amazon.com.br/Fita-Dupla-12MMX5M-VHB4910-Transparente/dp/B0794JC71P/ref=zg_bs_g_hi_d_sccl_24/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -16556,7 +18012,7 @@ const PRODUCTS = [
       "Adequação do controle por rádio": "plástico, vidro"
     },
     "affiliate_url": "https://www.amazon.com.br/Fita-Dupla-Scotch-Forte-Transparente/dp/B076BJ82Z6/ref=zg_bs_g_hi_d_sccl_22/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -16600,7 +18056,7 @@ const PRODUCTS = [
       "Ambiente interno/externo": "Área externa, Área interna"
     },
     "affiliate_url": "https://www.amazon.com.br/Seguran%C3%A7a-Infravermelho-Movimento-Bidirecional-Girat%C3%B3ria/dp/B0DY3214JL/ref=zg_bs_g_hi_d_sccl_28/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -16639,7 +18095,7 @@ const PRODUCTS = [
       "Dimensões do item C x L x A": "12 x 4,5 x 17 centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/Pino-Multiplicador-Tripolar-0180100004-Forceline/dp/B0777S9WRF/ref=zg_bs_g_hi_d_sccl_26/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -16679,2538 +18135,7 @@ const PRODUCTS = [
       "Dimensões do produto": "11L x 11A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/Tuut-Linha-Inox-Tanque-Refor%C3%A7ado/dp/B089KV37SZ/ref=zg_bs_g_hi_d_sccl_27/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B07GH8YBGB",
-    "title": "Vonder, Fita Crepe 24 Mm X 50 M.",
-    "image": "https://m.media-amazon.com/images/I/51AMR+GJ5uL._AC_SL1000_.jpg",
-    "canonical": null,
-    "category": "Ferramentas e Materiais de Construção",
-    "price_current": 13,
-    "price_original": 23.9,
-    "discount_percentage": null,
-    "tem_selo_prime": false,
-    "tem_oferta": true,
-    "avaliacao": 4.8,
-    "qtd_avaliacoes": 460,
-    "coupon_code": null,
-    "description": "<ul><li>Branca</li><li>Largura da fita crepe: 24 mm</li><li>Papel com excelente alongamento, proporcionando boa performance em curvas e contornos do mascaramento.</li><li>Para uso industrial, mascaramento de pinturas imobiliárias, trabalhos escolares, fixações, proteção, enfaixamentos, artesanato, decoração, bricolagem, entre outros.</li><li>Composição: Papel crepado;</li></ul>",
-    "informacoes_produto": {
-      "Brand Name": "VONDER",
-      "Quantidade de itens": "1",
-      "Usos recomendados do produto": "Industrial, Mascaramento de pinturas imobiliárias, Trabalhos escolares, Fixações, Proteção, Enfaixamentos, Artesanato, Decoração, Bricolagem, Quadro",
-      "Fabricante": "VONDER",
-      "Part Number": "1027245000",
-      "Model Number": "1027245000",
-      "País de origem": "China",
-      "Nome do Tipo de Produto": "Fita Crepe",
-      "Included Components": "1 Fita crepe.",
-      "ASIN": "B07GH8YBGB",
-      "Características especiais": "Resistente ao calor",
-      "Nível de resistência à água": "Não resistente à água",
-      "Upper Temperature Range": "100 Graus Celsius",
-      "Compatible Material": "Papel",
-      "Formato do Adesivo": "ROLO",
-      "Contagem de Lados Adesivos": "1",
-      "Local do Adesivo": "laterais",
-      "Tamanho": "24 mm x 50 m",
-      "Cor": "Branca",
-      "Material Type": "Papel crepom",
-      "Marca": "VONDER",
-      "Material": "Papel crepom",
-      "Número de itens": "1"
-    },
-    "affiliate_url": "https://www.amazon.com.br/Fita-crepe-24-50-Vonder/dp/B07GH8YBGB/ref=zg_bs_g_hi_d_sccl_2/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B078YDP9JM",
-    "title": "Scotch, 3M, Bluetape, Fita Crepe Profissional - 18 mm x 50 m",
-    "image": "https://m.media-amazon.com/images/I/61ciixX7ymL._AC_SL1497_.jpg",
-    "canonical": null,
-    "category": "Ferramentas e Materiais de Construção",
-    "price_current": 17,
-    "price_original": 23.9,
-    "discount_percentage": 28.0,
-    "tem_selo_prime": false,
-    "tem_oferta": true,
-    "avaliacao": 4.8,
-    "qtd_avaliacoes": 1281,
-    "coupon_code": null,
-    "description": "<ul><li>Linha de pintura perfeita</li><li>Permanece até 14 dias aplicada sem deixar resíduos</li><li>Boa resistência a rasgos durante a remoção</li><li>Multi-Superfície: paredes, revestimentos, rodapés, batentes, vidros e outros</li><li>Resistente a sol, chuva e raios UV</li><li>Contém: 1 rolo de 18 mm x 50 mm</li></ul>",
-    "informacoes_produto": {
-      "Brand Name": "Scotch",
-      "Quantidade de itens": "1",
-      "Usos recomendados do produto": "Parede",
-      "Superfície Recomendada": "Vidro",
-      "Contagem de unidades": "1 unidade",
-      "Fabricante": "3M",
-      "Peso do Item": "70 Gramas",
-      "Part Number": "H0002317784",
-      "Model Number": "H0002317784",
-      "País de origem": "Brasil",
-      "Nome do Tipo de Produto": "Fita Crepe Profissional",
-      "Included Components": "FITA",
-      "ASIN": "B078YDP9JM",
-      "Características especiais": "Não Aplicável",
-      "Nível de resistência à água": "Resistente à água",
-      "Compatible Material": "Vidro",
-      "Resistência do Produto": "resistente a sol, chuva e raios UV",
-      "Formato do Adesivo": "Wide Roll",
-      "Dimensões do item C x L x Espessura": "18L x 18Espessura milímetros",
-      "Tamanho": "Não Aplicável",
-      "Valor decimal da espessura do item": "18 Milímetros",
-      "Espessura da Folha": "18 Milímetros",
-      "Cor": "Azul",
-      "Material Type": "Papel crepom",
-      "Marca": "Scotch",
-      "Material": "Papel crepom",
-      "Número de itens": "1",
-      "Adequação do controle por rádio": "Parede"
-    },
-    "affiliate_url": "https://www.amazon.com.br/Fita-Crepe-Profissional-Scotch-H0002317784/dp/B078YDP9JM/ref=zg_bs_g_hi_d_sccl_1/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B0779K66MG",
-    "title": "Tramontina Extensão Múltipla 5 m 5 Tomadas 2P+T 10 A 250 V",
-    "image": "https://m.media-amazon.com/images/I/61nA3XVrLIL._AC_SL1500_.jpg",
-    "canonical": null,
-    "category": "Ferramentas e Materiais de Construção",
-    "price_current": 69.9,
-    "price_original": 182.9,
-    "discount_percentage": null,
-    "tem_selo_prime": false,
-    "tem_oferta": true,
-    "avaliacao": 4.8,
-    "qtd_avaliacoes": 3152,
-    "coupon_code": null,
-    "description": "<ul><li>Extensão Múltipla 5 Tomadas 2P+T 10 A 250 V</li><li>Extensão múltipla com 5 tomadas 2P+T, capacidade de 10 A e 250 V, ideal para conectar múltiplos dispositivos elétricos</li><li>Cabo de extensão com 5 metros de comprimento, na cor cinza, proporcionando alcance e versatilidade</li></ul>",
-    "informacoes_produto": {
-      "Número total de tomadas": "5",
-      "Voltagem": "110 Volts, 220 Volts",
-      "Características especiais": "Proteção de sobretensão",
-      "Corrente máxima": "10 Amperes",
-      "Conector": "Type N",
-      "Tipo de plugue": "Tipo N (3 pinos)",
-      "Número de portas": "5",
-      "Dispositivos compatíveis": "Aquecedor, Console de jogos, E-Reader, Ferro, Impressora, Laptop, Leitor de DVD, Leitor de MP3, Lâmpada, Monitor, PC, Roteador, Rádio, Set Top Box, Smartphone, Smartwatch, Tablet, Televisão",
-      "Compatibilidade com Casa Inteligente": "Não Compatível com Casa Inteligente",
-      "Economia Inteligente de Energia": "Não",
-      "Amperagem": "10 Amperes",
-      "Cor": "Cinza",
-      "Formato do item": "MÉDIO",
-      "Nome da marca": "Tramontina",
-      "País de origem": "Brasil",
-      "Número do modelo": "1",
-      "Número da peça": "1",
-      "Nome do Tipo de Produto": "EXTENSÃO",
-      "Componentes incluídos": "Não aplicável",
-      "Certificação de teste externa": "Não aplicável",
-      "Descrição da garantia": "1",
-      "Fabricante": "Tramontina",
-      "ASIN": "B0779K66MG",
-      "Marca": "Tramontina",
-      "Total de tomadas de energia": "5",
-      "Tensão": "110 Volts, 220 Volts"
-    },
-    "affiliate_url": "https://www.amazon.com.br/Extens-Mltipla-57504031-Tramontina-Eletrik/dp/B0779K66MG/ref=zg_bs_g_hi_d_sccl_30/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B078FGJ8XN",
-    "title": "Tramontina Caixa de Sobrepor com 2 Tomadas 2P+T 20 A 250 V - LizFlex",
-    "image": "https://m.media-amazon.com/images/I/51aDWf7t0aL._AC_SL1500_.jpg",
-    "canonical": null,
-    "category": "Ferramentas e Materiais de Construção",
-    "price_current": 20.69,
-    "price_original": 21.84,
-    "discount_percentage": null,
-    "tem_selo_prime": false,
-    "tem_oferta": true,
-    "avaliacao": 4.8,
-    "qtd_avaliacoes": 782,
-    "coupon_code": null,
-    "description": "<ul><li>Com duas Tomadas</li><li>2P+T</li><li>20A</li><li>250V</li></ul>",
-    "informacoes_produto": {
-      "Dispositivos compatíveis": "Todos os dispositivos",
-      "Voltagem": "250 Volts",
-      "Conector": "Type N",
-      "Amperagem": "20 Amperes",
-      "Tipo de conector": "NEMA 5-15",
-      "Número total de tomadas": "2",
-      "Cor": "Branco",
-      "Material": "Termoplástico",
-      "Brand Name": "Tramontina",
-      "Model Number": "1",
-      "Contagem de unidades": "1 Unidade",
-      "Fabricante": "Tramontina Eletrik",
-      "Descrição da garantia": "1",
-      "País de origem": "Brasil",
-      "Certificação de teste externa": "OCP-0004, TÜV RHEINLAND",
-      "Nome do Tipo de Produto": "CAIXA TOMADA",
-      "Part Number": "1",
-      "ASIN": "B078FGJ8XN",
-      "Marca": "Tramontina",
-      "Tensão": "250 Volts"
-    },
-    "affiliate_url": "https://www.amazon.com.br/Sobrepor-Tomadas-Tramontina-LizFlex-Branca/dp/B078FGJ8XN/ref=zg_bs_g_hi_d_sccl_7/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B07CTN73L1",
-    "title": "Bosch Kit de pontas e brocas V-Line 41 peças",
-    "image": "https://m.media-amazon.com/images/I/61tv+b6beQL._SL1080_.jpg",
-    "canonical": null,
-    "category": "Ferramentas e Materiais de Construção",
-    "price_current": 94.99,
-    "price_original": 94.99,
-    "discount_percentage": 10.0,
-    "tem_selo_prime": false,
-    "tem_oferta": true,
-    "avaliacao": 4.8,
-    "qtd_avaliacoes": 16165,
-    "coupon_code": null,
-    "description": "",
-    "informacoes_produto": {
-      "Sistema de acionamento": "Hexagonal",
-      "Compatibilidades das Brocas": "PH, PZ, T, H, S, Madeira, Concreto",
-      "Número de peças": "41",
-      "Material": "Aço de alta velocidade, Liga de aço",
-      "Nome da marca": "Bosch",
-      "Número do modelo": "2607017396-000",
-      "Fabricante": "Bosch",
-      "Número da peça": "2607017396-000",
-      "Nome do Tipo de Produto": "Jogo V-Line 41 Peças",
-      "Descrição da garantia": "6 meses",
-      "Componentes incluídos": "1 Adaptador universal, 1 aparafusadora angular, 1 escareador, 1 suporte de pontas universal, 5 Pontas 50mm: PH0, PH1, PH2, PH3, H6, 5 brocas para madeira Ø3/4/5/6/8mm, 6 Brocas para concreto Ø5/5,5/6/6/7/8mm, 6 Soquetes Ø6/8/9/10/11/13mm, 7 Brocas para Metal Ø2/2/3/3/4/5/6mm, 8 Pontas 25mm: 2x PH2, PZ1, PZ2, T20, HEX Ø5/6, S5",
-      "Peso do item": "850 Gramas",
-      "País de origem": "Brasil",
-      "Contagem de unidades": "1 Conjunto",
-      "ASIN": "B07CTN73L1",
-      "Marca": "Bosch",
-      "Número de itens": "1"
-    },
-    "affiliate_url": "https://www.amazon.com.br/Jogo-V-Line-pe%C3%A7as-Bosch-2607017396-000/dp/B07CTN73L1/ref=zg_bs_g_hi_d_sccl_18/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B07QXL7VZL",
-    "title": "EDA Abraçadeira De Nylon 2 5 X 150 Mm Com 100 Peças Branca Eda",
-    "image": "https://m.media-amazon.com/images/I/710DkfnfzyL._AC_SL1500_.jpg",
-    "canonical": null,
-    "category": "Ferramentas e Materiais de Construção",
-    "price_current": 3.05,
-    "price_original": 16.4,
-    "discount_percentage": null,
-    "tem_selo_prime": false,
-    "tem_oferta": true,
-    "avaliacao": 4.8,
-    "qtd_avaliacoes": 2024,
-    "coupon_code": null,
-    "description": "<ul><li>Abraçadeiras de nylon</li><li>Pacote com 100 peças</li><li>Medidas: 2, 5 x 150 milímetros</li><li>Cor branca</li></ul>",
-    "informacoes_produto": {
-      "Nome da marca": "EDA",
-      "Fabricante": "Eda",
-      "Número do modelo": "8ND",
-      "Número da peça": "8ND",
-      "Componentes incluídos": "1 saco com 100 abraçadeiras",
-      "Contagem de unidades": "1 Conjunto",
-      "Peso do item": "42 Gramas",
-      "Nome do Tipo de Produto": "Abraçadeira de nylon",
-      "País de origem": "China",
-      "ASIN": "B07QXL7VZL",
-      "Comprimento do artigo": "2 Centímetros",
-      "Maximum Diameter": "2,5 Milímetros",
-      "Número de peças": "100",
-      "Cor": "branca",
-      "Estilo": "100 peças",
-      "Material": "Nylon",
-      "Marca": "EDA",
-      "Comprimento do produto": "2 Centímetros"
-    },
-    "affiliate_url": "https://www.amazon.com.br/Abra%C3%A7adeira-Nylon-150-Pe%C3%A7as-Branca/dp/B07QXL7VZL/ref=zg_bs_g_hi_d_sccl_5/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B0971DYR7N",
-    "title": "Scotch, 3M, Fita de Empacotamento Transparente, 4 Rolos, 45mm x 100M",
-    "image": "https://m.media-amazon.com/images/I/61GqU0my8ZS._AC_SL1200_.jpg",
-    "canonical": null,
-    "category": "Ferramentas e Materiais de Construção",
-    "price_current": 48.8,
-    "price_original": 58.03,
-    "discount_percentage": 15.0,
-    "tem_selo_prime": false,
-    "tem_oferta": true,
-    "avaliacao": 4.7,
-    "qtd_avaliacoes": 1535,
-    "coupon_code": null,
-    "description": "<ul><li>IDEAL PARA EMPACOTAR. Tem um comércio eletrônico ou faz remessas de pacotes individuais? Essa fita possui resistência a rupturas e ao rompimento das bordas.</li><li>ALTA ADESÃO. Essa fita resiste à abrasão, umidade, produtos químicos e raspagens, para desempenho duradouro.</li><li>PRODUÇÃO DINÂMICA E RÁPIDA. O fácil desenrolamento e dispensação suave funcionam bem em linhas de embalagens automatizadas de alta velocidade.</li><li>ALTA DURABILIDADE. Essas fitas apresentam durabilidade e alta resistência, funcionando especialmente bem em superfícies recicladas, onduladas e fibras de carbono.</li><li>CONFIE NA SCOTCH. Um trabalho digno de ser feito merece as ferramentas certas. É por isso que todo produto que fabricamos com a Marca Scotch se destina a te ajudar no dia a dia.</li></ul>",
-    "informacoes_produto": {
-      "Brand Name": "Scotch",
-      "Quantidade de itens": "1",
-      "Usos recomendados do produto": "Embalagem",
-      "Superfície Recomendada": "Madeira",
-      "Contagem de unidades": "4 count",
-      "Fabricante": "3M",
-      "Peso do Item": "18 Gramas",
-      "Part Number": "HM000090427",
-      "Model Number": "HM000090427",
-      "País de origem": "Brasil",
-      "Nome do Tipo de Produto": "3M Fita Empacotamento Transparente Scotch 45Mm X 100M 4 Unidades Leve Mais Pague Menos, Scotch",
-      "Included Components": "Fitas adesivas",
-      "Descrição da garantia": "Sem Garantia",
-      "ASIN": "B0971DYR7N",
-      "Características especiais": "Não Aplicável",
-      "Nível de resistência à água": "Resistente à água",
-      "Compatible Material": "Madeira",
-      "Formato do Adesivo": "Rolo",
-      "Contagem de Lados Adesivos": "4",
-      "Tamanho": "Não Aplicável",
-      "Cor": "Transparente",
-      "Material Type": "Cloreto de polivinilo",
-      "Marca": "Scotch",
-      "Material": "Cloreto de polivinilo",
-      "Número de itens": "1",
-      "Adequação do controle por rádio": "Embalagem"
-    },
-    "affiliate_url": "https://www.amazon.com.br/Empacotamento-Scotch-Transparente-Metros-Pacote/dp/B0971DYR7N/ref=zg_bs_g_hi_d_sccl_11/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B076ZRKZK1",
-    "title": "Nível Plástico Com Base Magnética 9\", Vonder",
-    "image": "https://m.media-amazon.com/images/I/61R3IbQOPIL._AC_SL1500_.jpg",
-    "canonical": null,
-    "category": "Ferramentas e Materiais de Construção",
-    "price_current": 14,
-    "price_original": 20.16,
-    "discount_percentage": 30.0,
-    "tem_selo_prime": false,
-    "tem_oferta": true,
-    "avaliacao": 4.9,
-    "qtd_avaliacoes": 789,
-    "coupon_code": null,
-    "description": "<ul><li>Possui ímã que permite a realização de trabalhos com as mãos livres durante o alinhamento e ajuste de objetos metálicos</li><li>Nome Marca: Vonder</li><li>Número do modelo: 3535009000</li></ul>",
-    "informacoes_produto": {
-      "Nome da marca": "VONDER",
-      "Fabricante": "OVD Importadora E Distribuidora LTDA",
-      "Número do modelo": "3535009000",
-      "Número da peça": "3535009000",
-      "Nome do Tipo de Produto": "Nível com Base Magnéticanética 9\"",
-      "País de origem": "China",
-      "Contagem de unidades": "1 Quilogramas",
-      "Componentes incluídos": "Nível com Base Magnéticanética 9\"",
-      "ASIN": "B076ZRKZK1",
-      "Cor": "Amarelo",
-      "Estilo": "Magnetic",
-      "Material": "Plástico",
-      "Modo de operação": "Manual",
-      "Marca": "VONDER"
-    },
-    "affiliate_url": "https://www.amazon.com.br/N%C3%ADvel-pl%C3%A1stico-com-base-magn%C3%A9tica/dp/B076ZRKZK1/ref=zg_bs_g_hi_d_sccl_13/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B07CLH9Y6X",
-    "title": "3M, Feltro Sintético Adesivo para Móveis Leves Scotch, Redondo, Marrom, Pequeno, 12 Unidades",
-    "image": "https://m.media-amazon.com/images/I/81CV0pfB9PL._AC_SL1500_.jpg",
-    "canonical": null,
-    "category": "Ferramentas e Materiais de Construção",
-    "price_current": 6.66,
-    "price_original": 36.9,
-    "discount_percentage": null,
-    "tem_selo_prime": false,
-    "tem_oferta": true,
-    "avaliacao": 4.7,
-    "qtd_avaliacoes": 1977,
-    "coupon_code": null,
-    "description": "<ul><li>PROTEJA SEU PISO. O Protetor de Feltro Scotch 3M é a solução ideal para proteger pisos de madeira, vinílicos, cerâmicos ou laminados de forma discreta e eficiente.</li><li>ALTA QUALIDADE E ADERÊNCIA. Fabricado com feltro sintético de alta resistência, este protetor garante durabilidade e proteção superior, além de um adesivo de alta fixação para longa duração.</li><li>FÁCIL DE USAR. Com formato redondo e tamanho pequeno (2,5 x 2,5 cm), é perfeito para móveis leves como cadeiras, mesas, pufes e banquetas.</li><li>O QUE ESTÁ INCLUÍDO. Este pacote contém 12 feltros protetores autocolantes, na cor marrom, prontos para serem aplicados nos pés de seus móveis.</li><li>CIÊNCIA APLICADA À VIDA. A 3M é uma multinacional que, por meio de suas marcas, oferece soluções sustentáveis que otimizam o tempo e a energia das pessoas, melhorando suas vidas diariamente.</li></ul>",
-    "informacoes_produto": {
-      "Fabricante": "‎3M",
-      "Número da Peça": "‎HB004262687",
-      "Certificação": "‎Não aplicável",
-      "Tamanho": "‎Pequeno",
-      "Cor": "‎Marrom",
-      "Tipo de fonte de energia": "‎Não aplicável",
-      "Quantidade por pacote": "‎1",
-      "Número de produtos": "‎12",
-      "Funciona a bateria ou pilha?": "‎Não",
-      "Peso": "‎1 Gramas",
-      "Comprimento": "‎2,5 centímetros",
-      "Largura": "‎2,5 centímetros",
-      "Modelo": "‎HB004262687",
-      "Número do modelo": "‎HB004262687",
-      "Dimensões do produto": "‎2,5 x 2,5 x 0,3 cm; 1 g",
-      "ASIN": "‎B07CLH9Y6X",
-      "Marca": "‎Scotch",
-      "EAN": "‎7891040177813",
-      "Dimensões do pacote": "19.8 x 12.5 x 0.2 centímetros",
-      "Disponível para compra desde": "22 abril 2018"
-    },
-    "affiliate_url": "https://www.amazon.com.br/Anti-Risco-Redondo-Scotch-HB004262687-Pequeno/dp/B07CLH9Y6X/ref=zg_bs_g_hi_d_sccl_8/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B08KJN19FM",
-    "title": "Docol Sifão Extensível Universal 72cm - Cod.Novo: 90007965026 Cod.Antigo: 00796526",
-    "image": "https://m.media-amazon.com/images/I/41F+jsxUxLL._AC_SL1000_.jpg",
-    "canonical": null,
-    "category": "Ferramentas e Materiais de Construção",
-    "price_current": 14.27,
-    "price_original": 35.04,
-    "discount_percentage": 59.0,
-    "tem_selo_prime": false,
-    "tem_oferta": true,
-    "avaliacao": 4.8,
-    "qtd_avaliacoes": 1049,
-    "coupon_code": null,
-    "description": "<ul><li>Livre de odores indesejados: equipado com o sistema antiodor, o produto impede o retorno de gases existentes nas tubulações de esgoto.</li><li>Dispensa o uso de fita vedarosca: o produto é equipado com anéis para vedação que dispensam o uso de fita veda-rosca.</li><li>Compatibilidade com válvulas de saída d’água para cozinha, lavatório e tanque.</li><li>Trava: dispositivo que garante os 5cm de fecho hídrico (exigência da norma).</li><li>Comprimento de 72cm: maior do que a grande maioria dos sifões do mercado, que possibilita instalações com facilidade e ambientes de difícil acesso. Compatibilidade com tubulações de 40 e 50mm, tanto em conexões como diretamente em tubos.</li></ul>",
-    "informacoes_produto": {
-      "Fabricante": "‎DOCOL",
-      "Número da Peça": "‎00796526",
-      "Certificação": "‎Não aplicável",
-      "Cor": "‎Branco",
-      "Material": "‎Polipropileno e borracha nitríca",
-      "Tipo de fonte de energia": "‎Não aplicável",
-      "Quantidade por pacote": "‎1",
-      "Número de produtos": "‎1",
-      "Componentes incluídos": "‎1 sifão tubular moldavel branco",
-      "Funciona a bateria ou pilha?": "‎Não",
-      "Comprimento": "‎50 milímetros",
-      "Largura": "‎50 milímetros",
-      "Altura": "‎72 centímetros",
-      "Modelo": "‎00796526",
-      "Número do modelo": "‎00796526",
-      "Dimensões do produto": "‎5 x 5 x 72 cm; 100 g",
-      "ASIN": "‎B08KJN19FM",
-      "Marca": "‎Docol",
-      "EAN": "‎7891461207595",
-      "Dimensões do pacote": "36 x 5 x 5 centímetros",
-      "Disponível para compra desde": "2 outubro 2020"
-    },
-    "affiliate_url": "https://www.amazon.com.br/Sif%C3%A3o-Universal-Extens%C3%ADvel-Docol-72/dp/B08KJN19FM/ref=zg_bs_g_hi_d_sccl_12/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B08MNFRVS7",
-    "title": "Luva Viniflex Translucida sem pó Tam. M 100und/cart, Vabene",
-    "image": "https://m.media-amazon.com/images/I/71bpnXtUtpL._AC_SL1500_.jpg",
-    "canonical": null,
-    "category": "Ferramentas e Materiais de Construção",
-    "price_current": 18.75,
-    "price_original": 90.99,
-    "discount_percentage": null,
-    "tem_selo_prime": false,
-    "tem_oferta": true,
-    "avaliacao": 4.4,
-    "qtd_avaliacoes": 2205,
-    "coupon_code": null,
-    "description": "<ul><li>Luva em TPE que é uma borracha termoplástica combinada à espessura da luva que é bem fininha que aumenta a sensibilidade em seu uso</li><li>Hipoalergênica, inodora e atóxica, um produto seguro para quem possui algum tipo de alergia</li><li>Caixa com 100 luvas</li><li>Os produtos foram projetados com o usuário em mente querendo cumprir os desejos</li></ul>",
-    "informacoes_produto": {
-      "Nome da marca": "Vabene",
-      "Contagem de unidades": "100 Unidade",
-      "Descrição da faixa etária": "Adulto",
-      "Nome do modelo": "Não aplicável",
-      "Peso do item": "215 Gramas",
-      "Número do modelo": "1531",
-      "Número de identificação de comércio internacional": "17898546006347",
-      "Número da peça": "1531",
-      "Componentes incluídos": "Caixa com 100 luvas ambidestras",
-      "Fabricante": "Vabene",
-      "Nome do Tipo de Produto": "Luva Viniflex Translucida sem pó Tam. M 100und/cart",
-      "Descrição da garantia": "Conforme descrito na embalagem",
-      "ASIN": "B08MNFRVS7",
-      "Material": "Borracha, Borracha termoplástica",
-      "Livre de tipo de material": "Sem pó",
-      "Características do material": "Hipoalergênica",
-      "Construção da Luva": "Seamless Knit",
-      "Material da Palma": "Rubber, Thermoplastic Rubber",
-      "Classe de Peso do Tecido da Vestimenta": "Leve",
-      "Tipo de material": "TPE (Borracha Termoplástica)",
-      "Tamanho": "M (Pacote de 100)",
-      "Dimensões do artigo": "20 x 11 x 4 centímetros",
-      "Características especiais": "Antialérgica",
-      "Reutilização": "Descartável",
-      "É à prova d'água": "True",
-      "Orientação de uso": "Ambidestro",
-      "Nível de resistência à água": "À prova d'água",
-      "Luva": "luva",
-      "Ajuste ao Tamanho": "Positivo",
-      "Tipo de ajuste": "regular",
-      "Cor": "multi-colored",
-      "Usos recomendados do produto": "Depilação",
-      "Marca": "Vabene"
-    },
-    "affiliate_url": "https://www.amazon.com.br/Luva-Viniflex-Translucida-100Und-Vabene/dp/B08MNFRVS7/ref=zg_bs_g_hi_d_sccl_9/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B0778YTF29",
-    "title": "MTX Alicate Bico Meia Cana 6 Pol (160 mm) – Alicate Profissional com Revestimento Niquelado e Cabo Ergonômico",
-    "image": "https://m.media-amazon.com/images/I/612JNRbsHoL._AC_SL1500_.jpg",
-    "canonical": null,
-    "category": "Ferramentas e Materiais de Construção",
-    "price_current": 14.4,
-    "price_original": 17.4,
-    "discount_percentage": 17.0,
-    "tem_selo_prime": false,
-    "tem_oferta": true,
-    "avaliacao": 4.7,
-    "qtd_avaliacoes": 2037,
-    "coupon_code": null,
-    "description": "<ul><li>Desempenho profissional – alicate bico meia cana 6” com revestimento niquelado que aumenta a durabilidade e garante precisão em trabalhos de montagem e reparação.</li><li>Resistência reforçada – fabricado em aço de alta qualidade, proporcionando firmeza e confiabilidade no manuseio e em cortes em áreas estreitas.</li><li>Conforto ergonômico – cabo plástico anatômico com dupla injeção que oferece melhor pegada e reduz a fadiga durante o uso.</li><li>Versatilidade ampla – ideal para eletrônica, manutenção e reparos em geral, facilitando o acesso a locais difíceis com sua ponta alongada.</li><li>Proteção anticorrosão – revestimento de níquel protege contra oxidação e prolonga a vida útil da ferramenta.</li></ul>",
-    "informacoes_produto": {
-      "Nome da marca": "Mtx",
-      "Usos específicos do produto": "Agarração, Montagem e Reparação",
-      "Número do modelo": "Bico meia cana",
-      "Número da peça": "Bico meia cana",
-      "Nome do Tipo de Produto": "Alicate bico meia cana reto nickel, 6 pol. (160 mm), cabo dupla injeção",
-      "País de origem": "China",
-      "Componentes incluídos": "No",
-      "Fabricante": "Mtx",
-      "ASIN": "B0778YTF29",
-      "Material": "Aço de cromo-vanádio",
-      "Material do cabo": "Plástico",
-      "Cor": "Níquel",
-      "Tipo de cabo": "Plástico",
-      "Marca": "Mtx"
-    },
-    "affiliate_url": "https://www.amazon.com.br/Bico-Revestimento-Durabilidade-Anticorros%C3%A3o-Profissional/dp/B0778YTF29/ref=zg_bs_g_hi_d_sccl_10/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B077QFH5WP",
-    "title": "Cascola Cascorez Cola Madeira, Cola de madeira de Alta Resistência, Cola PVA Excelente Flexibilidade, Cola Cascorez Pronto Pa",
-    "image": "https://m.media-amazon.com/images/I/61EpE95C-uL._AC_SL1500_.jpg",
-    "canonical": null,
-    "category": "Ferramentas e Materiais de Construção",
-    "price_current": 12.66,
-    "price_original": 399,
-    "discount_percentage": null,
-    "tem_selo_prime": false,
-    "tem_oferta": true,
-    "avaliacao": 4.7,
-    "qtd_avaliacoes": 186,
-    "coupon_code": null,
-    "description": "<ul><li>Alta resistência adesiva – Essa super cola é ideal para reparos e reforma de móveis e objetos em madeira, laminados plásticos, aglomerados, MDF e HDF.</li><li>Excelente flexibilidade – Esta cola Cascola é feita para colar materiais que sofrem esforço mecânico e com o incrível diferencial de aderir a superfícies molhadas.</li><li>Pronto para uso – Este adesivo vinílico foi produzido para facilitar reparos, além de oferecer fácil manuseio e limpeza, esta cola para madeira possui um odor suave.</li><li>Ótima tecnologia – Essa fita adesiva de alta resistência foi desenvolvida com tecnologia à base de água, além disso, não possui solventes em sua composição.</li><li>Conteúdo da embalagem – Cascola Cascorez Cola Madeira, adesivo vinílico ideal para a colagem de materiais que sofrem esforço mecânico, à base d'água e isento de solventes, branco, 1x100g</li></ul>",
-    "informacoes_produto": {
-      "Usos específicos do produto": "Madeira, laminados plásticos, aglomerados, MDF e HDF",
-      "Formato do item": "Massa",
-      "Características especiais": "Alta resistência adesiva e Excelente flexibilidade",
-      "Tipo de recipiente": "Garrafa",
-      "Nível de resistência à água": "À prova d'água",
-      "Nível de Viscosidade": "Média",
-      "Compatible Material": "Madeira, Plástico",
-      "Item Package Quantity": "1",
-      "Volume": "76,92 Mililitros",
-      "Material Type": "Cola de Madeira",
-      "Cor": "multi-colored",
-      "Brand Name": "Cascola",
-      "País de origem": "Brasil",
-      "Contagem de unidades": "100 grama",
-      "Número de peças": "1",
-      "Fabricante": "Henkel",
-      "Item Weight": "110 Gramas",
-      "Nome do Tipo de Produto": "Glue",
-      "Included Components": "Glue",
-      "ASIN": "B077QFH5WP",
-      "Marca": "Cascola",
-      "Material": "Cola de Madeira",
-      "Forma do produto": "Massa"
-    },
-    "affiliate_url": "https://www.amazon.com.br/Cola-Liquida-Madeira-100g-Cascola/dp/B077QFH5WP/ref=zg_bs_g_hi_d_sccl_6/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B076KP7X7F",
-    "title": "Tramontina Alicate Universal 8 Isolado",
-    "image": "https://m.media-amazon.com/images/I/51MGPcAcbUL._AC_SL1000_.jpg",
-    "canonical": null,
-    "category": "Ferramentas e Materiais de Construção",
-    "price_current": 31.9,
-    "price_original": 37.48,
-    "discount_percentage": null,
-    "tem_selo_prime": false,
-    "tem_oferta": true,
-    "avaliacao": 4.8,
-    "qtd_avaliacoes": 6147,
-    "coupon_code": null,
-    "description": "<ul><li>Corpo forjado em aço especial e temperado</li><li>O aço carbono especial empregado na fabricação do produto, aliado à têmpera especial no gume de corte garantem maior resistência</li><li>Acabamento fosfatizado</li><li>Cabeça e articulação lixadas</li></ul>",
-    "informacoes_produto": {
-      "Nome da marca": "Tramontina",
-      "Usos específicos do produto": "Agarrando, Cortando, Torcendo",
-      "Número do modelo": "41001108",
-      "Número da peça": "41001108",
-      "Descrição da garantia": "1 ano",
-      "Nome do Tipo de Produto": "Alicate Universal",
-      "País de origem": "Brasil",
-      "Componentes incluídos": "ALICATE UNIVERSAL 8",
-      "Contagem de unidades": "1 Peça",
-      "Fabricante": "Tramontina",
-      "ASIN": "B076KP7X7F",
-      "Dimensões do item C x L": "20,3C x 6,4L centímetros",
-      "Largura de corte": "8 Polegadas",
-      "Material": "Liga de aço",
-      "Material do cabo": "Plástico",
-      "Cor": "Amarelo",
-      "Tipo de cabo": "Acolchoado",
-      "Especificação atendida": "NBR 9699 e NR10 compliant",
-      "Marca": "Tramontina",
-      "Dimensões do produto": "20,3C x 6,4L centímetros"
-    },
-    "affiliate_url": "https://www.amazon.com.br/Tramontina-41001108-Alicate-Universal-Amarelo/dp/B076KP7X7F/ref=zg_bs_g_hi_d_sccl_29/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B076YK72YJ",
-    "title": "Caixa Para Ferramentas, Plástica, 34,0 Cm X 34,0 Cm X 13,0 Cm, VD 6002, Vonder",
-    "image": "https://m.media-amazon.com/images/I/61AQALBtTCL._AC_SL1000_.jpg",
-    "canonical": null,
-    "category": "Ferramentas e Materiais de Construção",
-    "price_current": 23.6,
-    "price_original": 37.78,
-    "discount_percentage": 37.0,
-    "tem_selo_prime": false,
-    "tem_oferta": true,
-    "avaliacao": 4.6,
-    "qtd_avaliacoes": 10029,
-    "coupon_code": null,
-    "description": "<ul><li>Comprimento da caixa plástica: 340 mm</li><li>Largura da caixa plástica: 340 mm</li><li>Altura da caixa plástica: 130 mm</li><li>Material da caixa plástica: polipropileno</li><li>Capacidade de carga: 12 kg</li></ul>",
-    "informacoes_produto": {
-      "Nome da marca": "VONDER",
-      "Número do modelo": "VDO2668",
-      "Número da peça": "61.07.600.200",
-      "Nome do Tipo de Produto": "Caixa Plástica VD 6002",
-      "Fabricante": "VONDER",
-      "Contagem de unidades": "1 Peça",
-      "Componentes incluídos": "Caixa Plástica VD 6002",
-      "País de origem": "Brasil",
-      "ASIN": "B076YK72YJ",
-      "Material": "Plástico",
-      "Cor": "preto",
-      "Dimensões do item C x L x A": "34C x 34L x 13A centímetros",
-      "Nível de resistência à água": "Não resistente à água",
-      "Número de compartimentos": "1",
-      "Recomendação de peso máximo": "12 Quilogramas",
-      "Marca": "VONDER",
-      "Dimensões do produto": "34C x 34L x 13A centímetros"
-    },
-    "affiliate_url": "https://www.amazon.com.br/Caixa-Pl%C3%A1stica-6002-Vonder-VDO2668/dp/B076YK72YJ/ref=zg_bs_g_hi_d_sccl_20/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B0GWFFY9MS",
-    "title": "Torneira Gourmet de Cozinha Parede Preta Flexível – Bica Móvel com 2 Jatos (Spray e Fluxo) – Acionamento 1/4 de Volta – Mistu",
-    "image": "https://m.media-amazon.com/images/I/71fZxXEyLIL._AC_SL1500_.jpg",
-    "canonical": null,
-    "category": "Ferramentas e Materiais de Construção",
-    "price_current": 29.99,
-    "price_original": 55.99,
-    "discount_percentage": 46.0,
-    "tem_selo_prime": false,
-    "tem_oferta": true,
-    "avaliacao": 4.6,
-    "qtd_avaliacoes": 75,
-    "coupon_code": null,
-    "description": "<ul><li>🛁 TORNEIRA GOURMET FLEXÍVEL PREMIUM – Mangueira metálica com 3 camadas de silicone emborrachado, garantindo máxima durabilidade, flexibilidade total e rotação de 360°, ideal para quem busca torneira de cozinha moderna e resistente.</li><li>💧 DUPLO JATO COM BICA CROMADA – Acabamento brilhante com corpo em metal triplo cromado, resistente à ferrugem e descamação. Oferece jato concentrado ou spray, perfeito para lavação rápida de panelas, frutas e legumes.</li><li>⚙️ CONTROLE PRECISO 1/4 DE VOLTA – Sistema de cerâmica de alta qualidade para ajuste preciso do fluxo de água, garantindo economia e facilidade no uso diário. Ideal para cozinhas gourmet e profissionais de gastronomia.</li><li>📏 DIMENSÕES E INSTALAÇÃO PRÁTICA – Altura de 45 cm e mangueira de 50 cm, montagem na parede com conexão adaptável 1/2 a 5/8. Alça em ABS de toque suave, projetada para praticidade e conforto.</li><li>🎁 IDEAL PARA PRESENTES E REFORMA DE COZINHAS – Perfeita para quem deseja modernizar a cozinha, apartamentos ou casas gourmet. Excelente opção de presente para Natal, Dia das Mães, Dia dos Pais e brindes corporativos de fim de ano, combinando design, qualidade e funcionalidade.</li></ul>",
-    "informacoes_produto": {
-      "Nome da marca": "Genérico",
-      "Componentes incluídos": "Torneira Gourmet de Cozinha Flexível Preta",
-      "Número do modelo": "1",
-      "País de origem": "China",
-      "Fabricante": "1",
-      "ASIN": "B0GWFFY9MS",
-      "Cor": "preto",
-      "Dimensões do item P x L x A": "40P x 20L x 30A milímetros",
-      "Marca": "Genérico"
-    },
-    "affiliate_url": "https://www.amazon.com.br/Torneira-Gourmet-Cozinha-Parede-Flex%C3%ADvel/dp/B0GWFFY9MS/ref=zg_bs_g_hi_d_sccl_15/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B082WYPGVC",
-    "title": "Adesivo Instantâneo Universal Foxlux 20g Cola Rápida Multiuso",
-    "image": "https://m.media-amazon.com/images/I/41fBiThsq3L._AC_SL1000_.jpg",
-    "canonical": null,
-    "category": "Ferramentas e Materiais de Construção",
-    "price_current": 6.17,
-    "price_original": 34.9,
-    "discount_percentage": null,
-    "tem_selo_prime": false,
-    "tem_oferta": true,
-    "avaliacao": 4.7,
-    "qtd_avaliacoes": 1035,
-    "coupon_code": null,
-    "description": "<ul><li>– Tipo: Adesivo instantâneo universal</li><li>– Conteúdo: 20 g</li><li>– Dimensões da embalagem: 2,65 × 12,75 × 3,75 cm</li><li>– Dimensões da embalagem: 2,65 × 12,75 × 3,75 cm</li></ul>",
-    "informacoes_produto": {
-      "Usos específicos do produto": "Artesanato, Borracha, Cerâmica, Couro, Madeira, Metal, Plástico, Sapato, Trabalhos manuais",
-      "Formato do item": "Líquido",
-      "Características especiais": "Secagem rápida, Multiuso",
-      "Tipo de recipiente": "Garrafa",
-      "Nível de resistência à água": "Resistente à água",
-      "Nível de Viscosidade": "Alto",
-      "Compatible Material": "Borracha, Cerâmica, Couro, Madeira, Metal",
-      "Item Package Quantity": "1",
-      "Volume": "20 Mililitros",
-      "Cor": "Colorido",
-      "Brand Name": "FOXLUX",
-      "País de origem": "China",
-      "Model Number": "96.02",
-      "Contagem de unidades": "1.0 Unidade",
-      "Fabricante": "Foxlux",
-      "Part Number": "96.02",
-      "Nome do Tipo de Produto": "Adesivo Instantâneo Universal",
-      "Included Components": "Adesivo Instantâneo Universal",
-      "ASIN": "B082WYPGVC",
-      "Marca": "FOXLUX",
-      "Forma do produto": "Líquido"
-    },
-    "affiliate_url": "https://www.amazon.com.br/Foxlux-96-02-Adesivo-Instantaneo-Universal/dp/B082WYPGVC/ref=zg_bs_g_hi_d_sccl_26/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B077VTMHXQ",
-    "title": "Fita Isolante Foxlux PVC Antichamas 10m x 19mm Preta 600V Alta Elasticidade Espessura 0,15mm",
-    "image": "https://m.media-amazon.com/images/I/61VKmSOZZnL._AC_SL1000_.jpg",
-    "canonical": null,
-    "category": "Ferramentas e Materiais de Construção",
-    "price_current": 6.34,
-    "price_original": 58.03,
-    "discount_percentage": null,
-    "tem_selo_prime": false,
-    "tem_oferta": true,
-    "avaliacao": 4.7,
-    "qtd_avaliacoes": 343,
-    "coupon_code": null,
-    "description": "<ul><li>– Material: PVC antichamas</li><li>– Cor: Preta</li><li>– Comprimento: 10 m</li><li>– Largura: 19 mm</li><li>– Espessura: 0,15 mm</li></ul>",
-    "informacoes_produto": {
-      "Brand Name": "FOXLUX",
-      "Quantidade de itens": "1",
-      "Usos recomendados do produto": "Elétrico",
-      "Contagem de unidades": "1.0 Peça",
-      "Fabricante": "Foxlux",
-      "Part Number": "24.10",
-      "Model Number": "24.10",
-      "País de origem": "China",
-      "Nome do Tipo de Produto": "Fita isolante",
-      "Included Components": "1 Fita Isolante Foxlux -10 Metros Preta",
-      "Descrição da garantia": "1 ano de garantia",
-      "ASIN": "B077VTMHXQ",
-      "Características especiais": "À prova de fogo",
-      "Nível de resistência à água": "Não resistente à água",
-      "Compatible Material": "Cloreto de polivinilo",
-      "Resistência do Produto": "Resistente a calor e chamas",
-      "Contagem de Lados Adesivos": "1",
-      "Tamanho": "10m x 19mm x 0,15mm",
-      "Cor": "Preta",
-      "Material Type": "Cloreto de polivinilo",
-      "Marca": "FOXLUX",
-      "Material": "Cloreto de polivinilo",
-      "Número de itens": "1",
-      "Adequação do controle por rádio": "Elétrico"
-    },
-    "affiliate_url": "https://www.amazon.com.br/Fita-Isolante-Mts-Preta-Unidade/dp/B077VTMHXQ/ref=zg_bs_g_hi_d_sccl_14/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B0GWY89VFX",
-    "title": "Parafusadeira e Furadeira 48V Sem Fio com Impacto Mandril 10mm Torque 32Nm 2 Baterias Recarregáveis Velocidade Variável Rever",
-    "image": "https://m.media-amazon.com/images/I/71Jdn++SpVL._AC_SL1254_.jpg",
-    "canonical": null,
-    "category": "Ferramentas e Materiais de Construção",
-    "price_current": 103.77,
-    "price_original": 114.99,
-    "discount_percentage": null,
-    "tem_selo_prime": false,
-    "tem_oferta": true,
-    "avaliacao": 4.2,
-    "qtd_avaliacoes": 57,
-    "coupon_code": null,
-    "description": "<ul><li>🔋 Alta Autonomia com 2 Baterias – Acompanha duas baterias recarregáveis que garantem mais tempo de uso contínuo, ideal para trabalhos prolongados sem interrupções</li><li>⚙️ Potência e Desempenho 48V – Motor potente com torque de até 32N.m, perfeito para perfurar e parafusar madeira, metal e superfícies diversas</li><li>🎯 Mandril 10mm de Troca Rápida – Sistema prático que facilita a troca de brocas e bits, trazendo mais agilidade e produtividade no dia a dia</li><li>🔄 Velocidade Variável e Função Reversível – Controle total com duas velocidades (0-400 / 0-1400 RPM) e reversão para apertar ou soltar parafusos com precisão</li><li>🧰 Kit Completo com Maleta – Acompanha brocas, bits, soquetes e maleta organizadora resistente para transporte fácil e armazenamento seguro</li></ul>",
-    "informacoes_produto": {
-      "Fonte de energia": "Alimentado por bateria",
-      "Velocidade máxima de rotação": "1850 RPM",
-      "Voltagem": "110 Volts, 220 Volts",
-      "Amperagem": "1 Amperes",
-      "Tamanho máximo do mandril": "10 Milímetros",
-      "Torque máximo": "38 Newton Metros",
-      "Número de velocidades": "2",
-      "Velocidade": "1850 RPM",
-      "Torque do item": "38 Newton Metros",
-      "Tipo de broca": "Broca básica",
-      "Dispositivos compatíveis": "Baterias Recarregáveis",
-      "Nome da marca": "Genérico",
-      "Componentes incluídos": "Brocas, Bits, Soquetes, Maleta",
-      "Fabricante": "Não Especificado",
-      "Contagem de unidades": "1 Kit",
-      "ASIN": "B0GWY89VFX",
-      "Cor": "Amarelo E Preto",
-      "Marca": "Genérico",
-      "Fonte de alimentação": "Alimentado por bateria",
-      "Tensão": "110 Volts, 220 Volts"
-    },
-    "affiliate_url": "https://www.amazon.com.br/Parafusadeira-Furadeira-Recarreg%C3%A1veis-Velocidade-Revers%C3%ADvel/dp/B0GWY89VFX/ref=zg_bs_g_hi_d_sccl_25/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B0DXRY7HDS",
-    "title": "Calibrador Portátil Compressor Bomba De Ar Digital Com Lanterna LED para Encher Pneus de Carro, Moto, Bike, Bicicleta, Bola e",
-    "image": "https://m.media-amazon.com/images/I/51GVX-wEbrL._AC_SL1200_.jpg",
-    "canonical": null,
-    "category": "Ferramentas e Materiais de Construção",
-    "price_current": 69.55,
-    "price_original": 4277.94,
-    "discount_percentage": null,
-    "tem_selo_prime": false,
-    "tem_oferta": true,
-    "avaliacao": 4.4,
-    "qtd_avaliacoes": 700,
-    "coupon_code": null,
-    "description": "<ul><li>⚙️ Máxima Versatilidade: Ideal para pneus de carros, motos, bicicletas, bolas e muito mais! Modos predefinidos garantem ajuste rápido e preciso para cada necessidade.</li><li>🚗 Compacto e Leve, Sempre à Mão: Seu design portátil permite armazená-lo facilmente no porta-luvas, mochila ou bagageiro, pronto para qualquer emergência na estrada.</li><li>🔋 Carregamento Rápido e Prático: Alimentado por USB Type-C, pode ser carregado no carro, casa ou até com um power bank, garantindo mobilidade total.</li><li>👌 Uso Simples e Eficiente: Com detecção automática de pressão (PSI) e ajuste digital, basta alguns cliques para inflar pneus e infláveis com rapidez e precisão.</li></ul>",
-    "informacoes_produto": {
-      "Voltagem": "110220 Volts",
-      "Usos recomendados do produto": "Enchimento dos pneus, bolas, boias e mais.",
-      "Fonte de energia": "Elétrico com fio",
-      "Nível de ruído": "70 Decibéis",
-      "Características especiais": "Digital, Luz LED, Portátil",
-      "Potência máxima": "120 Watt",
-      "Capacidade": "25 liters per minute",
-      "Capacidade do fluxo de ar": "25 Litros por minuto",
-      "Pressão operacional máxima": "150 Libras por polegada quadrada",
-      "Peso do item": "420 Gramas",
-      "Cor": "Preto",
-      "Nome da marca": "Genérico",
-      "Componentes incluídos": "Bocal, Cabo USB, Kit de bocais, Mangueira de ar, Manual do usuário",
-      "País de origem": "China",
-      "Número do modelo": "COMPRESSOR PORTÁTIL",
-      "Nome do modelo": "Mini Compressor Digital Tippi Bomba De Encher Pneus Bola Portátil Para Motocicletas Carro Bicicleta Preto Com Calibrador 127/220V",
-      "Fabricante": "Importado",
-      "Contagem de unidades": "120 PSI",
-      "ASIN": "B0DXRY7HDS",
-      "Material": "ABS",
-      "Marca": "Genérico",
-      "Tensão": "110220 Volts",
-      "Adequação do controle por rádio": "Enchimento dos pneus, bolas, boias e mais.",
-      "Fonte de alimentação": "Elétrico com fio"
-    },
-    "affiliate_url": "https://www.amazon.com.br/Calibrador-Port%C3%A1til-Compressor-Lanterna-Bicicleta/dp/B0DXRY7HDS/ref=zg_bs_g_hi_d_sccl_19/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
-    "spotlight": true
-  },
-  {
-    "asin": "B0794668F7",
-    "title": "Vonder, Fita Dupla Face Acrílica, 12 Mm X 2 M.",
-    "image": "https://m.media-amazon.com/images/I/61BoQMcCjtL._AC_SL1000_.jpg",
-    "canonical": null,
-    "category": "Ferramentas e Materiais de Construção",
-    "price_current": 6.1,
-    "price_original": 8.4,
-    "discount_percentage": 27.0,
-    "tem_selo_prime": false,
-    "tem_oferta": true,
-    "avaliacao": 4.6,
-    "qtd_avaliacoes": 2139,
-    "coupon_code": null,
-    "description": "<ul><li>Modelo: Fita Dupla Face Acrílica</li><li>Modelo: Fita dupla face acrílica</li><li>Aplicação fácil e rápida.</li><li>Indicada para montagem e união de placas, plásticos, emblemas, fixação de artigos de metal ou plástico, cartazes e frisos automotivos.</li><li>Composição: Plástico; Adesivo acrílico</li></ul>",
-    "informacoes_produto": {
-      "Brand Name": "VONDER",
-      "Quantidade de itens": "1",
-      "Usos recomendados do produto": "plástico, metal, placa_de_reboco",
-      "Superfície Recomendada": "plástico, metal, placa_de_reboco",
-      "Fabricante": "VONDER",
-      "Part Number": "VDO2191",
-      "Model Number": "VDO2191",
-      "País de origem": "Brasil",
-      "Nome do Tipo de Produto": "Fita Dupla Face Acrílica, 12 x 2 M, Vonder VDO2191",
-      "Included Components": "1 Fita dupla face",
-      "ASIN": "B0794668F7",
-      "Características especiais": "Resistente a impactos",
-      "Nível de resistência à água": "Não resistente à água",
-      "Compatible Material": "Metal",
-      "Formato do Adesivo": "Fita Dupla Face",
-      "Contagem de Lados Adesivos": "2",
-      "Local do Adesivo": "Double Sided",
-      "Dimensões do item C x L x Espessura": "12L x 12Espessura milímetros",
-      "Tamanho": "12 X 2 M",
-      "Valor decimal da espessura do item": "1 Milímetros",
-      "Cor": "Transparente",
-      "Material Type": "Acrílico",
-      "Marca": "VONDER",
-      "Material": "Acrílico",
-      "Número de itens": "1",
-      "Adequação do controle por rádio": "plástico, metal, placa_de_reboco"
-    },
-    "affiliate_url": "https://www.amazon.com.br/Fita-Dupla-Acr%C3%ADlica-Vonder-VDO2191/dp/B0794668F7/ref=zg_bs_g_hi_d_sccl_17/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B0GWJBSF8X",
-    "title": "Estecas ceramica fria - Kit de Ferramentas de Esculpir 30 Peças para Cerâmica Fria, Argila e Artesanato, Ferramentas Profissi",
-    "image": "https://m.media-amazon.com/images/I/61oQAPTLEwL._AC_SL1192_.jpg",
-    "canonical": null,
-    "category": "Ferramentas e Materiais de Construção",
-    "price_current": 59,
-    "price_original": 59.09,
-    "discount_percentage": null,
-    "tem_selo_prime": false,
-    "tem_oferta": true,
-    "avaliacao": 5.0,
-    "qtd_avaliacoes": 7,
-    "coupon_code": null,
-    "description": "<ul><li>Kit Completo 30 Peças para Cerâmica Fria, Argila e Porcelana: Este conjunto profissional de ferramentas de escultura, modelagem e acabamento foi desenvolvido para garantir máxima precisão nos detalhes. Ideal para trabalhos com cerâmica fria, argila e porcelana, oferece uma peça para cada necessidade do seu artesanato.</li><li>Ferramentas Dupla Face para Máxima Versatilidade: Cada esteca possui duas pontas funcionais, permitindo maior praticidade e eficiência. Com este design, você alterna entre diferentes técnicas de escultura e modelagem sem precisar trocar de ferramenta constantemente, otimizando seu fluxo de criação artística.</li><li>Design Profissional e Ergonômico – Conforto Garantido: Diferente de kits comuns, nossos cabos são resistentes e confortáveis, desenvolvidos para longas sessões de trabalho sem causar fadiga nas mãos. Ideal para artistas e artesãos que buscam durabilidade e conforto durante horas de escultura.</li><li>Material de Alta Qualidade e Fácil de Limpar – Sem Cola ou Massa Ressecada: Fabricado com materiais duráveis, este kit assegura uso contínuo e fácil manutenção. A superfície lisa das ferramentas evita o acúmulo de resíduos de cerâmica fria ou argila, limpando rapidamente com água ou pano úmido – perfeito para uso frequente sem desgaste.</li><li>Ideal para Criatividade e Artesanato – Do Iniciante ao Professor: Este conjunto atende a diversas necessidades criativas, desde escultura detalhada até modelagem artística. Perfeito para artistas, iniciantes, professores e estudantes, é a escolha certa para quem valoriza qualidade e versatilidade em cerâmica fria, argila e artesanato – garantindo altas taxas de satisfação e resultados profissionais.</li></ul>",
-    "informacoes_produto": {
-      "Fabricante": "‎AWESHINE",
-      "Certificação": "‎Nao aplicavel",
-      "Material": "‎madeira + metal",
-      "Tipo de fonte de energia": "‎Não aplicável",
-      "Número de produtos": "‎1",
-      "Componentes incluídos": "‎Kit de Ferramentas de Esculpir 30 Peças para Cerâmica Fria,",
-      "Funciona a bateria ou pilha?": "‎Não",
-      "Dimensões da embalagem": "‎23,9 x 11,5 x 4,1 cm; 310 g",
-      "ASIN": "‎B0GWJBSF8X",
-      "Marca": "‎AWESHINE",
-      "EAN": "‎0691057820941",
-      "Dimensões do pacote": "23.9 x 11.5 x 4.1 centímetros",
-      "Disponível para compra desde": "8 abril 2026"
-    },
-    "affiliate_url": "https://www.amazon.com.br/Estecas-ceramica-fria-Ferramentas-Profissionais/dp/B0GWJBSF8X/ref=zg_bs_g_hi_d_sccl_16/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B08LP3JV5J",
-    "title": "MTX Alicate de Pressão 10\" (250 mm) Mordente Curvo – Ferramenta Profissional de Alta Resistência",
-    "image": "https://m.media-amazon.com/images/I/61urx5dpVmL._AC_SL1500_.jpg",
-    "canonical": null,
-    "category": "Ferramentas e Materiais de Construção",
-    "price_current": 19.6,
-    "price_original": 27.46,
-    "discount_percentage": 28.0,
-    "tem_selo_prime": false,
-    "tem_oferta": true,
-    "avaliacao": 4.7,
-    "qtd_avaliacoes": 586,
-    "coupon_code": null,
-    "description": "<ul><li>Alicate pressão 10\" (250 mm) – ideal para prender, segurar e apertar materiais com firmeza em diversas tarefas mecânicas e de manutenção.</li><li>Mordente curvo para melhor aderência – proporciona encaixe seguro em superfícies irregulares, garantindo estabilidade e precisão no trabalho.</li><li>Construção robusta e durável – fabricado em aço de alta resistência, garantindo longa vida útil mesmo em uso intenso.</li><li>Versátil e prático – indispensável em oficinas, indústrias e em reparos domésticos, oferecendo segurança e confiabilidade.</li><li>Qualidade MTX – marca reconhecida por produzir alicates de pressão e ferramentas confiáveis para profissionais e entusiastas do faça você mesmo.</li></ul>",
-    "informacoes_produto": {
-      "Nome da marca": "Mtx",
-      "Nome do Tipo de Produto": "ALICATE",
-      "País de origem": "China",
-      "Componentes incluídos": "ALICATE",
-      "Fabricante": "MTX",
-      "ASIN": "B08LP3JV5J",
-      "Material": "Liga de aço",
-      "Cor": "VERMELHO/PRETO",
-      "Tipo de cabo": "Ergonômico",
-      "Marca": "Mtx",
-      "Tipo de empunhadura": "Ergonômico"
-    },
-    "affiliate_url": "https://www.amazon.com.br/Alicate-Press%C3%A3o-250Mm-Mordente-Curvo/dp/B08LP3JV5J/ref=zg_bs_g_hi_d_sccl_21/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B07DCWV2TQ",
-    "title": "3M, Feltro Sintético Adesivo para Móveis Leves Scotch, Quadrado, Marrom, Pequeno, 12 Unidades",
-    "image": "https://m.media-amazon.com/images/I/81IGAoo7yhL._AC_SL1500_.jpg",
-    "canonical": null,
-    "category": "Ferramentas e Materiais de Construção",
-    "price_current": 6.99,
-    "price_original": 8.9,
-    "discount_percentage": 21.0,
-    "tem_selo_prime": false,
-    "tem_oferta": true,
-    "avaliacao": 4.8,
-    "qtd_avaliacoes": 2369,
-    "coupon_code": null,
-    "description": "<ul><li>PROTEJA SEU PISO. O Protetor de Feltro Scotch 3M é a solução ideal para proteger pisos de madeira, vinílicos, cerâmicos ou laminados de forma discreta e eficiente.</li><li>ALTA QUALIDADE E ADERÊNCIA. Fabricado com feltro sintético de alta resistência, este protetor garante durabilidade e proteção superior, além de um adesivo de alta fixação para longa duração.</li><li>FÁCIL DE USAR. Com formato quadrado e tamanho pequeno (2,5 x 2,5 cm), é perfeito para móveis leves como cadeiras, mesas, pufes e banquetas.</li><li>O QUE ESTÁ INCLUÍDO. Este pacote contém 12 feltros protetores autocolantes, na cor marrom, prontos para serem aplicados nos pés de seus móveis.</li><li>CIÊNCIA APLICADA À VIDA. A 3M é uma multinacional que, por meio de suas marcas, oferece soluções sustentáveis que otimizam o tempo e a energia das pessoas, melhorando suas vidas diariamente.</li></ul>",
-    "informacoes_produto": {
-      "Nome da marca": "Scotch",
-      "Contagem de unidades": "12 count",
-      "Fabricante": "3M",
-      "Número da peça": "HB004262661",
-      "Número do modelo": "HB004262661",
-      "Componentes incluídos": "não se aplica",
-      "Nome do Tipo de Produto": "Feltro Anti-Risco 3M Scotch® Marrom Quadrado - Tamanho Pequeno",
-      "País de origem": "China",
-      "Descrição da garantia": "Com o fabricante",
-      "Peso do item": "1 Gramas",
-      "ASIN": "B07DCWV2TQ",
-      "Superfície Recomendada": "Piso de Madeira, Laminado, Azulejo",
-      "Usos recomendados do produto": "móveis de madeira, laminado, azulejo",
-      "Tipo de fixação": "Removível",
-      "Dimensões do item C x L x Espessura": "25C x 25L x 25Espessura milímetros",
-      "Quantidade de itens": "12",
-      "Número de peças": "12",
-      "Cor": "Marrom",
-      "Formato do item": "Quadrado",
-      "Material": "Flanela",
-      "Marca": "Scotch",
-      "Recomendação de superfície": "Piso de Madeira, Laminado, Azulejo",
-      "Forma": "Quadrado"
-    },
-    "affiliate_url": "https://www.amazon.com.br/Feltro-Anti-Risco-Scotch-Marrom-Quadrado/dp/B07DCWV2TQ/ref=zg_bs_g_hi_d_sccl_22/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B089DJVFCP",
-    "title": "EsfreBom - Prendedor Plástico Basic, Embalagem com 16 Unidades, Cores Rosa, Tifanny, Cinza e Roxo, Bettanin",
-    "image": "https://m.media-amazon.com/images/I/81uUEjBsvfL._AC_SL1500_.jpg",
-    "canonical": null,
-    "category": "Ferramentas e Materiais de Construção",
-    "price_current": 10.2,
-    "price_original": 10.2,
-    "discount_percentage": 10.0,
-    "tem_selo_prime": false,
-    "tem_oferta": true,
-    "avaliacao": 4.7,
-    "qtd_avaliacoes": 874,
-    "coupon_code": null,
-    "description": "<ul><li>Firmeza na medida certa.</li><li>Produzido em material resistente e duradouro.</li><li>Segura as roupas penduradas sem marcá-las.</li><li>Indicado para uso em qualquer tipo de tecido.</li><li>Fácil de manusear.</li></ul>",
-    "informacoes_produto": {
-      "Nome da marca": "Bettanin",
-      "Fabricante": "Bettanin",
-      "Número do modelo": "BT3501",
-      "Número da peça": "BT3501",
-      "País de origem": "China",
-      "Nome do Tipo de Produto": "Conjunto de Prendedores Plásticos Basic, Com 16 Unidades, Cores Rosa, Tifanny, Cinza e Roxo, Linha Esfrebom, Bettanin.",
-      "Componentes incluídos": "Conjunto com 16 prendedores plásticos.",
-      "ASIN": "B089DJVFCP",
-      "Peso do item": "80 Gramas",
-      "Número de peças": "16",
-      "Cor": "Rosa, Tifanny, Cinza e Roxo",
-      "Estilo": "Plástico",
-      "Material": "Plástico",
-      "Marca": "Bettanin",
-      "Peso do produto": "80 Gramas"
-    },
-    "affiliate_url": "https://www.amazon.com.br/Prendedor-Pl%C3%A1stico-Embalagem-Unidades-Esfrebom/dp/B089DJVFCP/ref=zg_bs_g_hi_d_sccl_24/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B07KJFV6C2",
-    "title": "Adesivo Instantâneo 793 20g Blister Incolor",
-    "image": "https://m.media-amazon.com/images/I/41eWgDxRYoL._AC_SL1000_.jpg",
-    "canonical": null,
-    "category": "Ferramentas e Materiais de Construção",
-    "price_current": 9.99,
-    "price_original": 14.35,
-    "discount_percentage": 30.0,
-    "tem_selo_prime": false,
-    "tem_oferta": true,
-    "avaliacao": 4.8,
-    "qtd_avaliacoes": 2617,
-    "coupon_code": null,
-    "description": "<ul><li>Adesivo Instantâneo</li><li>Bico Antientupimento</li><li>Cianoacrilato Tekbond, como também é conhecido, é isento de solventes, não requer mistura, tem alta velocidade de cura e forte resistência.</li><li>Adesivo multiuso de Media viscosidade - Adere diversos tipos de materiais, como compostos de borracha, EPDM, borracha nitrílica, neoprene, EVA e Viton.</li><li>Adesivo multiuso - Adere diversos tipos de materiais, como compostos de borracha, EPDM, borracha nitrílica, neoprene, EVA e Viton.</li></ul>",
-    "informacoes_produto": {
-      "Usos específicos do produto": "Pessoal, Amador, Profissional, Artesão",
-      "Formato do item": "Líquido",
-      "Tipo de recipiente": "Seringa",
-      "Valor decimal do tempo de cura total": "20 Segundos",
-      "Nível de resistência à água": "Não resistente à água",
-      "Nível de Viscosidade": "Média",
-      "Compatible Material": "Madeira, Metais, Borracha",
-      "Item Package Quantity": "1",
-      "Volume": "20 Mililitros",
-      "Material Type": "Etilcianoacrilato, Hidroquinona, Polimetilmetacrilato",
-      "Cor": "Incolor",
-      "Brand Name": "TEK BOND",
-      "País de origem": "China",
-      "Model Number": "20571002802",
-      "Contagem de unidades": "1 Peça",
-      "Fabricante": "Tekbond",
-      "Part Number": "20571002802",
-      "Nome do Tipo de Produto": "Adesivo Instantâneo TekBond 793",
-      "Descrição da garantia": "Com o fabricante para defeito fabricação",
-      "ASIN": "B07KJFV6C2",
-      "Marca": "TEK BOND",
-      "Material": "Etilcianoacrilato, Hidroquinona, Polimetilmetacrilato",
-      "Forma do produto": "Líquido"
-    },
-    "affiliate_url": "https://www.amazon.com.br/Cola-Instant%C3%A2nea-Multiuso-793-Incolor/dp/B07KJFV6C2/ref=zg_bs_g_hi_d_sccl_23/140-3942280-2013132?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B00DCTI47M",
-    "title": "Máquina de Lavar Panasonic 15kg Titânio 127v NA-F150B1T",
-    "image": "https://m.media-amazon.com/images/I/61aihS5uIXL._AC_SL1500_.jpg",
-    "canonical": null,
-    "category": "Eletrodomésticos",
-    "price_current": 2157.38,
-    "price_original": 2599,
-    "discount_percentage": null,
-    "tem_selo_prime": false,
-    "tem_oferta": true,
-    "avaliacao": 4.6,
-    "qtd_avaliacoes": 223,
-    "coupon_code": null,
-    "description": "<ul><li>Lavadora 15kg com a melhor lavagem e o menor consumo de água da categoria, segundo o Inmetro</li><li>Cor titânio, design moderno que se adapta a diversos ambientes</li><li>Menor consumo de água da categoria, conforme certificado pelo Inmetro</li></ul>",
-    "informacoes_produto": {
-      "Capacidade": "15 quilogramas",
-      "Características especiais": "Alta eficiência",
-      "Local do acesso": "Carga frontal",
-      "Tipo de acabamento": "Titânio",
-      "Opções de ciclo": "Vanish, Vanish Branco mais Branco",
-      "Modo de operação": "Totalmente automático",
-      "Voltagem": "127 Volts",
-      "Tipo de instalação": "Independente",
-      "Dimensões do item P x L x A": "69P x 60L x 105A centímetros",
-      "Material do tambor do aparelho de lavagem de roupa": "Titanio",
-      "Cor": "Titânio",
-      "Nome da marca": "Panasonic",
-      "Componentes incluídos": "Mangueira de drenagem",
-      "Fabricante": "PANASONIC",
-      "Número do modelo": "NA-F150B1TA",
-      "Número da peça": "1",
-      "Descrição da garantia": "12 meses",
-      "Nome do Tipo de Produto": "MAQUINA DE LAVAR",
-      "ASIN": "B00DCTI47M",
-      "Dimensões do produto": "69P x 60L x 105A centímetros",
-      "Marca": "Panasonic",
-      "Local de acesso": "Carga frontal"
-    },
-    "affiliate_url": "https://www.amazon.com.br/Panasonic-M%C3%A1quina-Lavar-Tit%C3%A2nio-NA-F150B1T/dp/B00DCTI47M/ref=zg_bs_g_appliances_d_sccl_7/146-4195612-0631345?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B0DTZQP72X",
-    "title": "Geladeira Refrigerador HQ Frost Free Multidoor 426 Litros Prata HQ-426MDFF (127V)",
-    "image": "https://m.media-amazon.com/images/I/41gbp9oIJ5L._AC_SL1000_.jpg",
-    "canonical": null,
-    "category": "Eletrodomésticos",
-    "price_current": 3148.99,
-    "price_original": 4248.75,
-    "discount_percentage": null,
-    "tem_selo_prime": false,
-    "tem_oferta": true,
-    "avaliacao": 4.5,
-    "qtd_avaliacoes": 84,
-    "coupon_code": null,
-    "description": "<ul><li>Painel Digital Touch: Controle de temperatura independente, resfriamento e congelamento rápidos.</li><li>Classe A+++ de Economia: Máxima eficiência energética.</li><li>Design Sofisticado: Acabamento em aço inoxidável com tratamento antimarcas.</li><li>Tecnologia Frost Free: Mais tempo para você, sem preocupações com gelo acumulado.</li><li>Tecnologia Fresh Box: Gaveta para frutas e legumes com controle de umidade.</li></ul>",
-    "informacoes_produto": {
-      "Configuração": "Tamanho completo lado a lado",
-      "Características especiais": "Frost Free, Inverter",
-      "Número de portas": "4",
-      "Tipo de sistema de degelo": "Automático",
-      "Voltagem": "127 Volts",
-      "Tipo de prateleira": "Vidro",
-      "Fator de forma": "Lado a lado",
-      "Método de resfriamento": "Compressor",
-      "Número de prateleiras": "3",
-      "Controle de temperatura ajustável": "Sim",
-      "Orientação de abertura da porta": "Multidoor",
-      "Tem Congelador Conversível": "Não",
-      "É alimentado por energia elétrica?": "Sim",
-      "Fonte de energia": "Elétrico com fio",
-      "Cor": "Cinza",
-      "Dimensões do item P x L x A": "70P x 73L x 186A centímetros",
-      "Capacidade": "426 litros",
-      "Capacidade do freezer": "130 Litros",
-      "Peso do item": "72,5 Quilogramas",
-      "Consumo de energia anual": "363,6 Kilowatt Hours Per Year",
-      "Capacidade de comida fresca": "426 Litros",
-      "Tipo de instalação": "Independente",
-      "Especificação atendida": "Energy Star",
-      "Avaliação por estrelas do BEE": "4 Estrelas",
-      "Nome da marca": "HQ Screen",
-      "Nome do modelo": "HQ-426MDFF",
-      "Número do modelo": "HQ-426MDFF",
-      "Número da peça": "BCD-400WQYD",
-      "Componentes incluídos": "1 Geladeira",
-      "Fabricante": "HQ Screen",
-      "Descrição da garantia": "01 Ano (Sendo 3 meses de garantia legal e mais 9 meses de garantia para defeito de fabricação).",
-      "Nome do Tipo de Produto": "Geladeira",
-      "ASIN": "B0DTZQP72X",
-      "Dimensões do produto": "70P x 73L x 186A centímetros",
-      "Marca": "HQ Screen"
-    },
-    "affiliate_url": "https://www.amazon.com.br/Geladeira-Refrigerador-HQ-Multidoor-HQ-426MDFF/dp/B0DTZQP72X/ref=zg_bs_g_appliances_d_sccl_30/146-4195612-0631345?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B09B9D1YQV",
-    "title": "Lava Louças Electrolux 10 Serviços Inox com Função Higienizar Compras (LL10X) - 127V",
-    "image": "https://m.media-amazon.com/images/I/412XOE8WIvL._AC_SL1000_.jpg",
-    "canonical": null,
-    "category": "Eletrodomésticos",
-    "price_current": 3899,
-    "price_original": 4099.9,
-    "discount_percentage": null,
-    "tem_selo_prime": false,
-    "tem_oferta": true,
-    "avaliacao": 4.4,
-    "qtd_avaliacoes": 149,
-    "coupon_code": null,
-    "description": "<ul><li>HIGIENIZAR COMPRAS</li><li>ECONOMIZE 92% DE ÁGUA</li><li>HIGIENIZAR LOUÇA 70ºC</li><li>EXCLUSIVO PAINEL DIGITAL EXTERNO</li><li>PROGRAMA INTELIGENTE / AUTO SENSE</li></ul>",
-    "informacoes_produto": {
-      "Tipo de instalação": "Embutir",
-      "Capacidade": "9,5 litros",
-      "Características especiais": "Altura ajustável, Tela digital",
-      "Tipo de controles": "Toque",
-      "Nível de ruído": "1 Decibéis",
-      "Fator de forma": "Embutido",
-      "Voltagem": "110 Volts",
-      "Opções de ciclo": "Higienizar Compras, EcoPlus, Higienizar Louças",
-      "Número de engastes": "9",
-      "Número de ciclos de opções": "8",
-      "Frequência de operação": "60 Hz",
-      "Dimensões do item P x L x A": "45P x 44,8L x 61A centímetros",
-      "Peso do item": "41 Quilogramas",
-      "Cor": "Inox",
-      "Estilo": "Lava Louças",
-      "Nome da marca": "Electrolux",
-      "Componentes incluídos": "1 Lava Louças 10 Serviços Inox com Função Higienizar Compras Electrolux",
-      "Número do modelo": "LL10X",
-      "Fabricante": "Electrolux",
-      "Número da peça": "LL10X",
-      "Nome do Tipo de Produto": "Lava Louças",
-      "Descrição da garantia": "12 meses",
-      "ASIN": "B09B9D1YQV",
-      "Material": "Aço inoxidável",
-      "Tipo de acabamento": "Inox",
-      "Material da Prateleira da Lava-Louça": "Aço inoxidável",
-      "Marca": "Electrolux",
-      "Dimensões do produto": "45P x 44,8L x 61A centímetros"
-    },
-    "affiliate_url": "https://www.amazon.com.br/Lou%C3%A7as-Electrolux-Servi%C3%A7os-Higienizar-Compras/dp/B09B9D1YQV/ref=zg_bs_g_appliances_d_sccl_2/146-4195612-0631345?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B0DJ3C9MGL",
-    "title": "FISCHER COOKTOP À GÁS 5 BOCAS FIT LINE TREMPE ARAMADO MESA VIDRO PRETO BIVOLT 36360-102676",
-    "image": "https://m.media-amazon.com/images/I/61z8rB+9dEL._AC_SL1500_.jpg",
-    "canonical": null,
-    "category": "Eletrodomésticos",
-    "price_current": 437.13,
-    "price_original": 666.64,
-    "discount_percentage": null,
-    "tem_selo_prime": false,
-    "tem_oferta": true,
-    "avaliacao": 4.6,
-    "qtd_avaliacoes": 89,
-    "coupon_code": null,
-    "description": "<ul><li>Mesa de vidro temperado, proporciona um visual moderno que combina com diversos estilos de ambiente; Fundo compacto, otimiza o espaço do armário/nicho;</li><li>Manipuladores (botões) ergonômicos: Garantem conforto e precisão no manuseio; Acendimento superautomático: Praticidade no uso diário, girou, ligou;</li><li>Trempe estável com grande área de apoio, que proporciona maior segurança e estabilidade na hora de cozinhar;</li><li>5 queimadores: 1 queimador rápido (3.000 W) e 4 queimadores semirrápidos (1.750W); Câmara de gás fechada: a chama não se apaga com facilidade;</li></ul>",
-    "informacoes_produto": {
-      "Número de elementos de aquecimento": "5",
-      "Fonte de energia": "Gás GLP / GN",
-      "Tipo de combustível": "Gás GLP / GN",
-      "Características especiais": "Portátil, Queimador selado",
-      "Elemento de aquecimento": "Radiante",
-      "Tipo de controle": "Botão de pressão",
-      "Tipo de instalação": "Embutido",
-      "Voltagem": "110 Volts, 220 Volts",
-      "Potência": "10000 watts",
-      "Dimensões do item P x L x A": "46P x 68,5L x 12,6A centímetros",
-      "Peso do item": "8,4 Quilogramas",
-      "Tamanho": "68.5 cm x 46 cm",
-      "Cor": "PRETO",
-      "Nome da marca": "Fischer",
-      "Componentes incluídos": "01 Etiqueta Inmetro, 01 Etiqueta atenção gás, 01 Manual de instruções, 04 Tiras de espuma para vedação, Peças Móveis: Trempes individuais e Conjunto dos queimadores",
-      "Fabricante": "FISCHER",
-      "Número da peça": "1",
-      "Número do modelo": "36360-102676",
-      "Nome do Tipo de Produto": "COOKTOP À GÁS 5 BOCAS FIT LINE TREMPE ARAMADO",
-      "Descrição da garantia": "3 meses de garantia legal e 9 meses de garantia contratual",
-      "ASIN": "B0DJ3C9MGL",
-      "Material da superfície do aquecedor": "Vidro temperado",
-      "Material": "Vidro temperado",
-      "Marca": "Fischer",
-      "Elementos de aquecimento": "5",
-      "Fonte de alimentação": "Gás GLP / GN"
-    },
-    "affiliate_url": "https://www.amazon.com.br/FISCHER-COOKTOP-TREMPE-ARAMADO-36360-102676/dp/B0DJ3C9MGL/ref=zg_bs_g_appliances_d_sccl_3/146-4195612-0631345?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B0BH75ZS8Y",
-    "title": "COOKTOP ITATIAIA ESS 5Q TC 127/220V PTO",
-    "image": "https://m.media-amazon.com/images/I/51a2ogp-kVL._AC_SL1000_.jpg",
-    "canonical": null,
-    "category": "Eletrodomésticos",
-    "price_current": 422.99,
-    "price_original": 594.5,
-    "discount_percentage": null,
-    "tem_selo_prime": false,
-    "tem_oferta": true,
-    "avaliacao": 4.3,
-    "qtd_avaliacoes": 123,
-    "coupon_code": null,
-    "description": "<ul><li>Ignição automática, Configuração de calor</li></ul>",
-    "informacoes_produto": {
-      "Número de elementos de aquecimento": "3",
-      "Fonte de energia": "Gás GLP/GN",
-      "Tipo de combustível": "Gás natural",
-      "Características especiais": "Ignição automática, Configuração de calor",
-      "Elemento de aquecimento": "Gás GLP/GN",
-      "Tipo de controle": "Botão de pressão",
-      "Tipo de instalação": "Independente",
-      "Voltagem": "110.22",
-      "Dimensões do item P x L x A": "45P x 73L x 17A centímetros",
-      "Peso do item": "10,09 Quilogramas",
-      "Tamanho": "45 cm x 73 cm",
-      "Cor": "Preto",
-      "Nome da marca": "Itatiaia",
-      "Componentes incluídos": "Cooktop",
-      "Fabricante": "Itatiaia",
-      "Número do modelo": "3700000194",
-      "Nome do Tipo de Produto": "Cooktop",
-      "Descrição da garantia": "90 dias",
-      "ASIN": "B0BH75ZS8Y",
-      "Material da superfície do aquecedor": "Vidro temperado",
-      "Material": "Vidro Temperado 6mm",
-      "Marca": "Itatiaia",
-      "Elementos de aquecimento": "3",
-      "Fonte de alimentação": "Gás GLP/GN"
-    },
-    "affiliate_url": "https://www.amazon.com.br/COOKTOP-ITATIAIA-ESS-127-220V/dp/B0BH75ZS8Y/ref=zg_bs_g_appliances_d_sccl_4/146-4195612-0631345?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B0GFC12YMZ",
-    "title": "Capa Para Maquina De Lavar Brastemp Eletrolux Consul 12Kg 13Kg 14Kg 15Kg 16Kg 17Kg Impermeável Forrada Com Zíper Proteção UV",
-    "image": "https://m.media-amazon.com/images/I/51f4d2jYNNL._AC_SL1350_.jpg",
-    "canonical": null,
-    "category": "Eletrodomésticos",
-    "price_current": 32.9,
-    "price_original": 39.9,
-    "discount_percentage": 17.0,
-    "tem_selo_prime": false,
-    "tem_oferta": true,
-    "avaliacao": 4.0,
-    "qtd_avaliacoes": 130,
-    "coupon_code": null,
-    "description": "<ul><li>Proteção completa: evita poeira, respingos, umidade e danos externos, garantindo maior durabilidade e bom funcionamento da máquina de lavar.</li><li>Material impermeável e flanelado: camada dupla que mantém a máquina protegida contra água e sujeira, aumentando a vida útil do eletrodoméstico.</li><li>Zíper funcional e prático: facilita o uso diário da máquina sem precisar retirar a capa, mantendo a proteção mesmo durante a lavagem.</li><li>Tratamento UV contra o sol: protege contra raios solares e evita desbotamento e desgaste do material, ideal para áreas externas.</li><li>Design perolizado elegante: acabamento moderno, sofisticado e resistente, que combina com qualquer ambiente da casa ou lavanderia.</li><li>Alta resistência e durabilidade: material reforçado que garante longa vida útil mesmo em ambientes úmidos e de maior uso.</li><li>Uso doméstico e comercial: ideal tanto para casas quanto para lavanderias, assegurando maior conservação em diferentes ambientes.</li><li>Fácil de limpar e manter: basta passar um pano úmido para remover poeira ou respingos, garantindo praticidade no dia a dia.</li></ul>",
-    "informacoes_produto": {
-      "Nome da marca": "‎Genérico",
-      "Informações do modelo": "‎INOV23",
-      "Certificação": "‎Não aplicável",
-      "Dimensões do produto": "‎98 x 89 x 60 cm; 350 g",
-      "Número da Peça": "‎INOV23",
-      "Cor": "‎BEGE",
-      "Tipo de material": "‎PVC",
-      "Componentes incluídos": "‎1 Capa para Maquina de Lavar",
-      "Funciona a bateria ou pilha?": "‎Não",
-      "Fabricante": "‎Genérico",
-      "Número do modelo": "‎INOV23",
-      "ASIN": "‎B0GFC12YMZ",
-      "Disponível para compra desde": "6 janeiro 2026"
-    },
-    "affiliate_url": "https://www.amazon.com.br/Eletrolux-Imperme%C3%A1vel-Resistente-Perolizado-Qualidade/dp/B0GFC12YMZ/ref=zg_bs_g_appliances_d_sccl_5/146-4195612-0631345?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B0G3Y61JMT",
-    "title": "Máquina de Lavar Branca 14kg Brastemp com Smart Sensor e Lavagem Rápida - BWJ14AB",
-    "image": "https://m.media-amazon.com/images/I/612AvD2ZDrL._AC_SL1500_.jpg",
-    "canonical": null,
-    "category": "Eletrodomésticos",
-    "price_current": 1973.06,
-    "price_original": 2349,
-    "discount_percentage": null,
-    "tem_selo_prime": false,
-    "tem_oferta": true,
-    "avaliacao": 4.5,
-    "qtd_avaliacoes": 15,
-    "coupon_code": null,
-    "description": "<ul><li>Cama, Banho, Jeans, Casaco e até Edredom Casal pode ser lavado sem preocupação e sem esforço.</li><li>Ciclo silencioso: Lave suas roupas em qualquer horário sem preocupações.</li><li>Reuso da Água: A mudança por outro mundo começa dentro de casa.</li><li>Qualidade Brastemp: Uma lavadora feita para durar.</li><li>Ciclo Tira Manchas Advanced: Ciclo com sistema exclusivo de molho e agitação</li></ul>",
-    "informacoes_produto": {
-      "Capacidade": "14 quilogramas",
-      "Características especiais": "Smart Sensor, Lavagem Rápida, Economia de Água, Ciclo Tira Manchas Advanced",
-      "Local do acesso": "Carga superior",
-      "Tipo de acabamento": "Branco",
-      "Opções de ciclo": "Normal, Ciclo Tira Manchas, Lavagem Rápida",
-      "Tipo de controles": "Painel de toque",
-      "Modo de operação": "Totalmente automático",
-      "Voltagem": "110 Volts",
-      "Tipo de instalação": "Embaixo da bancada",
-      "Opções de dosador da máquina de lavar": "Detergente, Amaciante, Removedor de Manchas",
-      "Dimensões do item P x L x A": "69,5P x 62,5L x 104A centímetros",
-      "Peso do item": "38 Quilogramas",
-      "Profundidade do item": "69.5 centimeters",
-      "Cor": "Branco",
-      "Nome da marca": "Brastemp",
-      "Usos recomendados do produto": "Residencial",
-      "Nome do modelo": "BWJ14AB",
-      "Componentes incluídos": "Mangueira de drenagem",
-      "Fabricante": "BRASTEMP",
-      "Número do modelo": "BWJ14AB",
-      "Número da peça": "BWJ14AB",
-      "Descrição da garantia": "12 meses com o fabricante",
-      "ASIN": "B0G3Y61JMT",
-      "Material do tambor do aparelho de lavagem de roupa": "Aço inoxidável",
-      "Dimensões do produto": "69,5P x 62,5L x 104A centímetros",
-      "Marca": "Brastemp",
-      "Local de acesso": "Carga superior"
-    },
-    "affiliate_url": "https://www.amazon.com.br/M%C3%A1quina-Branca-Brastemp-Sensor-Lavagem/dp/B0G3Y61JMT/ref=zg_bs_g_appliances_d_sccl_26/146-4195612-0631345?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B084RX82RT",
-    "title": "Secadora de Roupas Electrolux 12Kg Branca Premium Care com Autosense (SFP12) 220V",
-    "image": "https://m.media-amazon.com/images/I/51vAxVDRrQL._AC_SL1000_.jpg",
-    "canonical": null,
-    "category": "Eletrodomésticos",
-    "price_current": 3471.14,
-    "price_original": null,
-    "discount_percentage": null,
-    "tem_selo_prime": false,
-    "tem_oferta": true,
-    "avaliacao": 4.8,
-    "qtd_avaliacoes": 177,
-    "coupon_code": null,
-    "description": "<ul><li>Tecnologia AutoSense mede temperatura e umidade, secando com precisão sem ressecar as roupas, preservando 80% das cores</li><li>Secadora de roupas branca com capacidade de 12 kg, ideal para famílias maiores</li><li>Função Reverse Action com movimentos alternados do cesto reduz rugas em até 32%, facilitando o processo de passar roupas</li></ul>",
-    "informacoes_produto": {
-      "Nome da marca": "Electrolux",
-      "Fabricante": "ELECTROLUX",
-      "ASIN": "B084RX82RT",
-      "Fator de forma": "Carga frontal",
-      "Local do acesso": "Carga frontal",
-      "Capacidade": "12 quilogramas",
-      "Dimensões do item P x L x A": "62,5P x 60L x 85A centímetros",
-      "Cor": "branca",
-      "Material": "Liga de aço",
-      "Marca": "Electrolux",
-      "Local de acesso": "Carga frontal"
-    },
-    "affiliate_url": "https://www.amazon.com.br/Secadora-Electrolux-SFP12-Front-Premium/dp/B084RX82RT/ref=zg_bs_g_appliances_d_sccl_29/146-4195612-0631345?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B0DBR3DZWG",
-    "title": "SSD Kingston NV3 1TB M.2 2280 NVMe Gen4, Desempenho e Eficiência para Upgrade de PC – SNV3S/1000G",
-    "image": "https://m.media-amazon.com/images/I/71c5uuoM1bL._AC_SL1500_.jpg",
-    "canonical": null,
-    "category": "Eletrônicos",
-    "price_current": 1029,
-    "price_original": 1559.67,
-    "discount_percentage": null,
-    "tem_selo_prime": false,
-    "tem_oferta": true,
-    "avaliacao": 4.8,
-    "qtd_avaliacoes": 10536,
-    "coupon_code": null,
-    "description": "<ul><li>Desempenho Gen 4x4 NVMe PCIe</li><li>Ideal para armazenamento de alta velocidade e baixo consumo de energia</li><li>Ideal para sistemas com espaço limitado - Integra-se facilmente em modelos com conectores M.2. Perfeito para laptops finos e PCs de formato pequeno.</li><li>Até 5.000MB/s para leitura, 3.000MB/s para gravação</li><li>Inclui software de clonagem Acronis</li><li>3 anos de garantia limitada</li></ul>",
-    "informacoes_produto": {
-      "Capacidade de armazenamento digital": "1000 GB",
-      "Interface do disco rígido": "PCIE x 4",
-      "Tecnologia de conectividade": "NVMe",
-      "Características especiais": "Serviço de recuperação de dados",
-      "Fator forma do disco rígido": "2280 Polegadas",
-      "Dispositivos compatíveis": "Desktop, Laptop, Console de jogos",
-      "Usos específicos do produto": "Carregamento de sistemas, Console de jogos, Pessoal",
-      "Velocidade de leitura": "6000 Megabytes Per Second",
-      "Tamanho da memória em cachê instalada": "1",
-      "Taxa de transferência de dados": "6000 Megabytes Per Second",
-      "Fator de forma": "M.2 2280",
-      "Interface de hardware": "PCI Express 4,0",
-      "Tamanho do disco rígido": "1000 GB",
-      "Dimensões do item C x L x Espessura": "8C x 2,2L x 1Espessura centímetros",
-      "Quantidade de itens": "1",
-      "Cor": "Azul",
-      "Nome da marca": "Kingston",
-      "Número do modelo": "SNV3S/1000G",
-      "Descrição do disco rígido": "Unidade de estado sólido",
-      "Componentes incluídos": "SSD M.2",
-      "Nome do modelo": "SSD KINGSTON NV3 1TB M.2 2280 NVME PCIE 4.0 - SNV3S/1000G",
-      "País de origem": "Taiwan",
-      "Fabricante": "Kingston",
-      "Número de identificação de comércio internacional": "00740617344790",
-      "UPC": "740617344790",
-      "Número da peça": "SNV3S/1000G",
-      "Descrição da garantia": "5 anos com o fabricante",
-      "ASIN": "B0DBR3DZWG",
-      "Tipo de instalação": "Disco rígido interno",
-      "Marca": "Kingston",
-      "Fator de forma de disco rígido": "2280 Polegadas"
-    },
-    "affiliate_url": "https://www.amazon.com.br/Kingston-2280-NVMe-SNV3S-1000G/dp/B0DBR3DZWG/ref=zg_bs_g_electronics_d_sccl_29/146-4195612-0631345?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B0BX8WSXFG",
-    "title": "CAMERA INSTAX MINI 12 ROSA GLOSS",
-    "image": "https://m.media-amazon.com/images/I/61+5Ld-oc1L._AC_SL1500_.jpg",
-    "canonical": null,
-    "category": "Eletrônicos",
-    "price_current": 479.65,
-    "price_original": 649,
-    "discount_percentage": null,
-    "tem_selo_prime": false,
-    "tem_oferta": true,
-    "avaliacao": 4.8,
-    "qtd_avaliacoes": 7120,
-    "coupon_code": null,
-    "description": "<ul><li>Foto instantânea: uma experiência única! Onde as fotos são impressas em 5 segundos e são reveladas instantaneamente à frente dos seus olhos (até 2 min. após o clique).</li><li>Flash: ajustado automaticamente de acordo com a luz do ambiente fotografado. Ideal para diversas situações do dia a dia, como festas, momentos com amigos, eventos familiares, viagens, entre outras ocasiões.</li><li>Exposição automática: a camera identifica as condições do ambiente e realiza automaticamente os ajustes necessários para que você registre suas fotos sem se preocupar com qualquer regulagem.</li><li>Modo Selfie &amp; Close up: é possível tirar fotos com aproximação de 30 cm a 50 cm de distância com maior riqueza de detalhes.</li><li>Espelho Selfie: localizado ao lado da lente para que você possa enquadrar perfeitamente seu autorretrato.situações do dia a dia, como festas, momentos com amigos, eventos familiares, viagens, entre outras ocasiões.</li></ul>",
-    "informacoes_produto": {
-      "Características especiais": "Flash embutido, Leve",
-      "Tipo de formato do filme": "Instax mini",
-      "Cor do filme": "Colorido",
-      "Velocidade máxima do obturador": "Obturador eletrônico programado 1/2 para 1/250s. Sincronização lenta para pouca luz.",
-      "Tipo do Formato do Filme de Câmera Compatível": "Instax Mini",
-      "Tipo de controle de exposição": "Automático",
-      "Tem temporizador": "Não",
-      "Modos de disparo": "Modo Selfie &amp; Close up",
-      "Cor": "ROSA GLOSS",
-      "Peso do item": "306 Gramas",
-      "Dimensões do artigo": "10,4 x 12,2 x 6,7 centímetros",
-      "Nome da marca": "FUJIFILM",
-      "Componentes incluídos": "Somente o corpo da câmera",
-      "Nome do modelo": "INSTAX MINI 12",
-      "Número do modelo": "85364",
-      "Número da peça": "85364",
-      "Descrição da garantia": "1 ANO COM O FABRICANTE",
-      "Fabricante": "FUJIFILM",
-      "Nome do Tipo de Produto": "INSTAX MINI 12",
-      "ASIN": "B0BX8WSXFG",
-      "Marca": "FUJIFILM",
-      "Tipo de formato de filme": "Instax mini",
-      "Peso do produto": "306 Gramas",
-      "Dimensões do item C x L x A": "10,4 x 12,2 x 6,7 centímetros"
-    },
-    "affiliate_url": "https://www.amazon.com.br/instax-85364-CAMERA-INSTAX-MINI-ROSA-GLOSS/dp/B0BX8WSXFG/ref=zg_bs_g_electronics_d_sccl_30/146-4195612-0631345?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B0CDJ4L7CZ",
-    "title": "Sanduicheira Elétrica Cadence Click - 127V",
-    "image": "https://m.media-amazon.com/images/I/51UxR8FHe-L._AC_SL1000_.jpg",
-    "canonical": null,
-    "category": "Cozinha",
-    "price_current": 94.91,
-    "price_original": 159.9,
-    "discount_percentage": null,
-    "tem_selo_prime": false,
-    "tem_oferta": true,
-    "avaliacao": 4.8,
-    "qtd_avaliacoes": 19818,
-    "coupon_code": null,
-    "description": "<ul><li>Botão Liga/Desliga com LEDs indicadores: Não precisa tirar da tomada.</li><li>Pés Embutidos mais firmes: A sanduicheira não tomba.</li><li>Chapas Antiaderentes + Profundas: 80%* + ESPAÇO mais versátil.</li><li>Chapas + SIMPLES DE LIMPAR: Superior grill, Inferior LISINHA!</li><li>Alça embutida e Base Porta Fio: Área protegida de aquecimento. 750 W de potência</li></ul>",
-    "informacoes_produto": {
-      "Nome da marca": "Cadence",
-      "Ano de fabricação": "1900",
-      "Fabricante": "Cadence",
-      "Número da peça": "SAN400",
-      "País de origem": "China",
-      "Nome do Tipo de Produto": "Sanduicheira Grill",
-      "ASIN": "B0CDJ4L7CZ",
-      "Material": "Plástico",
-      "Características especiais": "Leve, Revestimento antiaderente",
-      "Potência": "750 watts",
-      "Voltagem": "127 Volts",
-      "Dimensões do item P x L x A": "22,3P x 21,5L x 7,8A centímetros",
-      "Peso do item": "1,31 Quilogramas",
-      "Cor": "Preto",
-      "Estilo": "Moderno",
-      "Tipo de garantia": "Limitada",
-      "Marca": "Cadence",
-      "Dimensões do produto": "22,3P x 21,5L x 7,8A centímetros"
-    },
-    "affiliate_url": "https://www.amazon.com.br/Sanduicheira-El%C3%A9trica-Cadence-Click-127V/dp/B0CDJ4L7CZ/ref=zg_bs_g_kitchen_d_sccl_2/146-4195612-0631345?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B09XFD2YMF",
-    "title": "Tramontina JOGO FACAS INOX 4PC PLENUS PRE, Preto",
-    "image": "https://m.media-amazon.com/images/I/71EvJYnDRYL._AC_SL1500_.jpg",
-    "canonical": null,
-    "category": "Cozinha",
-    "price_current": 29.9,
-    "price_original": 37.61,
-    "discount_percentage": 20.0,
-    "tem_selo_prime": false,
-    "tem_oferta": true,
-    "avaliacao": 4.9,
-    "qtd_avaliacoes": 12831,
-    "coupon_code": null,
-    "description": "<ul><li>Jogo de Facas Tramontina Plenus com Lâminas em Aço Inox e Cabos de Polipropileno Preto 04 Peças</li><li>Número de modelo: 23498064</li><li>Nome de modelo: PLENUS</li><li>Tipo de produto: HOME</li></ul>",
-    "informacoes_produto": {
-      "Nome da marca": "Tramontina",
-      "Fabricante": "Tramontina",
-      "Número do modelo": "23498051",
-      "Número da peça": "23498/064",
-      "Descrição da garantia": "12 meses com fabricante",
-      "País de origem": "Brasil",
-      "Nome do Tipo de Produto": "Faqueiro",
-      "Componentes incluídos": "23426007 - Faca Chef 7\" - 1 peça 23423006 - Faca para Cozinha 6\" - 1 peça 23420003 - Faca para Legumes e Frutas 3\" - 1 peça",
-      "ASIN": "B09XFD2YMF",
-      "Material da Lâmina": "Aço inoxidável",
-      "Material do cabo": "Polipropileno",
-      "O item pode ser lavado na máquina de lavar louça?": "Sim",
-      "Material": "Aço inoxidável",
-      "Comprimento da lâmina": "5 Centímetros",
-      "Peso do item": "210 Gramas",
-      "Comprimento do artigo": "2 Centímetros",
-      "Cor": "Preto",
-      "Cor da lâmina": "Inox",
-      "Lâmina afiada": "Plana",
-      "Tipo de construção": "Estampado",
-      "Material da lâmina": "Aço inoxidável",
-      "Marca": "Tramontina",
-      "Borda da lâmina": "Plana"
-    },
-    "affiliate_url": "https://www.amazon.com.br/Tramontina-JOGO-FACAS-PLENUS-Preto/dp/B09XFD2YMF/ref=zg_bs_g_kitchen_d_sccl_30/146-4195612-0631345?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B09CBXQFYY",
-    "title": "Electrolux Chaleira jarra eletrica desligamento automatico capacidade 1,8L facil abertura tampa alça ergometrica EEK10 inox 1",
-    "image": "https://m.media-amazon.com/images/I/5157j9NnlaL._AC_SL1000_.jpg",
-    "canonical": null,
-    "category": "Cozinha",
-    "price_current": 158.02,
-    "price_original": 169.9,
-    "discount_percentage": 6.0,
-    "tem_selo_prime": false,
-    "tem_oferta": true,
-    "avaliacao": 4.7,
-    "qtd_avaliacoes": 2378,
-    "coupon_code": null,
-    "description": "<ul><li>Capacidade Generosa: Jarra com 1,8 litros, ideal para preparar chás e receitas em grande quantidade.</li><li>Abertura Pop-Up: Tampa abre com um clique e permanece fechada com segurança, evitando acidentes.</li><li>Base 360°: Permite encaixe da jarra em qualquer ângulo, garantindo praticidade no uso.</li><li>Desligamento Automático: Aquece a água até 100°C e desliga automaticamente para maior segurança.</li><li>Design Sofisticado: Acabamento em aço inox escovado, trazendo modernidade para sua cozinha.</li></ul>",
-    "informacoes_produto": {
-      "Nome da marca": "Electrolux",
-      "Componentes incluídos": "Chaleira elétrica",
-      "País de origem": "China",
-      "Número do modelo": "5011AIBR408",
-      "Descrição da garantia": "1 ano com o fabricante",
-      "Fabricante": "Electrolux",
-      "Número da peça": "5011AIBR408",
-      "Nome do Tipo de Produto": "Chaleiras Elétricas",
-      "ASIN": "B09CBXQFYY",
-      "Características especiais": "Desligamento automático",
-      "Tipo de recipiente": "Chaleira",
-      "Voltagem": "127 Volts",
-      "Potência": "1200 watts",
-      "Capacidade": "1,8 litros",
-      "Dimensões do item C x L x A": "21,3C x 21,3L x 23,2A centímetros",
-      "Material": "Aço inoxidável",
-      "Instruções de cuidados com o produto": "Manual",
-      "Cor": "Aço inoxidável",
-      "Tipo de acabamento": "Escovado",
-      "Marca": "Electrolux"
-    },
-    "affiliate_url": "https://www.amazon.com.br/Chaleira-El%C3%A9trica-Electrolux-Efficient-EEK10/dp/B09CBXQFYY/ref=zg_bs_g_kitchen_d_sccl_5/146-4195612-0631345?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B0BLP86QT3",
-    "title": "Farinha de Trigo de 1 Kg, Tipo 1, Globo Superiore W300.",
-    "image": "https://m.media-amazon.com/images/I/61oZUBexZ7L._AC_SL1500_.jpg",
-    "canonical": null,
-    "category": "Cozinha",
-    "price_current": 5.49,
-    "price_original": 166.8,
-    "discount_percentage": null,
-    "tem_selo_prime": false,
-    "tem_oferta": true,
-    "avaliacao": 4.6,
-    "qtd_avaliacoes": 829,
-    "coupon_code": null,
-    "description": "<ul><li>Produto tipificado, com padrão constante de qualidade, especialmente desenvolvido para receitas de maior desempenho.</li><li>Rica em proteínas do glúten, proporciona massas mais resistentes, com melhor absorção de água e crescimento uniforme.</li><li>Massa mais extensível, sem necessidade de cilindrar, garantindo miolo macio e textura leve.</li><li>Proporciona um acabamento diferenciado ao produto final, mais claro e atrativo em comparação à farinha tradicional.</li><li>Indicada para pães especiais, massas doces, tortas, esfirras, salgados assados, panquecas e muito mais.</li></ul>",
-    "informacoes_produto": {
-      "Nome da marca": "Globo",
-      "Informações sobre alérgenos": "Contém: Aveia, Cereais contendo glúten, Cevada, Soja, Trigo",
-      "Fabricante": "Moinho Globo Alimentos S. A.",
-      "Número da peça": "A012",
-      "Número do modelo": "A012",
-      "Nome do Tipo de Produto": "Farinha de Trigo",
-      "País de origem": "Brasil",
-      "ASIN": "B0BLP86QT3",
-      "Peso do item": "1 Quilogramas",
-      "Peso do pacote": "1 Quilogramas",
-      "Quantidade de itens": "1",
-      "Contagem de unidades": "1000 grama",
-      "Tamanho": "Pequeno",
-      "Cor": "Branca",
-      "Marca": "Globo",
-      "Peso do produto": "1 Quilogramas",
-      "Peso da embalagem": "1 Quilogramas",
-      "Número de itens": "1"
-    },
-    "affiliate_url": "https://www.amazon.com.br/Farinha-Trigo-Tipo-Globo-Superiore/dp/B0BLP86QT3/ref=zg_bs_g_kitchen_d_sccl_7/146-4195612-0631345?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B0C4CF2F67",
-    "title": "Batedeira Planetária Oster Bowl Inox III - 127V",
-    "image": "https://m.media-amazon.com/images/I/51aQCAmwRLL._AC_SL1000_.jpg",
-    "canonical": null,
-    "category": "Cozinha",
-    "price_current": 415,
-    "price_original": 699.9,
-    "discount_percentage": null,
-    "tem_selo_prime": false,
-    "tem_oferta": true,
-    "avaliacao": 4.6,
-    "qtd_avaliacoes": 1903,
-    "coupon_code": null,
-    "description": "<ul><li>POTÊNCIA PROFISSIONAL: Motor de 850W garante desempenho ideal para preparar massas pesadas cremes e muito mais com consistência perfeita</li><li>CONTROLE TOTAL: Com 12 velocidades e partida suave oferece precisão e mistura homogênea sem respingos</li><li>ESTABILIDADE GARANTIDA: Ventosas de alta sucção na base proporcionam firmeza mesmo em receitas mais pesadas como pães</li><li>ESTABILIDADE GARANTIDA: Ventosas de alta sucção na base proporcionam firmeza mesmo em receitas mais pesadas como pães</li><li>DESIGN MODERNO: Acabamento em inox une estilo durabilidade e sofisticação para sua cozinha</li></ul>",
-    "informacoes_produto": {
-      "Nome da marca": "Oster",
-      "Nome do modelo": "BATEDEIRA PLANETÁRIA",
-      "Fabricante": "Oster",
-      "Descrição da garantia": "12 meses",
-      "Número do modelo": "OBAT641-127",
-      "Número da peça": "OBAT641-127",
-      "Componentes incluídos": "3 batedores dierentes, medidor",
-      "País de origem": "Brasil",
-      "Nome do Tipo de Produto": "BATEDEIRA PLANETÁRIA",
-      "ASIN": "B0C4CF2F67",
-      "Cor": "Prata",
-      "Características especiais": "Tigela removível",
-      "Voltagem": "110 Volts",
-      "Potência": "850 watts",
-      "Tipo de controles": "Knob",
-      "Nível de ruído": "75 Decibéis",
-      "Número de velocidades": "12",
-      "Dimensões do item P x L x A": "23,8P x 38,3L x 34,4A centímetros",
-      "Capacidade": "4 litros",
-      "Peso do item": "3,96 Quilogramas",
-      "Material": "Aço inoxidável",
-      "O item pode ser lavado na máquina de lavar louça?": "Não",
-      "Material de recipiente": "inox",
-      "Material da Lâmina": "aço inoxidável",
-      "Marca": "Oster",
-      "Dimensões do produto": "23,8P x 38,3L x 34,4A centímetros"
-    },
-    "affiliate_url": "https://www.amazon.com.br/Batedeira-Planet%C3%A1ria-Oster-Bowl-OBAT641/dp/B0C4CF2F67/ref=zg_bs_g_kitchen_d_sccl_9/146-4195612-0631345?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B07BB8NL42",
-    "title": "Heineken Cerveja Barril 5L",
-    "image": "https://m.media-amazon.com/images/I/71HEhcTxjvL._AC_SL1500_.jpg",
-    "canonical": null,
-    "category": "Cozinha",
-    "price_current": 112.56,
-    "price_original": 161.88,
-    "discount_percentage": null,
-    "tem_selo_prime": false,
-    "tem_oferta": true,
-    "avaliacao": 4.8,
-    "qtd_avaliacoes": 1216,
-    "coupon_code": null,
-    "description": "<ul><li>Conheça Heineken, a cerveja icônica desde 1873, feita com cevada, lúpulo e água</li><li>Cerveja Heineken é ideal para momentos entre amigos, na praia, no churrasco ou em encontros relaxantes</li><li>Celebre a vida com o sabor único e autêntico que um copo de cerveja Heineken traz</li><li>O barril Heineken 5 litros é perfeito para levar em uma reunião com amigos ou família, livre da preocupação de que a bebida pode acabar em algum momento</li><li>Conheça as versões lata, long neck, garrafa, barril Heineken 5 litros, cerveja sem alcool e as outras marcas de Heineken.</li></ul>",
-    "informacoes_produto": {
-      "Nome da marca": "Heineken",
-      "Tipo alcoólico": "Blended whiskey",
-      "Sabor": "Baunilha",
-      "Quantidade de itens": "1",
-      "Conteúdo alcoólico": "5 %",
-      "Descrição do conteúdo líquido": "Cerveja",
-      "Número de identificação de comércio internacional": "08712000025649",
-      "Número do modelo": "55002158",
-      "Número da peça": "55002158",
-      "Número da peça do item": "8712000025649",
-      "Fabricante": "Heineken II BR",
-      "ASIN": "B07BB8NL42",
-      "Contagem de unidades": "1 Unidade",
-      "Volume de líquido": "5000 Mililitros",
-      "Peso do item": "5 Quilogramas",
-      "Peso do pacote": "5,78 Quilogramas",
-      "Total de pacotes": "1",
-      "Volume do item": "5000 Mililitros",
-      "Informações sobre alérgenos": "Contém: Cevada",
-      "Marca": "Heineken",
-      "Tipo de álcool": "Blended whiskey",
-      "Número de itens": "1"
-    },
-    "affiliate_url": "https://www.amazon.com.br/Heineken-Cerveja-Keg-5L/dp/B07BB8NL42/ref=zg_bs_g_kitchen_d_sccl_15/146-4195612-0631345?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B0B726S9S3",
-    "title": "Fritadeira Oven Fryer 12L Oster 3 em 1-127V",
-    "image": "https://m.media-amazon.com/images/I/51SJbHCok6L._AC_SL1000_.jpg",
-    "canonical": null,
-    "category": "Cozinha",
-    "price_current": 509,
-    "price_original": 562.8,
-    "discount_percentage": 22.0,
-    "tem_selo_prime": false,
-    "tem_oferta": true,
-    "avaliacao": 4.8,
-    "qtd_avaliacoes": 4582,
-    "coupon_code": null,
-    "description": "<ul><li>Cor: Branco</li><li>A Fritadeira elétrica sem óleo Air Fryer 12L 1.800 Watts 3 em 1 - Oven Fryer da Oster é tudo o que você precisa para fazer refeições mais leves e saudáveis no dia a dia.</li><li>A Oven Fryer chega para completar seus momentos na cozinha. Multifunções e com capacidade ampliada, ela traz mais praticidade para a rotina em família, com ainda mais possibilidades de preparos rápidos e saudáveis.</li><li>Painel Touch</li><li>Função desidratar</li><li>Timer sonoro com desligamento automático.</li></ul>",
-    "informacoes_produto": {
-      "Características especiais": "Programável",
-      "Potência de saída": "1800 Watts",
-      "Potência": "1800 watts",
-      "Voltagem": "110 Volts",
-      "Método de controle": "Toque",
-      "Configuração mínima de temperatura": "40 Graus Celsius",
-      "Unidade de configuração de temperatura máxima": "200 Graus Celsius",
-      "Tecnologia de Fritura a Ar": "Fluxo de ar",
-      "Dimensões do item P x L x A": "34,7P x 39L x 42,8A centímetros",
-      "Capacidade": "12 litros",
-      "Peso do item": "5,9 Quilogramas",
-      "Tamanho": "único",
-      "Material": "Plástico, Vidro",
-      "Tem revestimento antiaderente": "Sim",
-      "O item pode ser lavado na máquina de lavar louça?": "Não",
-      "Instruções de cuidados com o produto": "não colocar na lava louças",
-      "Material interno": "Plástico, Vidro",
-      "Usos recomendados do produto": "Assar, Desidratar, Fritar",
-      "Nome da marca": "Oster",
-      "Número do modelo": "OFRT780-127V",
-      "Ano de fabricação": "1900",
-      "Configuração": "110 Volts",
-      "Descrição da garantia": "12 meses, contra defeito de fabricação",
-      "Fabricante": "Oster",
-      "Número da peça": "OFRT780-127V",
-      "Nome do Tipo de Produto": "FRITADEIRA ELÉTRICA",
-      "Componentes incluídos": "2 Assadores com fluxo de ar (Grade) + 1 Cesto rotativo + 1 Gancho para remover acessórios + 1 Espeto rotisserie + 1 Bandeja coletora + 1 Manual de instruções e um folheto de garantia e assistência técnica",
-      "País de origem": "China",
-      "ASIN": "B0B726S9S3",
-      "Cor": "Preto",
-      "Dimensões do produto": "34,7P x 39L x 42,8A centímetros"
-    },
-    "affiliate_url": "https://www.amazon.com.br/Fritadeira-forno-Oster-127V-OFRT780-127V/dp/B0B726S9S3/ref=zg_bs_g_kitchen_d_sccl_30/146-4195612-0631345?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B0D1S8ZFHT",
-    "title": "Ou Organizador Multiuso 8L Bege Linha Flow",
-    "image": "https://m.media-amazon.com/images/I/51yivWYCUsL._AC_SL1500_.jpg",
-    "canonical": null,
-    "category": "Móveis",
-    "price_current": 38.5,
-    "price_original": 158.8,
-    "discount_percentage": null,
-    "tem_selo_prime": false,
-    "tem_oferta": true,
-    "avaliacao": 4.8,
-    "qtd_avaliacoes": 747,
-    "coupon_code": null,
-    "description": "<ul><li>Organizador</li><li>Organizador multiuso para melhorar a organização e otimizar espaços em sua casa ou escritório</li><li>Design retangular de tamanho médio na cor bege, oferecendo uma aparência neutra e versátil</li></ul>",
-    "informacoes_produto": {
-      "Dimensões do item C x L x A": "34,6C x 22,4L x 21,5A centímetros",
-      "Contagem de unidades": "1.0 unidade",
-      "Capacidade": "8 litros",
-      "Cor": "Bege",
-      "Tipo de acabamento": "Polipropileno (PP), Bambu",
-      "Material": "Bambu, Polipropileno (PP)",
-      "O item pode ser lavado na máquina de lavar louça?": "Não",
-      "Nome da marca": "OU",
-      "Fabricante": "Ou",
-      "Número do modelo": "OMW100BGF",
-      "Número da peça": "OMW100BGF",
-      "Nome do Tipo de Produto": "Cesto",
-      "ASIN": "B0D1S8ZFHT",
-      "Dimensões do produto": "34,6C x 22,4L x 21,5A centímetros",
-      "Marca": "OU"
-    },
-    "affiliate_url": "https://www.amazon.com.br/Organizador-Multiuso-Bege-Linha-Flow/dp/B0D1S8ZFHT/ref=zg_bs_g_furniture_d_sccl_30/146-4195612-0631345?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B0B5S9HH3X",
-    "title": "Banqueta Plástica Dobrável, Cinza, Altura 220 Mm, Vonder.",
-    "image": "https://m.media-amazon.com/images/I/51p+xvfhDZL._AC_SL1000_.jpg",
-    "canonical": null,
-    "category": "Móveis",
-    "price_current": 51.21,
-    "price_original": 70.43,
-    "discount_percentage": 27.0,
-    "tem_selo_prime": false,
-    "tem_oferta": true,
-    "avaliacao": 4.8,
-    "qtd_avaliacoes": 806,
-    "coupon_code": null,
-    "description": "<ul><li>Antiderrapante, dobrável e com alça para transporte (fechada).</li><li>Banqueta dobrável com pés antiderrapantes, facilitando o armazenamento e garantindo estabilidade durante o uso.</li><li>Feita de plástico resistente, com formato quadrado e acabamento na cor cinza, ideal para diversos ambientes.</li></ul>",
-    "informacoes_produto": {
-      "Dimensões do item P x L x A": "30P x 35L x 22A centímetros",
-      "Altura máxima": "220 Milímetros",
-      "Profundidade do item": "220 millimeters",
-      "Características especiais": "Dobrável, Pés antiderrapantes",
-      "É dobrável": "Sim",
-      "Tipo de base": "Plástica",
-      "Cor": "Cinza",
-      "Tipo de sala": "Banheiro",
-      "Estilo": "assento",
-      "Exige montagem": "Não",
-      "Material": "Plástico",
-      "Nome da marca": "VONDER",
-      "Nome do modelo": "Banqueta Dobrável, Cinza, Vonder.",
-      "Número da peça": "1",
-      "Número do modelo": "1",
-      "Nome do Tipo de Produto": "Banqueta Plástica Dobrável",
-      "Descrição da garantia": "3 meses",
-      "Componentes incluídos": "1 Banqueta dobrável.",
-      "Fabricante": "Vonder",
-      "País de origem": "China",
-      "ASIN": "B0B5S9HH3X",
-      "Dimensões do produto": "30P x 35L x 22A centímetros",
-      "Marca": "VONDER"
-    },
-    "affiliate_url": "https://www.amazon.com.br/Banqueta-Pl%C3%A1stico-Dobr%C3%A1vel-Vonder-220mm/dp/B0B5S9HH3X/ref=zg_bs_g_furniture_d_sccl_1/146-4195612-0631345?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B0FN6DFPFJ",
-    "title": "Suporte para Notebook em Aço Carbono Apoio Ajustável Apoiador Dobrável E Ergonômico Ventilado para Mac Notebook MacBook Pro/A",
-    "image": "https://m.media-amazon.com/images/I/61mmX+0WWNL._AC_SL1024_.jpg",
-    "canonical": null,
-    "category": "Móveis",
-    "price_current": 79.9,
-    "price_original": 349.9,
-    "discount_percentage": null,
-    "tem_selo_prime": false,
-    "tem_oferta": true,
-    "avaliacao": 4.5,
-    "qtd_avaliacoes": 190,
-    "coupon_code": null,
-    "description": "<ul><li>✅ Ergonomia Profissional para Longas Jornadas Adote uma postura correta com ajuste total de altura e inclinação (0° a 90°), reduzindo dores nas costas, pescoço e ombros. Ideal para home office, estudos, escritórios e uso contínuo.</li><li>✅ Compatibilidade Total com Dispositivos (10\" a 17,3\") Suporte universal compatível com MacBook, Dell, HP, Lenovo, ASUS, Acer, Surface, Chromebook e tablets — atende notebooks de 10 até 17,3 polegadas com total estabilidade.</li><li>✅ Construção Robusta e Ultra Resistente (até 15kg) Fabricado em liga de alumínio premium, suporta peso elevado sem oscilar. Estrutura reforçada e ganchos com proteção de silicone antiderrapante garantem segurança máxima para seu notebook.</li><li>✅ Design Dobrável e Portátil com Alça Integrada Leve, compacto e dobrável, ideal para quem precisa de mobilidade. Perfeito para levar na mochila e trabalhar com conforto em qualquer lugar: casa, coworking ou viagens.</li><li>✅ Sistema Avançado de Ventilação com Alta Performance Design vazado e estrutura elevada que favorece o fluxo de ar e evita o superaquecimento — mantém seu notebook refrigerado mesmo durante horas de uso intenso.</li><li>✅ Estabilidade Imbatível com Base Antiderrapante Pés emborrachados e base antiderrapante evitam qualquer deslizamento, mesmo durante a digitação. Firmeza e segurança garantidas para qualquer superfície.</li><li>✅ Acabamento Premium com Visual Moderno e Sofisticado Detalhes refinados, bordas arredondadas e estrutura metálica escovada criam um visual elegante que valoriza qualquer setup de trabalho ou estudo.</li><li>✅ Ideal para Multiuso Profissional e Doméstico Use como suporte para tablets, livros, cardápios, projetores, revistas e até partituras — versatilidade para escritório, sala de aula, cozinha e estúdio.</li><li>✅ Facilidade de Armazenamento e Organização Libere espaço na sua mesa com um suporte que se dobra em segundos, mantendo o ambiente limpo, organizado e mais produtivo.</li><li>✅ Presente Inteligente e Funcional para Qualquer Ocasião Excelente opção para surpreender amigos, familiares ou colegas com um acessório útil, moderno e essencial para o dia a dia digital.</li></ul>",
-    "informacoes_produto": {
-      "Fator de forma": "Suporte de mesa",
-      "Dispositivos compatíveis": "Notebooks, Tablets",
-      "Tipo de montagem": "Sobre a mesa",
-      "Usos recomendados do produto": "Mesa",
-      "Comprimento Ajustável": "Sim",
-      "Contagem de unidades": "1 Unidade",
-      "Material": "Alumínio",
-      "Nome da marca": "Genérico",
-      "Quantidade de itens": "1",
-      "Número da peça": "001",
-      "Componentes incluídos": "Suporte",
-      "Descrição da garantia": "30 dias",
-      "País de origem": "China",
-      "Fabricante": "Importado",
-      "ASIN": "B0FN6DFPFJ",
-      "Marca": "Genérico"
-    },
-    "affiliate_url": "https://www.amazon.com.br/Notebook-Ajust%C3%A1vel-Apoiador-Ergon%C3%B4mico-Ventilado/dp/B0FN6DFPFJ/ref=zg_bs_g_furniture_d_sccl_22/146-4195612-0631345?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B089Y7F6GR",
-    "title": "Mesa para Escritório Office Estilo Industrial 1,20m, Compace, Kuadra, Nogal/Est. Preta",
-    "image": "https://m.media-amazon.com/images/I/71r8agSoJbL._AC_SL1000_.jpg",
-    "canonical": null,
-    "category": "Móveis",
-    "price_current": 270.38,
-    "price_original": 293.91,
-    "discount_percentage": null,
-    "tem_selo_prime": false,
-    "tem_oferta": true,
-    "avaliacao": 4.6,
-    "qtd_avaliacoes": 4145,
-    "coupon_code": null,
-    "description": "<ul><li>Mesa kuadra office 120x60x75cm acetinado / est.preta</li><li>Marca reconhecida</li><li>Fabricado com muito cuidado e atenção aos detalhes</li><li>Feito com materiais de qualidade</li></ul>",
-    "informacoes_produto": {
-      "Formato do item": "Retangular",
-      "Design da mesa": "Escrivaninha",
-      "Cor": "Nogal / Est. Preta",
-      "Estilo": "Industrial",
-      "Tipo de acabamento": "Bp Acetinado",
-      "Acabamento do móvel": "Nogal",
-      "Cor da parte superior": "Nogal",
-      "Cor da base": "Nogal/Est. Preta",
-      "Dimensões do item P x L x A": "60P x 120L x 75A centímetros",
-      "Peso do item": "14,32 Quilogramas",
-      "Tamanho": "120 cm x 60 cm x 75 cm",
-      "Espessura do tampo da mesa": "75 Centímetros",
-      "Altura mínima": "75 Centímetros",
-      "Comprimento Diagonal da Superfície de Trabalho": "134,1 Centímetros",
-      "Altura máxima": "75 Centímetros",
-      "Dimensões do artigo": "120 x 60 x 75 centímetros",
-      "Profundidade do item": "60 centímetros",
-      "Características especiais": "MDP",
-      "Tipo de base": "Perna",
-      "Tipo de junta da estrutura": "pernas",
-      "É personalizável?": "Não",
-      "É alimentado por energia elétrica?": "Não",
-      "Tipo de montagem": "Montagem no chão",
-      "Nome da marca": "Compace",
-      "Tipo de sala": "Escritório",
-      "Usos recomendados do produto": "Escrivaninha",
-      "Componentes incluídos": "1 Mesa",
-      "Pontuação do Produto": "Comercial",
-      "Número do modelo": "KUME6120.EP",
-      "Nome do modelo": "Kuadra",
-      "País de origem": "Brasil",
-      "Descrição da garantia": "6 meses de garantia contra defeitos de fabricação",
-      "Fabricante": "Compace",
-      "Número da peça": "KUME6120.EP",
-      "Nome do Tipo de Produto": "Mesa",
-      "ASIN": "B089Y7F6GR",
-      "Material da base": "Aço",
-      "Top Material Type": "Nogal",
-      "Instruções de cuidados com o produto": "Limpe com pano úmido e evite contato com objetos afiados ou abrasivos",
-      "Frame Material Type": "Liga de aço",
-      "Material": "MDP",
-      "Exige montagem": "Sim",
-      "Tipo de garantia": "Limitada",
-      "Inclui Todas as Ferramentas de Montagem": "Não",
-      "Marca": "Compace",
-      "Forma": "Retangular",
-      "Design de mesa": "Escrivaninha",
-      "Dimensões do produto": "60P x 120L x 75A centímetros",
-      "Tipo de material da parte superior": "Nogal"
-    },
-    "affiliate_url": "https://www.amazon.com.br/Escrit%C3%B3rio-Office-Estilo-Industrial-Kuadra/dp/B089Y7F6GR/ref=zg_bs_g_furniture_d_sccl_25/146-4195612-0631345?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B089Y4SNJZ",
-    "title": "Mesa de Escritório em L Estilo Industrial 1,50mX1,50m Kuadra, Compace, Preto Ônix/Est.Preta",
-    "image": "https://m.media-amazon.com/images/I/31RU-AWsqOL._AC_SL1000_.jpg",
-    "canonical": null,
-    "category": "Móveis",
-    "price_current": 441.49,
-    "price_original": 2197,
-    "discount_percentage": null,
-    "tem_selo_prime": false,
-    "tem_oferta": true,
-    "avaliacao": 4.6,
-    "qtd_avaliacoes": 8269,
-    "coupon_code": null,
-    "description": "<ul><li>Mesa em L Kuadra Diretor 150X150X75cm Amadeirado / Est.Preta</li><li>Marca: Compace</li></ul>",
-    "informacoes_produto": {
-      "Formato do item": "Retangular",
-      "Design da mesa": "Escrivaninha",
-      "Cor": "Preto Ônix / Est.Preta",
-      "Estilo": "Industrial",
-      "Tipo de acabamento": "Bp Acetinado",
-      "Acabamento do móvel": "BP Acetinado",
-      "Cor da parte superior": "Preto Ônix / Est.Preta",
-      "Cor da base": "Preto Ônix / Est.Preta",
-      "Dimensões do item P x L x A": "150P x 150L x 75A centímetros",
-      "Peso do item": "24,56 Quilogramas",
-      "Tamanho": "150X150X75cm",
-      "Espessura do tampo da mesa": "75 Centímetros",
-      "Altura mínima": "75 Centímetros",
-      "Comprimento Diagonal da Superfície de Trabalho": "212,1 Centímetros",
-      "Altura máxima": "75 Centímetros",
-      "Dimensões do artigo": "150 x 150 x 75 centímetros",
-      "Profundidade do item": "75 centímetros",
-      "Material da base": "Madeira",
-      "Top Material Type": "Madeira",
-      "Material para Pernas de Móveis": "Madeira",
-      "Frame Material Type": "Madeira",
-      "Material": "MDP",
-      "Exige montagem": "Sim",
-      "Tipo de garantia": "Limitada",
-      "Inclui Todas as Ferramentas de Montagem": "Não",
-      "Descrição das Instruções de Montagem": "Instruções de montagem básicas incluídas",
-      "Nome da marca": "Compace",
-      "Características especiais": "MDP",
-      "Tipo de sala": "Escritório",
-      "Usos recomendados do produto": "Jogar",
-      "Componentes incluídos": "Tampo da Mesa e Estrutura de Aço",
-      "Pontuação do Produto": "novo",
-      "Número do modelo": "KUML6150.EP",
-      "Nome do modelo": "Mesa Kuadra",
-      "País de origem": "Brasil",
-      "Descrição da garantia": "6 meses contra defeitos de fabricação",
-      "Fabricante": "Compace",
-      "Nome do Conjunto": "Kuadra",
-      "Número da peça": "KUML6150.EP",
-      "Nome do Tipo de Produto": "Mesa",
-      "Contagem de unidades": "1 Unidade",
-      "ASIN": "B089Y4SNJZ",
-      "Tipo de base": "Perna",
-      "Tipo de junta da estrutura": "união de canto",
-      "Acabamento Posterior": "Não",
-      "Configuração do Armário": "Embutido",
-      "É personalizável?": "Não",
-      "É alimentado por energia elétrica?": "Não",
-      "Tipo de montagem": "Montagem no chão",
-      "Marca": "Compace",
-      "Forma": "Retangular",
-      "Design de mesa": "Escrivaninha",
-      "Dimensões do produto": "150P x 150L x 75A centímetros",
-      "Tipo de material da parte superior": "Madeira"
-    },
-    "affiliate_url": "https://www.amazon.com.br/Mesa-Escrit%C3%B3rio-Estilo-Industrial-Kuadra/dp/B089Y4SNJZ/ref=zg_bs_g_furniture_d_sccl_26/146-4195612-0631345?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B0GMY41LM8",
-    "title": "Smartphone Motorola Edge 70 5G Crystals by Swarovski - 512GB 24GB (12GB RAM + 12GB RAM Boost), Ultrafino, 3 cameras 50MP e te",
-    "image": "https://m.media-amazon.com/images/I/61LyzNkloEL._AC_SL1200_.jpg",
-    "canonical": null,
-    "category": "Celulares e Smartphones",
-    "price_current": 4045.89,
-    "price_original": 5999,
-    "discount_percentage": 36.0,
-    "tem_selo_prime": false,
-    "tem_oferta": true,
-    "avaliacao": 4.7,
-    "qtd_avaliacoes": 65,
-    "coupon_code": null,
-    "description": "<ul><li>O smartphone mais fino e ultrarresistente da categoria*</li><li>O único ultrafino com 3 câmeras de 50 MP*</li><li>A maior bateria em um ultrafino*</li><li>Tela Extreme AMOLED mais brilhante com cores Pantone Validated*</li><li>Desempenho potente em um design ultrafino</li></ul>",
-    "informacoes_produto": {
-      "Sistema operacional": "Android 16",
-      "Memória RAM instalada": "12 GB",
-      "Modelo da CPU": "Snapdragon 865",
-      "Capacidade de armazenamento da memória": "512 GB",
-      "Cor": "Cloud Dancer",
-      "Contagem de slots do cartão SIM": "Dual SIM",
-      "Tipo de conector": "USB tipo C",
-      "Fator de forma": "Barra",
-      "Funcionalidade de segurança biométrica": "Desbloqueio Facial, Impressão Digital na tela",
-      "Tamanho do cartão SIM": "Nano",
-      "Tamanho máximo suportado pela memória flash": "512 GB",
-      "Resolução do sensor fotográfico frontal": "50 MP",
-      "Resolução do sensor fotográfico traseiro da câmara": "50 MP",
-      "Número de câmaras traseiras": "3",
-      "Capacidade da bateria": "4800 Milliamp Hours",
-      "Potência da bateria": "4800",
-      "Dimensões do artigo": "5,3 x 8,6 x 16,9 centímetros",
-      "Resolução efetiva de vídeo": "50 MP",
-      "Tamanho da tela": "6,7 Polegadas",
-      "Taxa de atualização": "120",
-      "Tipo de tela": "Super HD",
-      "Provedor de serviços sem fio": "Todas as Operadoras",
-      "Tecnologia de celular": "5G",
-      "Tecnologia de conectividade": "5G",
-      "Nome da marca": "Motorola",
-      "Ano do modelo": "2026",
-      "País de origem": "Brasil",
-      "Componentes incluídos": "01 CABO USB-C/ USB-C, 01 CARREGADOR TURBOPOWER™ 68 W, 01 FERRAMENTA DE REMOÇÃO DO CHIP, 01 MANUAL, 01 Telefone",
-      "Descrição da garantia": "12 Meses",
-      "Fabricante": "Motorola",
-      "Usos específicos do produto": "fotografia móvel, jogos, entretenimento",
-      "Contagem de unidades": "1 unidade",
-      "Certificação de teste externa": "ANATEL: 05213-25-00330/ Modelo: XT2601-3",
-      "ASIN": "B0GMY41LM8",
-      "Marca": "Motorola",
-      "Tamanho instalado da memória RAM": "12 GB"
-    },
-    "affiliate_url": "https://www.amazon.com.br/Smartphone-Motorola-Edge-Crystals-Swarovski/dp/B0GMY41LM8/ref=zg_bs_g_16243890011_d_sccl_26/146-4195612-0631345?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B0DYVPCX34",
-    "title": "Smartphone Samsung Galaxy A56 5G 256GB, 8GB RAM, Câmera 50MP, IP67, Super AMOLED 6.7\", Recursos AI, Preto",
-    "image": "https://m.media-amazon.com/images/I/51SVg0X6BzL._AC_SL1080_.jpg",
-    "canonical": null,
-    "category": "Celulares e Smartphones",
-    "price_current": 2199,
-    "price_original": null,
-    "discount_percentage": null,
-    "tem_selo_prime": false,
-    "tem_oferta": true,
-    "avaliacao": 4.8,
-    "qtd_avaliacoes": 5025,
-    "coupon_code": null,
-    "description": "<ul><li>Feito para Durar: até 6 atualizações de Android e Segurança</li><li>Tela imersiva de 6.7\" Super AMOLED com Vision Booster</li><li>Resistente à água e poeira com IP67</li><li>Câmera com recursos de AI e Nightography / Circule para Pesquisar no Google</li><li>Bateria de 5000 mAh e carregamento rápido de até 45W</li></ul>",
-    "informacoes_produto": {
-      "Sistema operacional": "Android 15.0",
-      "Memória RAM instalada": "8 GB",
-      "Modelo da CPU": "Others",
-      "Velocidade da CPU": "3,4 GHz",
-      "Capacidade de armazenamento da memória": "256 GB",
-      "Cor": "Preto",
-      "Contagem de slots do cartão SIM": "Dual SIM",
-      "Tipo de conector": "USB tipo C",
-      "Fator de forma": "Deslizante",
-      "Funcionalidade de segurança biométrica": "Leitor de impressão digital, Reconhecimento Facial",
-      "Tamanho do cartão SIM": "Nano",
-      "Nível de resistência à água": "Resistente à água",
-      "Características especiais": "Dual SIM, GPS integrado, Resistente à Água, Suporte de carregamento rápido",
-      "Tamanho máximo suportado pela memória flash": "256 GB",
-      "Resolução do sensor fotográfico frontal": "12 MP",
-      "Resolução do sensor fotográfico traseiro da câmara": "12.0, 5.0, 50.0 MP",
-      "Descrição da câmera": "Frontal, Traseira",
-      "Número de câmaras traseiras": "3",
-      "Número de Câmeras Frontais": "1",
-      "Capacidade da bateria": "5000 Milliamp Hours",
-      "Potência da bateria": "5000.0",
-      "Peso do item": "198 Gramas",
-      "Dimensões do artigo": "16,2 x 7,7 x 0,7 centímetros",
-      "GPS": "Verdadeiro",
-      "Tamanho da tela": "6,7 Polegadas",
-      "Resolução": "1080 x 2340",
-      "Taxa de atualização": "120 Hz",
-      "Tipo de tela": "AMOLED",
-      "Resolução máxima da tela": "2340x1080",
-      "Densidade do pixel de exibição": "385 Pixels por polegada (PPI)",
-      "Provedor de serviços sem fio": "Todas as Operadoras",
-      "Tecnologia de celular": "5G",
-      "Tecnologia de conectividade": "Bluetooth, USB, Wi-fi",
-      "Tecnologia de rede sem fios": "Bluetooth, Wi-Fi",
-      "Nome da marca": "Samsung",
-      "Ano do modelo": "2025",
-      "Componentes incluídos": "Adaptador de alimentação, Cabo USB, Ejetor da bandeja SIM",
-      "Descrição da garantia": "12 meses com o Fabricante",
-      "Fabricante": "Samsung",
-      "Usos específicos do produto": "Fotografia, Telefonar",
-      "Certificação de teste externa": "ANATEL: 107622400953 / Modelo: SM-A566E/DS",
-      "ASIN": "B0DYVPCX34",
-      "Resolução efetiva de vídeo": "1080 Pixels",
-      "Resolução de captura de vídeo": "30fps, 60fps",
-      "Taxa de quadros": "30fps, 60fps",
-      "Marca": "Samsung",
-      "Tamanho instalado da memória RAM": "8 GB"
-    },
-    "affiliate_url": "https://www.amazon.com.br/Smartphone-Samsung-Galaxy-C%C3%A2mera-Recursos/dp/B0DYVPCX34/ref=zg_bs_g_16243890011_d_sccl_29/146-4195612-0631345?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B0FLFWP47Z",
-    "title": "Combo Teclado e Mouse Sem Fio Logitech MK250 Bluetooth com Conectividade Rápida e Fácil, Design Compacto, Mouse Ambidestro, L",
-    "image": "https://m.media-amazon.com/images/I/618iLr2V14L._AC_SL1500_.jpg",
-    "canonical": null,
-    "category": "Computadores e Informática",
-    "price_current": 139.99,
-    "price_original": 169.9,
-    "discount_percentage": 17.0,
-    "tem_selo_prime": false,
-    "tem_oferta": true,
-    "avaliacao": 4.7,
-    "qtd_avaliacoes": 959,
-    "coupon_code": null,
-    "description": "<ul><li>Conecte em segundos: Tecnologia sem fio Bluetooth rápida e fácil — com o Pair and Play, faça o pareamento deste combo de teclado e mouse sem fio Logitech sem a necessidade de uma porta USB</li><li>Durável e confiável: Desenvolvido para oferecer qualidade, o teclado Bluetooth do MK250 oferece teclas duradouras, um design resistente a derramamentos*</li><li>O conforto é o fundamental. Seu mouse possui formato ambidestro suave, que guia a mão para uma posição natural, e seu o teclado conta com teclas de perfil profundo e um design de inclinação ajustável proporcionando uma ótima sensação de digitação</li><li>Compacto e completo: Com um mouse pequeno o suficiente para ser colocado em uma bolsa e um teclado com um layout compacto, sem abrir mão do teclado numérico, teclas de seta e atalhos práticos da tecla F</li><li>Duração da bateria sem preocupações: aproveite 12 meses de uso diário antes de trocar as pilhas**</li></ul>",
-    "informacoes_produto": {
-      "Tecnologia de conectividade": "Bluetooth",
-      "Características especiais": "Resistente a derramamentos",
-      "Dispositivos compatíveis": "Computador pessoal, Notebook, Tablet",
-      "Deteção de movimento": "Ótico",
-      "Suporte para cor de retroiluminação do teclado": "Cor única",
-      "Baterias são necessárias?": "Sim",
-      "Fonte de energia": "Alimentado a bateria",
-      "Disposição do teclado": "QWERTY",
-      "Tipo de bateria": "3 AAA baterias necessárias. (inclusas)",
-      "Família de Sistema Operacional Compatível": "Windows",
-      "Orientação de uso": "Ambidestro",
-      "Sistema operacional": "Windows 10, 11 ou superior , Chrome OS",
-      "Quantidade de teclas": "1",
-      "Cor": "Grafite",
-      "Peso do item": "720 Gramas",
-      "Nome da marca": "Logitech",
-      "Descrição do teclado": "Membrana",
-      "Usos recomendados do produto": "general computing, office work",
-      "Fabricante": "Logitech",
-      "Contagem de unidades": "1 unidade",
-      "UPC": "097855204769",
-      "Número do modelo": "920-013516",
-      "Número da peça": "920-013516",
-      "Descrição da garantia": "12 Meses",
-      "País de origem": "China",
-      "ASIN": "B0FLFWP47Z",
-      "Marca": "Logitech"
-    },
-    "affiliate_url": "https://www.amazon.com.br/Logitech-Conectividade-Ambidestro-Constru%C3%A7%C3%A3o-Compat%C3%ADvel/dp/B0FLFWP47Z/ref=zg_bs_g_computers_d_sccl_30/146-4195612-0631345?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B098K3H92Z",
-    "title": "Adaptador Bluetooth 5.3 TP-Link UB500 Nano USB para Windows",
-    "image": "https://m.media-amazon.com/images/I/51XzimFS-pL._AC_SL1000_.jpg",
-    "canonical": null,
-    "category": "Computadores e Informática",
-    "price_current": 52.91,
-    "price_original": 64,
-    "discount_percentage": 17.0,
-    "tem_selo_prime": false,
-    "tem_oferta": true,
-    "avaliacao": 4.8,
-    "qtd_avaliacoes": 58630,
-    "coupon_code": null,
-    "description": "<ul><li>【Bluetooth 5.3】: Desfrute do novo Bluetooth 5.3. Retro compatível com as versões 4.0/3.0/2.1/2.0/1.1 para você conectar dispositivos novos e antigos.</li><li>【Alta compatibilidade】: Conecte todos seus dispositivos - como fones de ouvido, controles, smartphones e muito mais com Bluetooth 5.3!</li><li>【Tamanho Nano】: Design compacto para maior portabilidade e conveniência, mantendo um excelente desempenho.</li><li>【Compatível com Sistema Operacional】: Windows 11/10/8.1/7</li><li>【Conexão estável】: compatível com a maioria dos dispositivos bluetooth no mercado.</li><li>【Garantia】: 2 anos para defeitos de fabricação</li><li>【Dica do Fabricante】: Desative quaisquer dispositivos internos de Bluetooth antes de usar o TP-Link UB500, para evitar conflitos de driver e desfrutar de uma experiência impecável.</li></ul>",
-    "informacoes_produto": {
-      "Interface de hardware": "Bluetooth",
-      "Dispositivos compatíveis": "Controles de Videogame Bluetooth, Fone de ouvido, Impressora, Smartphone, Teclados e Mouse Bluetooth",
-      "Protocolo de link de dados": "Bluetooth 5.3, USB",
-      "Taxa de transferência de dados": "2 Megabits Per Second",
-      "Dimensões do item C x L x A": "15C x 7L x 19A milímetros",
-      "Peso do item": "30 Gramas",
-      "Cor": "Preto e Cobre",
-      "Nome da marca": "TP-Link",
-      "Número de identificação de comércio internacional": "04897098683446",
-      "Fabricante": "TP-LINK",
-      "Certificação de teste externa": "Não aplicável",
-      "Componentes incluídos": "Adaptador Nano Bluetooth 5.0 UB500, Guia de instalação rápida",
-      "Nome do Tipo de Produto": "Adaptador Bluetooth 5.0",
-      "Número do modelo": "UB500",
-      "Número da peça": "UB500",
-      "Descrição da garantia": "1 ano",
-      "ASIN": "B098K3H92Z",
-      "Marca": "TP-Link",
-      "Dimensões do produto": "15C x 7L x 19A milímetros"
-    },
-    "affiliate_url": "https://www.amazon.com.br/TP-Link-ADAPTADOR-BLUETOOTH-UB500-Preto/dp/B098K3H92Z/ref=zg_bs_g_computers_d_sccl_3/146-4195612-0631345?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B0D6NLHV8N",
-    "title": "JBL, Fone de Ouvido Com Fio, Quantum 100M2, Headset Gamer, Over Ear, Microfone Removível - Preto",
-    "image": "https://m.media-amazon.com/images/I/61KmVBD4ZfL._AC_SL1500_.jpg",
-    "canonical": null,
-    "category": "Computadores e Informática",
-    "price_current": 175.65,
-    "price_original": 219,
-    "discount_percentage": 44.0,
-    "tem_selo_prime": false,
-    "tem_oferta": true,
-    "avaliacao": 4.7,
-    "qtd_avaliacoes": 7724,
-    "coupon_code": null,
-    "description": "<ul><li>SOM PROFISSIONAL. Com a tecnologia JBL QuantumSOUND Signature, o JBL Quantum 100M2 coloca você no centro da ação para escutar os menores detalhes e sentir cada explosão, proporcionando uma experiência de som realista.</li><li>FEITO PARA LONGAS SESSÕES. O headset possui almofadas auriculares leves feitas com tecido respirável e espuma de memória, com haste leve que garante muitas horas de jogo com total conforto.</li><li>FOCO NA SUA VOZ. Com o microfone removível e direcional do JBL Quantum 100M2, suas comunicações em multiplayer serão sempre claras e nítidas, graças ao recurso de mudo que permite controlar suas conversas com facilidade.</li><li>WINDOWS SONIC SPATIAL SOUND. Totalmente compatível com o sistema de som surround nativo dos PCs com Windows 10 e consoles Xbox ONE, o JBL Quantum 100M2 oferece uma experiência de som envolvente e de alta qualidade.</li><li>PARA TODAS AS PLATAFORMAS. O JBL Quantum 100M2 é compatível com várias plataformas via conector de 3,5 mm, incluindo PC, PlayStation, Xbox, Nintendo Switch, dispositivos móveis, Mac e VR.</li></ul>",
-    "informacoes_produto": {
-      "Nome da marca": "JBL",
-      "Número do modelo": "JBLQTUM100M2BLK",
-      "Nome do modelo": "Headset Quantum",
-      "Componentes incluídos": "1 x Headset Quantum 100 M2, 1x Certificado de garantia, 1x Cartão de advertência, 1x Espuma para microfone tipo Boom, 1x Guia de ínicio rápido, 1x Microfone destacável",
-      "Descrição da faixa etária": "Adulto, Juvenil",
-      "Descrição da garantia": "12 Meses pelo fabricante",
-      "Quantidade de itens": "1",
-      "Número de série": "100",
-      "Número de identificação de comércio internacional": "01200130015519",
-      "Fabricante": "JBL",
-      "Certificação de teste externa": "Não Aplicável",
-      "É autografado": "Não",
-      "ASIN": "B0D6NLHV8N",
-      "Cor": "Preto",
-      "Peso do item": "2,2 Gramas",
-      "Contagem de unidades": "1 Unidades",
-      "Impedância": "32 Ohms",
-      "Controle de ruído": "Isolamento de som",
-      "Tipo de controlador de áudio": "Controlador dinâmico",
-      "Alcance de frequência": "20 Hz a 20 kHz",
-      "Material": "Tecido e espuma de memória",
-      "Usos específicos do produto": "Jogos",
-      "Dispositivos compatíveis": "Computadores, Consoles de jogos, Smartphones, Tablets",
-      "Nível de resistência à água": "Não resistente à água",
-      "Características especiais": "Microfone incluso",
-      "Entrada de fone de ouvido": "Jack de 3,5 mm",
-      "Tecnologia de conectividade": "Com fio",
-      "Colocação de auscultadores na orelha": "Circumaurais",
-      "Formato dos fones de ouvido": "Extra-auriculares",
-      "Forma do auricular": "over-ear cups",
-      "Método de controle": "Remoto",
-      "Marca": "JBL",
-      "Colocação na orelha": "Circumaurais",
-      "Fator de forma dos fones de ouvido": "Extra-auriculares"
-    },
-    "affiliate_url": "https://www.amazon.com.br/JBL-Fone-Ouvido-Com-JBLQTUM100M2BLK/dp/B0D6NLHV8N/ref=zg_bs_g_computers_d_sccl_27/146-4195612-0631345?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B08HM6TLXM",
-    "title": "Cabo USB-C em nylon 1,5 m EUAC 15NB Branco Intelbras",
-    "image": "https://m.media-amazon.com/images/I/51psiydEG3L._AC_SL1000_.jpg",
-    "canonical": null,
-    "category": "Computadores e Informática",
-    "price_current": 23.66,
-    "price_original": 39.9,
-    "discount_percentage": 40.0,
-    "tem_selo_prime": false,
-    "tem_oferta": true,
-    "avaliacao": 4.8,
-    "qtd_avaliacoes": 6927,
-    "coupon_code": null,
-    "description": "<ul><li>Carregue e sincronize dados dos seus dispositivos.</li><li>Projetado e testado para garantir o melhor desempenho e durabilidade, possui 1,5 metros de comprimento para oferecer maior comodidade no uso com smartphones, tablets, computadores, fones de ouvido sem fio, controles de videogame e outros dispositivos compatíveis. O revestimento em nylon trançado garante maior resistência diante das exigências do dia a dia.</li><li>Velocidade de carregamento até 3,0 A (15 W)*, transferência de dados até 480 Mbps.</li><li>Revestimento em nylon traçado maleável e resistente.</li></ul>",
-    "informacoes_produto": {
-      "Tipo de conector": "USB tipo C",
-      "Tipo de cabo": "USB",
-      "Dispositivos compatíveis": "Smartphones Android com por USB-C",
-      "Características especiais": "Bitola de cabo 22AWG para melhor condutividade elétrica, Corrente máxima de 3,0 A, Para uso em dispositvos com conector USB-C, Revestimento em nylon trançado maleável e resistente",
-      "Modelos de telefone compatíveis": "No Compatible Phone Models",
-      "Adaptador do conector": "Macho-macho",
-      "Número de pinos": "24",
-      "Corrente máxima": "3 Amperes",
-      "Tensão máxima": "20 Volts",
-      "Usos recomendados do produto": "Carregamento e sincronização de dados",
-      "Utilização interior, exterior": "Área interna",
-      "Item Weight": "1,1 Onças",
-      "Quantidade de itens": "1",
-      "Cor": "branco",
-      "Formato do item": "Redondo",
-      "Brand Name": "intelbras",
-      "País de origem": "China",
-      "Nome do modelo": "EUAC 15NB",
-      "Model Number": "4830067",
-      "Comprimento do artigo": "1,5 Metros",
-      "Fabricante": "Intelbras",
-      "Descrição da garantia": "1 ano com o fabricante",
-      "Part Number": "4830067",
-      "Componentes incluídos": "Cabo USB-A para USB-C em nylon",
-      "Nome do Tipo de Produto": "Cabo USB",
-      "Certificação de teste externa": "Não aplicável",
-      "ASIN": "B08HM6TLXM",
-      "Material externo": "Nylon",
-      "Marca": "intelbras"
-    },
-    "affiliate_url": "https://www.amazon.com.br/Cabo-USB-C-nylon-Intelbras-branco/dp/B08HM6TLXM/ref=zg_bs_g_computers_d_sccl_28/146-4195612-0631345?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B09J1TB35S",
-    "title": "Mouse Sem Fio Logitech Lift Vertical com Design Ergonômico para Redução de Tensão Muscular, Cliques Silenciosos, Conexão Blue",
-    "image": "https://m.media-amazon.com/images/I/61OkuiCWbDL._AC_SL1500_.jpg",
-    "canonical": null,
-    "category": "Computadores e Informática",
-    "price_current": 395.28,
-    "price_original": null,
-    "discount_percentage": null,
-    "tem_selo_prime": false,
-    "tem_oferta": true,
-    "avaliacao": 4.8,
-    "qtd_avaliacoes": 14555,
-    "coupon_code": null,
-    "description": "<ul><li>Dê um Lift: quando a vida cotidiana no escritório for exaustiva, o Mouse Ergonômico Lift Vertical da Logitech irá te ajudar com a postura ideal - perfeito para mãos direitas pequenas ou médias</li><li>Deixe sua mão elevada para o máximo conforto: descanse a sua mão no Mouse Lift Vertical durante todo o dia, com uma textura suave e um descanso de polegar para maior conforto</li><li>57° de alívio: a forma vertical do Lift ajuda os pulsos a sentirem-se confortáveis enquanto trabalha, promovendo uma postura natural no antebraço para conforto e produtividade durante o dia</li><li>Relaxe e concentre-se o dia todo: trabalhe com um mouse de computador sem fio que possui botões personalizáveis, funcionamento silencioso e um SmartWheel para scroll suave e perfeito</li><li>Certificado Ergo: o Mouse Sem Fio Lift Vertical da Logitech foi projetado, desenvolvido, testado e aprovado de acordo com os critérios estabelecidos por pesquisadores</li><li>Conecte-se do seu jeito: conecte-se via Bluetooth Low Energy ou USB Logi Bolt ao Windows, macOS, iPadOS, Chrome OS ou Linux e aproveite até 2 anos de bateria</li><li>As peças de plástico no Lift incluem certificação de plástico reciclado pós-consumo (Graphite: 70%, Off White e Rosa: 54%). Certificação Carbon Neutral</li></ul>",
-    "informacoes_produto": {
-      "Tecnologia de conectividade": "Bluetooth, USB, Wireless",
-      "Características especiais": "Design ergonômico, Sem fio",
-      "Deteção de movimento": "Óptico",
-      "Quantidade do botão": "6",
-      "Orientação de uso": "Direita",
-      "Dispositivos compatíveis": "Computador pessoal",
-      "Sistema operacional": "Chrome OS, Linux, Windows 10",
-      "Duração da bateria": "24 Meses",
-      "Tipo de bateria": "1 Polímero de lítio baterias necessárias. (inclusas)",
-      "Plataforma de hardware": "Laptop, PC",
-      "Fonte de energia": "Alimentado por bateria",
-      "Sensibilidade máxima do rato": "4000 Pontos por polegada",
-      "Escala": "10.0",
-      "Recurso de enfeite": "LED",
-      "Cor": "GRAFITE",
-      "Estilo": "Destro",
-      "Estampa": "Mouse",
-      "Tema": "neutro",
-      "Material": "Plástico",
-      "Duração da disponibilidade da peça sobressalente da UE": "2 Anos",
-      "Nome da marca": "Logitech",
-      "Nome do modelo": "LIFT",
-      "Usos recomendados do produto": "Escritório",
-      "Número do modelo": "910-006466",
-      "Componentes incluídos": "01 Documento do usuário, 01 Garantia de 1 ano do fabricante, 01 Receptor USB Logi Bolt, 01 mouse sem fio Lift, 1 Pilha AA",
-      "Baterias incluídas?": "Sim",
-      "Baterias são necessárias?": "Sim",
-      "Fabricante": "Logitech",
-      "UPC": "097855170927",
-      "Número de identificação de comércio internacional": "00097855170927",
-      "Número da peça": "910-006466",
-      "Descrição da garantia": "1 ano com o fabricante",
-      "Nome do Tipo de Produto": "Mouse",
-      "ASIN": "B09J1TB35S",
-      "Peso do item": "125 Gramas",
-      "Dimensões do item C x L": "10C x 70L milímetros",
-      "Contagem de unidades": "1 Cada",
-      "Marca": "Logitech",
-      "Tecnologia de detecção de movimento": "Óptico"
-    },
-    "affiliate_url": "https://www.amazon.com.br/Logitech-ergon%C3%B4mico-Bluetooth-silenciosos-compat%C3%ADvel/dp/B09J1TB35S/ref=zg_bs_g_computers_d_sccl_29/146-4195612-0631345?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
-    "spotlight": false
-  },
-  {
-    "asin": "B00DZIOMJ4",
-    "title": "Impressora Multifuncional HP Smart Tank 589 Tanque de Tinta Colorida Wi-Fi, USB - Alta Economia -Copiadora e Scanner (5D1A8A)",
-    "image": "https://m.media-amazon.com/images/I/511izOWgyfL._AC_SL1000_.jpg",
-    "canonical": null,
-    "category": "Computadores e Informática",
-    "price_current": 781.55,
-    "price_original": 1099,
-    "discount_percentage": 37.0,
-    "tem_selo_prime": false,
-    "tem_oferta": true,
-    "avaliacao": 4.6,
-    "qtd_avaliacoes": 197,
-    "coupon_code": null,
-    "description": "<ul><li>[FUNÇÕES] Imprime, copia e digitaliza com qualidade profissional</li><li>[GARANTIA] Até dois anos de garantia* Visite hp.com/go/extendmywarranty em até 60 dias após a compra para registrar e receber sua garantia estendida</li><li>[CONECTIVIDADE] Wi-Fi com autorreparo, que detecta e soluciona problemas de conectividade para manter sua impressora sempre pronta e conectada. Compatível com Air Print. ***Não acompanha cabo para conexão em PCs</li><li>[CONSUMÍVEIS] Garrafas de Tinta Originais HP incluídas na caixa, fáceis de recarregar. Basta encaixar o frasco no reservatório de tinta.</li><li>[IMPRESSÃO SUSTENTÁVEL] com uma impressora composta por 45% de plástico reciclado</li></ul>",
-    "informacoes_produto": {
-      "Tecnologia da impressora": "Jato de tinta",
-      "Características especiais": "Wi-Fi e multifuncional",
-      "Saída da impressora": "Colorido",
-      "Peso do item": "4,94 Quilogramas",
-      "Dimensões do item P x L x A": "36,2P x 44,4L x 15,7A centímetros",
-      "Mídia impressa": "Envelopes, Etiquetas, Papel, Papel Cartão",
-      "Tipo de leitor": "Plano",
-      "Velocidade máxima de cópia a preto e branco": "14 Páginas por minuto",
-      "Dispositivos compatíveis": "Laptops, PC",
-      "Tipo de garantia": "Limitada",
-      "Cor da tinta": "Preto, Colorido",
-      "Funções adicionais da impressora": "Cópia, Digitalização",
-      "Resolução": "4800 x 1200",
-      "Velocidade máxima de impressão (colorida)": "24.0",
-      "Velocidade máxima de impressão (preto e branco)": "30.0",
-      "Cor": "Cinza Chumbo",
-      "Resolução máxima de impressão a cores": "4800 x 1200 dpi",
-      "Resolução máxima de impressão em preto e branco": "4800 dots_per_inch",
-      "Nome da marca": "HP",
-      "Nome do modelo": "HP 589",
-      "Número do modelo": "5D1A8A#AK4",
-      "Componentes incluídos": "Garrafas de tinta",
-      "Série do Modelo": "HP Smart Tank",
-      "Usos específicos do produto": "Impressão de documentos em casa ou no escritório",
-      "UPC": "199764959751",
-      "Fabricante": "HP",
-      "Descrição da garantia": "12 meses com o fabricante",
-      "Nome do Tipo de Produto": "Impressora multifuncional",
-      "País de origem": "Brasil",
-      "ASIN": "B00DZIOMJ4",
-      "Tamanho máximo da mídia": "A4",
-      "Capacidade máxima de folhas": "100",
-      "Tecnologia de conectividade": "Bluetooth, USB, Wi-Fi",
-      "Interface de hardware": "USB",
-      "Marca": "HP",
-      "Tecnologia de impressão": "Jato de tinta",
-      "Velocidade máxima de impressão (cor)": "24.0",
-      "Velocidade máxima de impressão monocromática": "30.0",
-      "Peso do produto": "4,94 Quilogramas"
-    },
-    "affiliate_url": "https://www.amazon.com.br/Impressora-Multifuncional-HP-Tanque-Colorida/dp/B00DZIOMJ4/ref=zg_bs_g_computers_d_sccl_30/146-4195612-0631345?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -19283,7 +18208,7 @@ const PRODUCTS = [
       "Marca": "Tapo"
     },
     "affiliate_url": "https://www.amazon.com.br/C%C3%A2mera-Monitoramento-Tapo-C200-TP-Link/dp/B07XLML2YS/ref=zg_bs_g_hi_d_sccl_30/146-4195612-0631345?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -19321,7 +18246,226 @@ const PRODUCTS = [
       "Disponível para compra desde": "2 novembro 2025"
     },
     "affiliate_url": "https://www.amazon.com.br/Campainha-Residencial-Comunica%C3%A7%C3%A3o-Resistente-Fixadores/dp/B0FZ6TLKS3/ref=zg_bs_g_hi_d_sccl_1/146-4195612-0631345?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B07GH8YBGB",
+    "title": "Vonder, Fita Crepe 24 Mm X 50 M.",
+    "image": "https://m.media-amazon.com/images/I/51AMR+GJ5uL._AC_SL1000_.jpg",
+    "canonical": null,
+    "category": "Ferramentas e Materiais de Construção",
+    "price_current": 13,
+    "price_original": 23.9,
+    "discount_percentage": null,
+    "tem_selo_prime": false,
+    "tem_oferta": true,
+    "avaliacao": 4.8,
+    "qtd_avaliacoes": 460,
+    "coupon_code": null,
+    "description": "<ul><li>Branca</li><li>Largura da fita crepe: 24 mm</li><li>Papel com excelente alongamento, proporcionando boa performance em curvas e contornos do mascaramento.</li><li>Para uso industrial, mascaramento de pinturas imobiliárias, trabalhos escolares, fixações, proteção, enfaixamentos, artesanato, decoração, bricolagem, entre outros.</li><li>Composição: Papel crepado;</li></ul>",
+    "informacoes_produto": {
+      "Brand Name": "VONDER",
+      "Quantidade de itens": "1",
+      "Usos recomendados do produto": "Industrial, Mascaramento de pinturas imobiliárias, Trabalhos escolares, Fixações, Proteção, Enfaixamentos, Artesanato, Decoração, Bricolagem, Quadro",
+      "Fabricante": "VONDER",
+      "Part Number": "1027245000",
+      "Model Number": "1027245000",
+      "País de origem": "China",
+      "Nome do Tipo de Produto": "Fita Crepe",
+      "Included Components": "1 Fita crepe.",
+      "ASIN": "B07GH8YBGB",
+      "Características especiais": "Resistente ao calor",
+      "Nível de resistência à água": "Não resistente à água",
+      "Upper Temperature Range": "100 Graus Celsius",
+      "Compatible Material": "Papel",
+      "Formato do Adesivo": "ROLO",
+      "Contagem de Lados Adesivos": "1",
+      "Local do Adesivo": "laterais",
+      "Tamanho": "24 mm x 50 m",
+      "Cor": "Branca",
+      "Material Type": "Papel crepom",
+      "Marca": "VONDER",
+      "Material": "Papel crepom",
+      "Número de itens": "1"
+    },
+    "affiliate_url": "https://www.amazon.com.br/Fita-crepe-24-50-Vonder/dp/B07GH8YBGB/ref=zg_bs_g_hi_d_sccl_2/140-3942280-2013132?tag=mixdm22-20",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B078YDP9JM",
+    "title": "Scotch, 3M, Bluetape, Fita Crepe Profissional - 18 mm x 50 m",
+    "image": "https://m.media-amazon.com/images/I/61ciixX7ymL._AC_SL1497_.jpg",
+    "canonical": null,
+    "category": "Ferramentas e Materiais de Construção",
+    "price_current": 17,
+    "price_original": 23.9,
+    "discount_percentage": 28.0,
+    "tem_selo_prime": false,
+    "tem_oferta": true,
+    "avaliacao": 4.8,
+    "qtd_avaliacoes": 1281,
+    "coupon_code": null,
+    "description": "<ul><li>Linha de pintura perfeita</li><li>Permanece até 14 dias aplicada sem deixar resíduos</li><li>Boa resistência a rasgos durante a remoção</li><li>Multi-Superfície: paredes, revestimentos, rodapés, batentes, vidros e outros</li><li>Resistente a sol, chuva e raios UV</li><li>Contém: 1 rolo de 18 mm x 50 mm</li></ul>",
+    "informacoes_produto": {
+      "Brand Name": "Scotch",
+      "Quantidade de itens": "1",
+      "Usos recomendados do produto": "Parede",
+      "Superfície Recomendada": "Vidro",
+      "Contagem de unidades": "1 unidade",
+      "Fabricante": "3M",
+      "Peso do Item": "70 Gramas",
+      "Part Number": "H0002317784",
+      "Model Number": "H0002317784",
+      "País de origem": "Brasil",
+      "Nome do Tipo de Produto": "Fita Crepe Profissional",
+      "Included Components": "FITA",
+      "ASIN": "B078YDP9JM",
+      "Características especiais": "Não Aplicável",
+      "Nível de resistência à água": "Resistente à água",
+      "Compatible Material": "Vidro",
+      "Resistência do Produto": "resistente a sol, chuva e raios UV",
+      "Formato do Adesivo": "Wide Roll",
+      "Dimensões do item C x L x Espessura": "18L x 18Espessura milímetros",
+      "Tamanho": "Não Aplicável",
+      "Valor decimal da espessura do item": "18 Milímetros",
+      "Espessura da Folha": "18 Milímetros",
+      "Cor": "Azul",
+      "Material Type": "Papel crepom",
+      "Marca": "Scotch",
+      "Material": "Papel crepom",
+      "Número de itens": "1",
+      "Adequação do controle por rádio": "Parede"
+    },
+    "affiliate_url": "https://www.amazon.com.br/Fita-Crepe-Profissional-Scotch-H0002317784/dp/B078YDP9JM/ref=zg_bs_g_hi_d_sccl_1/140-3942280-2013132?tag=mixdm22-20",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0779K66MG",
+    "title": "Tramontina Extensão Múltipla 5 m 5 Tomadas 2P+T 10 A 250 V",
+    "image": "https://m.media-amazon.com/images/I/61nA3XVrLIL._AC_SL1500_.jpg",
+    "canonical": null,
+    "category": "Ferramentas e Materiais de Construção",
+    "price_current": 69.9,
+    "price_original": 182.9,
+    "discount_percentage": null,
+    "tem_selo_prime": false,
+    "tem_oferta": true,
+    "avaliacao": 4.8,
+    "qtd_avaliacoes": 3152,
+    "coupon_code": null,
+    "description": "<ul><li>Extensão Múltipla 5 Tomadas 2P+T 10 A 250 V</li><li>Extensão múltipla com 5 tomadas 2P+T, capacidade de 10 A e 250 V, ideal para conectar múltiplos dispositivos elétricos</li><li>Cabo de extensão com 5 metros de comprimento, na cor cinza, proporcionando alcance e versatilidade</li></ul>",
+    "informacoes_produto": {
+      "Número total de tomadas": "5",
+      "Voltagem": "110 Volts, 220 Volts",
+      "Características especiais": "Proteção de sobretensão",
+      "Corrente máxima": "10 Amperes",
+      "Conector": "Type N",
+      "Tipo de plugue": "Tipo N (3 pinos)",
+      "Número de portas": "5",
+      "Dispositivos compatíveis": "Aquecedor, Console de jogos, E-Reader, Ferro, Impressora, Laptop, Leitor de DVD, Leitor de MP3, Lâmpada, Monitor, PC, Roteador, Rádio, Set Top Box, Smartphone, Smartwatch, Tablet, Televisão",
+      "Compatibilidade com Casa Inteligente": "Não Compatível com Casa Inteligente",
+      "Economia Inteligente de Energia": "Não",
+      "Amperagem": "10 Amperes",
+      "Cor": "Cinza",
+      "Formato do item": "MÉDIO",
+      "Nome da marca": "Tramontina",
+      "País de origem": "Brasil",
+      "Número do modelo": "1",
+      "Número da peça": "1",
+      "Nome do Tipo de Produto": "EXTENSÃO",
+      "Componentes incluídos": "Não aplicável",
+      "Certificação de teste externa": "Não aplicável",
+      "Descrição da garantia": "1",
+      "Fabricante": "Tramontina",
+      "ASIN": "B0779K66MG",
+      "Marca": "Tramontina",
+      "Total de tomadas de energia": "5",
+      "Tensão": "110 Volts, 220 Volts"
+    },
+    "affiliate_url": "https://www.amazon.com.br/Extens-Mltipla-57504031-Tramontina-Eletrik/dp/B0779K66MG/ref=zg_bs_g_hi_d_sccl_30/140-3942280-2013132?tag=mixdm22-20",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B078FGJ8XN",
+    "title": "Tramontina Caixa de Sobrepor com 2 Tomadas 2P+T 20 A 250 V - LizFlex",
+    "image": "https://m.media-amazon.com/images/I/51aDWf7t0aL._AC_SL1500_.jpg",
+    "canonical": null,
+    "category": "Ferramentas e Materiais de Construção",
+    "price_current": 20.69,
+    "price_original": 21.84,
+    "discount_percentage": null,
+    "tem_selo_prime": false,
+    "tem_oferta": true,
+    "avaliacao": 4.8,
+    "qtd_avaliacoes": 782,
+    "coupon_code": null,
+    "description": "<ul><li>Com duas Tomadas</li><li>2P+T</li><li>20A</li><li>250V</li></ul>",
+    "informacoes_produto": {
+      "Dispositivos compatíveis": "Todos os dispositivos",
+      "Voltagem": "250 Volts",
+      "Conector": "Type N",
+      "Amperagem": "20 Amperes",
+      "Tipo de conector": "NEMA 5-15",
+      "Número total de tomadas": "2",
+      "Cor": "Branco",
+      "Material": "Termoplástico",
+      "Brand Name": "Tramontina",
+      "Model Number": "1",
+      "Contagem de unidades": "1 Unidade",
+      "Fabricante": "Tramontina Eletrik",
+      "Descrição da garantia": "1",
+      "País de origem": "Brasil",
+      "Certificação de teste externa": "OCP-0004, TÜV RHEINLAND",
+      "Nome do Tipo de Produto": "CAIXA TOMADA",
+      "Part Number": "1",
+      "ASIN": "B078FGJ8XN",
+      "Marca": "Tramontina",
+      "Tensão": "250 Volts"
+    },
+    "affiliate_url": "https://www.amazon.com.br/Sobrepor-Tomadas-Tramontina-LizFlex-Branca/dp/B078FGJ8XN/ref=zg_bs_g_hi_d_sccl_7/140-3942280-2013132?tag=mixdm22-20",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B07CTN73L1",
+    "title": "Bosch Kit de pontas e brocas V-Line 41 peças",
+    "image": "https://m.media-amazon.com/images/I/61tv+b6beQL._SL1080_.jpg",
+    "canonical": null,
+    "category": "Ferramentas e Materiais de Construção",
+    "price_current": 94.99,
+    "price_original": 94.99,
+    "discount_percentage": 10.0,
+    "tem_selo_prime": false,
+    "tem_oferta": true,
+    "avaliacao": 4.8,
+    "qtd_avaliacoes": 16165,
+    "coupon_code": null,
+    "description": "",
+    "informacoes_produto": {
+      "Sistema de acionamento": "Hexagonal",
+      "Compatibilidades das Brocas": "PH, PZ, T, H, S, Madeira, Concreto",
+      "Número de peças": "41",
+      "Material": "Aço de alta velocidade, Liga de aço",
+      "Nome da marca": "Bosch",
+      "Número do modelo": "2607017396-000",
+      "Fabricante": "Bosch",
+      "Número da peça": "2607017396-000",
+      "Nome do Tipo de Produto": "Jogo V-Line 41 Peças",
+      "Descrição da garantia": "6 meses",
+      "Componentes incluídos": "1 Adaptador universal, 1 aparafusadora angular, 1 escareador, 1 suporte de pontas universal, 5 Pontas 50mm: PH0, PH1, PH2, PH3, H6, 5 brocas para madeira Ø3/4/5/6/8mm, 6 Brocas para concreto Ø5/5,5/6/6/7/8mm, 6 Soquetes Ø6/8/9/10/11/13mm, 7 Brocas para Metal Ø2/2/3/3/4/5/6mm, 8 Pontas 25mm: 2x PH2, PZ1, PZ2, T20, HEX Ø5/6, S5",
+      "Peso do item": "850 Gramas",
+      "País de origem": "Brasil",
+      "Contagem de unidades": "1 Conjunto",
+      "ASIN": "B07CTN73L1",
+      "Marca": "Bosch",
+      "Número de itens": "1"
+    },
+    "affiliate_url": "https://www.amazon.com.br/Jogo-V-Line-pe%C3%A7as-Bosch-2607017396-000/dp/B07CTN73L1/ref=zg_bs_g_hi_d_sccl_18/140-3942280-2013132?tag=mixdm22-20",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -19365,7 +18509,783 @@ const PRODUCTS = [
       "Forma do produto": "Líquido"
     },
     "affiliate_url": "https://www.amazon.com.br/Silicone-Ac%C3%A9tico-Transparente-Tekbond-406715/dp/B076KR1Q3T/ref=zg_bs_g_hi_d_sccl_7/146-4195612-0631345?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B07QXL7VZL",
+    "title": "EDA Abraçadeira De Nylon 2 5 X 150 Mm Com 100 Peças Branca Eda",
+    "image": "https://m.media-amazon.com/images/I/710DkfnfzyL._AC_SL1500_.jpg",
+    "canonical": null,
+    "category": "Ferramentas e Materiais de Construção",
+    "price_current": 3.05,
+    "price_original": 16.4,
+    "discount_percentage": null,
+    "tem_selo_prime": false,
+    "tem_oferta": true,
+    "avaliacao": 4.8,
+    "qtd_avaliacoes": 2024,
+    "coupon_code": null,
+    "description": "<ul><li>Abraçadeiras de nylon</li><li>Pacote com 100 peças</li><li>Medidas: 2, 5 x 150 milímetros</li><li>Cor branca</li></ul>",
+    "informacoes_produto": {
+      "Nome da marca": "EDA",
+      "Fabricante": "Eda",
+      "Número do modelo": "8ND",
+      "Número da peça": "8ND",
+      "Componentes incluídos": "1 saco com 100 abraçadeiras",
+      "Contagem de unidades": "1 Conjunto",
+      "Peso do item": "42 Gramas",
+      "Nome do Tipo de Produto": "Abraçadeira de nylon",
+      "País de origem": "China",
+      "ASIN": "B07QXL7VZL",
+      "Comprimento do artigo": "2 Centímetros",
+      "Maximum Diameter": "2,5 Milímetros",
+      "Número de peças": "100",
+      "Cor": "branca",
+      "Estilo": "100 peças",
+      "Material": "Nylon",
+      "Marca": "EDA",
+      "Comprimento do produto": "2 Centímetros"
+    },
+    "affiliate_url": "https://www.amazon.com.br/Abra%C3%A7adeira-Nylon-150-Pe%C3%A7as-Branca/dp/B07QXL7VZL/ref=zg_bs_g_hi_d_sccl_5/140-3942280-2013132?tag=mixdm22-20",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0971DYR7N",
+    "title": "Scotch, 3M, Fita de Empacotamento Transparente, 4 Rolos, 45mm x 100M",
+    "image": "https://m.media-amazon.com/images/I/61GqU0my8ZS._AC_SL1200_.jpg",
+    "canonical": null,
+    "category": "Ferramentas e Materiais de Construção",
+    "price_current": 48.8,
+    "price_original": 58.03,
+    "discount_percentage": 15.0,
+    "tem_selo_prime": false,
+    "tem_oferta": true,
+    "avaliacao": 4.7,
+    "qtd_avaliacoes": 1535,
+    "coupon_code": null,
+    "description": "<ul><li>IDEAL PARA EMPACOTAR. Tem um comércio eletrônico ou faz remessas de pacotes individuais? Essa fita possui resistência a rupturas e ao rompimento das bordas.</li><li>ALTA ADESÃO. Essa fita resiste à abrasão, umidade, produtos químicos e raspagens, para desempenho duradouro.</li><li>PRODUÇÃO DINÂMICA E RÁPIDA. O fácil desenrolamento e dispensação suave funcionam bem em linhas de embalagens automatizadas de alta velocidade.</li><li>ALTA DURABILIDADE. Essas fitas apresentam durabilidade e alta resistência, funcionando especialmente bem em superfícies recicladas, onduladas e fibras de carbono.</li><li>CONFIE NA SCOTCH. Um trabalho digno de ser feito merece as ferramentas certas. É por isso que todo produto que fabricamos com a Marca Scotch se destina a te ajudar no dia a dia.</li></ul>",
+    "informacoes_produto": {
+      "Brand Name": "Scotch",
+      "Quantidade de itens": "1",
+      "Usos recomendados do produto": "Embalagem",
+      "Superfície Recomendada": "Madeira",
+      "Contagem de unidades": "4 count",
+      "Fabricante": "3M",
+      "Peso do Item": "18 Gramas",
+      "Part Number": "HM000090427",
+      "Model Number": "HM000090427",
+      "País de origem": "Brasil",
+      "Nome do Tipo de Produto": "3M Fita Empacotamento Transparente Scotch 45Mm X 100M 4 Unidades Leve Mais Pague Menos, Scotch",
+      "Included Components": "Fitas adesivas",
+      "Descrição da garantia": "Sem Garantia",
+      "ASIN": "B0971DYR7N",
+      "Características especiais": "Não Aplicável",
+      "Nível de resistência à água": "Resistente à água",
+      "Compatible Material": "Madeira",
+      "Formato do Adesivo": "Rolo",
+      "Contagem de Lados Adesivos": "4",
+      "Tamanho": "Não Aplicável",
+      "Cor": "Transparente",
+      "Material Type": "Cloreto de polivinilo",
+      "Marca": "Scotch",
+      "Material": "Cloreto de polivinilo",
+      "Número de itens": "1",
+      "Adequação do controle por rádio": "Embalagem"
+    },
+    "affiliate_url": "https://www.amazon.com.br/Empacotamento-Scotch-Transparente-Metros-Pacote/dp/B0971DYR7N/ref=zg_bs_g_hi_d_sccl_11/140-3942280-2013132?tag=mixdm22-20",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B076ZRKZK1",
+    "title": "Nível Plástico Com Base Magnética 9\", Vonder",
+    "image": "https://m.media-amazon.com/images/I/61R3IbQOPIL._AC_SL1500_.jpg",
+    "canonical": null,
+    "category": "Ferramentas e Materiais de Construção",
+    "price_current": 14,
+    "price_original": 20.16,
+    "discount_percentage": 30.0,
+    "tem_selo_prime": false,
+    "tem_oferta": true,
+    "avaliacao": 4.9,
+    "qtd_avaliacoes": 789,
+    "coupon_code": null,
+    "description": "<ul><li>Possui ímã que permite a realização de trabalhos com as mãos livres durante o alinhamento e ajuste de objetos metálicos</li><li>Nome Marca: Vonder</li><li>Número do modelo: 3535009000</li></ul>",
+    "informacoes_produto": {
+      "Nome da marca": "VONDER",
+      "Fabricante": "OVD Importadora E Distribuidora LTDA",
+      "Número do modelo": "3535009000",
+      "Número da peça": "3535009000",
+      "Nome do Tipo de Produto": "Nível com Base Magnéticanética 9\"",
+      "País de origem": "China",
+      "Contagem de unidades": "1 Quilogramas",
+      "Componentes incluídos": "Nível com Base Magnéticanética 9\"",
+      "ASIN": "B076ZRKZK1",
+      "Cor": "Amarelo",
+      "Estilo": "Magnetic",
+      "Material": "Plástico",
+      "Modo de operação": "Manual",
+      "Marca": "VONDER"
+    },
+    "affiliate_url": "https://www.amazon.com.br/N%C3%ADvel-pl%C3%A1stico-com-base-magn%C3%A9tica/dp/B076ZRKZK1/ref=zg_bs_g_hi_d_sccl_13/140-3942280-2013132?tag=mixdm22-20",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B07CLH9Y6X",
+    "title": "3M, Feltro Sintético Adesivo para Móveis Leves Scotch, Redondo, Marrom, Pequeno, 12 Unidades",
+    "image": "https://m.media-amazon.com/images/I/81CV0pfB9PL._AC_SL1500_.jpg",
+    "canonical": null,
+    "category": "Ferramentas e Materiais de Construção",
+    "price_current": 6.66,
+    "price_original": 36.9,
+    "discount_percentage": null,
+    "tem_selo_prime": false,
+    "tem_oferta": true,
+    "avaliacao": 4.7,
+    "qtd_avaliacoes": 1977,
+    "coupon_code": null,
+    "description": "<ul><li>PROTEJA SEU PISO. O Protetor de Feltro Scotch 3M é a solução ideal para proteger pisos de madeira, vinílicos, cerâmicos ou laminados de forma discreta e eficiente.</li><li>ALTA QUALIDADE E ADERÊNCIA. Fabricado com feltro sintético de alta resistência, este protetor garante durabilidade e proteção superior, além de um adesivo de alta fixação para longa duração.</li><li>FÁCIL DE USAR. Com formato redondo e tamanho pequeno (2,5 x 2,5 cm), é perfeito para móveis leves como cadeiras, mesas, pufes e banquetas.</li><li>O QUE ESTÁ INCLUÍDO. Este pacote contém 12 feltros protetores autocolantes, na cor marrom, prontos para serem aplicados nos pés de seus móveis.</li><li>CIÊNCIA APLICADA À VIDA. A 3M é uma multinacional que, por meio de suas marcas, oferece soluções sustentáveis que otimizam o tempo e a energia das pessoas, melhorando suas vidas diariamente.</li></ul>",
+    "informacoes_produto": {
+      "Fabricante": "‎3M",
+      "Número da Peça": "‎HB004262687",
+      "Certificação": "‎Não aplicável",
+      "Tamanho": "‎Pequeno",
+      "Cor": "‎Marrom",
+      "Tipo de fonte de energia": "‎Não aplicável",
+      "Quantidade por pacote": "‎1",
+      "Número de produtos": "‎12",
+      "Funciona a bateria ou pilha?": "‎Não",
+      "Peso": "‎1 Gramas",
+      "Comprimento": "‎2,5 centímetros",
+      "Largura": "‎2,5 centímetros",
+      "Modelo": "‎HB004262687",
+      "Número do modelo": "‎HB004262687",
+      "Dimensões do produto": "‎2,5 x 2,5 x 0,3 cm; 1 g",
+      "ASIN": "‎B07CLH9Y6X",
+      "Marca": "‎Scotch",
+      "EAN": "‎7891040177813",
+      "Dimensões do pacote": "19.8 x 12.5 x 0.2 centímetros",
+      "Disponível para compra desde": "22 abril 2018"
+    },
+    "affiliate_url": "https://www.amazon.com.br/Anti-Risco-Redondo-Scotch-HB004262687-Pequeno/dp/B07CLH9Y6X/ref=zg_bs_g_hi_d_sccl_8/140-3942280-2013132?tag=mixdm22-20",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B08KJN19FM",
+    "title": "Docol Sifão Extensível Universal 72cm - Cod.Novo: 90007965026 Cod.Antigo: 00796526",
+    "image": "https://m.media-amazon.com/images/I/41F+jsxUxLL._AC_SL1000_.jpg",
+    "canonical": null,
+    "category": "Ferramentas e Materiais de Construção",
+    "price_current": 14.27,
+    "price_original": 35.04,
+    "discount_percentage": 59.0,
+    "tem_selo_prime": false,
+    "tem_oferta": true,
+    "avaliacao": 4.8,
+    "qtd_avaliacoes": 1049,
+    "coupon_code": null,
+    "description": "<ul><li>Livre de odores indesejados: equipado com o sistema antiodor, o produto impede o retorno de gases existentes nas tubulações de esgoto.</li><li>Dispensa o uso de fita vedarosca: o produto é equipado com anéis para vedação que dispensam o uso de fita veda-rosca.</li><li>Compatibilidade com válvulas de saída d’água para cozinha, lavatório e tanque.</li><li>Trava: dispositivo que garante os 5cm de fecho hídrico (exigência da norma).</li><li>Comprimento de 72cm: maior do que a grande maioria dos sifões do mercado, que possibilita instalações com facilidade e ambientes de difícil acesso. Compatibilidade com tubulações de 40 e 50mm, tanto em conexões como diretamente em tubos.</li></ul>",
+    "informacoes_produto": {
+      "Fabricante": "‎DOCOL",
+      "Número da Peça": "‎00796526",
+      "Certificação": "‎Não aplicável",
+      "Cor": "‎Branco",
+      "Material": "‎Polipropileno e borracha nitríca",
+      "Tipo de fonte de energia": "‎Não aplicável",
+      "Quantidade por pacote": "‎1",
+      "Número de produtos": "‎1",
+      "Componentes incluídos": "‎1 sifão tubular moldavel branco",
+      "Funciona a bateria ou pilha?": "‎Não",
+      "Comprimento": "‎50 milímetros",
+      "Largura": "‎50 milímetros",
+      "Altura": "‎72 centímetros",
+      "Modelo": "‎00796526",
+      "Número do modelo": "‎00796526",
+      "Dimensões do produto": "‎5 x 5 x 72 cm; 100 g",
+      "ASIN": "‎B08KJN19FM",
+      "Marca": "‎Docol",
+      "EAN": "‎7891461207595",
+      "Dimensões do pacote": "36 x 5 x 5 centímetros",
+      "Disponível para compra desde": "2 outubro 2020"
+    },
+    "affiliate_url": "https://www.amazon.com.br/Sif%C3%A3o-Universal-Extens%C3%ADvel-Docol-72/dp/B08KJN19FM/ref=zg_bs_g_hi_d_sccl_12/140-3942280-2013132?tag=mixdm22-20",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B08MNFRVS7",
+    "title": "Luva Viniflex Translucida sem pó Tam. M 100und/cart, Vabene",
+    "image": "https://m.media-amazon.com/images/I/71bpnXtUtpL._AC_SL1500_.jpg",
+    "canonical": null,
+    "category": "Ferramentas e Materiais de Construção",
+    "price_current": 18.75,
+    "price_original": 90.99,
+    "discount_percentage": null,
+    "tem_selo_prime": false,
+    "tem_oferta": true,
+    "avaliacao": 4.4,
+    "qtd_avaliacoes": 2205,
+    "coupon_code": null,
+    "description": "<ul><li>Luva em TPE que é uma borracha termoplástica combinada à espessura da luva que é bem fininha que aumenta a sensibilidade em seu uso</li><li>Hipoalergênica, inodora e atóxica, um produto seguro para quem possui algum tipo de alergia</li><li>Caixa com 100 luvas</li><li>Os produtos foram projetados com o usuário em mente querendo cumprir os desejos</li></ul>",
+    "informacoes_produto": {
+      "Nome da marca": "Vabene",
+      "Contagem de unidades": "100 Unidade",
+      "Descrição da faixa etária": "Adulto",
+      "Nome do modelo": "Não aplicável",
+      "Peso do item": "215 Gramas",
+      "Número do modelo": "1531",
+      "Número de identificação de comércio internacional": "17898546006347",
+      "Número da peça": "1531",
+      "Componentes incluídos": "Caixa com 100 luvas ambidestras",
+      "Fabricante": "Vabene",
+      "Nome do Tipo de Produto": "Luva Viniflex Translucida sem pó Tam. M 100und/cart",
+      "Descrição da garantia": "Conforme descrito na embalagem",
+      "ASIN": "B08MNFRVS7",
+      "Material": "Borracha, Borracha termoplástica",
+      "Livre de tipo de material": "Sem pó",
+      "Características do material": "Hipoalergênica",
+      "Construção da Luva": "Seamless Knit",
+      "Material da Palma": "Rubber, Thermoplastic Rubber",
+      "Classe de Peso do Tecido da Vestimenta": "Leve",
+      "Tipo de material": "TPE (Borracha Termoplástica)",
+      "Tamanho": "M (Pacote de 100)",
+      "Dimensões do artigo": "20 x 11 x 4 centímetros",
+      "Características especiais": "Antialérgica",
+      "Reutilização": "Descartável",
+      "É à prova d'água": "True",
+      "Orientação de uso": "Ambidestro",
+      "Nível de resistência à água": "À prova d'água",
+      "Luva": "luva",
+      "Ajuste ao Tamanho": "Positivo",
+      "Tipo de ajuste": "regular",
+      "Cor": "multi-colored",
+      "Usos recomendados do produto": "Depilação",
+      "Marca": "Vabene"
+    },
+    "affiliate_url": "https://www.amazon.com.br/Luva-Viniflex-Translucida-100Und-Vabene/dp/B08MNFRVS7/ref=zg_bs_g_hi_d_sccl_9/140-3942280-2013132?tag=mixdm22-20",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0778YTF29",
+    "title": "MTX Alicate Bico Meia Cana 6 Pol (160 mm) – Alicate Profissional com Revestimento Niquelado e Cabo Ergonômico",
+    "image": "https://m.media-amazon.com/images/I/612JNRbsHoL._AC_SL1500_.jpg",
+    "canonical": null,
+    "category": "Ferramentas e Materiais de Construção",
+    "price_current": 14.4,
+    "price_original": 17.4,
+    "discount_percentage": 17.0,
+    "tem_selo_prime": false,
+    "tem_oferta": true,
+    "avaliacao": 4.7,
+    "qtd_avaliacoes": 2037,
+    "coupon_code": null,
+    "description": "<ul><li>Desempenho profissional – alicate bico meia cana 6” com revestimento niquelado que aumenta a durabilidade e garante precisão em trabalhos de montagem e reparação.</li><li>Resistência reforçada – fabricado em aço de alta qualidade, proporcionando firmeza e confiabilidade no manuseio e em cortes em áreas estreitas.</li><li>Conforto ergonômico – cabo plástico anatômico com dupla injeção que oferece melhor pegada e reduz a fadiga durante o uso.</li><li>Versatilidade ampla – ideal para eletrônica, manutenção e reparos em geral, facilitando o acesso a locais difíceis com sua ponta alongada.</li><li>Proteção anticorrosão – revestimento de níquel protege contra oxidação e prolonga a vida útil da ferramenta.</li></ul>",
+    "informacoes_produto": {
+      "Nome da marca": "Mtx",
+      "Usos específicos do produto": "Agarração, Montagem e Reparação",
+      "Número do modelo": "Bico meia cana",
+      "Número da peça": "Bico meia cana",
+      "Nome do Tipo de Produto": "Alicate bico meia cana reto nickel, 6 pol. (160 mm), cabo dupla injeção",
+      "País de origem": "China",
+      "Componentes incluídos": "No",
+      "Fabricante": "Mtx",
+      "ASIN": "B0778YTF29",
+      "Material": "Aço de cromo-vanádio",
+      "Material do cabo": "Plástico",
+      "Cor": "Níquel",
+      "Tipo de cabo": "Plástico",
+      "Marca": "Mtx"
+    },
+    "affiliate_url": "https://www.amazon.com.br/Bico-Revestimento-Durabilidade-Anticorros%C3%A3o-Profissional/dp/B0778YTF29/ref=zg_bs_g_hi_d_sccl_10/140-3942280-2013132?tag=mixdm22-20",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B077QFH5WP",
+    "title": "Cascola Cascorez Cola Madeira, Cola de madeira de Alta Resistência, Cola PVA Excelente Flexibilidade, Cola Cascorez Pronto Pa",
+    "image": "https://m.media-amazon.com/images/I/61EpE95C-uL._AC_SL1500_.jpg",
+    "canonical": null,
+    "category": "Ferramentas e Materiais de Construção",
+    "price_current": 12.66,
+    "price_original": 399,
+    "discount_percentage": null,
+    "tem_selo_prime": false,
+    "tem_oferta": true,
+    "avaliacao": 4.7,
+    "qtd_avaliacoes": 186,
+    "coupon_code": null,
+    "description": "<ul><li>Alta resistência adesiva – Essa super cola é ideal para reparos e reforma de móveis e objetos em madeira, laminados plásticos, aglomerados, MDF e HDF.</li><li>Excelente flexibilidade – Esta cola Cascola é feita para colar materiais que sofrem esforço mecânico e com o incrível diferencial de aderir a superfícies molhadas.</li><li>Pronto para uso – Este adesivo vinílico foi produzido para facilitar reparos, além de oferecer fácil manuseio e limpeza, esta cola para madeira possui um odor suave.</li><li>Ótima tecnologia – Essa fita adesiva de alta resistência foi desenvolvida com tecnologia à base de água, além disso, não possui solventes em sua composição.</li><li>Conteúdo da embalagem – Cascola Cascorez Cola Madeira, adesivo vinílico ideal para a colagem de materiais que sofrem esforço mecânico, à base d'água e isento de solventes, branco, 1x100g</li></ul>",
+    "informacoes_produto": {
+      "Usos específicos do produto": "Madeira, laminados plásticos, aglomerados, MDF e HDF",
+      "Formato do item": "Massa",
+      "Características especiais": "Alta resistência adesiva e Excelente flexibilidade",
+      "Tipo de recipiente": "Garrafa",
+      "Nível de resistência à água": "À prova d'água",
+      "Nível de Viscosidade": "Média",
+      "Compatible Material": "Madeira, Plástico",
+      "Item Package Quantity": "1",
+      "Volume": "76,92 Mililitros",
+      "Material Type": "Cola de Madeira",
+      "Cor": "multi-colored",
+      "Brand Name": "Cascola",
+      "País de origem": "Brasil",
+      "Contagem de unidades": "100 grama",
+      "Número de peças": "1",
+      "Fabricante": "Henkel",
+      "Item Weight": "110 Gramas",
+      "Nome do Tipo de Produto": "Glue",
+      "Included Components": "Glue",
+      "ASIN": "B077QFH5WP",
+      "Marca": "Cascola",
+      "Material": "Cola de Madeira",
+      "Forma do produto": "Massa"
+    },
+    "affiliate_url": "https://www.amazon.com.br/Cola-Liquida-Madeira-100g-Cascola/dp/B077QFH5WP/ref=zg_bs_g_hi_d_sccl_6/140-3942280-2013132?tag=mixdm22-20",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B076KP7X7F",
+    "title": "Tramontina Alicate Universal 8 Isolado",
+    "image": "https://m.media-amazon.com/images/I/51MGPcAcbUL._AC_SL1000_.jpg",
+    "canonical": null,
+    "category": "Ferramentas e Materiais de Construção",
+    "price_current": 31.9,
+    "price_original": 37.48,
+    "discount_percentage": null,
+    "tem_selo_prime": false,
+    "tem_oferta": true,
+    "avaliacao": 4.8,
+    "qtd_avaliacoes": 6147,
+    "coupon_code": null,
+    "description": "<ul><li>Corpo forjado em aço especial e temperado</li><li>O aço carbono especial empregado na fabricação do produto, aliado à têmpera especial no gume de corte garantem maior resistência</li><li>Acabamento fosfatizado</li><li>Cabeça e articulação lixadas</li></ul>",
+    "informacoes_produto": {
+      "Nome da marca": "Tramontina",
+      "Usos específicos do produto": "Agarrando, Cortando, Torcendo",
+      "Número do modelo": "41001108",
+      "Número da peça": "41001108",
+      "Descrição da garantia": "1 ano",
+      "Nome do Tipo de Produto": "Alicate Universal",
+      "País de origem": "Brasil",
+      "Componentes incluídos": "ALICATE UNIVERSAL 8",
+      "Contagem de unidades": "1 Peça",
+      "Fabricante": "Tramontina",
+      "ASIN": "B076KP7X7F",
+      "Dimensões do item C x L": "20,3C x 6,4L centímetros",
+      "Largura de corte": "8 Polegadas",
+      "Material": "Liga de aço",
+      "Material do cabo": "Plástico",
+      "Cor": "Amarelo",
+      "Tipo de cabo": "Acolchoado",
+      "Especificação atendida": "NBR 9699 e NR10 compliant",
+      "Marca": "Tramontina",
+      "Dimensões do produto": "20,3C x 6,4L centímetros"
+    },
+    "affiliate_url": "https://www.amazon.com.br/Tramontina-41001108-Alicate-Universal-Amarelo/dp/B076KP7X7F/ref=zg_bs_g_hi_d_sccl_29/140-3942280-2013132?tag=mixdm22-20",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B076YK72YJ",
+    "title": "Caixa Para Ferramentas, Plástica, 34,0 Cm X 34,0 Cm X 13,0 Cm, VD 6002, Vonder",
+    "image": "https://m.media-amazon.com/images/I/61AQALBtTCL._AC_SL1000_.jpg",
+    "canonical": null,
+    "category": "Ferramentas e Materiais de Construção",
+    "price_current": 23.6,
+    "price_original": 37.78,
+    "discount_percentage": 37.0,
+    "tem_selo_prime": false,
+    "tem_oferta": true,
+    "avaliacao": 4.6,
+    "qtd_avaliacoes": 10029,
+    "coupon_code": null,
+    "description": "<ul><li>Comprimento da caixa plástica: 340 mm</li><li>Largura da caixa plástica: 340 mm</li><li>Altura da caixa plástica: 130 mm</li><li>Material da caixa plástica: polipropileno</li><li>Capacidade de carga: 12 kg</li></ul>",
+    "informacoes_produto": {
+      "Nome da marca": "VONDER",
+      "Número do modelo": "VDO2668",
+      "Número da peça": "61.07.600.200",
+      "Nome do Tipo de Produto": "Caixa Plástica VD 6002",
+      "Fabricante": "VONDER",
+      "Contagem de unidades": "1 Peça",
+      "Componentes incluídos": "Caixa Plástica VD 6002",
+      "País de origem": "Brasil",
+      "ASIN": "B076YK72YJ",
+      "Material": "Plástico",
+      "Cor": "preto",
+      "Dimensões do item C x L x A": "34C x 34L x 13A centímetros",
+      "Nível de resistência à água": "Não resistente à água",
+      "Número de compartimentos": "1",
+      "Recomendação de peso máximo": "12 Quilogramas",
+      "Marca": "VONDER",
+      "Dimensões do produto": "34C x 34L x 13A centímetros"
+    },
+    "affiliate_url": "https://www.amazon.com.br/Caixa-Pl%C3%A1stica-6002-Vonder-VDO2668/dp/B076YK72YJ/ref=zg_bs_g_hi_d_sccl_20/140-3942280-2013132?tag=mixdm22-20",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0GWFFY9MS",
+    "title": "Torneira Gourmet de Cozinha Parede Preta Flexível – Bica Móvel com 2 Jatos (Spray e Fluxo) – Acionamento 1/4 de Volta – Mistu",
+    "image": "https://m.media-amazon.com/images/I/71fZxXEyLIL._AC_SL1500_.jpg",
+    "canonical": null,
+    "category": "Ferramentas e Materiais de Construção",
+    "price_current": 29.99,
+    "price_original": 55.99,
+    "discount_percentage": 46.0,
+    "tem_selo_prime": false,
+    "tem_oferta": true,
+    "avaliacao": 4.6,
+    "qtd_avaliacoes": 75,
+    "coupon_code": null,
+    "description": "<ul><li>🛁 TORNEIRA GOURMET FLEXÍVEL PREMIUM – Mangueira metálica com 3 camadas de silicone emborrachado, garantindo máxima durabilidade, flexibilidade total e rotação de 360°, ideal para quem busca torneira de cozinha moderna e resistente.</li><li>💧 DUPLO JATO COM BICA CROMADA – Acabamento brilhante com corpo em metal triplo cromado, resistente à ferrugem e descamação. Oferece jato concentrado ou spray, perfeito para lavação rápida de panelas, frutas e legumes.</li><li>⚙️ CONTROLE PRECISO 1/4 DE VOLTA – Sistema de cerâmica de alta qualidade para ajuste preciso do fluxo de água, garantindo economia e facilidade no uso diário. Ideal para cozinhas gourmet e profissionais de gastronomia.</li><li>📏 DIMENSÕES E INSTALAÇÃO PRÁTICA – Altura de 45 cm e mangueira de 50 cm, montagem na parede com conexão adaptável 1/2 a 5/8. Alça em ABS de toque suave, projetada para praticidade e conforto.</li><li>🎁 IDEAL PARA PRESENTES E REFORMA DE COZINHAS – Perfeita para quem deseja modernizar a cozinha, apartamentos ou casas gourmet. Excelente opção de presente para Natal, Dia das Mães, Dia dos Pais e brindes corporativos de fim de ano, combinando design, qualidade e funcionalidade.</li></ul>",
+    "informacoes_produto": {
+      "Nome da marca": "Genérico",
+      "Componentes incluídos": "Torneira Gourmet de Cozinha Flexível Preta",
+      "Número do modelo": "1",
+      "País de origem": "China",
+      "Fabricante": "1",
+      "ASIN": "B0GWFFY9MS",
+      "Cor": "preto",
+      "Dimensões do item P x L x A": "40P x 20L x 30A milímetros",
+      "Marca": "Genérico"
+    },
+    "affiliate_url": "https://www.amazon.com.br/Torneira-Gourmet-Cozinha-Parede-Flex%C3%ADvel/dp/B0GWFFY9MS/ref=zg_bs_g_hi_d_sccl_15/140-3942280-2013132?tag=mixdm22-20",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B082WYPGVC",
+    "title": "Adesivo Instantâneo Universal Foxlux 20g Cola Rápida Multiuso",
+    "image": "https://m.media-amazon.com/images/I/41fBiThsq3L._AC_SL1000_.jpg",
+    "canonical": null,
+    "category": "Ferramentas e Materiais de Construção",
+    "price_current": 6.17,
+    "price_original": 34.9,
+    "discount_percentage": null,
+    "tem_selo_prime": false,
+    "tem_oferta": true,
+    "avaliacao": 4.7,
+    "qtd_avaliacoes": 1035,
+    "coupon_code": null,
+    "description": "<ul><li>– Tipo: Adesivo instantâneo universal</li><li>– Conteúdo: 20 g</li><li>– Dimensões da embalagem: 2,65 × 12,75 × 3,75 cm</li><li>– Dimensões da embalagem: 2,65 × 12,75 × 3,75 cm</li></ul>",
+    "informacoes_produto": {
+      "Usos específicos do produto": "Artesanato, Borracha, Cerâmica, Couro, Madeira, Metal, Plástico, Sapato, Trabalhos manuais",
+      "Formato do item": "Líquido",
+      "Características especiais": "Secagem rápida, Multiuso",
+      "Tipo de recipiente": "Garrafa",
+      "Nível de resistência à água": "Resistente à água",
+      "Nível de Viscosidade": "Alto",
+      "Compatible Material": "Borracha, Cerâmica, Couro, Madeira, Metal",
+      "Item Package Quantity": "1",
+      "Volume": "20 Mililitros",
+      "Cor": "Colorido",
+      "Brand Name": "FOXLUX",
+      "País de origem": "China",
+      "Model Number": "96.02",
+      "Contagem de unidades": "1.0 Unidade",
+      "Fabricante": "Foxlux",
+      "Part Number": "96.02",
+      "Nome do Tipo de Produto": "Adesivo Instantâneo Universal",
+      "Included Components": "Adesivo Instantâneo Universal",
+      "ASIN": "B082WYPGVC",
+      "Marca": "FOXLUX",
+      "Forma do produto": "Líquido"
+    },
+    "affiliate_url": "https://www.amazon.com.br/Foxlux-96-02-Adesivo-Instantaneo-Universal/dp/B082WYPGVC/ref=zg_bs_g_hi_d_sccl_26/140-3942280-2013132?tag=mixdm22-20",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B077VTMHXQ",
+    "title": "Fita Isolante Foxlux PVC Antichamas 10m x 19mm Preta 600V Alta Elasticidade Espessura 0,15mm",
+    "image": "https://m.media-amazon.com/images/I/61VKmSOZZnL._AC_SL1000_.jpg",
+    "canonical": null,
+    "category": "Ferramentas e Materiais de Construção",
+    "price_current": 6.34,
+    "price_original": 58.03,
+    "discount_percentage": null,
+    "tem_selo_prime": false,
+    "tem_oferta": true,
+    "avaliacao": 4.7,
+    "qtd_avaliacoes": 343,
+    "coupon_code": null,
+    "description": "<ul><li>– Material: PVC antichamas</li><li>– Cor: Preta</li><li>– Comprimento: 10 m</li><li>– Largura: 19 mm</li><li>– Espessura: 0,15 mm</li></ul>",
+    "informacoes_produto": {
+      "Brand Name": "FOXLUX",
+      "Quantidade de itens": "1",
+      "Usos recomendados do produto": "Elétrico",
+      "Contagem de unidades": "1.0 Peça",
+      "Fabricante": "Foxlux",
+      "Part Number": "24.10",
+      "Model Number": "24.10",
+      "País de origem": "China",
+      "Nome do Tipo de Produto": "Fita isolante",
+      "Included Components": "1 Fita Isolante Foxlux -10 Metros Preta",
+      "Descrição da garantia": "1 ano de garantia",
+      "ASIN": "B077VTMHXQ",
+      "Características especiais": "À prova de fogo",
+      "Nível de resistência à água": "Não resistente à água",
+      "Compatible Material": "Cloreto de polivinilo",
+      "Resistência do Produto": "Resistente a calor e chamas",
+      "Contagem de Lados Adesivos": "1",
+      "Tamanho": "10m x 19mm x 0,15mm",
+      "Cor": "Preta",
+      "Material Type": "Cloreto de polivinilo",
+      "Marca": "FOXLUX",
+      "Material": "Cloreto de polivinilo",
+      "Número de itens": "1",
+      "Adequação do controle por rádio": "Elétrico"
+    },
+    "affiliate_url": "https://www.amazon.com.br/Fita-Isolante-Mts-Preta-Unidade/dp/B077VTMHXQ/ref=zg_bs_g_hi_d_sccl_14/140-3942280-2013132?tag=mixdm22-20",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0GWY89VFX",
+    "title": "Parafusadeira e Furadeira 48V Sem Fio com Impacto Mandril 10mm Torque 32Nm 2 Baterias Recarregáveis Velocidade Variável Rever",
+    "image": "https://m.media-amazon.com/images/I/71Jdn++SpVL._AC_SL1254_.jpg",
+    "canonical": null,
+    "category": "Ferramentas e Materiais de Construção",
+    "price_current": 103.77,
+    "price_original": 114.99,
+    "discount_percentage": null,
+    "tem_selo_prime": false,
+    "tem_oferta": true,
+    "avaliacao": 4.2,
+    "qtd_avaliacoes": 57,
+    "coupon_code": null,
+    "description": "<ul><li>🔋 Alta Autonomia com 2 Baterias – Acompanha duas baterias recarregáveis que garantem mais tempo de uso contínuo, ideal para trabalhos prolongados sem interrupções</li><li>⚙️ Potência e Desempenho 48V – Motor potente com torque de até 32N.m, perfeito para perfurar e parafusar madeira, metal e superfícies diversas</li><li>🎯 Mandril 10mm de Troca Rápida – Sistema prático que facilita a troca de brocas e bits, trazendo mais agilidade e produtividade no dia a dia</li><li>🔄 Velocidade Variável e Função Reversível – Controle total com duas velocidades (0-400 / 0-1400 RPM) e reversão para apertar ou soltar parafusos com precisão</li><li>🧰 Kit Completo com Maleta – Acompanha brocas, bits, soquetes e maleta organizadora resistente para transporte fácil e armazenamento seguro</li></ul>",
+    "informacoes_produto": {
+      "Fonte de energia": "Alimentado por bateria",
+      "Velocidade máxima de rotação": "1850 RPM",
+      "Voltagem": "110 Volts, 220 Volts",
+      "Amperagem": "1 Amperes",
+      "Tamanho máximo do mandril": "10 Milímetros",
+      "Torque máximo": "38 Newton Metros",
+      "Número de velocidades": "2",
+      "Velocidade": "1850 RPM",
+      "Torque do item": "38 Newton Metros",
+      "Tipo de broca": "Broca básica",
+      "Dispositivos compatíveis": "Baterias Recarregáveis",
+      "Nome da marca": "Genérico",
+      "Componentes incluídos": "Brocas, Bits, Soquetes, Maleta",
+      "Fabricante": "Não Especificado",
+      "Contagem de unidades": "1 Kit",
+      "ASIN": "B0GWY89VFX",
+      "Cor": "Amarelo E Preto",
+      "Marca": "Genérico",
+      "Fonte de alimentação": "Alimentado por bateria",
+      "Tensão": "110 Volts, 220 Volts"
+    },
+    "affiliate_url": "https://www.amazon.com.br/Parafusadeira-Furadeira-Recarreg%C3%A1veis-Velocidade-Revers%C3%ADvel/dp/B0GWY89VFX/ref=zg_bs_g_hi_d_sccl_25/140-3942280-2013132?tag=mixdm22-20",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0DXRY7HDS",
+    "title": "Calibrador Portátil Compressor Bomba De Ar Digital Com Lanterna LED para Encher Pneus de Carro, Moto, Bike, Bicicleta, Bola e",
+    "image": "https://m.media-amazon.com/images/I/51GVX-wEbrL._AC_SL1200_.jpg",
+    "canonical": null,
+    "category": "Ferramentas e Materiais de Construção",
+    "price_current": 69.55,
+    "price_original": 4277.94,
+    "discount_percentage": null,
+    "tem_selo_prime": false,
+    "tem_oferta": true,
+    "avaliacao": 4.4,
+    "qtd_avaliacoes": 700,
+    "coupon_code": null,
+    "description": "<ul><li>⚙️ Máxima Versatilidade: Ideal para pneus de carros, motos, bicicletas, bolas e muito mais! Modos predefinidos garantem ajuste rápido e preciso para cada necessidade.</li><li>🚗 Compacto e Leve, Sempre à Mão: Seu design portátil permite armazená-lo facilmente no porta-luvas, mochila ou bagageiro, pronto para qualquer emergência na estrada.</li><li>🔋 Carregamento Rápido e Prático: Alimentado por USB Type-C, pode ser carregado no carro, casa ou até com um power bank, garantindo mobilidade total.</li><li>👌 Uso Simples e Eficiente: Com detecção automática de pressão (PSI) e ajuste digital, basta alguns cliques para inflar pneus e infláveis com rapidez e precisão.</li></ul>",
+    "informacoes_produto": {
+      "Voltagem": "110220 Volts",
+      "Usos recomendados do produto": "Enchimento dos pneus, bolas, boias e mais.",
+      "Fonte de energia": "Elétrico com fio",
+      "Nível de ruído": "70 Decibéis",
+      "Características especiais": "Digital, Luz LED, Portátil",
+      "Potência máxima": "120 Watt",
+      "Capacidade": "25 liters per minute",
+      "Capacidade do fluxo de ar": "25 Litros por minuto",
+      "Pressão operacional máxima": "150 Libras por polegada quadrada",
+      "Peso do item": "420 Gramas",
+      "Cor": "Preto",
+      "Nome da marca": "Genérico",
+      "Componentes incluídos": "Bocal, Cabo USB, Kit de bocais, Mangueira de ar, Manual do usuário",
+      "País de origem": "China",
+      "Número do modelo": "COMPRESSOR PORTÁTIL",
+      "Nome do modelo": "Mini Compressor Digital Tippi Bomba De Encher Pneus Bola Portátil Para Motocicletas Carro Bicicleta Preto Com Calibrador 127/220V",
+      "Fabricante": "Importado",
+      "Contagem de unidades": "120 PSI",
+      "ASIN": "B0DXRY7HDS",
+      "Material": "ABS",
+      "Marca": "Genérico",
+      "Tensão": "110220 Volts",
+      "Adequação do controle por rádio": "Enchimento dos pneus, bolas, boias e mais.",
+      "Fonte de alimentação": "Elétrico com fio"
+    },
+    "affiliate_url": "https://www.amazon.com.br/Calibrador-Port%C3%A1til-Compressor-Lanterna-Bicicleta/dp/B0DXRY7HDS/ref=zg_bs_g_hi_d_sccl_19/140-3942280-2013132?tag=mixdm22-20",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
+    "spotlight": true
+  },
+  {
+    "asin": "B0794668F7",
+    "title": "Vonder, Fita Dupla Face Acrílica, 12 Mm X 2 M.",
+    "image": "https://m.media-amazon.com/images/I/61BoQMcCjtL._AC_SL1000_.jpg",
+    "canonical": null,
+    "category": "Ferramentas e Materiais de Construção",
+    "price_current": 6.1,
+    "price_original": 8.4,
+    "discount_percentage": 27.0,
+    "tem_selo_prime": false,
+    "tem_oferta": true,
+    "avaliacao": 4.6,
+    "qtd_avaliacoes": 2139,
+    "coupon_code": null,
+    "description": "<ul><li>Modelo: Fita Dupla Face Acrílica</li><li>Modelo: Fita dupla face acrílica</li><li>Aplicação fácil e rápida.</li><li>Indicada para montagem e união de placas, plásticos, emblemas, fixação de artigos de metal ou plástico, cartazes e frisos automotivos.</li><li>Composição: Plástico; Adesivo acrílico</li></ul>",
+    "informacoes_produto": {
+      "Brand Name": "VONDER",
+      "Quantidade de itens": "1",
+      "Usos recomendados do produto": "plástico, metal, placa_de_reboco",
+      "Superfície Recomendada": "plástico, metal, placa_de_reboco",
+      "Fabricante": "VONDER",
+      "Part Number": "VDO2191",
+      "Model Number": "VDO2191",
+      "País de origem": "Brasil",
+      "Nome do Tipo de Produto": "Fita Dupla Face Acrílica, 12 x 2 M, Vonder VDO2191",
+      "Included Components": "1 Fita dupla face",
+      "ASIN": "B0794668F7",
+      "Características especiais": "Resistente a impactos",
+      "Nível de resistência à água": "Não resistente à água",
+      "Compatible Material": "Metal",
+      "Formato do Adesivo": "Fita Dupla Face",
+      "Contagem de Lados Adesivos": "2",
+      "Local do Adesivo": "Double Sided",
+      "Dimensões do item C x L x Espessura": "12L x 12Espessura milímetros",
+      "Tamanho": "12 X 2 M",
+      "Valor decimal da espessura do item": "1 Milímetros",
+      "Cor": "Transparente",
+      "Material Type": "Acrílico",
+      "Marca": "VONDER",
+      "Material": "Acrílico",
+      "Número de itens": "1",
+      "Adequação do controle por rádio": "plástico, metal, placa_de_reboco"
+    },
+    "affiliate_url": "https://www.amazon.com.br/Fita-Dupla-Acr%C3%ADlica-Vonder-VDO2191/dp/B0794668F7/ref=zg_bs_g_hi_d_sccl_17/140-3942280-2013132?tag=mixdm22-20",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B0GWJBSF8X",
+    "title": "Estecas ceramica fria - Kit de Ferramentas de Esculpir 30 Peças para Cerâmica Fria, Argila e Artesanato, Ferramentas Profissi",
+    "image": "https://m.media-amazon.com/images/I/61oQAPTLEwL._AC_SL1192_.jpg",
+    "canonical": null,
+    "category": "Ferramentas e Materiais de Construção",
+    "price_current": 59,
+    "price_original": 59.09,
+    "discount_percentage": null,
+    "tem_selo_prime": false,
+    "tem_oferta": true,
+    "avaliacao": 5.0,
+    "qtd_avaliacoes": 7,
+    "coupon_code": null,
+    "description": "<ul><li>Kit Completo 30 Peças para Cerâmica Fria, Argila e Porcelana: Este conjunto profissional de ferramentas de escultura, modelagem e acabamento foi desenvolvido para garantir máxima precisão nos detalhes. Ideal para trabalhos com cerâmica fria, argila e porcelana, oferece uma peça para cada necessidade do seu artesanato.</li><li>Ferramentas Dupla Face para Máxima Versatilidade: Cada esteca possui duas pontas funcionais, permitindo maior praticidade e eficiência. Com este design, você alterna entre diferentes técnicas de escultura e modelagem sem precisar trocar de ferramenta constantemente, otimizando seu fluxo de criação artística.</li><li>Design Profissional e Ergonômico – Conforto Garantido: Diferente de kits comuns, nossos cabos são resistentes e confortáveis, desenvolvidos para longas sessões de trabalho sem causar fadiga nas mãos. Ideal para artistas e artesãos que buscam durabilidade e conforto durante horas de escultura.</li><li>Material de Alta Qualidade e Fácil de Limpar – Sem Cola ou Massa Ressecada: Fabricado com materiais duráveis, este kit assegura uso contínuo e fácil manutenção. A superfície lisa das ferramentas evita o acúmulo de resíduos de cerâmica fria ou argila, limpando rapidamente com água ou pano úmido – perfeito para uso frequente sem desgaste.</li><li>Ideal para Criatividade e Artesanato – Do Iniciante ao Professor: Este conjunto atende a diversas necessidades criativas, desde escultura detalhada até modelagem artística. Perfeito para artistas, iniciantes, professores e estudantes, é a escolha certa para quem valoriza qualidade e versatilidade em cerâmica fria, argila e artesanato – garantindo altas taxas de satisfação e resultados profissionais.</li></ul>",
+    "informacoes_produto": {
+      "Fabricante": "‎AWESHINE",
+      "Certificação": "‎Nao aplicavel",
+      "Material": "‎madeira + metal",
+      "Tipo de fonte de energia": "‎Não aplicável",
+      "Número de produtos": "‎1",
+      "Componentes incluídos": "‎Kit de Ferramentas de Esculpir 30 Peças para Cerâmica Fria,",
+      "Funciona a bateria ou pilha?": "‎Não",
+      "Dimensões da embalagem": "‎23,9 x 11,5 x 4,1 cm; 310 g",
+      "ASIN": "‎B0GWJBSF8X",
+      "Marca": "‎AWESHINE",
+      "EAN": "‎0691057820941",
+      "Dimensões do pacote": "23.9 x 11.5 x 4.1 centímetros",
+      "Disponível para compra desde": "8 abril 2026"
+    },
+    "affiliate_url": "https://www.amazon.com.br/Estecas-ceramica-fria-Ferramentas-Profissionais/dp/B0GWJBSF8X/ref=zg_bs_g_hi_d_sccl_16/140-3942280-2013132?tag=mixdm22-20",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B08LP3JV5J",
+    "title": "MTX Alicate de Pressão 10\" (250 mm) Mordente Curvo – Ferramenta Profissional de Alta Resistência",
+    "image": "https://m.media-amazon.com/images/I/61urx5dpVmL._AC_SL1500_.jpg",
+    "canonical": null,
+    "category": "Ferramentas e Materiais de Construção",
+    "price_current": 19.6,
+    "price_original": 27.46,
+    "discount_percentage": 28.0,
+    "tem_selo_prime": false,
+    "tem_oferta": true,
+    "avaliacao": 4.7,
+    "qtd_avaliacoes": 586,
+    "coupon_code": null,
+    "description": "<ul><li>Alicate pressão 10\" (250 mm) – ideal para prender, segurar e apertar materiais com firmeza em diversas tarefas mecânicas e de manutenção.</li><li>Mordente curvo para melhor aderência – proporciona encaixe seguro em superfícies irregulares, garantindo estabilidade e precisão no trabalho.</li><li>Construção robusta e durável – fabricado em aço de alta resistência, garantindo longa vida útil mesmo em uso intenso.</li><li>Versátil e prático – indispensável em oficinas, indústrias e em reparos domésticos, oferecendo segurança e confiabilidade.</li><li>Qualidade MTX – marca reconhecida por produzir alicates de pressão e ferramentas confiáveis para profissionais e entusiastas do faça você mesmo.</li></ul>",
+    "informacoes_produto": {
+      "Nome da marca": "Mtx",
+      "Nome do Tipo de Produto": "ALICATE",
+      "País de origem": "China",
+      "Componentes incluídos": "ALICATE",
+      "Fabricante": "MTX",
+      "ASIN": "B08LP3JV5J",
+      "Material": "Liga de aço",
+      "Cor": "VERMELHO/PRETO",
+      "Tipo de cabo": "Ergonômico",
+      "Marca": "Mtx",
+      "Tipo de empunhadura": "Ergonômico"
+    },
+    "affiliate_url": "https://www.amazon.com.br/Alicate-Press%C3%A3o-250Mm-Mordente-Curvo/dp/B08LP3JV5J/ref=zg_bs_g_hi_d_sccl_21/140-3942280-2013132?tag=mixdm22-20",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B07DCWV2TQ",
+    "title": "3M, Feltro Sintético Adesivo para Móveis Leves Scotch, Quadrado, Marrom, Pequeno, 12 Unidades",
+    "image": "https://m.media-amazon.com/images/I/81IGAoo7yhL._AC_SL1500_.jpg",
+    "canonical": null,
+    "category": "Ferramentas e Materiais de Construção",
+    "price_current": 6.99,
+    "price_original": 8.9,
+    "discount_percentage": 21.0,
+    "tem_selo_prime": false,
+    "tem_oferta": true,
+    "avaliacao": 4.8,
+    "qtd_avaliacoes": 2369,
+    "coupon_code": null,
+    "description": "<ul><li>PROTEJA SEU PISO. O Protetor de Feltro Scotch 3M é a solução ideal para proteger pisos de madeira, vinílicos, cerâmicos ou laminados de forma discreta e eficiente.</li><li>ALTA QUALIDADE E ADERÊNCIA. Fabricado com feltro sintético de alta resistência, este protetor garante durabilidade e proteção superior, além de um adesivo de alta fixação para longa duração.</li><li>FÁCIL DE USAR. Com formato quadrado e tamanho pequeno (2,5 x 2,5 cm), é perfeito para móveis leves como cadeiras, mesas, pufes e banquetas.</li><li>O QUE ESTÁ INCLUÍDO. Este pacote contém 12 feltros protetores autocolantes, na cor marrom, prontos para serem aplicados nos pés de seus móveis.</li><li>CIÊNCIA APLICADA À VIDA. A 3M é uma multinacional que, por meio de suas marcas, oferece soluções sustentáveis que otimizam o tempo e a energia das pessoas, melhorando suas vidas diariamente.</li></ul>",
+    "informacoes_produto": {
+      "Nome da marca": "Scotch",
+      "Contagem de unidades": "12 count",
+      "Fabricante": "3M",
+      "Número da peça": "HB004262661",
+      "Número do modelo": "HB004262661",
+      "Componentes incluídos": "não se aplica",
+      "Nome do Tipo de Produto": "Feltro Anti-Risco 3M Scotch® Marrom Quadrado - Tamanho Pequeno",
+      "País de origem": "China",
+      "Descrição da garantia": "Com o fabricante",
+      "Peso do item": "1 Gramas",
+      "ASIN": "B07DCWV2TQ",
+      "Superfície Recomendada": "Piso de Madeira, Laminado, Azulejo",
+      "Usos recomendados do produto": "móveis de madeira, laminado, azulejo",
+      "Tipo de fixação": "Removível",
+      "Dimensões do item C x L x Espessura": "25C x 25L x 25Espessura milímetros",
+      "Quantidade de itens": "12",
+      "Número de peças": "12",
+      "Cor": "Marrom",
+      "Formato do item": "Quadrado",
+      "Material": "Flanela",
+      "Marca": "Scotch",
+      "Recomendação de superfície": "Piso de Madeira, Laminado, Azulejo",
+      "Forma": "Quadrado"
+    },
+    "affiliate_url": "https://www.amazon.com.br/Feltro-Anti-Risco-Scotch-Marrom-Quadrado/dp/B07DCWV2TQ/ref=zg_bs_g_hi_d_sccl_22/140-3942280-2013132?tag=mixdm22-20",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -19405,7 +19325,43 @@ const PRODUCTS = [
       "Dimensões do item C x L x A": "8,5 x 26 x 20,5 centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/Fechadura-Digital-Sobrepor-Intelbras-1000/dp/B08MV1F8VV/ref=zg_bs_g_hi_d_sccl_27/146-4195612-0631345?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B089DJVFCP",
+    "title": "EsfreBom - Prendedor Plástico Basic, Embalagem com 16 Unidades, Cores Rosa, Tifanny, Cinza e Roxo, Bettanin",
+    "image": "https://m.media-amazon.com/images/I/81uUEjBsvfL._AC_SL1500_.jpg",
+    "canonical": null,
+    "category": "Ferramentas e Materiais de Construção",
+    "price_current": 10.2,
+    "price_original": 10.2,
+    "discount_percentage": 10.0,
+    "tem_selo_prime": false,
+    "tem_oferta": true,
+    "avaliacao": 4.7,
+    "qtd_avaliacoes": 874,
+    "coupon_code": null,
+    "description": "<ul><li>Firmeza na medida certa.</li><li>Produzido em material resistente e duradouro.</li><li>Segura as roupas penduradas sem marcá-las.</li><li>Indicado para uso em qualquer tipo de tecido.</li><li>Fácil de manusear.</li></ul>",
+    "informacoes_produto": {
+      "Nome da marca": "Bettanin",
+      "Fabricante": "Bettanin",
+      "Número do modelo": "BT3501",
+      "Número da peça": "BT3501",
+      "País de origem": "China",
+      "Nome do Tipo de Produto": "Conjunto de Prendedores Plásticos Basic, Com 16 Unidades, Cores Rosa, Tifanny, Cinza e Roxo, Linha Esfrebom, Bettanin.",
+      "Componentes incluídos": "Conjunto com 16 prendedores plásticos.",
+      "ASIN": "B089DJVFCP",
+      "Peso do item": "80 Gramas",
+      "Número de peças": "16",
+      "Cor": "Rosa, Tifanny, Cinza e Roxo",
+      "Estilo": "Plástico",
+      "Material": "Plástico",
+      "Marca": "Bettanin",
+      "Peso do produto": "80 Gramas"
+    },
+    "affiliate_url": "https://www.amazon.com.br/Prendedor-Pl%C3%A1stico-Embalagem-Unidades-Esfrebom/dp/B089DJVFCP/ref=zg_bs_g_hi_d_sccl_24/140-3942280-2013132?tag=mixdm22-20",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   },
   {
@@ -19443,7 +19399,51 @@ const PRODUCTS = [
       "Fonte de alimentação": "Elétrico com fio"
     },
     "affiliate_url": "https://www.amazon.com.br/Esmerilhadeira-Bosch-GWS-710W-220V/dp/B09QRQQY4S/ref=zg_bs_g_hi_d_sccl_29/146-4195612-0631345?tag=mixdm22-20",
-    "last_checked_at": "2026-07-20T11:30:18.000Z",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
+    "spotlight": false
+  },
+  {
+    "asin": "B07KJFV6C2",
+    "title": "Adesivo Instantâneo 793 20g Blister Incolor",
+    "image": "https://m.media-amazon.com/images/I/41eWgDxRYoL._AC_SL1000_.jpg",
+    "canonical": null,
+    "category": "Ferramentas e Materiais de Construção",
+    "price_current": 9.99,
+    "price_original": 14.35,
+    "discount_percentage": 30.0,
+    "tem_selo_prime": false,
+    "tem_oferta": true,
+    "avaliacao": 4.8,
+    "qtd_avaliacoes": 2617,
+    "coupon_code": null,
+    "description": "<ul><li>Adesivo Instantâneo</li><li>Bico Antientupimento</li><li>Cianoacrilato Tekbond, como também é conhecido, é isento de solventes, não requer mistura, tem alta velocidade de cura e forte resistência.</li><li>Adesivo multiuso de Media viscosidade - Adere diversos tipos de materiais, como compostos de borracha, EPDM, borracha nitrílica, neoprene, EVA e Viton.</li><li>Adesivo multiuso - Adere diversos tipos de materiais, como compostos de borracha, EPDM, borracha nitrílica, neoprene, EVA e Viton.</li></ul>",
+    "informacoes_produto": {
+      "Usos específicos do produto": "Pessoal, Amador, Profissional, Artesão",
+      "Formato do item": "Líquido",
+      "Tipo de recipiente": "Seringa",
+      "Valor decimal do tempo de cura total": "20 Segundos",
+      "Nível de resistência à água": "Não resistente à água",
+      "Nível de Viscosidade": "Média",
+      "Compatible Material": "Madeira, Metais, Borracha",
+      "Item Package Quantity": "1",
+      "Volume": "20 Mililitros",
+      "Material Type": "Etilcianoacrilato, Hidroquinona, Polimetilmetacrilato",
+      "Cor": "Incolor",
+      "Brand Name": "TEK BOND",
+      "País de origem": "China",
+      "Model Number": "20571002802",
+      "Contagem de unidades": "1 Peça",
+      "Fabricante": "Tekbond",
+      "Part Number": "20571002802",
+      "Nome do Tipo de Produto": "Adesivo Instantâneo TekBond 793",
+      "Descrição da garantia": "Com o fabricante para defeito fabricação",
+      "ASIN": "B07KJFV6C2",
+      "Marca": "TEK BOND",
+      "Material": "Etilcianoacrilato, Hidroquinona, Polimetilmetacrilato",
+      "Forma do produto": "Líquido"
+    },
+    "affiliate_url": "https://www.amazon.com.br/Cola-Instant%C3%A2nea-Multiuso-793-Incolor/dp/B07KJFV6C2/ref=zg_bs_g_hi_d_sccl_23/140-3942280-2013132?tag=mixdm22-20",
+    "last_checked_at": "2026-07-20T11:30:26.000Z",
     "spotlight": false
   }
 ];
