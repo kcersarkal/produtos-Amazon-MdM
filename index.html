@@ -839,7 +839,7 @@ function sharePedidoWhatsApp(id) {
   const pedidos = window.PEDIDOS || [];
   const p = pedidos.find(item => (item.id||item.asin) === id);
   if (!p) return;
-  const productUrl = `${window.location.origin}${window.location.pathname}?pedido=${p.asin||p.id}`;
+  const productUrl = p.link || `${window.location.origin}${window.location.pathname}?pedido=${p.asin||p.id}`;
   const text = `🛒 *${p.titulo}*${p.preco ? `\n\n*R$ ${fmtPrice(p.preco)}*` : ""}\n\n${productUrl}`;
   window.open(`https://wa.me/?text=${encodeURIComponent(text)}`, "_blank");
 }
@@ -848,7 +848,7 @@ function copyPedidoLink(id) {
   const pedidos = window.PEDIDOS || [];
   const p = pedidos.find(item => (item.id||item.asin) === id);
   if (!p) return;
-  const productUrl = `${window.location.origin}${window.location.pathname}?pedido=${p.asin||p.id}`;
+  const productUrl = p.link || `${window.location.origin}${window.location.pathname}?pedido=${p.asin||p.id}`;
   const btn = event.currentTarget;
   const original = btn.innerHTML;
   if (navigator.clipboard && navigator.clipboard.writeText) {
