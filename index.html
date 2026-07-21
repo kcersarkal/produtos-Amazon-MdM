@@ -4,14 +4,14 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Mix Du Mix ofertas | As melhores ofertas todos os dias</title>
-<meta name="description" content="Ofertas selecionadas da Amazon, atualizadas o dia todo. PreÃ§os verificados, cupons e descontos reais.">
+<meta name="description" content="Ofertas selecionadas da Amazon, atualizadas o dia todo. Preços verificados, cupons e descontos reais.">
 <meta name="robots" content="index, follow">
 <link rel="canonical" href="https://kcersarkal.github.io/mixdumix-store/">
 
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="Mix Du Mix Ofertas">
 <meta property="og:title" content="Mix Du Mix ofertas | As melhores ofertas todos os dias">
-<meta property="og:description" content="Ofertas selecionadas da Amazon, atualizadas o dia todo. PreÃ§os verificados, cupons e descontos reais.">
+<meta property="og:description" content="Ofertas selecionadas da Amazon, atualizadas o dia todo. Preços verificados, cupons e descontos reais.">
 <meta property="og:url" content="https://kcersarkal.github.io/mixdumix-store/">
 <meta property="og:image" content="https://kcersarkal.github.io/mixdumix-store/assets/logo.png">
 <meta property="og:locale" content="pt_BR">
@@ -280,6 +280,9 @@ a { text-decoration:none; color:inherit; }
   <section data-view="home" class="active">
     <div class="spotlight" id="spotlight-slot"></div>
 
+    <div class="section-heading" style="margin-bottom:8px;">
+      <h2 style="font-size:14px;color:var(--gray-text-light);font-weight:500;font-family:var(--font-body);">Ofertas Amazon Atualizadas Diariamente</h2>
+    </div>
     <div class="section-heading">
       <h2>Todas as ofertas</h2>
       <span class="count" id="product-count"></span>
@@ -413,7 +416,7 @@ function priceNumber(value) {
 }
 function fmtPrice(value) {
   const price = priceNumber(value);
-  return price === null ? "IndisponÃ­vel" : price.toLocaleString("pt-BR", { minimumFractionDigits:2, maximumFractionDigits:2 });
+  return price === null ? "Indisponível" : price.toLocaleString("pt-BR", { minimumFractionDigits:2, maximumFractionDigits:2 });
 }
 function discountPercent(p) {
   const current = priceNumber(p.price_current);
@@ -425,14 +428,14 @@ function discountPercent(p) {
 function hoursSince(iso) { return (Date.now() - new Date(iso).getTime()) / 36e5; }
 function starRow(r) { const f = Math.round(r); return "★".repeat(f) + "★".repeat(5-f); }
 
-// Camada de seguranÃ§a: nunca renderiza um link sem a tag correta.
+// Camada de segurança: nunca renderiza um link sem a tag correta.
 function ensureAffiliateTag(url) {
   try {
     const u = new URL(url);
     if (u.searchParams.get("tag") !== AFFILIATE_TAG) u.searchParams.set("tag", AFFILIATE_TAG);
     return u.toString();
   } catch (e) {
-    console.error("URL de afiliado invÃ¡lida, produto descartado:", url);
+    console.error("URL de afiliado invílida, produto descartado:", url);
     return null;
   }
 }
@@ -756,7 +759,7 @@ function renderProduct(asin) {
   if (!p) {
     container.innerHTML = `
       <div class="empty-state">
-        <h2>Essa oferta nÃ£o estÃ¡ mais disponÃ­vel</h2>
+        <h2>Essa oferta não estí mais disponível</h2>
         <p>Ela pode ter expirado ou o estoque acabou. Volte para a home e confira outras ofertas ativas.</p>
         <button class="btn btn-primary" style="margin-top:16px;" onclick="navigate('home')">Ver todas as ofertas</button>
       </div>`;
@@ -951,8 +954,8 @@ function copyCoupon(event, code) {
   });
 }
 
-// NavegaÃ§Ã£o SPA simples (sem recarregar pÃ¡gina, sem precisar de servidor)
-let previousMainView = "home"; // guarda a Ãºltima pÃ¡gina visitada (nÃ£o-produto)
+// Navegação SPA simples (sem recarregar pígina, sem precisar de servidor)
+let previousMainView = "home"; // guarda a última pígina visitada (não-produto)
 
 function goBack() {
   navigate(previousMainView);
