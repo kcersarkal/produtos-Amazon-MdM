@@ -25,5 +25,14 @@ window.PEDIDOS = [
     "preco": 2564.05,
     "link": "https://www.amazon.com.br/dp/B0GSW85QGL?tag=mixstore04b3-20&ref_=mixdumix_pedido",
     "descricao": "CONFORTO AJUSTÁVEL: Encosto super acolchoado com múltiplas posições de reclinação, incluindo modo totalmente plano, ideal para sonecas e passeios.. DOBRÁVEL E COMPACTO: Dimensões dobrado de 56,0 x 51,0 x 31,5 cm e peso de apenas 7,3 kg, facilitando o transporte e armazenamento.. SEGURANÇA COMPLETA: Arnês de 5 pontos ajustável com fivelas magnéticas e barra de proteção removível e articulada para maior segurança do bebê.. CAPOTA COM PROTEÇÃO UV 50+: Capota dobrável com proteção solar UV 50+ protege o bebê dos raios solares durante os passeios ao ar livre.. ESTRUTURA EM ALUMÍNIO: Estrutura leve em alumínio com cobertura têxtil removível em 100% poliéster, de fácil limpeza e manutenção."
+  },
+  {
+    "id": "B0H4JJ3W4P",
+    "asin": "B0H4JJ3W4P",
+    "titulo": "Meia Divertida 3D Cano Alto Infantil, Multicolorida, 55% Poliamida 43% Algodão, Unissex, Estilo Moderno (Coelhinha)",
+    "imagem": "https://m.media-amazon.com/images/I/61a19GTaOKL._AC_SL1402_.jpg",
+    "preco": 27.94,
+    "link": "https://www.amazon.com.br/dp/B0H4JJ3W4P?tag=mixstore04b3-20&ref_=mixdumix_pedido",
+    "descricao": ""
   }
 ];
