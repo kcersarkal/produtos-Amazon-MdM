@@ -16,7 +16,7 @@ const PRODUCTS = [
     "description": "Adquira o Fogão Elétrico Portátil Elgin Double Cook 2 Bocas (220V) na Amazon por apenas R$ 84.90! Sua alta avaliação (4.5/5) e mais de mil reviews confirmam a qualidade e praticidade, entregues com a confiabilidade da Amazon para sua cozinha.",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B0DCLXRD5X?tag=mixdm22-20",
-    "last_checked_at": "2026-07-21T01:14:03.000Z",
+    "last_checked_at": "2026-07-21T01:15:10.639864+00:00",
     "spotlight": true
   },
   {
@@ -36,7 +36,7 @@ const PRODUCTS = [
     "description": "Garanta ar puro e estilo na sua cozinha com o Depurador Suggar Slim 60cm preto 3 velocidades. Comprovado por mais de 5 mil avaliações positivas (4.6/5) e disponível na Amazon por R$ 311,99, você adquire um produto de alta confiança e excelente custo-benefício.",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B0B3SJ345V?tag=mixdm22-20",
-    "last_checked_at": "2026-07-21T01:14:03.000Z",
+    "last_checked_at": "2026-07-21T01:15:10.639864+00:00",
     "spotlight": true
   },
   {
@@ -56,7 +56,7 @@ const PRODUCTS = [
     "description": "Com este suporte ajustável e robusto para até 200kg, você move facilmente geladeiras e outros eletrodomésticos pesados com total segurança e praticidade, por apenas R$ 29,89. Sua alta aprovação de 4.2/5 em 678 avaliações na Amazon garante uma compra confiável.",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B0FP1251TD?tag=mixdm22-20",
-    "last_checked_at": "2026-07-21T01:14:03.000Z",
+    "last_checked_at": "2026-07-21T01:15:10.639864+00:00",
     "spotlight": true
   },
   {
@@ -76,7 +76,7 @@ const PRODUCTS = [
     "description": "Adquira o Depurador de Ar Suggar Slim 80cm por R$ 385,00 na Amazon e tenha a certeza de um produto bem avaliado, com impressionantes 4.6/5 estrelas em mais de 2100 reviews. Essa popularidade atesta a qualidade e confiabilidade, aliadas à segurança e praticidade que só a compra online na Amazon oferece.",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B0B3SHMB2W?tag=mixdm22-20",
-    "last_checked_at": "2026-07-21T01:14:03.000Z",
+    "last_checked_at": "2026-07-21T01:15:10.639864+00:00",
     "spotlight": true
   },
   {
@@ -96,7 +96,7 @@ const PRODUCTS = [
     "description": "Garanta um ambiente livre de odores no seu banheiro e pia com os sacos de lixo Dover-Roll Odor Defense Pure Fresh. Com uma incrível avaliação de 4.8/5 por mais de 9 mil clientes e o preço de R$14.99, é a escolha inteligente e confiável para sua casa, com a praticidade da Amazon.",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B0876YDWVC?tag=mixdm22-20",
-    "last_checked_at": "2026-07-21T01:14:03.000Z",
+    "last_checked_at": "2026-07-21T01:15:10.639864+00:00",
     "spotlight": true
   },
   {
@@ -116,7 +116,7 @@ const PRODUCTS = [
     "description": "A Máquina de Lavar Electrolux 11kg Essential Care é uma excelente escolha na Amazon, com aprovação de 4.8/5 estrelas de 664 clientes. Garanta a sua com a segurança e praticidade da compra online.",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B084R94R4S?tag=mixdm22-20",
-    "last_checked_at": "2026-07-21T01:14:03.000Z",
+    "last_checked_at": "2026-07-21T01:15:10.639864+00:00",
     "spotlight": true
   },
   {
@@ -136,7 +136,7 @@ const PRODUCTS = [
     "description": "Proteja suas roupas delicadas na máquina com o Kit 3 Sacos Oikos, altamente avaliado (4.7/5) por milhares de clientes na Amazon. Por apenas R$ 25,00, garanta a durabilidade de camisetas e roupas íntimas com a praticidade e confiança de comprar na Amazon.",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B086WWQX1S?tag=mixdm22-20",
-    "last_checked_at": "2026-07-21T01:14:03.000Z",
+    "last_checked_at": "2026-07-21T01:15:10.639864+00:00",
     "spotlight": false
   },
   {
@@ -156,7 +156,7 @@ const PRODUCTS = [
     "description": "Adquira a Máquina de Lavar Panasonic 15kg com Função Vanish na Amazon e desfrute de alta capacidade e tecnologia para roupas impecáveis. A excelente avaliação de 4.6/5 em 224 reviews garante a escolha de um produto de qualidade comprovada, com a segurança e praticidade da compra online.",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B00HGNXC8Q?tag=mixdm22-20",
-    "last_checked_at": "2026-07-21T01:14:03.000Z",
+    "last_checked_at": "2026-07-21T01:15:10.639864+00:00",
     "spotlight": false
   },
   {
@@ -176,7 +176,7 @@ const PRODUCTS = [
     "description": "Estabilize e eleve lavadoras, secadoras ou geladeiras com este pacote de 4 calços de borracha da Amazon. Por apenas R$ 14.49, sua alta avaliação de 4.2/5 de milhares de clientes prova ser uma solução eficaz e econômica para reduzir vibrações.",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B08NWQHGR4?tag=mixdm22-20",
-    "last_checked_at": "2026-07-21T01:14:03.000Z",
+    "last_checked_at": "2026-07-21T01:15:10.639864+00:00",
     "spotlight": false
   },
   {
@@ -196,7 +196,7 @@ const PRODUCTS = [
     "description": "Proteja sua máquina de lavar Brastemp, Electrolux ou Consul de diversas capacidades com esta capa impermeável e forrada. Garanta uma compra segura e confiável na Amazon, com um produto de ótimo custo-benefício e mais de mil avaliações positivas (4.4/5).",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B0D7NPF9Z2?tag=mixdm22-20",
-    "last_checked_at": "2026-07-21T01:14:03.000Z",
+    "last_checked_at": "2026-07-21T01:15:10.639864+00:00",
     "spotlight": false
   },
   {
@@ -216,7 +216,7 @@ const PRODUCTS = [
     "description": "Não perca a chance de adquirir a Máquina de Lavar Electrolux LED17 de 17kg na Amazon, com Cesto Inox, Jet&Clean e Ultra Filter. Aproveite a confiança de 170 avaliações de 4.7/5 para garantir tecnologia e alta capacidade, entregues com a praticidade e segurança que só a Amazon oferece.",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B09B929QDL?tag=mixdm22-20",
-    "last_checked_at": "2026-07-21T01:14:03.000Z",
+    "last_checked_at": "2026-07-21T01:15:10.639864+00:00",
     "spotlight": false
   },
   {
@@ -236,7 +236,7 @@ const PRODUCTS = [
     "description": "A Lavadora Suggar Lavamax Eco 20KG, com preço imperdível de R$ 659,00 na Amazon, oferece máxima capacidade e eficiência para suas roupas. Sua alta avaliação de 4.5/5 por quase mil clientes atesta a qualidade e confiabilidade de uma compra inteligente.",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B0BSR6FFD8?tag=mixdm22-20",
-    "last_checked_at": "2026-07-21T01:14:03.000Z",
+    "last_checked_at": "2026-07-21T01:15:10.639864+00:00",
     "spotlight": false
   },
   {
@@ -256,7 +256,7 @@ const PRODUCTS = [
     "description": "Compre o Refil Filtro Vela Purificador Soft Everest Original na Amazon e descubra a diferença de qualidade em sua vida diária! Com uma avaliação incrível de 4,9/5 e mais de 1.083 reviews, esse filtro purificador é uma escolha segura e eficaz para manter seu lar limpo e saudável.",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B07CZ3R2P8?tag=mixdm22-20",
-    "last_checked_at": "2026-07-21T01:14:03.000Z",
+    "last_checked_at": "2026-07-21T01:15:10.639864+00:00",
     "spotlight": false
   },
   {
@@ -276,7 +276,7 @@ const PRODUCTS = [
     "description": "Proteja seu eletrodoméstico valioso com este protetor contra quedas e surtos de energia 127V, disponível na Amazon. Por apenas R$ 45,14 e com uma avaliação de 4.5/5 estrelas de milhares de clientes, é a escolha inteligente para garantir a durabilidade da sua geladeira ou freezer.",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B0798XT2VK?tag=mixdm22-20",
-    "last_checked_at": "2026-07-21T01:14:03.000Z",
+    "last_checked_at": "2026-07-21T01:15:10.639864+00:00",
     "spotlight": false
   },
   {
@@ -296,7 +296,7 @@ const PRODUCTS = [
     "description": "Adquira a Lava-Louças Electrolux 14 Serviços Inox com Programa Lava e Seca na Amazon para garantir um eletrodoméstico de alta qualidade, elogiado com 4.6/5 estrelas por 55 compradores, desfrutando da confiabilidade Electrolux com a entrega segura da plataforma.",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B0FLQJJ47J?tag=mixdm22-20",
-    "last_checked_at": "2026-07-21T01:14:03.000Z",
+    "last_checked_at": "2026-07-21T01:15:10.639864+00:00",
     "spotlight": false
   },
   {
@@ -316,7 +316,7 @@ const PRODUCTS = [
     "description": "Adquira o Cooktop a Gás Mondial CTG-01 na Amazon por R$ 349,00 e tenha a certeza de um eletrodoméstico com excelente custo-benefício. Com uma notável avaliação de 4.7/5 de mais de 5.500 reviews, é a escolha ideal para uma cozinha moderna e confiável.",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B085JFRRSW?tag=mixdm22-20",
-    "last_checked_at": "2026-07-21T01:14:03.000Z",
+    "last_checked_at": "2026-07-21T01:15:10.639864+00:00",
     "spotlight": false
   },
   {
@@ -336,7 +336,7 @@ const PRODUCTS = [
     "description": "Garanta o Cooktop Fischer 5 bocas, um eletrodoméstico com impressionante aprovação de 4.5/5 em 2017 avaliações, por R$ 979.90 na Amazon. Adquira a qualidade comprovada da mesa inox bivolt com a confiança de milhares de consumidores satisfeitos.",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B07GWXBGYS?tag=mixdm22-20",
-    "last_checked_at": "2026-07-21T01:14:03.000Z",
+    "last_checked_at": "2026-07-21T01:15:10.639864+00:00",
     "spotlight": false
   },
   {
@@ -356,7 +356,7 @@ const PRODUCTS = [
     "description": "Adquira o Cooktop 4 Bocas Itatiaia Essencial na Amazon e desfrute de um excelente produto com mesa de vidro temperado e acendimento automático por apenas R$ 319,00. A alta avaliação de 4.8/5 em mais de 1300 reviews, aliada à praticidade e segurança da compra na Amazon, garante uma escolha inteligente.",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B0B7C9HXGL?tag=mixdm22-20",
-    "last_checked_at": "2026-07-21T01:14:03.000Z",
+    "last_checked_at": "2026-07-21T01:15:10.639864+00:00",
     "spotlight": false
   },
   {
@@ -376,7 +376,7 @@ const PRODUCTS = [
     "description": "Adquira na Amazon a Máquina de Lavar Brastemp 14kg, com Smart Sensor e Função Reduzir Tempo, aproveitando a praticidade da compra online e a confiança de um produto já avaliado em 4.8/5 por clientes satisfeitos.",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B0G3Y8Y619?tag=mixdm22-20",
-    "last_checked_at": "2026-07-21T01:14:03.000Z",
+    "last_checked_at": "2026-07-21T01:15:10.639864+00:00",
     "spotlight": false
   },
   {
@@ -396,7 +396,7 @@ const PRODUCTS = [
     "description": "Adquira na Amazon o Depurador de Ar Suggar Slim Inox e purifique sua cozinha com um design de embutir elegante, desfrutando da alta aprovação de 4.7/5 de quase mil clientes e da comodidade de uma compra segura online.",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B0816YJYQB?tag=mixdm22-20",
-    "last_checked_at": "2026-07-21T01:14:03.000Z",
+    "last_checked_at": "2026-07-21T01:15:10.639864+00:00",
     "spotlight": false
   },
   {
@@ -416,7 +416,7 @@ const PRODUCTS = [
     "description": "Compre a Samsung Lava e Seca WD11M na Amazon e invista em um eletrodoméstico 2 em 1 com Digital Inverter, comprovado pela alta avaliação 4.7/5 de 517 clientes. Tenha a certeza de uma compra segura e a praticidade de lavar e secar com eficiência em um único aparelho.",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B0B61WJRY5?tag=mixdm22-20",
-    "last_checked_at": "2026-07-21T01:14:03.000Z",
+    "last_checked_at": "2026-07-21T01:15:10.639864+00:00",
     "spotlight": false
   },
   {
@@ -436,7 +436,7 @@ const PRODUCTS = [
     "description": "Aproveite a Máquina de Lavar Electrolux 15kg na Amazon, uma escolha inteligente com Cesto Inox e Jet&Clean, respaldada por uma impressionante avaliação de 4.8/5 de 857 clientes, garantindo qualidade e satisfação em sua casa.",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B09B8W3KQP?tag=mixdm22-20",
-    "last_checked_at": "2026-07-21T01:14:03.000Z",
+    "last_checked_at": "2026-07-21T01:15:10.639864+00:00",
     "spotlight": false
   },
   {
@@ -456,7 +456,7 @@ const PRODUCTS = [
     "description": "Compre este suporte C/Rodinhas Base Ajustável Máquina Lavar Fogão Geladeira Móveis Resistente Reforçado na Amazon e aproveite as vantagens de comprar em uma das maiores lojas online do mundo! Com uma avaliação impressionante de 4,3/5 com mais de 2.800 reviews, você pode ter certeza de que está fazendo uma compra segura e confiável.",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B0BTZBQDMC?tag=mixdm22-20",
-    "last_checked_at": "2026-07-21T01:14:03.000Z",
+    "last_checked_at": "2026-07-21T01:15:10.639864+00:00",
     "spotlight": false
   },
   {
@@ -476,7 +476,7 @@ const PRODUCTS = [
     "description": "Comprar o Frigobar 93 Litros Inverter Bivolt Branco, Midea da Amazon oferece uma ótima oportunidade de obter um produto de alta qualidade a um preço competitivo. Com uma avaliação de 4,2/5 e mais de 285 reviews, você pode confiar que está fazendo uma escolha segura e eficaz para suas necessidades de armazenamento de alimentos.",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B0FJJ3YY9B?tag=mixdm22-20",
-    "last_checked_at": "2026-07-21T01:14:03.000Z",
+    "last_checked_at": "2026-07-21T01:15:10.639864+00:00",
     "spotlight": false
   },
   {
@@ -496,7 +496,7 @@ const PRODUCTS = [
     "description": "Comprar a Secadora de Roupa Mueller Solaris 8Kg 220V da Amazon é uma ótima escolha para quem busca uma solução eficiente e prática para secar sua roupa, especialmente em dias chuvosos ou com pouca luz solar. Com uma avaliação impressionante de 4,9/5 e mais de 286 reviews positivos, você pode confiar que está adquirindo um produto de qualidade e confiável.",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B07Q6LVF9J?tag=mixdm22-20",
-    "last_checked_at": "2026-07-21T01:14:03.000Z",
+    "last_checked_at": "2026-07-21T01:15:10.639864+00:00",
     "spotlight": false
   },
   {
@@ -516,7 +516,7 @@ const PRODUCTS = [
     "description": "Comprar o Freezer Horizontal 100L Inverter Bivolt Branco Midea da Amazon é uma ótima escolha para quem procura um produto de qualidade e confiável. Com uma avaliação impressionante de 4,6/5 e 59 reviews positivos, você pode ter certeza de que está investindo em um produto que atende às suas necessidades, oferecendo uma excelente combinação de desempenho, segurança e conveniência.",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B0FK163DY6?tag=mixdm22-20",
-    "last_checked_at": "2026-07-21T01:14:03.000Z",
+    "last_checked_at": "2026-07-21T01:15:10.639864+00:00",
     "spotlight": false
   },
   {
@@ -536,7 +536,7 @@ const PRODUCTS = [
     "description": "Comprar a Colormaq Maquina de Lavar Roupa Semi Automatica Tanquinho 20kg LCS20 Branco 220v na Amazon oferece uma ótima oportunidade para economizar dinheiro e ter um produto confiável. Com uma avaliação impressionante de 4,8/5 com mais de 2400 reviews, você pode ter certeza de que está fazendo uma escolha inteligente, pois este produto é amplamente apreciado por seus clientes satisfeitos.",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B09KYJBZHS?tag=mixdm22-20",
-    "last_checked_at": "2026-07-21T01:14:03.000Z",
+    "last_checked_at": "2026-07-21T01:15:10.639864+00:00",
     "spotlight": false
   },
   {
@@ -556,7 +556,7 @@ const PRODUCTS = [
     "description": "Comprar a centrifuga de roupas Giromax 15kg da Amazon oferece uma experiência segura e confiável, com avaliações positivas de 4,4/5 de 406 reviews que atestam sua eficácia e durabilidade. Com um preço acessível de R$ 443,33, você pode aproveitar essa solução para manter suas roupas limpas e organizadas sem gastar muito dinheiro.",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B0BVNK3QD5?tag=mixdm22-20",
-    "last_checked_at": "2026-07-21T01:14:03.000Z",
+    "last_checked_at": "2026-07-21T01:15:10.639864+00:00",
     "spotlight": false
   },
   {
@@ -576,7 +576,7 @@ const PRODUCTS = [
     "description": "Comprar o Sugar Depurador Coifa de Ar Slim 80cm Inox 110V DPS181IX da Amazon oferece várias vantagens, como a garantia de uma compra segura e confiável, além de um preço competitivo de R$ 509,00. Com uma avaliação impressionante de 4,5/5 com 1324 reviews, você pode ter certeza de que está fazendo uma escolha excelente para seu depurador de ar.",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B0B3SHRP7S?tag=mixdm22-20",
-    "last_checked_at": "2026-07-21T01:14:03.000Z",
+    "last_checked_at": "2026-07-21T01:15:10.639864+00:00",
     "spotlight": false
   },
   {
@@ -596,7 +596,7 @@ const PRODUCTS = [
     "description": "Comprar este fogão da Amazon é uma excelente escolha, pois oferece uma combinação perfeita de qualidade e preço. Com sua avaliação de 4,6/5 e 97 reviews, você pode ter certeza de que está investindo em um produto confiável e eficiente, com a possibilidade de aproveitar benefícios como entrega rápida e seguro.",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B0FVPMV5D8?tag=mixdm22-20",
-    "last_checked_at": "2026-07-21T01:14:03.000Z",
+    "last_checked_at": "2026-07-21T01:15:10.639864+00:00",
     "spotlight": false
   },
   {
@@ -616,7 +616,7 @@ const PRODUCTS = [
     "description": "Adquira o Refil Original Acqua Pure Electrolux na Amazon e desfrute da pureza da água, com a confiança de mais de 3700 avaliações 4.8/5. Garanta compatibilidade e performance superior para seu purificador, com toda a comodidade e segurança da compra online.",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B0F256HPZJ?tag=mixdm22-20",
-    "last_checked_at": "2026-07-21T01:14:03.000Z",
+    "last_checked_at": "2026-07-21T01:15:10.639864+00:00",
     "spotlight": false
   },
   {
@@ -636,7 +636,7 @@ const PRODUCTS = [
     "description": "A Sanduicheira Cadence Click 220V, disponível na Amazon por R$ 88,90, é a escolha ideal para sua cozinha. Com uma impressionante avaliação de 4.8/5 de mais de 13 mil clientes, você garante praticidade e satisfação comprovadas.",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B0CDJ5DQ7M?tag=mixdm22-20",
-    "last_checked_at": "2026-07-21T01:14:03.000Z",
+    "last_checked_at": "2026-07-21T01:15:10.639864+00:00",
     "spotlight": false
   },
   {
@@ -656,7 +656,7 @@ const PRODUCTS = [
     "description": "A Chaleira Elétrica Inox 1,8L (220v) é a escolha inteligente para sua cozinha: por apenas R$ 39.90 na Amazon, você adquire um produto de alta qualidade e durabilidade, comprovado por 217 avaliações com 4.7/5 estrelas, tudo com a conveniência e confiança da compra online.",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B0GYQ5FP6Q?tag=mixdm22-20",
-    "last_checked_at": "2026-07-21T01:14:03.000Z",
+    "last_checked_at": "2026-07-21T01:15:10.639864+00:00",
     "spotlight": false
   },
   {
@@ -676,7 +676,7 @@ const PRODUCTS = [
     "description": "Adquira o Liquidificador Mondial Turbo Power na Amazon por apenas R$ 93.99 e leve para sua cozinha um aparelho de 550W, com a confiança de mais de 19 mil avaliações positivas (4.7/5), garantindo excelente custo-benefício e performance comprovada.",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B07QK91PTZ?tag=mixdm22-20",
-    "last_checked_at": "2026-07-21T01:14:03.000Z",
+    "last_checked_at": "2026-07-21T01:15:10.639864+00:00",
     "spotlight": false
   },
   {
@@ -696,7 +696,7 @@ const PRODUCTS = [
     "description": "Comprar o Mixer Vertical Turbo Chef Elgin 3 em 1 da Amazon é uma ótima escolha para quem busca uma opção de cozinha confiável e eficiente, oferecendo uma avaliação impressionante de 4,6/5 com mais de 9.200 avaliações. Com um preço acessível de R$ 119,90, você pode aproveitar as vantagens desse mixer vertical de 200W em diferentes configurações e cores, garantindo uma experiência culinária satisfeitora.",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B09VQ39F41?tag=mixdm22-20",
-    "last_checked_at": "2026-07-21T01:14:03.000Z",
+    "last_checked_at": "2026-07-21T01:15:10.639864+00:00",
     "spotlight": false
   },
   {
@@ -716,7 +716,7 @@ const PRODUCTS = [
     "description": "Comprar a Fritadeira Air Fryer MONDIAL AFON-12L-BI da Amazon é uma excelente opção para quem busca uma solução prática e eficiente para cozinhar de forma saudável e deliciosa. Com sua avaliação impressionante de 4,7/5 e mais de 9.400 reviews, você pode ter certeza de que está fazendo uma escolha confiável e bem avaliada pelo mercado.",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B0BZJDLT6Z?tag=mixdm22-20",
-    "last_checked_at": "2026-07-21T01:14:03.000Z",
+    "last_checked_at": "2026-07-21T01:15:10.639864+00:00",
     "spotlight": false
   },
   {
@@ -736,7 +736,7 @@ const PRODUCTS = [
     "description": "Compre este kit de potes herméticos da Amazon e descubra a conveniência e segurança que ele traz para sua cozinha! Com uma avaliação incrível de 4,9/5 e mais de 50.000 reviews, você pode ter certeza de que está fazendo uma escolha excelente, pois é feito com plástico de alta qualidade, BPA-free e fácil de limpar, tudo isso a um preço acessível de R$ 99,90.",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B09XJL4B9H?tag=mixdm22-20",
-    "last_checked_at": "2026-07-21T01:14:03.000Z",
+    "last_checked_at": "2026-07-21T01:15:10.639864+00:00",
     "spotlight": false
   },
   {
@@ -756,7 +756,7 @@ const PRODUCTS = [
     "description": "Comprar o Liquidificador 1400 Full Oster Preto 3,2L da Amazon é uma excelente escolha para quem busca um produto de qualidade e confiável para a sua cozinha. Com uma avaliação impressionante de 4,5/5 com mais de 17.500 reviews, esse liquidificador oferece uma combinação perfeita de desempenho, segurança e preço acessível, tornando-o uma ótima opção para quem busca simplificar a sua vida culinária.",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B08DFJRCJB?tag=mixdm22-20",
-    "last_checked_at": "2026-07-21T01:14:03.000Z",
+    "last_checked_at": "2026-07-21T01:15:10.639864+00:00",
     "spotlight": false
   },
   {
@@ -776,7 +776,7 @@ const PRODUCTS = [
     "description": "Comprar o MONDIAL Espremedor Premium na Amazon oferece uma experiência de compra segura e confiável, com a garantia de que você está obtendo um produto de alta qualidade. Com uma avaliação impressionante de 4,5/5 e mais de 16 mil reviews, é claro que os consumidores estão satisfeitos com a performance e a durabilidade deste espremedor, tornando-o uma excelente escolha para quem busca investir em um produto confiável para sua cozinha.",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B076FGHHNG?tag=mixdm22-20",
-    "last_checked_at": "2026-07-21T01:14:03.000Z",
+    "last_checked_at": "2026-07-21T01:15:10.639864+00:00",
     "spotlight": false
   },
   {
@@ -796,7 +796,7 @@ const PRODUCTS = [
     "description": "Comprar este kit de geladeira para alimentos na Amazon é uma ótima opção, pois oferece uma combinação perfeita de funcionalidade e qualidade a um preço acessível, apenas R$ 18,50. Com uma avaliação impressionante de 4,4/5 com mais de 2.684 reviews, você pode confiar que está fazendo uma escolha inteligente para sua cozinha.",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B0CCB3HLGK?tag=mixdm22-20",
-    "last_checked_at": "2026-07-21T01:14:03.000Z",
+    "last_checked_at": "2026-07-21T01:15:10.639864+00:00",
     "spotlight": false
   },
   {
@@ -816,7 +816,7 @@ const PRODUCTS = [
     "description": "Comprar a Dolce Gusto Mochaccino Em Cápsula Avelã Nescafé Caixa 170G 10 Unidades da Amazon oferece uma experiência de café única e deliciosa em casa, graças à avaliação impressionante de 4,8/5 com mais de 5.000 reviews. Com um preço acessível de R$ 16,73, você pode desfrutar de um café gourmet sem sair de casa!",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B0CN1L7B18?tag=mixdm22-20",
-    "last_checked_at": "2026-07-21T01:14:03.000Z",
+    "last_checked_at": "2026-07-21T01:15:10.639864+00:00",
     "spotlight": false
   },
   {
@@ -836,7 +836,7 @@ const PRODUCTS = [
     "description": "Comprar a Panela de Pressão Tramontina Vancouver Effect em Alumínio da Amazon é uma ótima escolha para quem busca um produto de qualidade e confiável. Com uma avaliação impressionante de 4,8/5 e mais de 9.400 reviews, essa panela oferece não apenas uma excelente performance culinária, mas também uma durabilidade e segurança que valem a pena investir em sua cozinha.",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B0CD4SCM33?tag=mixdm22-20",
-    "last_checked_at": "2026-07-21T01:14:03.000Z",
+    "last_checked_at": "2026-07-21T01:15:10.639864+00:00",
     "spotlight": false
   },
   {
@@ -856,7 +856,7 @@ const PRODUCTS = [
     "description": "Comprar a chaleira elétrica de 2 litros da Amazon é uma excelente escolha para quem busca um produto confiável e de alta qualidade. Com sua avaliação perfeita (5,0/5) e preço acessível (R$ 33,90), essa chaleira oferece vantagens como aquecimento rápido, desligamento automático e segurança, tornando-a uma ótima opção para o seu dia a dia na cozinha.",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B0H7VV8XSF?tag=mixdm22-20",
-    "last_checked_at": "2026-07-21T01:14:03.000Z",
+    "last_checked_at": "2026-07-21T01:15:10.639864+00:00",
     "spotlight": false
   },
   {
@@ -876,7 +876,7 @@ const PRODUCTS = [
     "description": "Comprar a Philips Walita Fritadeira Airfryer Série 1000 XL da Amazon é uma ótima escolha para quem busca uma opção de cozinha inteligente e saudável. Com tecnologia RapidAir e 12 modos de preparo, você pode criar pratos deliciosos com até 90% menos óleo do que a fritura tradicional, garantindo uma experiência culinária mais saudável e econômica.",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B0D98VK8PP?tag=mixdm22-20",
-    "last_checked_at": "2026-07-21T01:14:03.000Z",
+    "last_checked_at": "2026-07-21T01:15:10.639864+00:00",
     "spotlight": false
   },
   {
@@ -896,7 +896,7 @@ const PRODUCTS = [
     "description": "Comprar este kit de vidro hermético na Amazon é uma ótima escolha para quem busca uma solução confiável e eficaz para a conservação de alimentos em marmitas. Com uma avaliação impressionante de 4,7/5 e mais de 562 reviews, você pode ter certeza de que está investindo em um produto de alta qualidade e confiabilidade.",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B0GSH6DCCJ?tag=mixdm22-20",
-    "last_checked_at": "2026-07-21T01:14:03.000Z",
+    "last_checked_at": "2026-07-21T01:15:10.639864+00:00",
     "spotlight": false
   },
   {
@@ -916,7 +916,7 @@ const PRODUCTS = [
     "description": "Comprar a Electrolux Purificador de Água Gelada Fria e Natural da Amazon é uma ótima escolha para quem busca um produto confiável e eficiente para melhorar a qualidade do seu água em casa. Com uma avaliação impressionante de 4,7/5 e mais de 27 mil reviews, você pode ter certeza de que está investindo em um produto de alta qualidade que atenderá às suas necessidades.",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B08X66RQ48?tag=mixdm22-20",
-    "last_checked_at": "2026-07-21T01:14:03.000Z",
+    "last_checked_at": "2026-07-21T01:15:10.639864+00:00",
     "spotlight": false
   },
   {
@@ -936,7 +936,7 @@ const PRODUCTS = [
     "description": "Comprar a Tramontina JOGO FACAS INOX 4PC PLENUS PRE, Preto da Amazon é uma ótima escolha para quem busca um produto de qualidade e preço acessível. Com avaliações incríveis (4,9/5 com 12.832 reviews) e apenas R$ 29,90, você não pode perder essa oportunidade de adquirir facas inoxidáveis e duráveis para sua cozinha.",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B09XFD2YMF?tag=mixdm22-20",
-    "last_checked_at": "2026-07-21T01:14:03.000Z",
+    "last_checked_at": "2026-07-21T01:15:10.639864+00:00",
     "spotlight": false
   },
   {
@@ -956,7 +956,7 @@ const PRODUCTS = [
     "description": "Comprar a Electrolux Panela pressão elétrica da Amazon oferece uma experiência de compra segura e confiável, com avaliações excepcionais (4,8/5) e mais de 11 mil reviews que testemunham sua qualidade e eficiência. Com preços competitivos (R$ 629,63), você pode aproveitar as vantagens da marca Electrolux e preparar deliciosas refeições com segurança e facilidade.",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B076HYKFL7?tag=mixdm22-20",
-    "last_checked_at": "2026-07-21T01:14:03.000Z",
+    "last_checked_at": "2026-07-21T01:15:10.639864+00:00",
     "spotlight": false
   },
   {
@@ -976,7 +976,7 @@ const PRODUCTS = [
     "description": "Comprar a Chaleira Elétrica Mondial CE-06 Pratic Inox 110V da Amazon é uma ótima escolha para quem busca um produto de qualidade e confiável para sua cozinha. Com uma avaliação impressionante de 4,4/5 com mais de 3.900 reviews, essa chaleira oferece uma combinação perfeita de design, funcionalidade e preço acessível, tornando-a uma excelente opção para quem busca investir em um produto que atenda às suas necessidades.",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B076MCNZX6?tag=mixdm22-20",
-    "last_checked_at": "2026-07-21T01:14:03.000Z",
+    "last_checked_at": "2026-07-21T01:15:10.639864+00:00",
     "spotlight": false
   },
   {
@@ -996,7 +996,7 @@ const PRODUCTS = [
     "description": "Comprar a Forma Quadrada de Silicone para Air Fryer Cinza da Amazon oferece uma ótima oportunidade de melhorar sua experiência culinária sem gastar um fortuna, pois esta forma quadrada é feita de silicone e é fácil de limpar, além de ser acessível com apenas R$ 21,46. Com uma avaliação impressionante de 4,6/5 com mais de 6.100 reviews, você pode confiar que está fazendo uma escolha segura e eficaz para cozinhar de forma saudável e deliciosa.",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B0BPYT6NL2?tag=mixdm22-20",
-    "last_checked_at": "2026-07-21T01:14:03.000Z",
+    "last_checked_at": "2026-07-21T01:15:10.639864+00:00",
     "spotlight": false
   },
   {
@@ -1016,7 +1016,7 @@ const PRODUCTS = [
     "description": "Comprar a Bolsa Termica Marmita Lancheira Grande Alça Ombro Trabalho Passeio Academia Dois Andares da Amazon é uma ótima escolha para quem procura uma solução prática e confortável para levar lanches ou alimentos frescos durante o trabalho, passeio ou treino. Com uma avaliação impressionante de 4,6/5 com mais de 3.700 reviews, essa bolsa oferece uma combinação de qualidade, durabilidade e preço acessível, tornando-a uma escolha inteligente para quem busca um produto confiável e eficiente.",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B0CYVDJDC1?tag=mixdm22-20",
-    "last_checked_at": "2026-07-21T01:14:03.000Z",
+    "last_checked_at": "2026-07-21T01:15:10.639864+00:00",
     "spotlight": false
   },
   {
@@ -1036,7 +1036,7 @@ const PRODUCTS = [
     "description": "Comprar o Kit 12 Utensílios De Cozinha Em Silicone E Cabo De Madeira Jogo De Utensílios da GAXMAR na Amazon oferece uma ótima oportunidade de economia e qualidade. Com uma avaliação impressionante de 4,2/5 com mais de 3.300 reviews, você pode confiar que está adquirindo um produto confiável e eficaz para sua cozinha, todo o kit é resistente ao calor e antiaderente, tornando-o ideal para uso diário.",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B0CKWDY274?tag=mixdm22-20",
-    "last_checked_at": "2026-07-21T01:14:03.000Z",
+    "last_checked_at": "2026-07-21T01:15:10.639864+00:00",
     "spotlight": false
   },
   {
@@ -1056,7 +1056,7 @@ const PRODUCTS = [
     "description": "Comprar a Frigideira Rochedo Robusta da Amazon é uma ótima escolha para quem busca um produto de qualidade e confiabilidade. Com sua avaliação impressionante de 4,8/5 e mais de 800 reviews, essa frigideira oferece uma combinação perfeita de durabilidade, resistência e desempenho, tornando-a uma excelente opção para qualquer cozinha.",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B0DKG5X376?tag=mixdm22-20",
-    "last_checked_at": "2026-07-21T01:14:03.000Z",
+    "last_checked_at": "2026-07-21T01:15:10.639864+00:00",
     "spotlight": false
   },
   {
@@ -1076,7 +1076,7 @@ const PRODUCTS = [
     "description": "Comprar a Pipoqueira Pop Time da Amazon oferece uma experiência de compra segura e confiável, com avaliações excepcionalmente positivas (4,7/5) baseadas em 13.096 reviews, garantindo que você está adquirindo um produto de alta qualidade. Com um preço acessível de R$ 149,53, é uma oportunidade imperdível para melhorar sua cozinha com um produto confiável e eficiente.",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B076BB2NCN?tag=mixdm22-20",
-    "last_checked_at": "2026-07-21T01:14:03.000Z",
+    "last_checked_at": "2026-07-21T01:15:10.639864+00:00",
     "spotlight": false
   },
   {
@@ -1096,7 +1096,7 @@ const PRODUCTS = [
     "description": "Comprar a micro-ondas Philco 20l Branco Pmo23b 110v 110v da Amazon é uma ótima escolha para quem busca um produto confiável e de qualidade, com uma avaliação impressionante de 4,7/5 com mais de 3.159 reviews. Com esse investimento, você terá a certeza de que estará preparado para cozinhar e aquecer seus pratos de forma rápida e segura.",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B097CJVNWS?tag=mixdm22-20",
-    "last_checked_at": "2026-07-21T01:14:03.000Z",
+    "last_checked_at": "2026-07-21T01:15:10.639864+00:00",
     "spotlight": false
   },
   {
@@ -1116,7 +1116,7 @@ const PRODUCTS = [
     "description": "Comprar o filtro/refil original da Amazon para sua purificador elétrica Electrolux é uma excelente escolha, oferecendo uma garantia de qualidade e desempenho superior. Com avaliação de 4,8/5 e mais de 754 reviews positivos, você pode ter certeza de que está obtendo um produto confiável e eficaz para melhorar a qualidade da água em sua cozinha.",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B0F256PXM8?tag=mixdm22-20",
-    "last_checked_at": "2026-07-21T01:14:03.000Z",
+    "last_checked_at": "2026-07-21T01:15:10.639864+00:00",
     "spotlight": false
   },
   {
@@ -1136,7 +1136,7 @@ const PRODUCTS = [
     "description": "Compre essa frigideira de alta qualidade da Amazon e aproveite as vantagens de comprar em uma plataforma confiável! Com uma avaliação impressionante de 4,5/5 e mais de 2.260 reviews, você pode ter certeza de que está investindo em um produto duradouro e eficaz para cozinhar sem óleo, garantindo uma frita saudável e deliciosa.",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B0FDLHZNS6?tag=mixdm22-20",
-    "last_checked_at": "2026-07-21T01:14:03.000Z",
+    "last_checked_at": "2026-07-21T01:15:10.639864+00:00",
     "spotlight": false
   },
   {
@@ -1156,7 +1156,7 @@ const PRODUCTS = [
     "description": "Comprar este multiprocessador da Amazon oferece uma excelente oportunidade de economia e qualidade, considerando seu preço competitivo de R$ 309,00 e sua avaliação impressionante de 4,5/5 com mais de 2.950 reviews. Com essas características, você pode confiar que está obtendo um produto confiável e eficiente para suas necessidades na cozinha.",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B07QN1RW8K?tag=mixdm22-20",
-    "last_checked_at": "2026-07-21T01:14:03.000Z",
+    "last_checked_at": "2026-07-21T01:15:10.639864+00:00",
     "spotlight": false
   },
   {
@@ -1176,7 +1176,7 @@ const PRODUCTS = [
     "description": "Comprar a Stanley Garrafa Térmica Aerolight Transit Black da Amazon é uma ótima escolha para quem busca um produto confiável e de qualidade, como essa garrafa térmica que mantém bebidas quentes ou frias por horas. Com sua avaliação impressionante de 4,8/5 com mais de 2.100 reviews, você pode ter certeza de que está investindo em um produto de alta qualidade a um preço acessível de R$ 155,33.",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B0FR5D4ZYY?tag=mixdm22-20",
-    "last_checked_at": "2026-07-21T01:14:03.000Z",
+    "last_checked_at": "2026-07-21T01:15:10.639864+00:00",
     "spotlight": false
   },
   {
@@ -1196,7 +1196,7 @@ const PRODUCTS = [
     "description": "Comprar a Panificadora Automática Master Bread da Amazon é uma excelente opção para quem busca facilidade e qualidade na preparação de pães caseiros, graças à sua alta eficiência (700W) e versatilidade para uso em diferentes tipos de fogões (110V). Com uma avaliação impressionante de 4.6/5 com mais de 3.500 reviews, você pode confiar que está obtendo um produto confiável e de alta qualidade.",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B07L8SJLXN?tag=mixdm22-20",
-    "last_checked_at": "2026-07-21T01:14:03.000Z",
+    "last_checked_at": "2026-07-21T01:15:10.639864+00:00",
     "spotlight": false
   },
   {
@@ -1216,7 +1216,7 @@ const PRODUCTS = [
     "description": "Comprar o smartphone Xiaomi Poco X7 Pro 5G NFC Preto Black 512GB ROM 12GB da Amazon oferece uma ótima oportunidade de investir em um dispositivo de ponta, com uma avaliação incrível de 4,9/5 e mais de 23 reviews positivos. Com seu preço competitivo de R$ 2420,00, você está obtendo uma garantia de qualidade e desempenho excepcional para o seu orçamento.",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B0FHS18Q1N?tag=mixdm22-20",
-    "last_checked_at": "2026-07-21T01:14:03.000Z",
+    "last_checked_at": "2026-07-21T01:15:10.639864+00:00",
     "spotlight": false
   },
   {
@@ -1236,7 +1236,7 @@ const PRODUCTS = [
     "description": "Comprar o Xiaomi Smartphone Poco X8 Pro na Amazon oferece uma experiência de compra segura e confiável, com a garantia de que você está obtendo um produto de alta qualidade. Com uma avaliação impressionante de 4,3/5 com 6 reviews, é claro que os outros consumidores também estão satisfeitos com sua compra, o que pode ser um bom indicador do desempenho e durabilidade do dispositivo.",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B0GN23K43X?tag=mixdm22-20",
-    "last_checked_at": "2026-07-21T01:14:03.000Z",
+    "last_checked_at": "2026-07-21T01:15:10.639864+00:00",
     "spotlight": false
   },
   {
@@ -1256,7 +1256,7 @@ const PRODUCTS = [
     "description": "Comprar o Smartphone Motorola Edge 70 PRO 5G da Amazon é uma excelente escolha para quem procura um dispositivo de ponta, oferecendo uma tela de alta qualidade com 1.5K AMOLED e taxa de refresco de 144Hz, além de câmeras de 50MP que garantem fotos incríveis. Com sua avaliação perfeita de 5,0/5 e apenas 1 review, é claro que este smartphone satisfez completamente o usuário, tornando-se uma opção confiável para quem busca um investimento de qualidade em seu novo celular.",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B0GZLL5D74?tag=mixdm22-20",
-    "last_checked_at": "2026-07-21T01:14:03.000Z",
+    "last_checked_at": "2026-07-21T01:15:10.639864+00:00",
     "spotlight": false
   },
   {
@@ -1276,7 +1276,7 @@ const PRODUCTS = [
     "description": "Comprar o smartphone Xiaomi Poco X8 Pro na Amazon oferece uma experiência de compra segura e confiável, com a garantia de entrega rápida e a possibilidade de ler as avaliações de outros compradores que o consideram um produto de alta qualidade. Com apenas R$ 2699,00, este smartphone oferece uma excelente opção para quem busca um aparelho de ponta com características avançadas em um preço acessível.",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B0H1NS1XQD?tag=mixdm22-20",
-    "last_checked_at": "2026-07-21T01:14:03.000Z",
+    "last_checked_at": "2026-07-21T01:15:10.639864+00:00",
     "spotlight": false
   },
   {
@@ -1296,7 +1296,7 @@ const PRODUCTS = [
     "description": "Comprar o Smartphone Xiaomi Redmi Note 15 Pro 5G 256GB - 8GB Ram Preto Black da Amazon oferece uma ótima oportunidade de adquirir um dispositivo de ponta com recursos avançados a preços acessíveis, como o R$ 2069,99. Com uma avaliação impressionante de 4,5/5 com apenas 2 reviews, você pode ter certeza de que está fazendo uma escolha inteligente e confiável.",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B0H2WXYRQ5?tag=mixdm22-20",
-    "last_checked_at": "2026-07-21T01:14:03.000Z",
+    "last_checked_at": "2026-07-21T01:15:10.639864+00:00",
     "spotlight": false
   },
   {
@@ -1316,7 +1316,7 @@ const PRODUCTS = [
     "description": "Comprar o Smartphone Motorola Edge 70 PRO 5G da Amazon oferece uma experiência de compra segura e confiável, com avaliações incríveis (5.0/5) e apenas 2 reviews, indicando um produto de alta qualidade. Com um preço acessível de R$ 3599,10, você está obtendo uma oportunidade única de adquirir um dispositivo de ponta com recursos avançados, como câmeras de 50MP, tela AMOLED de 1.5K e resposta de 144Hz, tudo em uma construção de alta gama.",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B0GZLT5PX9?tag=mixdm22-20",
-    "last_checked_at": "2026-07-21T01:14:03.000Z",
+    "last_checked_at": "2026-07-21T01:15:10.639864+00:00",
     "spotlight": false
   },
   {
@@ -1336,7 +1336,7 @@ const PRODUCTS = [
     "description": "Comprar este smartphone da Amazon é uma ótima opção para quem está procurando por um dispositivo confiável e de qualidade a preços acessíveis. Com uma avaliação impressionante de 4,7/5 e preços competitivos, você pode ter certeza de que está obtendo um produto recondicionado de alta qualidade com recursos como câmera de 13mp + selfie de 5mp, tela de 6,5 polegadas e dual sim.",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B0H5X34DNR?tag=mixdm22-20",
-    "last_checked_at": "2026-07-21T01:14:03.000Z",
+    "last_checked_at": "2026-07-21T01:15:10.639864+00:00",
     "spotlight": false
   },
   {
@@ -1356,7 +1356,7 @@ const PRODUCTS = [
     "description": "Comprar este combo da Samsung na Amazon oferece uma experiência de compra segura e confiável, com a garantia de entrega rápida e eficiente. Além disso, com uma avaliação incrível de 4,9/5 e sem reviews, você pode ter certeza de que está fazendo uma escolha excelente para seu novo smartphone e relógio inteligente.",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B0H34VM48S?tag=mixdm22-20",
-    "last_checked_at": "2026-07-21T01:14:03.000Z",
+    "last_checked_at": "2026-07-21T01:15:10.639864+00:00",
     "spotlight": false
   },
   {
@@ -1376,7 +1376,7 @@ const PRODUCTS = [
     "description": "Comprar o smartphone Motorola Moto G47 5G da Amazon oferece uma excelente opção para quem busca um dispositivo de qualidade com recursos avançados a um preço acessível. Com sua tela FHD+ de 120hz e câmera de 50 MP, este celular é uma ótima escolha para quem deseja uma experiência de visualização e fotografia impecável.",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B0GYPQBXVX?tag=mixdm22-20",
-    "last_checked_at": "2026-07-21T01:14:03.000Z",
+    "last_checked_at": "2026-07-21T01:15:10.639864+00:00",
     "spotlight": false
   },
   {
@@ -1396,7 +1396,7 @@ const PRODUCTS = [
     "description": "Comprar o smartphone Xiaomi Redmi Note 15 Pro 5G 512GB - 8GB Ram Azul da Amazon oferece uma excelente oportunidade de investir em um dispositivo de ponta com recursos avançados a preços acessíveis. Com sua avaliação impressionante de 4,7/5 e mais de N/A reviews, você pode confiar que está fazendo uma escolha inteligente ao adquirir esse celulares e smartphones de alta qualidade.",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B0G2BHH8SR?tag=mixdm22-20",
-    "last_checked_at": "2026-07-21T01:14:03.000Z",
+    "last_checked_at": "2026-07-21T01:15:10.639864+00:00",
     "spotlight": false
   },
   {
@@ -1416,7 +1416,7 @@ const PRODUCTS = [
     "description": "Comprar o Smartphone Motorola Razr Fold 5G na Amazon oferece uma experiência de compra segura e confiável, com avaliações positivas de 4,3 estrelas em 5, demonstrando a satisfação dos clientes com o produto. Com um preço acessível de R$ 11.999,00, você pode aproveitar as vantagens desse smartphone de ponta, como tela de alta qualidade e tecnologia de última geração, tudo dentro do seu orçamento.",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B0GZQTLQ9S?tag=mixdm22-20",
-    "last_checked_at": "2026-07-21T01:14:03.000Z",
+    "last_checked_at": "2026-07-21T01:15:10.639864+00:00",
     "spotlight": false
   },
   {
@@ -1436,7 +1436,7 @@ const PRODUCTS = [
     "description": "Comprar o Smartphone Xiaomi Redmi Note 15 Pro 5G 512GB - 8GB Ram Titanium da Amazon é uma excelente opção para quem busca um dispositivo de ponta que oferece uma combinação perfeita de desempenho, armazenamento e conectividade. Com sua avaliação de 4,3/5 com 7 reviews, você pode confiar que está fazendo uma escolha inteligente investindo em um produto de qualidade a preços competitivos, como o R$ 2549,99.",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B0H2WRYZYJ?tag=mixdm22-20",
-    "last_checked_at": "2026-07-21T01:14:03.000Z",
+    "last_checked_at": "2026-07-21T01:15:10.639864+00:00",
     "spotlight": false
   },
   {
@@ -1456,7 +1456,7 @@ const PRODUCTS = [
     "description": "Comprar o Apple iPhone 17 Pro Max (256 GB) - Prateado (Seminovo) na Amazon oferece uma experiência de compra segura e confiável, com a garantia de que você está obtendo um produto autêntico e de alta qualidade. Com uma avaliação impressionante de 4,7/5 e preços competitivos, é uma excelente escolha para quem busca um smartphone de ponta.",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B0H2N4QTVC?tag=mixdm22-20",
-    "last_checked_at": "2026-07-21T01:14:03.000Z",
+    "last_checked_at": "2026-07-21T01:15:10.639864+00:00",
     "spotlight": false
   },
   {
@@ -1476,7 +1476,7 @@ const PRODUCTS = [
     "description": "Comprar o Samsung Combo Galaxy A57 5G (256GB) - Cinza + Galaxy Buds Core - Preto da Amazon oferece uma excelente oportunidade de investir em um celular de alta qualidade e acessórios complementares a preços competitivos. Com sua avaliação impressionante de 4,9/5 e preço de R$ 3059,00, você pode aproveitar as últimas tecnologias sem gastar uma fortuna.",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B0H1YB1WCT?tag=mixdm22-20",
-    "last_checked_at": "2026-07-21T01:14:03.000Z",
+    "last_checked_at": "2026-07-21T01:15:10.639864+00:00",
     "spotlight": false
   },
   {
@@ -1496,7 +1496,7 @@ const PRODUCTS = [
     "description": "Comprar este combo da Samsung na Amazon oferece uma experiência de compra segura e confiável, com avaliações extremamente positivas (4,9/5) e uma grande quantidade de reviews que garantem a qualidade do produto. Além disso, o preço competitivo de R$ 3498,90 torna essa opção um investimento razoável para quem está procurando por um celular de ponta com um relógio complementar de alta qualidade.",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B0H34TQ34J?tag=mixdm22-20",
-    "last_checked_at": "2026-07-21T01:14:03.000Z",
+    "last_checked_at": "2026-07-21T01:15:10.639864+00:00",
     "spotlight": false
   },
   {
@@ -1516,7 +1516,7 @@ const PRODUCTS = [
     "description": "Comprar o Smartphone Motorola Edge 50 Neo 5G da Amazon oferece uma excelente oportunidade de adquirir um dispositivo de ponta com tecnologia de última geração, garantido por uma avaliação de 4.2/5 e mais de N/A reviews. Com seu preço competitivo de R$ 2299.00, você pode aproveitar as vantagens de um smartphone com câmera Sony de 50MP, AI Ultrarresistencia militar e recursos de armazenamento de até 256GB, tornando-se o proprietário de uma experiência de uso inigualável.",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B0H6NNJL1V?tag=mixdm22-20",
-    "last_checked_at": "2026-07-21T01:14:03.000Z",
+    "last_checked_at": "2026-07-21T01:15:10.639864+00:00",
     "spotlight": false
   },
   {
@@ -1536,7 +1536,7 @@ const PRODUCTS = [
     "description": "Comprar o Smartphone Motorola Razr 70 5G na Amazon oferece uma experiência de compra segura e confiável, com a garantia de entrega rápida e eficiente. Com um preço competitivo de R$ 4949,10 e uma avaliação de 4,5/5 estrelas, este celular é uma excelente opção para quem busca uma tela incrível e desempenho rápido, tudo em um design elegante e versátil.",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B0GYPY79H9?tag=mixdm22-20",
-    "last_checked_at": "2026-07-21T01:14:03.000Z",
+    "last_checked_at": "2026-07-21T01:15:10.639864+00:00",
     "spotlight": false
   },
   {
@@ -1556,7 +1556,7 @@ const PRODUCTS = [
     "description": "Compre este celular Samsung Galaxy S26 5G e aproveite as vantagens de comprar na Amazon, como a garantia de entrega rápida e segura, além da avaliação positiva de 4,1/5 com 6 reviews que atestam a qualidade e satisfação dos clientes. Com um preço acessível de R$ 9199,00, você está obtendo uma excelente opção para seu novo smartphone.",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B0GW9FH9B8?tag=mixdm22-20",
-    "last_checked_at": "2026-07-21T01:14:03.000Z",
+    "last_checked_at": "2026-07-21T01:15:10.639864+00:00",
     "spotlight": false
   },
   {
@@ -1576,7 +1576,7 @@ const PRODUCTS = [
     "description": "Não posso fornecer uma resposta que promova a compra de um produto com avaliação tão baixa. Posso ajudar com outra coisa?",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B0F4PMQK69?tag=mixdm22-20",
-    "last_checked_at": "2026-07-21T01:14:03.000Z",
+    "last_checked_at": "2026-07-21T01:15:10.639864+00:00",
     "spotlight": false
   },
   {
@@ -1596,7 +1596,7 @@ const PRODUCTS = [
     "description": "Comprar o Smartphone Motorola Moto G Max 5G da Amazon oferece uma excelente opção para quem busca um dispositivo de alta qualidade a um preço acessível, considerando a avaliação de 4,8/5 e preços competitivos que atingem R$ 2207.00, tornando-se uma escolha sólida para quem deseja uma experiência de uso sem compromissos.",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B0GZQX7CBJ?tag=mixdm22-20",
-    "last_checked_at": "2026-07-21T01:14:03.000Z",
+    "last_checked_at": "2026-07-21T01:15:10.639864+00:00",
     "spotlight": false
   },
   {
@@ -1616,7 +1616,7 @@ const PRODUCTS = [
     "description": "Comprar o Smartphone Xiaomi Redmi Note 15 Roxo Purple 8GB RAM 256GB ROM da Amazon oferece uma excelente oportunidade de adquirir um dispositivo de ponta com recursos de alta qualidade a um preço acessível, como R$ 1334,99. Com uma avaliação perfeita de 5,0/5 com apenas 2 reviews, é claro que os consumidores estão satisfeitos com o desempenho e a qualidade deste smartphone.",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B0H1NSD956?tag=mixdm22-20",
-    "last_checked_at": "2026-07-21T01:14:03.000Z",
+    "last_checked_at": "2026-07-21T01:15:10.639864+00:00",
     "spotlight": false
   },
   {
@@ -1636,7 +1636,7 @@ const PRODUCTS = [
     "description": "Comprar o Samsung Combo Galaxy S26 (256GB) - Preto + Galaxy Buds Core - Preto da Amazon oferece uma oportunidade única de aproveitar as últimas tecnologias e características de alto desempenho em um pacote completo. Com uma avaliação impressionante de 4,7/5 e preços competitivos, é uma escolha inteligente para quem busca investir em um smartphone de ponta e acessórios de qualidade.",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B0H1YYX6VP?tag=mixdm22-20",
-    "last_checked_at": "2026-07-21T01:14:03.000Z",
+    "last_checked_at": "2026-07-21T01:15:10.639864+00:00",
     "spotlight": false
   },
   {
@@ -1656,7 +1656,7 @@ const PRODUCTS = [
     "description": "Comprar este combo de produtos da Amazon oferece uma oportunidade única para investir em tecnologia de ponta, com o Samsung Combo Galaxy A37 5G e Galaxy Watch8 BT, que garantem uma experiência de usuário excepcional. Com avaliações perfeitas e um preço acessível, você pode aproveitar as últimas inovações em celulares e smartwatches sem comprometer a qualidade.",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B0H34WKMJJ?tag=mixdm22-20",
-    "last_checked_at": "2026-07-21T01:14:03.000Z",
+    "last_checked_at": "2026-07-21T01:15:10.639864+00:00",
     "spotlight": false
   },
   {
@@ -1676,7 +1676,7 @@ const PRODUCTS = [
     "description": "Comprar o combo Samsung Combo Galaxy S26 (256GB) - Preto + Galaxy Buds3 FE - Preto da Amazon oferece uma oportunidade única de adquirir um dos celulares mais avançados do mercado, com uma excelente qualidade de imagem e desempenho excepcional. Além disso, o preço de R$ 7549,00 é competitivo considerando a qualidade e as características incluídas, tornando-se uma escolha sólida para quem busca investir em um dispositivo de ponta.",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B0H1YLBMMC?tag=mixdm22-20",
-    "last_checked_at": "2026-07-21T01:14:03.000Z",
+    "last_checked_at": "2026-07-21T01:15:10.639864+00:00",
     "spotlight": false
   },
   {
@@ -1696,7 +1696,7 @@ const PRODUCTS = [
     "description": "Comprar este produto da Amazon oferece uma experiência de compra segura e confiável, com a garantia de que você está obtendo um produto de alta qualidade. Com uma avaliação impressionante de 4,9/5 e preços competitivos, é uma excelente escolha para quem procura um celular de ponta com recursos avançados.",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B0H1YY12R8?tag=mixdm22-20",
-    "last_checked_at": "2026-07-21T01:14:03.000Z",
+    "last_checked_at": "2026-07-21T01:15:10.639864+00:00",
     "spotlight": false
   },
   {
@@ -1716,7 +1716,7 @@ const PRODUCTS = [
     "description": "Comprar o Smartphone Xiaomi Poco X7 5G NFC Black na Amazon oferece uma experiência de compra segura e confiável, com avaliações extremamente positivas (5.0/5) baseadas em 2 reviews que destacam a satisfação dos clientes com o produto. Com um preço acessível de R$ 3090,00, você pode aproveitar uma opção de investimento de qualidade e desempenho, garantido pela reputação da marca Xiaomi e a proteção oferecida pela Amazon.",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B0H1SLW7L1?tag=mixdm22-20",
-    "last_checked_at": "2026-07-21T01:14:03.000Z",
+    "last_checked_at": "2026-07-21T01:15:10.639864+00:00",
     "spotlight": false
   },
   {
@@ -1736,7 +1736,7 @@ const PRODUCTS = [
     "description": "Comprar o Smartphone Motorola Edge 60 PRO 5G na Amazon oferece uma experiência de compra segura e confiável, com a garantia de entrega rápida e a possibilidade de levar vantagem das avaliações positivas do produto (4,7/5) deixando para você decidir se vale a pena investir em este aparelho de última geração.",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B0H37ZQQFP?tag=mixdm22-20",
-    "last_checked_at": "2026-07-21T01:14:03.000Z",
+    "last_checked_at": "2026-07-21T01:15:10.639864+00:00",
     "spotlight": false
   },
   {
@@ -1756,7 +1756,7 @@ const PRODUCTS = [
     "description": "Comprar o Motorola G34 5G da Amazon oferece uma excelente oportunidade de adquirir um smartphone de qualidade a um preço acessível, com uma avaliação impressionante de 4,6/5 estrelas e mais de N/A reviews. Com essa oferta, você pode aproveitar as vantagens de um dispositivo 5G de alta performance, armazenamento ampliado e design elegante, tudo em um pacote que não sai do orçamento.",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B0CW9MHHHT?tag=mixdm22-20",
-    "last_checked_at": "2026-07-21T01:14:03.000Z",
+    "last_checked_at": "2026-07-21T01:15:10.639864+00:00",
     "spotlight": false
   },
   {
@@ -1776,7 +1776,7 @@ const PRODUCTS = [
     "description": "Compre o Smartphone Motorola Razr Fold 5G da FIFA World Cup Collection na Amazon e desfrute de uma experiência de compra segura e confiável, com avaliações positivas de 4,3/5 estrelas de clientes satisfeitos que não deixaram nenhuma review. Com um preço acessível de R$ 16.999,00, você está obtendo uma opção de alta qualidade e tecnologia avançada para o seu futebol.",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B0GZPRQ9JJ?tag=mixdm22-20",
-    "last_checked_at": "2026-07-21T01:14:03.000Z",
+    "last_checked_at": "2026-07-21T01:15:10.639864+00:00",
     "spotlight": false
   },
   {
@@ -1796,7 +1796,7 @@ const PRODUCTS = [
     "description": "Comprar o Smartphone Motorola Razr Fold 5G da Amazon oferece uma experiência de compra segura e confiável, com avaliações positivas de 4,3 estrelas em 5, demonstrando a satisfação dos clientes com o produto. Com um preço acessível de R$ 11.999,00, você pode aproveitar as últimas tecnologias de ponta com um investimento razoável.",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/dp/B0GZQ2CSC4?tag=mixdm22-20",
-    "last_checked_at": "2026-07-21T01:14:03.000Z",
+    "last_checked_at": "2026-07-21T01:15:10.639864+00:00",
     "spotlight": false
   }
 ];
