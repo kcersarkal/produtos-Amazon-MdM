@@ -4595,6 +4595,32 @@ const PRODUCTS = [
     "spotlight": false
   },
   {
+    "asin": "B07L8SJLXN",
+    "title": "Panificadora Automática Master Bread, Mondial, Preto, 700W, 110V - NPF-53",
+    "image": "https://m.media-amazon.com/images/I/51OmxaZFbNL._AC_SL1000_.jpg",
+    "canonical": null,
+    "category": "cozinha",
+    "price_current": 583.0,
+    "price_original": null,
+    "discount_percentage": null,
+    "tem_selo_prime": false,
+    "tem_oferta": true,
+    "avaliacao": 4.6,
+    "qtd_avaliacoes": 3525,
+    "coupon_code": null,
+    "description": "\"Amigo, descubra a facilidade de fazer pão em casa com a panificadora automática Master Bread da Mondial! Com seu design moderno preto e potência de 700W, oferece desempenho eficiente. Com uma média de avaliação de 4,6/5 (3525 avaliações), é claro que é um investimento valioso para qualquer cozinha. Não perca esta oportunidade de ter pão fresco e delicioso em casa!",
+    "informacoes_produto": {
+      "Tensão": "110 Volts",
+      "Cor": "Preto",
+      "Peso do produto": "4,41 Gramas",
+      "Dimensões do produto": "33,5P x 28L x 29,5A centímetros",
+      "Material": "PP e Metal"
+    },
+    "affiliate_url": "https://www.amazon.com.br/dp/B07L8SJLXN?tag=mixstore04b3-20&ref_=mixdumix_produto",
+    "last_checked_at": "2026-07-22T23:58:32.970827+00:00",
+    "spotlight": false
+  },
+  {
     "asin": "B09XJL4B9H",
     "title": "Electrolux Kit 12 Potes Herméticos de Plástico Retangulares, Multiuso, Vedação Silicone, BPA Free, Porta Mantimentos",
     "image": "https://m.media-amazon.com/images/I/51uccv-jBiL._AC_SL1000_.jpg",
@@ -4608,7 +4634,7 @@ const PRODUCTS = [
     "avaliacao": 4.9,
     "qtd_avaliacoes": 53048,
     "coupon_code": null,
-    "description": "",
+    "description": "\"Amigo, descubra a organização perfeita para sua cozinha! O Electrolux Kit de 12 Potes Herméticos é o melhor investimento que você pode fazer. Feitos com material de alta qualidade e BPA-free, eles oferecem uma preservação perfeita dos alimentos. Com tamanhos funcionais e empilháveis, a organização nunca foi mais fácil! Avaliado com 4,9/5 por mais de 53 mil usuários, este kit é o seu passo para uma cozinha mais eficiente. Não perca essa chance!",
     "informacoes_produto": {
       "Dimensões do item C x L x A": "27,1C x 18,8L x 20,5A centímetros",
       "Quantidade de pacotes do item": "1",
@@ -4640,7 +4666,7 @@ const PRODUCTS = [
       "Dimensões do produto": "27,1C x 18,8L x 20,5A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B09XJL4B9H?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-22T23:48:06.401672+00:00",
+    "last_checked_at": "2026-07-22T23:59:34.813670+00:00",
     "spotlight": false
   },
   {
@@ -4657,7 +4683,7 @@ const PRODUCTS = [
     "avaliacao": 4.8,
     "qtd_avaliacoes": 3527,
     "coupon_code": null,
-    "description": "",
+    "description": "\"Amigo, descubra um novo mundo de cozinha saudável com o Philips Walita Fritadeira Airfryer Série 1000 XL! Com tecnologia RapidAir, prepara refeições crocantes com até 90% menos gordura. O modelo versátil oferece 12 modos de preparo e controla tempo e temperatura para um resultado uniforme e prático. Além disso, cozinhe até 50% mais rápido e economize energia com seu design compacto e potência de 1700W. Fácil de limpar e com suporte a receitas passo-a-passo, este airfryer é o ideal para sua cozinha diária!",
     "informacoes_produto": {
       "Características especiais": "Desligamento automático, Grelha removível, Tecnologia RapidAir",
       "Potência de saída": "1700 Watts",
@@ -4695,7 +4721,7 @@ const PRODUCTS = [
       "Dimensões do produto": "40,3P x 30,9L x 30,8A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0D98VK8PP?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-22T23:48:15.371857+00:00",
+    "last_checked_at": "2026-07-23T00:00:08.840774+00:00",
     "spotlight": false
   },
   {
@@ -4712,7 +4738,7 @@ const PRODUCTS = [
     "avaliacao": 4.6,
     "qtd_avaliacoes": 3740,
     "coupon_code": null,
-    "description": "",
+    "description": "Recomendo a Bolsa Termica Marmita Lancheira Grande Alça Ombro Trabalho Passeio Academia Dois Andares, uma mochila versátil e funcional que oferece tamanho compacto, leveza para transporte, manutenção de refeições quentes ou frias por horas, fácil limpeza e design elegante. Com avaliação 4,6/5 de mais de 3700 usuários, é uma compra que oferece excelente custo-benefício!",
     "informacoes_produto": {
       "Nome da marca": "Qubccum",
       "Usos recomendados do produto": "Trabalho, Escola, Piquenique",
@@ -4742,7 +4768,7 @@ const PRODUCTS = [
       "Faixa etária (descrição)": "Adulto"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CYVDJDC1?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-22T23:48:23.203767+00:00",
+    "last_checked_at": "2026-07-23T00:00:34.441999+00:00",
     "spotlight": false
   },
   {
@@ -4759,7 +4785,7 @@ const PRODUCTS = [
     "avaliacao": 4.3,
     "qtd_avaliacoes": 38429,
     "coupon_code": null,
-    "description": "",
+    "description": "\"Experimente agora o TrendPlain Pulverizador de Azeite de Oliva, uma garrafa 2 em 1 essencial para sua cozinha! Com spray e despejo, dispensação dupla, bocal de pulverização preciso e controle a ingestão de óleo, este produto oferece segurança, saúde e eficiência. Feito de vidro sem BPA, é inodoro, não tóxico e resistente ao calor. Com uma nota de 4,3/5 em 38429 avaliações, este pulverizador é um investimento seguro para sua cozinha diária!",
     "informacoes_produto": {
       "Nome da marca": "TrendPlain",
       "Usos recomendados do produto": "Cooking",
@@ -4791,7 +4817,7 @@ const PRODUCTS = [
       "Adequação do controle por rádio": "Cooking"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CJF94M8J?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-22T23:48:31.081089+00:00",
+    "last_checked_at": "2026-07-23T00:01:07.893369+00:00",
     "spotlight": false
   },
   {
@@ -4808,7 +4834,7 @@ const PRODUCTS = [
     "avaliacao": 4.8,
     "qtd_avaliacoes": 761,
     "coupon_code": null,
-    "description": "",
+    "description": "\"Amigo, venha aproveitar o Refil Único Original de Água da Electrolux! Compatível com seus purificadores PE11B, PE11X, PC41B, PC41X, PH41B e PH41X, oferece filtragem por carvão ativado, redução de cloro livre e controle microbiológico. Além disso, remove partículas sólidas e gosto de cloro, melhorando o sabor e odor da sua água. Com uma avaliação de 4,8/5 (761 avaliações), é um investimento que vale a pena!",
     "informacoes_produto": {
       "Número do modelo": "A28154701",
       "Benefícios do produto": "Remove partículas sólidas e gosto de cloro, controla nível microbiológico",
@@ -4832,7 +4858,7 @@ const PRODUCTS = [
       "Marca": "Electrolux"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0F256PXM8?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-22T23:48:39.070782+00:00",
+    "last_checked_at": "2026-07-23T00:01:38.734850+00:00",
     "spotlight": false
   },
   {
@@ -4849,7 +4875,7 @@ const PRODUCTS = [
     "avaliacao": 4.2,
     "qtd_avaliacoes": 3348,
     "coupon_code": null,
-    "description": "",
+    "description": "\"Amigo, descubra o Kit Premium de 12 utensílios de cozinha em silicone e cabo de madeira da Gaxmark! Resistente ao calor e antiaderente, ele é o ideal para sua cozinha. Com benefícios incomparáveis, este kit é uma compra que não se arrependerá! 🍳🥄🍽️ Avaliado em 4,2/5 por mais de 3 mil usuários.",
     "informacoes_produto": {
       "Nome da marca": "Gaxmark",
       "Usos recomendados do produto": "Cozinhar",
@@ -4868,7 +4894,7 @@ const PRODUCTS = [
       "Dimensões do produto": "15C x 10L centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CKWDY274?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-22T23:48:49.962310+00:00",
+    "last_checked_at": "2026-07-23T00:02:05.687841+00:00",
     "spotlight": false
   },
   {
@@ -4885,7 +4911,7 @@ const PRODUCTS = [
     "avaliacao": 4.5,
     "qtd_avaliacoes": 2275,
     "coupon_code": null,
-    "description": "",
+    "description": "\"Amigo, descubra a frigideira versátil de 2,5 litros em cerâmica! Ideal para fogão a gás, elétrico e indução, ela permite cozinhar sem usar óleo, tornando sua vida na cozinha mais saudável. Com design ergonômico e construção durável, é fácil de manusear e limpar. Com uma avaliação de 4,5/5 de 2275 usuários, não perca esta oportunidade!",
     "informacoes_produto": {
       "Nome da marca": "Genérico",
       "País de origem": "China",
@@ -4914,7 +4940,7 @@ const PRODUCTS = [
       "Característica Especial": "Revestimento Antiaderente"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FDLHZNS6?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-22T23:48:58.621564+00:00",
+    "last_checked_at": "2026-07-23T00:02:33.276066+00:00",
     "spotlight": false
   },
   {
@@ -4931,7 +4957,7 @@ const PRODUCTS = [
     "avaliacao": 4.8,
     "qtd_avaliacoes": 1644,
     "coupon_code": null,
-    "description": "",
+    "description": "\"Experimente a MODUS Garrafa Térmica Esportiva de Inox, uma chaleira de alta qualidade que oferece segurança e saúde para suas bebidas! Com isolamento a vácuo, garanta-se que suas bebidas fiquem frescas por até 24 horas ou quentes por até 12 horas. Ainda não tem? Ideal para acampamentos, caminhadas e outras aventuras! Com um cordão de lona incluído, é fácil de transportar e limpar. Um presente perfeito para quem valoriza a vida ativa e a saúde!\"",
     "informacoes_produto": {
       "Nome da marca": "CADINA",
       "Nome do modelo": "Garrafa Térmica",
@@ -4956,7 +4982,7 @@ const PRODUCTS = [
       "Tipo de Garrafa": "Garrafa Termica"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0F89VV1YS?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-22T23:49:07.610050+00:00",
+    "last_checked_at": "2026-07-23T00:03:05.561335+00:00",
     "spotlight": false
   },
   {
@@ -4973,7 +4999,7 @@ const PRODUCTS = [
     "avaliacao": 4.6,
     "qtd_avaliacoes": 3959,
     "coupon_code": null,
-    "description": "",
+    "description": "\"Amigo, o aspirador água pó compacto potente da Electrolux, modelo AWD01, é uma ferramenta de limpeza incomparável! Com 1400W de potência, você garante limpeza eficaz em resíduos secos e líquidos. Capacidade de 5L no barril permite aspiração contínua sem perda de desempenho. Função sopro auxilia em tarefas rápidas com agilidade, enche balões e colchões. Design compacto e rodas 360° garantem mobilidade total pela casa facilmente, sempre seguro. Motor robusto aspira sólidos e líquidos com alta sucção. Investindo apenas R$220, você recebe um produto de excelente qualidade que",
     "informacoes_produto": {
       "Características especiais": "CONJUNTO COMPLETO DE ACESSÓRIOS, Molhado/seco, SUPORTE PARA ENROLAR O CABO ELÉTRICO, Saco",
       "Tipo de filtro": "Espuma",
@@ -5015,7 +5041,7 @@ const PRODUCTS = [
       "Fonte de alimentação": "Energia elétrica"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B076BB1XPG?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-22T23:49:16.953341+00:00",
+    "last_checked_at": "2026-07-23T00:03:44.408193+00:00",
     "spotlight": false
   },
   {
@@ -5032,7 +5058,7 @@ const PRODUCTS = [
     "avaliacao": 4.4,
     "qtd_avaliacoes": 25,
     "coupon_code": null,
-    "description": "",
+    "description": "\"Experimente agora a WAP Parafusadeira e Furadeira Impacto 3/8\" WF 700FE W2! Com empunhadura auxiliar emborrachada removível, limitador de profundidade e botão trava no gatilho, oferece maior estabilidade, segurança e conforto durante o uso. Seletor de sentido de rotação facilita a troca entre parafusar e desparafusar, enquanto mandril compatível com brocas de 0,8 a 10 mm garante versatilidade para diferentes tipos de perfuração. Com preço acessível e avaliação de 4,4/5, é uma excelente escolha para qualquer profissional ou entusiasta de ferramentas!",
     "informacoes_produto": {
       "Fonte de energia": "Elétrico com fio",
       "Velocidade máxima de rotação": "3000 RPM",
@@ -5066,7 +5092,7 @@ const PRODUCTS = [
       "Tensão": "220 Volts"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0F678PCRM?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-22T23:49:25.154427+00:00",
+    "last_checked_at": "2026-07-23T00:04:18.788467+00:00",
     "spotlight": false
   },
   {
@@ -5083,7 +5109,7 @@ const PRODUCTS = [
     "avaliacao": 4.7,
     "qtd_avaliacoes": 5083,
     "coupon_code": null,
-    "description": "",
+    "description": "\"Amigo, descubra a praticidade de um adaptador tripolar branco da Force Line! Com 3 tomadas bivolt e 10A, ele oferece uma solução fácil para aumentar sua capacidade elétrica em casa. A marca Force Line é confiável e este produto tem uma avaliação de 4,7/5 com mais de 5.000 avaliações positivas! Compre agora por apenas R$8,10 e aproveite o custo-benefício incrível!",
     "informacoes_produto": {
       "Nome da marca": "Force Line",
       "Número do modelo": "0180100004",
@@ -5107,7 +5133,7 @@ const PRODUCTS = [
       "Tensão de Saída": "250 Volts"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0777S9WRF?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-22T23:49:33.219696+00:00",
+    "last_checked_at": "2026-07-23T00:04:45.311592+00:00",
     "spotlight": false
   },
   {
@@ -5124,7 +5150,7 @@ const PRODUCTS = [
     "avaliacao": 4.0,
     "qtd_avaliacoes": 5311,
     "coupon_code": null,
-    "description": "",
+    "description": "\"Amigo, desejo te apresentar uma torneira de cozinha gourmet de luxo! Com acabamento em metal cromado e alavanca, ela é simplesmente maravilhosa. A torneira flexível tem duas opções de jato: contínuo e chuveirinho, e o seu acionamento de 1/4 de volta garante maior praticidade e economia. Com um preço acessível de R$ 23,05, é uma compra que não te arrependerá!",
     "informacoes_produto": {
       "Tipo de montagem": "Montagem em parede",
       "Número de puxadores": "1",
@@ -5152,7 +5178,7 @@ const PRODUCTS = [
       "Tipo de Acabamento": "Cromada"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B084L1CTXL?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-22T23:49:41.414029+00:00",
+    "last_checked_at": "2026-07-23T00:05:13.026381+00:00",
     "spotlight": false
   },
   {
@@ -5169,7 +5195,7 @@ const PRODUCTS = [
     "avaliacao": 4.9,
     "qtd_avaliacoes": 14211,
     "coupon_code": null,
-    "description": "",
+    "description": "Recomendo a Fechadura Digital de Sobrepor Touch Screen FR 101 Preto Intelbras, uma ferramenta de construção incomparável! Com 4.9/5 em avaliações e preço acessível, oferece segurança e conforto sem igual. Aplicável para portas pivotantes com até 50mm de espessura, possui display luminoso e teclado touch screen de 12 teclas, além de sistema de travamento automático e avisos sonoros. Além disso, vem equipada com kit de instalação completo e garantia de 2 anos do fabricante. Não perca essa oportunidade!",
     "informacoes_produto": {
       "Nome da marca": "intelbras",
       "Usos recomendados do produto": "Apartamentos, salas que precisam de acesso restrito, ambientes coberto",
@@ -5199,7 +5225,7 @@ const PRODUCTS = [
       "Dimensões do item C x L x A": "18 x 72 x 178 milímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B076HWLP7P?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-22T23:49:50.634532+00:00",
+    "last_checked_at": "2026-07-23T00:05:45.801067+00:00",
     "spotlight": false
   },
   {
@@ -5216,7 +5242,7 @@ const PRODUCTS = [
     "avaliacao": 4.9,
     "qtd_avaliacoes": 11822,
     "coupon_code": null,
-    "description": "",
+    "description": "\"Amigo, se você busca uma ferramenta de construção precisa e rápida, o Bosch Trena Laser GLM 40 é a melhor opção! Com alcance de 40m, baterias inclusas e cálculo de áreas e volumes, você ganha tempo e facilidade nas medições. Ademais, medir alturas sem precisar de escada nem andaimes é agora possível, mesmo em locais difíceis de acesso. Com uma avaliação de 4.9/5, este produto é um investimento seguro para seus projetos!",
     "informacoes_produto": {
       "Nome da marca": "Bosch Professional",
       "Baterias incluídas?": "Sim",
@@ -5245,7 +5271,7 @@ const PRODUCTS = [
       "Esporte": "Golfe"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B00R0Z7TFM?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-22T23:49:58.773433+00:00",
+    "last_checked_at": "2026-07-23T00:06:16.100891+00:00",
     "spotlight": false
   },
   {
@@ -5262,7 +5288,7 @@ const PRODUCTS = [
     "avaliacao": 4.8,
     "qtd_avaliacoes": 30309,
     "coupon_code": null,
-    "description": "",
+    "description": "\"Amigo, descubra a impressora multifuncional Epson Ecotank L3250 - um jato de tinta colorido Wi-Fi Bivolt! Com 4,8/5 estrelas em 30309 avaliações, este produto oferece uma experiência incrível. Imprime envelopes, etiquetas, papel fotográfico e mais com sua tecnologia de jato de tinta. Com suas características especiais auto-duplex e saída colorida, a impressão é rápida e de alta qualidade. Seu peso é apenas 3,9 kg e tem dimensões compactas de 43,6P x 40,8L x 24,4A centímetros. Com suporte a sistemas operacionais Windows e Mac OS X",
     "informacoes_produto": {
       "Tecnologia da impressora": "Jato de tinta",
       "Características especiais": "Auto-duplex",
@@ -5328,7 +5354,7 @@ const PRODUCTS = [
       "Peso do produto": "3,9 Quilogramas"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B098YHFT9S?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-22T23:50:07.684205+00:00",
+    "last_checked_at": "2026-07-23T00:06:52.175687+00:00",
     "spotlight": false
   },
   {
@@ -5345,7 +5371,7 @@ const PRODUCTS = [
     "avaliacao": 4.5,
     "qtd_avaliacoes": 4749,
     "coupon_code": null,
-    "description": "",
+    "description": "\"Olá amigo, desejo te recomendar um suporte para notebook e MacBook em alumínio, que oferece conforto visual e ergonômico! Com design vazado e pontos de apoio em silicone, garante estabilidade e melhor ventilação. Fácil de transportar na mochila com dimensões compactas, é ideal para quem procura um produto portátil e dobrável. Com avaliação 4,5/5 em 4749 avaliações, é claro que este suporte vale a pena!",
     "informacoes_produto": {
       "Fator de forma": "Tripé",
       "Dispositivos compatíveis": "Notebooks",
@@ -5375,7 +5401,7 @@ const PRODUCTS = [
       "Modelos de Telefone Compatíveis": "Notebook"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B086CB6BXW?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-22T23:50:16.140765+00:00",
+    "last_checked_at": "2026-07-23T00:07:21.239067+00:00",
     "spotlight": false
   },
   {
@@ -5392,7 +5418,7 @@ const PRODUCTS = [
     "avaliacao": 4.3,
     "qtd_avaliacoes": 2870,
     "coupon_code": null,
-    "description": "",
+    "description": "\"Amigo, descubra a conveniência de trabalhar em casa confortavelmente! A Mesa Portátil Para Notebook Suporte Cama Sofá MA, cor aleatória, é uma ótima escolha. Com seu design moderno e portátil, você pode usar sua notebook em qualquer lugar do seu lar. Melhor ainda: ela vem com boas avaliações de clientes, com uma média de 4,3 estrelas! Aprenda mais sobre a Mesa FOVLWYT hoje mesmo e aproveite o conforto em seu trabalho diário.",
     "informacoes_produto": {
       "Nome da marca": "FOVLWYT",
       "Descrição da faixa etária": "Público Geral",
@@ -5408,7 +5434,7 @@ const PRODUCTS = [
       "Característica Especial": "Portátil e moderno"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B09963FWYX?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-22T23:50:24.114335+00:00",
+    "last_checked_at": "2026-07-23T00:07:50.142232+00:00",
     "spotlight": false
   },
   {
@@ -5425,7 +5451,7 @@ const PRODUCTS = [
     "avaliacao": 4.8,
     "qtd_avaliacoes": 374,
     "coupon_code": null,
-    "description": "",
+    "description": "\"Olá amigo! O Tablet Samsung Galaxy TAB A11+ é o que você precisa para um entretenimento sem fio incrível! Com 128GB de armazenamento, 6GB de RAM e processador Exynos Octa-core 2.3 GHz, oferece desempenho eficiente em uma tela de 11 polegadas. Adicionalmente, sua bateria de longa duração de 7.040mAh e conectividade Wi-Fi garantem uma experiência inigualável. Com avaliação de 4.8/5, este tablet é um investimento que vale a pena!",
     "informacoes_produto": {
       "Nome da marca": "Samsung",
       "Nome do modelo": "SM-X230NZAAZTO",
@@ -5480,7 +5506,7 @@ const PRODUCTS = [
       "Resolução máxima do visor": "1920 x 1200 Pixels"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0G4SLJNFF?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-22T23:50:32.644255+00:00",
+    "last_checked_at": "2026-07-23T00:08:20.297063+00:00",
     "spotlight": false
   },
   {
@@ -5497,7 +5523,7 @@ const PRODUCTS = [
     "avaliacao": 4.3,
     "qtd_avaliacoes": 971,
     "coupon_code": null,
-    "description": "",
+    "description": "Este cabo USB para Lightning reforçado é uma ótima escolha para quem procura eficiência e praticidade no carregamento e sincronização de seus dispositivos Apple! Com velocidade de transferência de dados otimizada, construção durável e compatibilidade extensiva, oferece uma solução confiável para usuários modernos. Aprenda a aproveitar o carregamento rápido em um preço acessível: R$ 9,60.",
     "informacoes_produto": {
       "Tipo de conector": "USB tipo A",
       "Tipo de cabo": "USB, Lightning",
@@ -5527,7 +5553,7 @@ const PRODUCTS = [
       "Característica Especial": "Carregamento rápido"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DT5383HM?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-22T23:50:41.433838+00:00",
+    "last_checked_at": "2026-07-23T00:08:50.077253+00:00",
     "spotlight": false
   },
   {
@@ -5544,7 +5570,7 @@ const PRODUCTS = [
     "avaliacao": 4.9,
     "qtd_avaliacoes": 2111,
     "coupon_code": null,
-    "description": "",
+    "description": "\"Amigo, descubra uma impressora de alta qualidade com baixo custo por página! A Garrafa De Tinta Original Epson Ecotank T544 Preto oferece impressões brilhantes em relatórios, gráficos e fotos. Com sua secagem instantânea, você pode imprimir documentos e imagens com ótima qualidade. Investe no Epson T544122-BR hoje e desfrute de um custo-benefício incrível!",
     "informacoes_produto": {
       "Cor da tinta": "preto",
       "Quantidade de páginas": "4500",
@@ -5578,7 +5604,7 @@ const PRODUCTS = [
       "Dispositivos Compatíveis": "Impressora"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DF8VTNHM?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-22T23:50:50.204115+00:00",
+    "last_checked_at": "2026-07-23T00:09:17.393578+00:00",
     "spotlight": false
   },
   {
@@ -5595,7 +5621,7 @@ const PRODUCTS = [
     "avaliacao": 4.8,
     "qtd_avaliacoes": 20721,
     "coupon_code": null,
-    "description": "",
+    "description": "\"Amigo, o Toshiba Canvio Basics Preto de 1TB é um disco rígido externo elegante e resistente que oferece uma experiência de armazenamento fácil e confiável. Com sua interface USB 3.0, você pode adicionar capacidade ao seu PC ou outros dispositivos compatíveis em segundos, sem a necessidade de software ou cabo de alimentação externo. O design moderno e resistente a manchas só serve para aumentar sua elegância. Não perca essa oportunidade de armazenamento confiável com excelentes avaliações do cliente!\"",
     "informacoes_produto": {
       "Capacidade de armazenamento digital": "1 TB",
       "Interface do disco rígido": "USB 3.0",
@@ -5641,7 +5667,7 @@ const PRODUCTS = [
       "Tipo de Instalação": "Disco rígido externo"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0BQX6DVWY?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-22T23:50:58.135240+00:00",
+    "last_checked_at": "2026-07-23T00:09:46.378780+00:00",
     "spotlight": false
   },
   {
@@ -5658,7 +5684,7 @@ const PRODUCTS = [
     "avaliacao": 4.5,
     "qtd_avaliacoes": 2245,
     "coupon_code": null,
-    "description": "",
+    "description": "\"Amigo, tenha uma experiência inigualável de uso com o Mouse Sem Fio Recarregável! Com conexão Bluetooth e USB 2.4 GHz, oferece versatilidade e praticidade em um design ergonômico iluminado por LED RGB colorido. Ideal para uso em diversos dispositivos como computador pessoal ou notebook. Com avaliação de 4,5/5 (muito boa), é uma compra que vale a pena!",
     "informacoes_produto": {
       "Dispositivos compatíveis": "Computador pessoal, Notebook",
       "Usos específicos do produto": "Computador, Notebook",
@@ -5685,7 +5711,7 @@ const PRODUCTS = [
       "Dimensões do item C x L x A": "10 x 5 x 0,1 centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CX4CYHVV?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-22T23:51:07.924176+00:00",
+    "last_checked_at": "2026-07-23T00:10:11.759145+00:00",
     "spotlight": false
   },
   {
@@ -5702,7 +5728,7 @@ const PRODUCTS = [
     "avaliacao": 4.6,
     "qtd_avaliacoes": 206712,
     "coupon_code": null,
-    "description": "",
+    "description": "\"Amigo, o Repetidor TP-Link Wireless TL-WA850RE é uma ótima escolha para expandir sua rede wireless! Com design discreto e tamanho compacto, você pode posicioná-lo facilmente em qualquer lugar. Além disso, com a porta Ethernet, ele funciona como um adaptador wireless para dispositivos cabeados. O app Tether permite gerenciamento fácil e o controle de LEDs garante uma noite de sono tranquila. Com uma taxa de transferência de dados de 300 Mbps, este repetidor oferece um bom custo-benefício!",
     "informacoes_produto": {
       "Norma de comunicação sem fio": "802.11b, 802.11g, 802.11n",
       "Taxa de transferência de dados": "300 Megabits Per Second",
@@ -5733,7 +5759,7 @@ const PRODUCTS = [
       "Classe de banda de frequência": "Dual-Band"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B00A0VCJPI?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-22T23:51:16.579073+00:00",
+    "last_checked_at": "2026-07-23T00:10:41.204689+00:00",
     "spotlight": false
   },
   {
@@ -5750,7 +5776,7 @@ const PRODUCTS = [
     "avaliacao": 4.0,
     "qtd_avaliacoes": 3716,
     "coupon_code": null,
-    "description": "",
+    "description": "Amigo, recomendo o cabo de carregador rápido USB C Lightning para iPhone! Com certificação MFi e alta velocidade de carregamento, ele é compatível com diversos modelos de iPhone, desde o iPhone 8 até o atual iPhone 13. Além disso, oferece uma excelente relação custo-benefício, pois está disponível a apenas R$ 8,50. Não perca esta oportunidade de acelerar sua experiência com seu iPhone!",
     "informacoes_produto": {
       "Tipo de conector": "Lightning, USB tipo C",
       "Tipo de cabo": "Lightning",
@@ -5779,7 +5805,7 @@ const PRODUCTS = [
       "Característica Especial": "Alta velocidade"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0BGJR1R3B?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-22T23:51:25.560583+00:00",
+    "last_checked_at": "2026-07-23T00:11:07.915368+00:00",
     "spotlight": false
   },
   {
@@ -5796,7 +5822,7 @@ const PRODUCTS = [
     "avaliacao": 4.4,
     "qtd_avaliacoes": 1333,
     "coupon_code": null,
-    "description": "",
+    "description": "\"Experimente agora mesmo o Top 1 Webcam Premium Full HD 1080p! Com microfone integrado, foco automático e conexão Plug & Play via USB 2.0, oferece imagens nítidas e clara, ideal para chamadas, lives ou gravações. Funciona com os principais aplicativos de reuniões e streaming, como Zoom, Teams e Skype. Com um ângulo de visão amplo de 110°, captura mais ambiente sem distorção. Essencial para home office e ensino remoto! 💻🎥🔊\"",
     "informacoes_produto": {
       "Tecnologia do sensor fotográfico": "CMOS",
       "Tecnologia de conectividade": "USB",
@@ -5836,7 +5862,7 @@ const PRODUCTS = [
       "Componentes Incluídos": "Manual do usuário, Webcam"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FLZ2T78C?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-22T23:51:33.925074+00:00",
+    "last_checked_at": "2026-07-23T00:11:37.664522+00:00",
     "spotlight": false
   },
   {
@@ -5853,7 +5879,7 @@ const PRODUCTS = [
     "avaliacao": 4.6,
     "qtd_avaliacoes": 3525,
     "coupon_code": null,
-    "description": "",
+    "description": "\"Amigo, venha se aproveitar da oferta do dia! O Panificadora Automática Master Bread, Mondial, preto e de 700W é uma compra incrível! Com 9 programas de preparo, timer de 15 horas, forma anti-aderente e design moderno, você terá pão fresco sempre pronto. Ademais, com ajuste de tonalidade claro, médio ou escuro, você pode personalizar seu pão exatamente como desejar! Com 4,6/5 de avaliação em 3.525 avaliações, é uma compra que não se arrependerá!\"",
     "informacoes_produto": {
       "Nome da marca": "MONDIAL",
       "Número do modelo": "NPF-53",
@@ -5878,7 +5904,7 @@ const PRODUCTS = [
       "Dimensões do produto": "33,5P x 28L x 29,5A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07L8X97SR?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-22T23:51:43.449183+00:00",
+    "last_checked_at": "2026-07-23T00:12:08.356127+00:00",
     "spotlight": false
   },
   {
@@ -5895,7 +5921,7 @@ const PRODUCTS = [
     "avaliacao": 4.7,
     "qtd_avaliacoes": 48259,
     "coupon_code": null,
-    "description": "",
+    "description": "\"Amigo, não perca esta oferta incrível! A fralda Turma da Mônica Baby Mega P é uma ótima escolha para seu bebê. Com nova tecnologia Qu4troSec que absorve e não vaza, cintura elástica para um ajuste perfeito no corpo do bebê, sistema de canais super absorventes e uma fina camada extra que mantém o bebê seco por até 12 horas. Adicionalmente, possui barreiras anti-vazamento para garantir a confiança. Com uma avaliação de 4.7/5, é um investimento bem-sucedido! Preço: R$ 33.01.",
     "informacoes_produto": {
       "Nome da marca": "Turma da Mônica",
       "Tipo de protetor para incontinência": "Fralda infantil",
@@ -5929,7 +5955,7 @@ const PRODUCTS = [
       "Faixa etária (descrição)": "Bebê"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B099KTRZP7?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-22T23:51:52.805343+00:00",
+    "last_checked_at": "2026-07-23T00:12:39.553522+00:00",
     "spotlight": false
   },
   {
@@ -5946,7 +5972,7 @@ const PRODUCTS = [
     "avaliacao": 4.9,
     "qtd_avaliacoes": 5843,
     "coupon_code": null,
-    "description": "",
+    "description": "\"Experimente o processador AMD Ryzen 7 9800X3D, o mais rápido do mundo em jogos, construído com a tecnologia Zen5 e V-Cache 3D da próxima geração! Com 8 núcleos, 16 threads, cache L3 de 96 MB e velocidades de clock até 5,2 GHz, você terá um desempenho incomparável em jogos e produtividade. Avaliação: 4,9/5. Preço: R$ 2609,64. Não perca essa oportunidade!",
     "informacoes_produto": {
       "Modelo da CPU": "Ryzen 7",
       "Velocidade da CPU": "4,2 GHz",
@@ -5977,7 +6003,7 @@ const PRODUCTS = [
       "Soquete da CPU": "Socket AM5"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DKFMSMYK?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-22T23:52:01.030235+00:00",
+    "last_checked_at": "2026-07-23T00:13:08.016955+00:00",
     "spotlight": false
   },
   {
@@ -5994,7 +6020,7 @@ const PRODUCTS = [
     "avaliacao": 4.9,
     "qtd_avaliacoes": 23,
     "coupon_code": null,
-    "description": "",
+    "description": "🌟 Amigo, não perca a oferta do dia: o Kit Máscara Capilar Lola Star! Com uma nota de 4.9/5, este kit combina as três máscaras mais icônicas da marca para atender às diferentes necessidades de seus cabelos. Intensa hidratação, reconstrução e fortalecimento são garantidos! Com um custo-benefício incrível a R$ 37.70, este kit transformará sua rotina capilar em uma experiência de camarim luxuosa! 💫💇‍♀️",
     "informacoes_produto": {
       "Formato do item": "Máscara",
       "Tipo de cabelo": "Cacheado, Colorido, Danificado, Espesso, Ondulado, Opaco, Quimicamente tratados, Todos",
@@ -6021,7 +6047,7 @@ const PRODUCTS = [
       "Vantagens do produto": "Condicionamento, Controle de danos, Fortalecimento, Hidratante, Umecante"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0H2FFJ23W?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-22T23:52:09.143978+00:00",
+    "last_checked_at": "2026-07-23T00:13:37.795854+00:00",
     "spotlight": false
   },
   {
@@ -6038,7 +6064,7 @@ const PRODUCTS = [
     "avaliacao": 4.8,
     "qtd_avaliacoes": 3382,
     "coupon_code": null,
-    "description": "",
+    "description": "\"Experimente agora mesmo o Maker's Mark, o bourbon de sabor chocolateado adorado pelo mundo! Com sua produção minuciosa e qualidade inigualável, este destilado é um luxo que vale a pena. Compre hoje e savora a diferença! 🥃🍷\"",
     "informacoes_produto": {
       "Nome da marca": "Maker's Mark",
       "Tipo alcoólico": "Bourbon",
@@ -6069,7 +6095,7 @@ const PRODUCTS = [
       "Número de itens": "1"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B000WLN7AM?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-22T23:52:20.421343+00:00",
+    "last_checked_at": "2026-07-23T00:13:58.576706+00:00",
     "spotlight": false
   },
   {
@@ -6086,7 +6112,7 @@ const PRODUCTS = [
     "avaliacao": 4.8,
     "qtd_avaliacoes": 22537,
     "coupon_code": null,
-    "description": "",
+    "description": "\"Experimente hoje o Finish Power Powder Advanced, o detergente lava louças em pó que oferece limpeza profunda e cuidado para suas louças diárias! Com ingredientes avançados, exclusiva fórmula com oxigênio ativo e enzimas, você terá uma louça limpa de primeira, sem necessidade de pré-enxague. Ademais, o medidor incluso ajuda a dosar corretamente a quantidade do detergente lava louças. Vale a pena! 🌟\"",
     "informacoes_produto": {
       "Nome da marca": "Finish",
       "Nome do modelo": "Finish Power Powder Advanced",
@@ -6113,7 +6139,7 @@ const PRODUCTS = [
       "Número de itens": "4"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07VRYJWPB?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-22T23:52:29.587023+00:00",
+    "last_checked_at": "2026-07-23T00:14:27.462155+00:00",
     "spotlight": false
   },
   {
@@ -6130,7 +6156,7 @@ const PRODUCTS = [
     "avaliacao": 4.6,
     "qtd_avaliacoes": 242,
     "coupon_code": null,
-    "description": "",
+    "description": "\"Amigo, não perca essa oferta do dia! A Mesa Dobrável Para Churrasco Maxchief de 1,80m é ideal para churrascos ao ar livre e combina com qualquer ambiente. Fabricada em aço carbono resistente, ela é fácil de transportar com sua alça e oferece ampla superfície de uso. Com um design retangular preto e estilo casual, essa mesa é uma ótima compra por apenas R$ 209,99! 🥩🎉\"",
     "informacoes_produto": {
       "Nome da marca": "Nutrioli",
       "ASIN": "B08C8X9SDT",
@@ -6144,7 +6170,7 @@ const PRODUCTS = [
       "Peso do produto": "9 Quilogramas"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B08C8X9SDT?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-22T23:52:44.786678+00:00",
+    "last_checked_at": "2026-07-23T00:15:22.347035+00:00",
     "spotlight": false
   },
   {
@@ -6161,7 +6187,7 @@ const PRODUCTS = [
     "avaliacao": 4.8,
     "qtd_avaliacoes": 20294,
     "coupon_code": null,
-    "description": "",
+    "description": "\"Amigo, descubra o Danos Vorazes Leave-in da Lola Cosmetics! Este produto oferece cabelos disciplinados, sem frizz e brilhantes, além de protegidos. Com uma nota de 4,8/5 de mais de 20 mil avaliações, este aerossol de 200ml é um investimento que vale a pena! Não perca essa oferta do dia por apenas R$18,90.",
     "informacoes_produto": {
       "Benefícios do produto": "Danificado",
       "Tipo de cabelo": "Todos os tipos de cabelos",
@@ -6185,7 +6211,7 @@ const PRODUCTS = [
       "Volume líquido": "200 Mililitros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B08PPKQTFB?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-22T23:52:54.092407+00:00",
+    "last_checked_at": "2026-07-23T00:15:46.952548+00:00",
     "spotlight": false
   },
   {
@@ -6202,7 +6228,7 @@ const PRODUCTS = [
     "avaliacao": 4.2,
     "qtd_avaliacoes": 85,
     "coupon_code": null,
-    "description": "",
+    "description": "\"Amigo, venha se surpreender com a Philips Smart TV de 32\" HD! Com HDR10, HDMI, USB e Dolby Audio, você terá uma experiência visual nítida, vibrante e envolvente em seu ambiente. Ademais, conecte todos seus dispositivos favoritos com facilidade e desfrute de um som potente e claro. Com acesso rápido aos seus aplicativos preferidos, como Netflix, YouTube, Disney+, Max e Globoplay, você terá uma experiência de TV inteligente totalmente personalizável. Por apenas R$ 849,90, este é um investimento que trará muitas horas de entretenimento sem limites!",
     "informacoes_produto": {
       "Tecnologia da tela": "HD, LED",
       "Resolução": "HD",
@@ -6277,7 +6303,7 @@ const PRODUCTS = [
       "Dimensões do produto": "8,9P x 71,7L x 43,5A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FPBPPYBR?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-22T23:53:02.881062+00:00",
+    "last_checked_at": "2026-07-23T00:16:20.959129+00:00",
     "spotlight": false
   },
   {
@@ -6294,7 +6320,7 @@ const PRODUCTS = [
     "avaliacao": 4.3,
     "qtd_avaliacoes": 71,
     "coupon_code": null,
-    "description": "",
+    "description": "\"Experimente agora mesmo a GranDucha Jato Forte FAME, um chuveiro elétrico inovador que oferece uma experiência de banho agradável e revigorante! Equipado com um sistema eletrônico de controle de temperatura diferenciado, pressurizador e espalhador de água, você terá acesso a um maior volume de água para uma sensação única. Com sua altura ajustável, a GranDucha Jato Forte FAME é ideal para toda a família! Aproveite agora esta oferta incrível e desfrute de um banho seguro e confortável com custo-benefício inegável. 🛁💦 #GranDuchaFame\"",
     "informacoes_produto": {
       "Tipo de instalação": "Montagem na parede",
       "Eficiência": "95%",
@@ -6318,7 +6344,7 @@ const PRODUCTS = [
       "Tipo de Acabamento": "Não Aplicável"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DCWB61LR?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-22T23:53:11.185087+00:00",
+    "last_checked_at": "2026-07-23T00:16:56.430737+00:00",
     "spotlight": false
   },
   {
@@ -6335,7 +6361,7 @@ const PRODUCTS = [
     "avaliacao": 4.8,
     "qtd_avaliacoes": 5145,
     "coupon_code": null,
-    "description": "",
+    "description": "\"Amigo, desconheça a fraldinha premium para bebês! A Personal Baby Premium Pants G oferece conforto e proteção em um único pacote. Com absorção 3D ultrarrespirável de até 12 horas, tecnologia japonesa e ajuste perfeito sem apressar barriguinha ou perninhas, é uma escolha incrível para o seu bebê! Avaliações fantásticas garantem que você não se arrependerá!\"",
     "informacoes_produto": {
       "Nome da marca": "Personal",
       "Tipo de protetor para incontinência": "Fralda infantil",
@@ -6368,7 +6394,7 @@ const PRODUCTS = [
       "Faixa etária (descrição)": "Bebê"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0BGMD5LGF?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-22T23:53:20.260658+00:00",
+    "last_checked_at": "2026-07-23T00:17:23.105709+00:00",
     "spotlight": false
   },
   {
@@ -6385,7 +6411,7 @@ const PRODUCTS = [
     "avaliacao": 4.8,
     "qtd_avaliacoes": 48,
     "coupon_code": null,
-    "description": "",
+    "description": "\"Experimente agora mesmo a Smart TV Semp 43 Polegadas, uma combinação de tecnologia e estilo! Com resolução 4K UHD, HDR10+, Dolby Audio e Google Assistente integrados, você terá um entretenimento completo. Ademais, o design sem bordas preto-e-branco e tela de 43 polegadas proporcionam uma experiência visual imersiva e moderna. Com a integração do Googlecast, comando por voz e HDMI 2.1, você terá controle prático e conectividade avançada com seus dispositivos. Aprenda mais sobre este produto incrível que recebeu uma avaliação de 4,8/5! Não perca essa oferta do dia por ap",
     "informacoes_produto": {
       "Tecnologia da tela": "4K UHD",
       "Resolução": "4K",
@@ -6440,7 +6466,7 @@ const PRODUCTS = [
       "Dimensões do produto": "1,85P x 9,58L x 6,07A Metros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FPRGKBL3?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-22T23:53:28.215083+00:00",
+    "last_checked_at": "2026-07-23T00:17:57.256621+00:00",
     "spotlight": false
   },
   {
@@ -6457,7 +6483,7 @@ const PRODUCTS = [
     "avaliacao": 4.6,
     "qtd_avaliacoes": 72,
     "coupon_code": null,
-    "description": "",
+    "description": "\"Experimente agora mesmo o Kit Morte Súbita da Lola From Rio! Este conjunto especial, composto por shampoo e máscara capilar, é ideal para cabelos danificados ou quimicamente tratados. Com Óleo de Coco e Aloe Vera, ele retorna a umidade perdida e confere suavidade e brilho, além de fornecer mais resistência às mechas. Com preço competitivo e avaliação de 4,6/5, é uma oferta que não pode ser perdida!",
     "informacoes_produto": {
       "Benefícios do produto": "O Tratamento Capilar Lola From Rio Morte Súbita reparação total restabelece de imediato a estrutura capilar. Ele devolve a umidade que se perdeu com o passar do tempo, o fulgor e a suavidade, além de conferir mais resistência às mechas para evitar o rompimento",
       "Formato do item": "Líquido",
@@ -6479,7 +6505,7 @@ const PRODUCTS = [
       "Tipo de Cabelo": "Cacheado, Danificado, Normal, Opaco, Todos, Tratado quimicamente, Tratato com coloração"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GZWH9D3W?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-22T23:53:36.359918+00:00",
+    "last_checked_at": "2026-07-23T00:18:24.922372+00:00",
     "spotlight": false
   },
   {
@@ -6496,7 +6522,7 @@ const PRODUCTS = [
     "avaliacao": 4.8,
     "qtd_avaliacoes": 62300,
     "coupon_code": null,
-    "description": "",
+    "description": "\"Aqui tem uma ótima oferta do dia! O carregador de pilhas recarregáveis Duracell CEF14 4, com 4 pilhas AA incluídas, é um produto incrível que te oferece auto desligamento quando as pilhas chegam a 100% e proteção segura durante o carregamento. Com uma avaliação de 4,8/5 de mais de 62000 avaliações, é claro que este carregador é um dos melhores no mercado! O preço é de R$ 142,50 - um custo-benefício inigualável para a segurança e longevidade de suas pilhas!\"",
     "informacoes_produto": {
       "Tipo de bateria": "4 AA baterias necessárias. (inclusas)",
       "Nome da marca": "Duracell",
@@ -6526,7 +6552,7 @@ const PRODUCTS = [
       "Adequação do controle por rádio": "Aparelho auditivo, Controle remoto da TV, Câmera, Drone, Relógio"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07X4JG2G4?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-22T23:53:44.169063+00:00",
+    "last_checked_at": "2026-07-23T00:18:55.450237+00:00",
     "spotlight": false
   },
   {
@@ -6543,7 +6569,7 @@ const PRODUCTS = [
     "avaliacao": 4.8,
     "qtd_avaliacoes": 7309,
     "coupon_code": null,
-    "description": "",
+    "description": "\"Amigo, descubra a força renovada em seus cabelos frágeis e quebradiços com o L'Oréal Professionnel Inforcer Shampoo Fortificante Antiqueda! Enriquecido com Biotina e Vitamina B6, este shampoo limpa delicadamente enquanto reforça a fibra capilar, oferecendo uma ação anti-quebra instantânea. Com benefícios visíveis em menos queda e crescimento saudável, o preço é um custo-benefício inegável!",
     "informacoes_produto": {
       "Formato do item": "Líquido",
       "Tipo de cabelo": "Todos os tipos de cabelos",
@@ -6570,7 +6596,7 @@ const PRODUCTS = [
       "Faixa etária (descrição)": "Adulto"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B09GSQMVJS?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-22T23:53:54.012212+00:00",
+    "last_checked_at": "2026-07-23T00:19:24.715632+00:00",
     "spotlight": false
   },
   {
@@ -6587,7 +6613,7 @@ const PRODUCTS = [
     "avaliacao": 4.8,
     "qtd_avaliacoes": 150,
     "coupon_code": null,
-    "description": "",
+    "description": "\"Experimente agora mesmo o Amaciante Downy Verão Tropical! Com perfume de alta fixação e duração, nova tecnologia de cápsulas fixa-perfume e rendimento superior a 6L por litro, sua roupa ficará cheios de aromas tropicais e protegida contra maus odores. Valia a pena! 🌴💧👕\"",
     "informacoes_produto": {
       "Nome da marca": "Downy",
       "Formato do item": "Líquido",
@@ -6607,7 +6633,7 @@ const PRODUCTS = [
       "Número de itens": "1"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FLF4RJTC?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-22T23:54:02.884790+00:00",
+    "last_checked_at": "2026-07-23T00:19:47.446376+00:00",
     "spotlight": false
   },
   {
@@ -6624,7 +6650,7 @@ const PRODUCTS = [
     "avaliacao": 4.8,
     "qtd_avaliacoes": 632,
     "coupon_code": null,
-    "description": "",
+    "description": "\"Experimente agora mesmo o Kit Morte Súbita da Lola From Rio! Este trio de shampoo, condicionador e spray de reparação é o que seu cabelo precisa. Com 4,8/5 estrelas em 632 avaliações, este kit trata cabelos danificados, reforça sua estrutura e confere um incrível saudável. Valorado em R$ 56,88, é uma compra que não se arrependerá!",
     "informacoes_produto": {
       "Benefícios do produto": "O Tratamento Capilar Lola From Rio Morte Súbita reparação total restabelece de imediato a estrutura capilar. Ele devolve a umidade que se perdeu com o passar do tempo, o fulgor e a suavidade, além de conferir mais resistência às mechas para evitar o rompimento",
       "Formato do item": "Líquido",
@@ -6647,7 +6673,7 @@ const PRODUCTS = [
       "Tipo de Cabelo": "Cacheado, Danificado, Normal, Opaco, Todos"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GHPGBPSR?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-22T23:54:11.801081+00:00",
+    "last_checked_at": "2026-07-23T00:20:15.437447+00:00",
     "spotlight": false
   },
   {
@@ -6664,7 +6690,7 @@ const PRODUCTS = [
     "avaliacao": 3.7,
     "qtd_avaliacoes": 17,
     "coupon_code": null,
-    "description": "",
+    "description": "\"Amigo, venha se aproveitar da oferta do dia: a cadeira de escritório premium Malha Respirável Mesh! Com design presidencial elegante, conforto premium para longas horas de uso e estrutura reforçada para uso diário intenso, essa cadeira é uma ótima escolha para qualquer ambiente. Ademais, com sistema pneumático que permite ajuste rápido e prático da altura, você terá uma posição confortável perfeita! Não perca essa oportunidade de adquirir um produto de alta qualidade e sofisticação. 💼💺\"",
     "informacoes_produto": {
       "Nome da marca": "MAAT",
       "Contagem de unidades": "1 Count",
@@ -6696,7 +6722,7 @@ const PRODUCTS = [
       "Estilo da parte de trás": "malha"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0H48834YK?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-22T23:54:21.182516+00:00",
+    "last_checked_at": "2026-07-23T00:20:48.221659+00:00",
     "spotlight": false
   },
   {
@@ -6713,7 +6739,7 @@ const PRODUCTS = [
     "avaliacao": 4.8,
     "qtd_avaliacoes": 11862,
     "coupon_code": null,
-    "description": "",
+    "description": "\"Amigo, não perca a oferta do dia! A Oral-B Escova de Dente Sensitive Purification Gold Extra Macia oferece um brilho dentário incrível com suas cerdas extra macias e minerais de carvão. Com tecnologia ultrathin, ela branqueia delicadamente os dentes e a cabeça compacta remove placas até nas áreas difíceis de alcance. Ademais, o cabo ergonômico facilita seu manuseio. Por apenas R$ 28,11, este produto tem uma classificação de 4,8/5 em 11862 avaliações! Não perca essa chance!\"",
     "informacoes_produto": {
       "Nome da marca": "Oral-B",
       "Descrição da faixa etária": "Adulto",
@@ -6747,7 +6773,7 @@ const PRODUCTS = [
       "Firmeza do produto": "Extra macia"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B08PFT7QV4?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-22T23:54:30.047921+00:00",
+    "last_checked_at": "2026-07-23T00:21:18.670943+00:00",
     "spotlight": false
   },
   {
@@ -6764,7 +6790,7 @@ const PRODUCTS = [
     "avaliacao": 4.7,
     "qtd_avaliacoes": 24,
     "coupon_code": null,
-    "description": "",
+    "description": "\"Amigo, desconheço se você precisa de uma geladeira moderna e sofisticada! A Panasonic BB41 Titânio é a melhor escolha para você. Com capacidade total de 397L, economia energética inteligente e sistema antibacterial que elimina 99,9% das bactérias, essa geladeira é o ideal para sua cozinha! Adicionalmente, com painel eletrônico e design compacto, ela otimiza seu espaço de forma sofisticada. Valia a pena investir em uma geladeira tão benéfica quanto a Panasonic BB41 Titânio, que custa apenas R$ 3198,00 e tem uma avaliação de 4,7/5. Não desencoraje a compra",
     "informacoes_produto": {
       "Configuração": "Congelador na parte inferior, Porta francesa, geladeira com duas portas",
       "Características especiais": "Compacto, Livre de gelo",
@@ -6806,7 +6832,7 @@ const PRODUCTS = [
       "Marca": "Panasonic"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0BZT6SMRS?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-22T23:54:37.810115+00:00",
+    "last_checked_at": "2026-07-23T00:21:52.796425+00:00",
     "spotlight": false
   },
   {
@@ -6823,7 +6849,7 @@ const PRODUCTS = [
     "avaliacao": 4.7,
     "qtd_avaliacoes": 202,
     "coupon_code": null,
-    "description": "",
+    "description": "\"Amigo, venha se surpreender com a Caixa Amplificada Subwoofer JBL SW8A-MS! Com 4,7 estrelas de 5 (segundo nossos clientes), este subwoofer preto de 8 polegadas vem com garantia do fabricante de 12 meses. Seu uso recomendado é para sistemas de som surround e oferece um reforço de graves incrível. Aprenda a sentir como a música se transforma com este subwoofer, apenas por R$ 1.249,99! Não perca essa oportunidade!\"",
     "informacoes_produto": {
       "Modo de saída de áudio": "Stereo",
       "Tipo de montagem": "Suporte de mesa",
@@ -6869,7 +6895,7 @@ const PRODUCTS = [
       "Modo de Saída de Áudio": "Stereo"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0B7Z4YXBT?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-22T23:54:45.966986+00:00",
+    "last_checked_at": "2026-07-23T00:22:20.520760+00:00",
     "spotlight": false
   },
   {
@@ -6886,7 +6912,7 @@ const PRODUCTS = [
     "avaliacao": 4.4,
     "qtd_avaliacoes": 4,
     "coupon_code": null,
-    "description": "",
+    "description": "\"Amiga, descubra a blusa Bata Scrub Premium Feminino! Confeccionada em tactel elastano, oferece leveza e praticidade para seu dia-a-dia. Com bolsos funcionais e disponível em várias cores, como cinza, verde água, branco, preto, azul marinho, cinza e vinho, você terá diversas opções de estilo. Além disso, veja as várias opções de tamanhos P, M, G e GG para se sentir confortável em cada movimento. Com uma avaliação de 4.4/5, é um investimento que lhe trará benefícios! Não perca essa oferta do dia com preço incrível: R$ 40,49!\"",
     "informacoes_produto": {
       "Cor": "Cinza",
       "Tipo de ajuste": "Confortável",
@@ -6919,7 +6945,7 @@ const PRODUCTS = [
       "Descrição do comprimento do item": "Comprimento padrão"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GQBNWKDC?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-22T23:54:54.495482+00:00",
+    "last_checked_at": "2026-07-23T00:22:54.522928+00:00",
     "spotlight": false
   },
   {
@@ -6936,7 +6962,7 @@ const PRODUCTS = [
     "avaliacao": 3.0,
     "qtd_avaliacoes": 2,
     "coupon_code": null,
-    "description": "",
+    "description": "\"Amigo, descubra a experiência de climatização inovadora com o Samsung Ar Condicionado Split Inverter WindFree AI! Com sua capacidade de 24000 BTU/h e tecnologia WindFree, ele oferece conforto sem vento gelado. Ademais, seu sistema inteligente aprende as preferências do usuário e economiza energia, além de ser controlável via WiFi com SmartThings e compatíveis com Bixby, Alexa e Google Assistente. Por apenas R$ 3599,00, este ar condicionado é uma excelente opção para aqueles que buscam conforto e eficiência energética!",
     "informacoes_produto": {
       "Características especiais": "WindFree Technology, AI Artificial Intelligence, WiFi Connectivity, SmartThings Integration, Voice Control, Welcome Cooling Mode, Energy Monitoring, Inverter Technology",
       "Cor": "Branco",
@@ -6961,7 +6987,7 @@ const PRODUCTS = [
       "Dimensões do produto": "38P x 111L x 30A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0GL3YFDQ9?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-22T23:55:01.972838+00:00",
+    "last_checked_at": "2026-07-23T00:23:26.696724+00:00",
     "spotlight": false
   },
   {
@@ -6978,7 +7004,7 @@ const PRODUCTS = [
     "avaliacao": 4.8,
     "qtd_avaliacoes": 6541,
     "coupon_code": null,
-    "description": "",
+    "description": "\"Experimente agora mesmo a limpeza poderosa e brilhante de sua louça com o Finish Powerball, detergente em tabletes econômico! Sem necessidade de pré-lavagem e com agentes secantes na fórmula que cuidam e protegem suas louças. Recomendado pelos principais fabricantes mundiais de lava louças, como Brastemp e Electrolux. Investe em qualidade de vida! 🌟 ASIN: B07Y3B33KG\"",
     "informacoes_produto": {
       "Nome da marca": "Finish",
       "Fabricante": "Reckitt Benckiser",
@@ -7003,7 +7029,7 @@ const PRODUCTS = [
       "Número de itens": "91"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07Y3B33KG?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-22T23:55:10.184342+00:00",
+    "last_checked_at": "2026-07-23T00:23:54.440525+00:00",
     "spotlight": false
   },
   {
@@ -7020,7 +7046,7 @@ const PRODUCTS = [
     "avaliacao": 3.6,
     "qtd_avaliacoes": 13,
     "coupon_code": null,
-    "description": "",
+    "description": "\"Olá amigo! Não perca essa incrível oferta do dia: o Fogão 5 Bocas Embutir Dako Supreme Mesa de Vidro Bivolt, em preto. Com aço inoxidável e grelhas duplas, este fogão é de fácil manutenção e duradouro. Além disso, com seu armazenamento e puxador, ele se encaixa perfeitamente em qualquer cozinha moderna. Compre agora e aproveite um equipamento de culinária de primeira linha a um preço irresistível! 🍳🥘\"",
     "informacoes_produto": {
       "Tipo de gaveta": "Armazenamento",
       "Fator de forma": "Embutido",
@@ -7039,7 +7065,7 @@ const PRODUCTS = [
       "Fator de Forma": "Embutido"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0FVJF85D7?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-22T23:55:19.492456+00:00",
+    "last_checked_at": "2026-07-23T00:24:23.585044+00:00",
     "spotlight": false
   },
   {
@@ -7056,7 +7082,7 @@ const PRODUCTS = [
     "avaliacao": 4.5,
     "qtd_avaliacoes": 235,
     "coupon_code": null,
-    "description": "",
+    "description": "\"Amigo, não perca essa incrível oferta do dia! O Fralda Personal Baby Protect & Sec Grande Promo vem com estampas de brinquedos e conta com 78 unidades por apenas R$ 65,46. Com uma avaliação de 4,5/5 (235 avaliações), é claro que oferece um custo-benefício incrível! Não perca essa chance de se aproveitar de uma fralda de incontinência infantil de qualidade, confiabilidade e diversão!\"",
     "informacoes_produto": {
       "Nome da marca": "Personal",
       "Tipo de protetor para incontinência": "Fralda infantil",
@@ -7086,7 +7112,7 @@ const PRODUCTS = [
       "Faixa etária (descrição)": "Bebê"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DF9RCVYY?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-22T23:55:28.232079+00:00",
+    "last_checked_at": "2026-07-23T00:24:48.956733+00:00",
     "spotlight": false
   },
   {
@@ -7103,7 +7129,7 @@ const PRODUCTS = [
     "avaliacao": 4.6,
     "qtd_avaliacoes": 597,
     "coupon_code": null,
-    "description": "",
+    "description": "\"Amigo, venha aproveitar a oferta incrível do Samsung Smart TV 50\" Crystal UHD 4K U8600F! Com resolução 4K e processador exclusivo, você poderá assistir aos seus programas em uma qualidade realmente impressionante. Adicionalmente, a tecnologia HDR proporciona um contraste mais profundo e as atualizações garantidas por 7 anos farão com que sua TV sempre esteja com o mais novo em software e apps de streaming. Com o Samsung TV Plus e Gaming Hub, você terá acesso a centenas de canais gratuitos e jogos sem necessidade de downloads ou consoles. Por fim, a Central de Segurança Knox garante que seus dados e senhas estejam seguros, preservando sua privacidade. Não",
     "informacoes_produto": {
       "Tecnologia da tela": "4K, UHD",
       "Resolução": "4K",
@@ -7154,7 +7180,7 @@ const PRODUCTS = [
       "Dimensões do produto": "23,7P x 112L x 69,4A centímetros"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0F5X4LL89?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-22T23:55:35.938067+00:00",
+    "last_checked_at": "2026-07-23T00:25:27.317498+00:00",
     "spotlight": false
   },
   {
@@ -7171,7 +7197,7 @@ const PRODUCTS = [
     "avaliacao": 4.8,
     "qtd_avaliacoes": 660,
     "coupon_code": null,
-    "description": "",
+    "description": "\"Olá amigo! Venha se aproveitar da oferta do dia: Mop Spray Com 800ml – Esfregão Com Spray De Microfibra Com 3 Refis Laváveis, ideal para limpeza de chão seco e úmido. Com tanque maior que a média do mercado, alta qualidade, vedação anti-vazamento e cabeça giratória 360°, este mop spray é o seu aliado perfeito na limpeza diária! Adicionalmente, vem com refil mop seco e úmido para diferentes necessidades. Compre agora e desfrute de atendimento rápido e garantia de satisfação! ASIN: B0F497Y3VF\"",
     "informacoes_produto": {
       "Nome da marca": "VANOVA",
       "Contagem de unidades": "1 Count",
@@ -7193,7 +7219,7 @@ const PRODUCTS = [
       "Peso do produto": "942 Gramas"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0F497Y3VF?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-22T23:55:43.707769+00:00",
+    "last_checked_at": "2026-07-23T00:26:04.458221+00:00",
     "spotlight": false
   },
   {
@@ -7210,7 +7236,7 @@ const PRODUCTS = [
     "avaliacao": 4.8,
     "qtd_avaliacoes": 447,
     "coupon_code": null,
-    "description": "",
+    "description": "\"Amigo, descubra a diferença que a Duracell Pilha Optimum AAA Palito Pack oferece! Com 4.8/5 de avaliação e uma duração 30x maior, essas pilhas premium garantem mais potência para seus dispositivos diários. Ideal para controle de videogame e brinquedos, vem com 12 unidades por apenas R$ 69,90. Não perca esta oferta do dia!",
     "informacoes_produto": {
       "Tipo de bateria": "12 AAA baterias necessárias. (inclusas)",
       "Nome da marca": "Duracell",
@@ -7235,7 +7261,7 @@ const PRODUCTS = [
       "Adequação do controle por rádio": "Brinquedos, Controle de videogame, Controle remoto"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0BXWRD4PP?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-22T23:55:53.292836+00:00",
+    "last_checked_at": "2026-07-23T00:26:29.814637+00:00",
     "spotlight": false
   },
   {
@@ -7252,7 +7278,7 @@ const PRODUCTS = [
     "avaliacao": 4.2,
     "qtd_avaliacoes": 53,
     "coupon_code": null,
-    "description": "",
+    "description": "Amigo, não perca essa oferta incrível do refrigerador HQ Defrost 290 Litros! Com sua prateleira de vidro ajustável e gavetão para frutas e verduras, organizar e manter seus alimentos frescos nunca foi tão fácil. Ademais, descongelar a geladeira apenas duas vezes por ano! Com uma nota de 4,2/5, é um investimento que vale a pena. Não perca essa oportunidade!",
     "informacoes_produto": {
       "Configuração": "Porta francesa com congelador interno",
       "Características especiais": "Descongelação manual, Prateleiras de vidro ajustáveis, Gavetão para frutas e verduras",
@@ -7296,7 +7322,7 @@ const PRODUCTS = [
       "Marca": "HQ Screen"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0DPGQ6V13?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-22T23:56:01.455504+00:00",
+    "last_checked_at": "2026-07-23T00:26:56.962925+00:00",
     "spotlight": false
   },
   {
@@ -7313,7 +7339,7 @@ const PRODUCTS = [
     "avaliacao": 4.7,
     "qtd_avaliacoes": 2420,
     "coupon_code": null,
-    "description": "",
+    "description": "\"Amigo, descubra a Xapadinha Máscara Disciplinante de Lola Cosmetics! Com 4,7/5 estrelas em 2420 avaliações, este produto oferece benefícios inigualáveis para seus cabelos lisos. Proteja-se do frizz e brilhe com o complexo ativo inovador de proteção térmica, perfumado com o aroma carnavalesco Carnaval Hair. Ademais, é hipoalergênico, não testado em animais e sem parabenos, parafina, sulfato ou perfumes irritantes. Aproveite a oferta do dia por apenas R$ 11,98! Não perca essa oportunidade para se divertir com um cabelo incrível!\"",
     "informacoes_produto": {
       "Formato do item": "Creme",
       "Tipo de cabelo": "Liso",
@@ -7344,7 +7370,7 @@ const PRODUCTS = [
       "Tipo de Cabelo": "Liso"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B0CGBZDNHQ?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-22T23:56:09.429216+00:00",
+    "last_checked_at": "2026-07-23T00:27:30.524976+00:00",
     "spotlight": false
   },
   {
@@ -7361,7 +7387,7 @@ const PRODUCTS = [
     "avaliacao": 4.7,
     "qtd_avaliacoes": 18339,
     "coupon_code": null,
-    "description": "",
+    "description": "\"Amigo, venha se surpreender com o MONDIAL Turbo Cycle Vermelho/Preto! 1100W de potência, 2 em 1 (aspirador vertical ou portátil), filtro HEPA e Cyclone removíveis e laváveis, além de um coletor de pó translúcido. Alcança todos os cantos da sua casa com o cabo elétrico de 4 metros. Com uma nota de avaliação de 4,7/5, ele é definitivamente uma compra que vale a pena!",
     "informacoes_produto": {
       "Características especiais": "2 em 1, Filtro lavável",
       "Tipo de filtro": "Cyclone",
@@ -7400,7 +7426,7 @@ const PRODUCTS = [
       "Fonte de alimentação": "Energia elétrica"
     },
     "affiliate_url": "https://www.amazon.com.br/dp/B07JFTS6BS?tag=mixstore04b3-20&ref_=mixdumix_produto",
-    "last_checked_at": "2026-07-22T23:56:18.885015+00:00",
+    "last_checked_at": "2026-07-23T00:27:58.508674+00:00",
     "spotlight": false
   }
 ];
